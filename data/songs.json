@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "amma-baaramma",
+    "title": "Amma Baaramma",
+    "category": "Bhajan",
+    "language": "Kannada · Roman transliteration",
+    "description": "A devotional invitation to the Divine Mother, celebrating her many forms.",
+    "scan": "amma-baaramma-original.jpg",
+    "note": "Transcribed from the family-provided printed page. Spellings follow the scan; please check the original for pronunciation or corrections.",
+    "chorus": ["Amma baaramma namma Tayi baaramma", "Taayi baaramma namma Deviye baaramma"],
+    "verses": [
+      ["Moonu loka dodeya Sivanaa raaniye baaramma", "Ninnaya Gejjeya Nada galu-galu-yennuta Tayi baaramma"],
+      ["Gajamukha jananiye dheera gambhirale, Gayatri deviye baaramma", "Amba bhavaniye Ganga bhavaniye, Tulasiya bhavaniye Baaramma"],
+      ["Shankara stapithe Sri Chakra poojithe, Sharada Deviye baaramma", "Sringeri-yalli nagu-nagutiruvaa Bharati Deviye baaramma"],
+      ["Khadga dhaarini trishula paanee, Chamundeshwari baaramma", "Rajaadhi-rajaarinda poojisalpaduvantha, Rajarajeshwari baaramma"],
+      ["Japavanaa ariyenu Tapavanaa ariyenu, Moodala karunisu baaramma", "Moojaga vandite murahara nollabhe, Mookambike mate baaramma"],
+      ["Kanchi Kamakshi, Madhurai Meenakshi, Kasi Vishalakshi baaramma", "Kamitha phalagata needuvantaa karunaa sagari baaramma"],
+      ["Sri Jayalakshmi Jaya Jaya Laksmi, Prasanna Laksmiye baaramma", "Sravana masadi poojisalpaduvantha, Varamaha-Laksmiye baaramma"],
+      ["Sri Jaya Gowri, Sirivara Gowri, Mangala Gowriye baaramma", "Bhadrapada maasadi poojisalpaduvantha Swarna Gowriye baaramma"],
+      ["Navrathri Devi moola Saraswathi, Ashtami Durgiye baaramma", "Dasamiya dinadolu, bijayaangaiyalu vijaya Laksmiye baaramma"],
+      ["Adi Shakti Akhilandeshwari, Annapoorneshwari baaramma", "Ashrita janarige abhaya needalu, Santhoshi Mateye baaramma"]
+    ]
+  }
+]
