@@ -420,7 +420,15 @@
           "url": "https://vignanam.org/kannada/sri-rudram-chamakam.html"
         }
       ],
-      "source_sha256": "78d2e7fe0bd4fb6edccc0aed73b41c8f47b89859a0a922aedcaa9f12fd7c8266"
+      "source_sha256": "78d2e7fe0bd4fb6edccc0aed73b41c8f47b89859a0a922aedcaa9f12fd7c8266",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 1003,
+          "U+0952": 1266,
+          "U+1CDA": 48
+        },
+        "sequence_sha256": "fa64f0bc33f8cd20e03a5582374e7c87a43f045c91c6e55768542445b96d519e"
+      }
     },
     {
       "id": "devanagari",
@@ -842,7 +850,15 @@
           "url": "https://vignanam.org/devanagari/sri-rudram-chamakam.html"
         }
       ],
-      "source_sha256": "b5b380c39f850ef4551c80745be9957867ebdf4c690a6febdeff6b51b4b969f2"
+      "source_sha256": "b5b380c39f850ef4551c80745be9957867ebdf4c690a6febdeff6b51b4b969f2",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 1003,
+          "U+0952": 1267,
+          "U+1CDA": 48
+        },
+        "sequence_sha256": "35091a99b5c430fffd6ea76db388fefde4114c342e7c1416938f09abfd518f4d"
+      }
     },
     {
       "id": "roman",
@@ -1264,7 +1280,15 @@
           "url": "https://vignanam.org/english/sri-rudram-chamakam.html"
         }
       ],
-      "source_sha256": "e71f977b7b7dd59b74aa4bff358136527a4dfac79a99b9f02b43b044d73af26e"
+      "source_sha256": "e71f977b7b7dd59b74aa4bff358136527a4dfac79a99b9f02b43b044d73af26e",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 1003,
+          "U+030E": 48,
+          "U+0320": 1267
+        },
+        "sequence_sha256": "4fa28c8de4ef7b214c5132407e97bdab00f254d19f5ff2415839591d1ebc980f"
+      }
     }
   ]
 }

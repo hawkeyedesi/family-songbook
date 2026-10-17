@@ -43,3 +43,13 @@ Set an entry's `collections` list in `data/songs.json`, then rebuild. Supported 
 Category pages use real static routes (`/daily/`, `/weekly/`, `/friday/`, `/paduka-puja-bhajans/` and the same under `/en/`) and work without JavaScript. All keeps the flat view. Reading URLs remain unchanged when an entry is moved between collections. Language switching preserves the selected collection.
 
 The Safari groups could not be enumerated, but Kashyap subsequently supplied the Weekly URLs and Friday list explicitly. Those confirmed lists now drive membership and order: 12 distinct Friday entries, 4 Weekly entries, 7 otherwise Daily entries, plus Amma Baaramma in Paduka Puja Bhajans (23 unique works, with Karavalamba in both schedules). Mahishasura Mardini and Aigiri Nandini are one entry; Bhagyaada Lakshmi Baaramma and Amma Baaramma are distinct. Amma Baaramma is in Paduka Puja Bhajans; further Sringeri bhajans can be added there.
+
+## Vedic accents
+
+Vedic entries have explicit `vedic` and `svara_status` metadata. Sri Sukta and Durga Sukta now use the published, accent-marked Stotra Nidhi three-script edition, with Dad's original transcription/scans preserved separately. Ganapati Atharvashirsha, Rudram/Chamakam and Mantra Pushpam retain their existing marked Vignanam sources. Each view has an expandable printing/pronunciation key; Roman vowel diacritics are not confused with pitch marks.
+
+Devanagari uses a bundled Noto Serif Devanagari font because the system fallback missed the Vedic double-svarita glyph. Its OFL license is in `assets/fonts/`; no remote font service or tracking is used.
+
+Run `python3 scripts/import_vedic.py /path/to/reviewed-extracts` **after** any import that refreshes these texts. It stores mark counts and a mark-sequence hash per script. Validation checks exact source-mark preservation through generated HTML, stable counts and normalized cross-script pitch sequences; it does not invent marks or claim a critical recension. Rudram's source-specific nasal expansion is an explicit, bounded exception, not silently normalized.
+
+**Remaining limitation:** the seven selected daily-puja passages have an accent-marked original photo but not a completely accent-verified digital edition. All three digital views clearly say so and prominently link the original marked scan for svara chanting. Do not remove that status or mark the plain transcription verified without checking every mark against a reliable source. This is separate from ordinary non-Vedic stotras, which should not have Vedic accents mechanically added.

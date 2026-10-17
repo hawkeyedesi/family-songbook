@@ -108,6 +108,25 @@ def render_chapter(c):
   elif p.rstrip().endswith('॥'):flush()
  flush();out.append('</section>');return ''.join(out)
 
+def svara_html(s,v,prefix):
+ if not s.get('vedic'):return ''
+ kn=v['id']=='kannada'
+ if s['svara_status']=='scan-only':
+  url=prefix+'assets/'+scans(s)[0]
+  title='ಸ್ವರಪಠಣಕ್ಕೆ ಮೂಲ ಚಿತ್ರವನ್ನು ಬಳಸಿ' if kn else 'For svara chanting, use the original marked page'
+  note='ಈ ಡಿಜಿಟಲ್ ಪಾಠದಲ್ಲಿ ಸ್ವರಗುರುತುಗಳು ಇನ್ನೂ ಪರಿಶೀಲಿತವಾಗಿಲ್ಲ. ಮೂಲ ಚಿತ್ರದ ಗುರುತುಗಳನ್ನು ಸರಳ ಪಾಠದಿಂದ ಬದಲಿಸಬೇಡಿ.' if kn else 'The digital text below is not yet accent-verified. The original photographed page preserves the svara marks; do not use the plain transcription as a pitch guide.'
+  link='ಸ್ವರಗುರುತುಗಳಿರುವ ಮೂಲ ಪುಟವನ್ನು ತೆರೆಯಿರಿ ↗' if kn else 'Open the original accent-marked page ↗'
+  notice=f'<aside class="svara-notice scan-only" role="note"><strong>{title}</strong><p>{note}</p><a class="marked-scan-link" href="{e(url)}" target="_blank" rel="noopener">{link}</a></aside>'
+ else:
+  title='ವೈದಿಕ ಸ್ವರಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ' if kn else 'Vedic svara marks retained from the published source'
+  notice=f'<aside class="svara-notice" role="note"><strong>{title}</strong></aside>'
+ title='ಸ್ವರ ಮತ್ತು ಉಚ್ಚಾರಣೆಯ ಗುರುತುಗಳು' if kn else 'Svara & pronunciation key'
+ labels=(['ಅನುದಾತ್ತ — ಕಡಿಮೆ ಸ್ವರ','ಸ್ವರಿತ — ಇಳಿಯುವ ಸ್ವರ','ದೀರ್ಘ/ದ್ವಿಸ್ವರಿತ — ಮೂಲ ಸಂಪ್ರದಾಯದಂತೆ ಉಚ್ಚರಿಸಿ'] if kn else ['Anudātta — low pitch','Svarita — falling pitch','Long/double svarita — follow the source tradition’s timing'])
+ examples={'kannada':['ಅ॒','ಅ॑','ಅ᳚'],'devanagari':['अ॒','अ॑','अ᳚'],'roman':['a̠ / a̱','a̍','a̎']}[v['id']]
+ rows=''.join(f'<li><span class="svara-example {v["id"]}">{ex}</span><span>{label}</span></li>' for ex,label in zip(examples,labels))
+ note=('ಇವು ಸ್ವರಗುರುತುಗಳು, ಒತ್ತಿಹೇಳುವ ಗುರುತುಗಳಲ್ಲ. ಗುರುತು ಇಲ್ಲದ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಉದಾತ್ತವಲ್ಲ. ā, ī, ū ದೀರ್ಘಸ್ವರಗಳು; ಇವು ಸ್ವರಿತದ ಗುರುತುಗಳಲ್ಲ. ś, ṣ, s ಬೇರೆ ವರ್ಣಗಳು; ṭ, ḍ, ṇ ಮೂರ್ಧನ್ಯ ವರ್ಣಗಳು. ṃ/ṁ ಅನುಸ್ವಾರ; ḥ (ಕೆಲವು ಮೂಲಗಳಲ್ಲಿ :) ವಿಸರ್ಗ. ಮೂಲದ ಸಂಧಿ ಮತ್ತು ನಾಸಿಕ್ಯ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.' if kn else 'These are pitch marks, not stress accents. Unmarked syllables are not automatically all udātta: the notation also leaves pracaya unmarked. ā, ī, ū mark long vowels, not pitch; e/o are long Sanskrit vowels even when a source prints them without a macron. ś/ṣ/s are distinct; ṭ/ḍ/ṇ are retroflex. ṃ/ṁ marks anusvāra; ḥ (sometimes : in the source) marks visarga. Keep the source’s nasal and sandhi notation; exact recitation follows the taught śākhā.')
+ return notice+f'<details class="svara-key"><summary>{title}</summary><ul>{rows}</ul><p>{note}</p></details>'
+
 def render_multiscript(s):
  bundle=json.loads((ROOT/'data'/s['versions_file']).read_text());versions=bundle['versions']
  assert [v['id'] for v in versions]==['kannada','devanagari','roman']
@@ -117,10 +136,11 @@ def render_multiscript(s):
   vid=v['id'];ui='kn' if vid=='kannada' else 'en';u=UI[ui];deep=vid!='kannada';prefix='../../../' if deep else '../../';base='../' if deep else './'
   nav='<nav class="script-switch" aria-label="Choose reading script">'+''.join(f'<a href="{base}{"" if w["id"]=="kannada" else w["id"]+"/"}" data-script="{w["id"]}" {"aria-current=\"page\"" if vid==w["id"] else ""}>{e(w["label"])}</a>' for w in versions)+'</nav>'
   toc='<nav class="chapter-nav" aria-label="Sections"><span>'+u['sections']+':</span>'+''.join(f'<a href="#{c["id"]}">{e(c["title"])}</a>' for c in v['chapters'])+'</nav>'
+  notation=svara_html(s,v,prefix)
   original=''
   if s.get('preserve_original_transcription'):
    original='<details class="original-transcription"><summary>'+('ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ' if ui=='kn' else 'Original family-book Kannada transcription')+'</summary><div class="lyrics kn" lang="kn">'+''.join(f'<div class="source-name"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(x) for x in lines)}</p></div>' for i,lines in enumerate(s['verses'],1))+'</div></details>'
-  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
+  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{notation}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
 home('kn');home('en')

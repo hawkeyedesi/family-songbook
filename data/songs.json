@@ -384,7 +384,7 @@
         "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
       ]
     ],
-    "note": "ಎರಡೂ ಮೂಲ ಪುಟಗಳು ಮತ್ತು ಅದೇ ವೈದಿಕ ವಿಜ್ಞಾನ ಮೂಲದೊಂದಿಗೆ ಹೋಲಿಸಿದ ಪಠ್ಯ. ಓದಲು ಅನುಕೂಲವಾಗುವಂತೆ ಸ್ವರಚಿಹ್ನೆಗಳಿಲ್ಲದ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ವೇದಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷ ಉಚ್ಚಾರಣಾ ಗುರುತುಗಳಿಗಾಗಿ ಮೂಲ ಪುಟಗಳನ್ನು ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    "note": "ವೈದಿಕ ಸ್ವರಗುರುತುಗಳಿರುವ ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲೂ ಉಳಿಸಲಾಗಿದೆ. ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ. ಸ್ವರಗುರುತುಗಳನ್ನು ಊಹಿಸಿ ಸೇರಿಸಿಲ್ಲ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -398,13 +398,17 @@
     "versions_file": "texts/durga-suktam.json",
     "family_note_original": "ಎರಡೂ ಮೂಲ ಪುಟಗಳು ಮತ್ತು ಅದೇ ವೈದಿಕ ವಿಜ್ಞಾನ ಮೂಲದೊಂದಿಗೆ ಹೋಲಿಸಿದ ಪಠ್ಯ. ಓದಲು ಅನುಕೂಲವಾಗುವಂತೆ ಸ್ವರಚಿಹ್ನೆಗಳಿಲ್ಲದ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ವೇದಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷ ಉಚ್ಚಾರಣಾ ಗುರುತುಗಳಿಗಾಗಿ ಮೂಲ ಪುಟಗಳನ್ನು ನೋಡಿ.",
     "family_note_original_en": "",
-    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below.",
+    "note_en": "The published svara-marked reading is preserved in all three scripts, including vowel-length, nasal and visarga notation. Dad’s original Kannada book transcription and scans are retained separately below. Accents have not been guessed or reconstructed.",
     "collections": [
       "friday"
     ],
     "collection_order": {
       "friday": 2
-    }
+    },
+    "published_edition": "stotra-nidhi-svara",
+    "preserve_original_transcription": true,
+    "vedic": true,
+    "svara_status": "marked"
   },
   {
     "slug": "sri-suktam",
@@ -489,7 +493,7 @@
         "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
       ]
     ],
-    "note": "ಮೂಲ ಪುಸ್ತಕದ ೫೬–೫೭ನೇ ಪುಟಗಳ ಕ್ರಮವನ್ನು ಅನುಸರಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಪುಟದ ಪ್ರತ್ಯೇಕ ಪುರುಷಸೂಕ್ತದ ಸಾಲುಗಳನ್ನು ಸೇರಿಸಿಲ್ಲ. ೧೩–೧೪ನೇ ಮಂತ್ರಗಳಲ್ಲಿ ಪುಸ್ತಕದ ಸೂರ್ಯ–ಚಂದ್ರ ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಪ್ರಕಟಿತ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಪಾಠಭೇದಗಳಿವೆ. ಸ್ವರಚಿಹ್ನೆಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    "note": "ವೈದಿಕ ಸ್ವರಗುರುತುಗಳಿರುವ ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲೂ ಉಳಿಸಲಾಗಿದೆ. ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ. ಸ್ವರಗುರುತುಗಳನ್ನು ಊಹಿಸಿ ಸೇರಿಸಿಲ್ಲ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -498,18 +502,22 @@
     ],
     "title_en": "Sri Suktam",
     "category_en": "Vedic hymn",
-    "description_en": "The hymn to Mahalakshmi, with the book’s closing prayers.",
+    "description_en": "The 15 principal richas with Vedic accents, followed by Lakshmi Gayatri and a peace prayer.",
     "language_en": "Kannada · Sanskrit · Roman",
     "versions_file": "texts/sri-suktam.json",
     "family_note_original": "ಮೂಲ ಪುಸ್ತಕದ ೫೬–೫೭ನೇ ಪುಟಗಳ ಕ್ರಮವನ್ನು ಅನುಸರಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಪುಟದ ಪ್ರತ್ಯೇಕ ಪುರುಷಸೂಕ್ತದ ಸಾಲುಗಳನ್ನು ಸೇರಿಸಿಲ್ಲ. ೧೩–೧೪ನೇ ಮಂತ್ರಗಳಲ್ಲಿ ಪುಸ್ತಕದ ಸೂರ್ಯ–ಚಂದ್ರ ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಪ್ರಕಟಿತ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಪಾಠಭೇದಗಳಿವೆ. ಸ್ವರಚಿಹ್ನೆಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
     "family_note_original_en": "",
-    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below.",
+    "note_en": "The published svara-marked reading is preserved in all three scripts, including vowel-length, nasal and visarga notation. Dad’s original Kannada book transcription and scans are retained separately below. Accents have not been guessed or reconstructed. The 15 principal richas are followed by separately labelled Lakshmi Gayatri and peace prayer. The source’s additional poetic stotras are not mixed into the Vedic reading. Dad’s book-specific closing prayer remains in the original transcription below. Equivalent pipe punctuation is displayed as danda marks.",
     "collections": [
       "friday"
     ],
     "collection_order": {
       "friday": 3
-    }
+    },
+    "published_edition": "stotra-nidhi-svara",
+    "preserve_original_transcription": true,
+    "vedic": true,
+    "svara_status": "marked"
   },
   {
     "slug": "krishna-ashtakam",
@@ -1056,7 +1064,7 @@
         "ಸರ್ವಸ್ಯಾಪ್ತ್ಯೈ ಸರ್ವಸ್ಯ ಜಿತ್ಯೈ ಸರ್ವಮೇವ ತೇನಾಪ್ನೋತಿ ಸರ್ವಂ ಜಯತಿ ॥"
       ]
     ],
-    "note": "ಪುಸ್ತಕದ ೬೫ನೇ ಪುಟದ ಕ್ರಮದಲ್ಲಿರುವ ಏಳು ಮಂತ್ರಭಾಗಗಳು. ಕೆಂಪು ಗುರುತು ಹಾಕಿರುವ ಭಾಗಗಳ ಜೊತೆಗೆ ಅದೇ ಪುಟದ ಉಳಿದ ಮಂತ್ರಗಳನ್ನೂ ಉಳಿಸಲಾಗಿದೆ. ಓದಲು ಅನುಕೂಲವಾದ ಸ್ವರಚಿಹ್ನೆರಹಿತ ಪಾಠ; ವೇದಸ್ವರಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಏಳು ಆಯ್ದ ಮಂತ್ರಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ವೈದಿಕ ಸ್ವರಗುರುತುಗಳಿವೆ; ಡಿಜಿಟಲ್ ಪಾಠದಲ್ಲಿ ಅವೆಲ್ಲವೂ ಇನ್ನೂ ಪರಿಶೀಲಿತವಾಗಿಲ್ಲ. ಸ್ವರಪಠಣಕ್ಕೆ ಮೇಲೆ ನೀಡಿರುವ ಮೂಲ ಚಿತ್ರವನ್ನು ಬಳಸಿ; ಈ ಸರಳ ಡಿಜಿಟಲ್ ಪಾಠವು ಸ್ವರಪರಿಶೀಲಿತ ಪಾಠವಲ್ಲ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ತದ್ವಿಷ್ಣೋಃ ಮತ್ತು ಕುಬೇರ ಮಂತ್ರಗಳು",
@@ -1074,11 +1082,13 @@
     "versions_file": "texts/daily-puja-mantras.json",
     "family_note_original": "ಪುಸ್ತಕದ ೬೫ನೇ ಪುಟದ ಕ್ರಮದಲ್ಲಿರುವ ಏಳು ಮಂತ್ರಭಾಗಗಳು. ಕೆಂಪು ಗುರುತು ಹಾಕಿರುವ ಭಾಗಗಳ ಜೊತೆಗೆ ಅದೇ ಪುಟದ ಉಳಿದ ಮಂತ್ರಗಳನ್ನೂ ಉಳಿಸಲಾಗಿದೆ. ಓದಲು ಅನುಕೂಲವಾದ ಸ್ವರಚಿಹ್ನೆರಹಿತ ಪಾಠ; ವೇದಸ್ವರಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
     "family_note_original_en": "",
-    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below. These are the same seven selected mantra passages from the family page, not an expanded daily-puja manual. Vedic accent marks remain in the scan rather than being reconstructed.",
+    "note_en": "The seven selected passages are preserved from Dad’s book. The original photographed page contains Vedic accents, but this digital transcription has not yet been verified with all those marks. Use the original accent-marked page linked above for svara chanting; the plain digital text is a reading reference, not an accent-verified chant edition.",
     "collections": [
       "daily"
     ],
-    "collection_order": {}
+    "collection_order": {},
+    "vedic": true,
+    "svara_status": "scan-only"
   },
   {
     "references": [
@@ -1159,7 +1169,9 @@
     "collections": [
       "daily"
     ],
-    "collection_order": {}
+    "collection_order": {},
+    "vedic": true,
+    "svara_status": "marked"
   },
   {
     "references": [
@@ -1184,7 +1196,9 @@
     "collections": [
       "daily"
     ],
-    "collection_order": {}
+    "collection_order": {},
+    "vedic": true,
+    "svara_status": "marked"
   },
   {
     "references": [
@@ -1425,7 +1439,9 @@
     ],
     "collection_order": {
       "friday": 8
-    }
+    },
+    "vedic": true,
+    "svara_status": "marked"
   },
   {
     "slug": "lalitha-sahasra-namavali",

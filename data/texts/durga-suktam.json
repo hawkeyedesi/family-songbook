@@ -8,32 +8,48 @@
       "chapters": [
         {
           "id": "main",
-          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "title": "ದುರ್ಗಾಸೂಕ್ತ — ಏಳು ಮಂತ್ರಗಳು",
           "paragraphs": [
-            "ಓಂ ಜಾತವೇದಸೇ ಸುನವಾಮ ಸೋಮಮರಾತೀಯತೋ ನಿದಹಾತಿ ವೇದಃ ।\nಸ ನಃ ಪರ್ಷದತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ನಾವೇವ ಸಿಂಧುಂ ದುರಿತಾತ್ಯಗ್ನಿಃ ॥",
-            "ತಾಮಗ್ನಿವರ್ಣಾಂ ತಪಸಾ ಜ್ವಲಂತೀಂ ವೈರೋಚನೀಂ ಕರ್ಮಫಲೇಷು ಜುಷ್ಟಾಮ್ ।\nದುರ್ಗಾಂ ದೇವೀಂ ಶರಣಮಹಂ ಪ್ರಪದ್ಯೇ ಸುತರಸಿ ತರಸೇ ನಮಃ ॥",
-            "ಅಗ್ನೇ ತ್ವಂ ಪಾರಯಾ ನವ್ಯೋ ಅಸ್ಮಾನ್ಸ್ವಸ್ತಿಭಿರತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ।\nಪೂಶ್ಚ ಪೃಥ್ವೀ ಬಹುಲಾ ನ ಉರ್ವೀ ಭವಾ ತೋಕಾಯ ತನಯಾಯ ಶಂಯೋಃ ॥",
-            "ವಿಶ್ವಾನಿ ನೋ ದುರ್ಗಹಾ ಜಾತವೇದಃ ಸಿಂಧುಂ ನ ನಾವಾ ದುರಿತಾತಿಪರ್ಷಿ ।\nಅಗ್ನೇ ಅತ್ರಿವನ್ಮನಸಾ ಗೃಣಾನೋಽಸ್ಮಾಕಂ ಬೋಧ್ಯವಿತಾ ತನೂನಾಮ್ ॥",
-            "ಪೃತನಾಜಿತಂ ಸಹಮಾನಮುಗ್ರಮಗ್ನಿಂ ಹುವೇಮ ಪರಮಾತ್ಸಧಸ್ಥಾತ್ ।\nಸ ನಃ ಪರ್ಷದತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ಕ್ಷಾಮದ್ದೇವೋ ಅತಿ ದುರಿತಾತ್ಯಗ್ನಿಃ ॥",
-            "ಪ್ರತ್ನೋಷಿ ಕಮೀಡ್ಯೋ ಅಧ್ವರೇಷು ಸನಾಚ್ಚ ಹೋತಾ ನವ್ಯಶ್ಚ ಸತ್ಸಿ ।\nಸ್ವಾಂ ಚಾಗ್ನೇ ತನುವಂ ಪಿಪ್ರಯಸ್ವಾಸ್ಮಭ್ಯಂ ಚ ಸೌಭಗಮಾಯಜಸ್ವ ॥",
-            "ಗೋಭಿರ್ಜುಷ್ಟಮಯುಜೋ ನಿಷಿಕ್ತಂ ತವೇಂದ್ರ ವಿಷ್ಣೋರನುಸಂಚರೇಮ ।\nನಾಕಸ್ಯ ಪೃಷ್ಠಮಭಿ ಸಂವಸಾನೋ ವೈಷ್ಣವೀಂ ಲೋಕ ಇಹ ಮಾದಯಂತಾಮ್ ॥",
-            "ಓಂ ಕಾತ್ಯಾಯನಾಯ ವಿದ್ಮಹೇ ಕನ್ಯಕುಮಾರಿ ಧೀಮಹಿ ।\nತನ್ನೋ ದುರ್ಗಿಃ ಪ್ರಚೋದಯಾತ್ ॥",
-            "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
+            "ಓಂ ಜಾ॒ತವೇ॑ದಸೇ ಸುನವಾಮ॒ ಸೋಮ॑ ಮರಾತೀಯ॒ತೋ ನಿದ॑ಹಾತಿ॒ ವೇದ॑: ।\nಸ ನ॑: ಪರ್ಷ॒ದತಿ॑ ದು॒ರ್ಗಾಣಿ॒ ವಿಶ್ವಾ॑ ನಾ॒ವೇವ॒ ಸಿನ್ಧುಂ॑ ದುರಿ॒ತಾಽತ್ಯ॒ಗ್ನಿಃ ॥ 1",
+            "ತಾಮ॒ಗ್ನಿವ॑ರ್ಣಾಂ॒ ತಪ॑ಸಾ ಜ್ವಲ॒ನ್ತೀಂ ವೈ॑ರೋಚ॒ನೀಂ ಕ॑ರ್ಮಫ॒ಲೇಷು॒ ಜುಷ್ಟಾ᳚ಮ್ ।\nದು॒ರ್ಗಾಂ ದೇ॒ವೀಗ್ಂ ಶರ॑ಣಮ॒ಹಂ ಪ್ರಪ॑ದ್ಯೇ ಸು॒ತರ॑ಸಿ ತರಸೇ॒ ನಮ॑: ॥ 2",
+            "ಅಗ್ನೇ॒ ತ್ವಂ॑ ಪಾ॑ರಯಾ॒ ನವ್ಯೋ॑ ಅ॒ಸ್ಮಾನ್ ಸ್ವ॒ಸ್ತಿಭಿ॒ರತಿ॑ ದು॒ರ್ಗಾಣಿ॒ ವಿಶ್ವಾ᳚ ।\nಪೂಶ್ಚ॑ ಪೃ॒ಥ್ವೀ ಬ॑ಹು॒ಲಾ ನ॑ ಉ॒ರ್ವೀ ಭವಾ॑ ತೋ॒ಕಾಯ॒ ತನ॑ಯಾಯ॒ ಶಮ್ಯೋಃ ॥ 3",
+            "ವಿಶ್ವಾ॑ನಿ ನೋ ದು॒ರ್ಗಹಾ॑ ಜಾತವೇದ॒: ಸಿನ್ಧುಂ॒ ನ ನಾ॒ವಾ ದುರಿ॒ತಾಽತಿ॑ಪರ್ಷಿ ।\nಅಗ್ನೇ॑ ಅತ್ರಿ॒ವನ್ಮನ॑ಸಾ ಗೃಣಾ॒ನೋ᳚ಽಸ್ಮಾಕಂ॑ ಬೋಧ್ಯವಿ॒ತಾ ತ॒ನೂನಾ᳚ಮ್ ॥ 4",
+            "ಪೃ॒ತ॒ನಾ॒ಜಿತ॒ಗ್ಂ ಸಹ॑ಮಾನಮು॒ಗ್ರಮ॒ಗ್ನಿಗ್ಂ ಹು॑ವೇಮ ಪರ॒ಮಾಥ್ಸ॒ಧಸ್ಥಾ᳚ತ್ ।\nಸ ನ॑: ಪರ್ಷ॒ದತಿ॑ ದು॒ರ್ಗಾಣಿ॒ ವಿಶ್ವಾ॒ ಕ್ಷಾಮ॑ದ್ದೇವೋ॒ ಅತಿ॑ ದುರಿ॒ತಾಽತ್ಯ॒ಗ್ನಿಃ ॥ 5",
+            "ಪ್ರ॒ತ್ನೋಷಿ॑ ಕ॒ಮೀಡ್ಯೋ॑ ಅಧ್ವ॒ರೇಷು॑ ಸನಾಚ್ಚ॒ ಹೋತಾ॒ ನವ್ಯ॑ಶ್ಚ॒ ಸತ್ಸಿ॑ ।\nಸ್ವಾಂ ಚಾ᳚ಽಗ್ನೇ ತ॒ನುವಂ॑ ಪಿ॒ಪ್ರಯ॑ಸ್ವಾ॒ಸ್ಮಭ್ಯಂ॑ ಚ॒ ಸೌಭ॑ಗ॒ಮಾಯ॑ಜಸ್ವ ॥ 6",
+            "ಗೋಭಿ॒ರ್ಜುಷ್ಟ॑ಮ॒ಯುಜೋ॒ ನಿಷಿ॑ಕ್ತಂ॒ ತವೇ᳚ನ್ದ್ರ ವಿಷ್ಣೋ॒ರನು॒ಸಞ್ಚ॑ರೇಮ ।\nನಾಕ॑ಸ್ಯ ಪೃ॒ಷ್ಠಮಭಿ ಸಂ॒ವಸಾ॑ನೋ॒ ವೈಷ್ಣ॑ವೀಂ ಲೋ॒ಕ ಇ॒ಹ ಮಾ॑ದಯನ್ತಾಮ್ ॥ 7"
           ],
           "layout": "verses"
+        },
+        {
+          "id": "gayatri",
+          "title": "ದುರ್ಗಾ ಗಾಯತ್ರೀ",
+          "paragraphs": [
+            "ಓಂ ಕಾ॒ತ್ಯಾ॒ಯ॒ನಾಯ॑ ವಿ॒ದ್ಮಹೇ॑ ಕನ್ಯಕು॒ಮಾರಿ॑ ಧೀಮಹಿ । ತನ್ನೋ॑ ದುರ್ಗಿಃ ಪ್ರಚೋ॒ದಯಾ᳚ತ್ ॥"
+          ]
+        },
+        {
+          "id": "shanti",
+          "title": "ಶಾಂತಿಮಂತ್ರ",
+          "paragraphs": [
+            "ಓಂ ಶಾನ್ತಿ॒: ಶಾನ್ತಿ॒: ಶಾನ್ತಿ॑: ॥"
+          ]
         }
       ],
       "references": [
         {
-          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
-          "url": "https://vignanam.org/kannada/durga-suktam.html"
-        },
-        {
-          "label": "Published Sanskrit comparison text",
-          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+          "label": "Stotra Nidhi — accent-marked kannada",
+          "url": "https://stotranidhi.com/kn/durga-suktam-in-kannada/"
         }
       ],
-      "source_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763"
+      "source_sha256": "c52c9eb2996a0e571ca4701c980f5861b7d9683a849d5a3a257da737fbefdbc7",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 59,
+          "U+0952": 89,
+          "U+1CDA": 8
+        },
+        "sequence_sha256": "054a6028510c82517a7571cc7ff60c4a3e5a4771ca57be69e3edf077040ef612"
+      }
     },
     {
       "id": "devanagari",
@@ -43,39 +59,47 @@
       "chapters": [
         {
           "id": "main",
-          "title": "पारिवारिकपाठः",
+          "title": "दुर्गासूक्तम् — सप्तमन्त्राः",
           "paragraphs": [
-            "ॐ जातवेदसे सुनवाम सोममरातीयतो निदहाति वेदः ।\nस नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं दुरितात्यग्निः ॥",
-            "तामग्निवर्णां तपसा ज्वलंतीं वैरोचनीं कर्मफलेषु जुष्टाम् ।\nदुर्गां देवीं शरणमहं प्रपद्ये सुतरसि तरसे नमः ॥",
-            "अग्ने त्वं पारया नव्यो अस्मान्स्वस्तिभिरति दुर्गाणि विश्वा ।\nपूश्च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शंयोः ॥",
-            "विश्वानि नो दुर्गहा जातवेदः सिंधुं न नावा दुरितातिपर्षि ।\nअग्ने अत्रिवन्मनसा गृणानोऽस्माकं बोध्यविता तनूनाम् ॥",
-            "पृतनाजितं सहमानमुग्रमग्निं हुवेम परमात्सधस्थात् ।\nस नः पर्षदति दुर्गाणि विश्वा क्षामद्देवो अति दुरितात्यग्निः ॥",
-            "प्रत्नोषि कमीड्यो अध्वरेषु सनाच्च होता नव्यश्च सत्सि ।\nस्वां चाग्ने तनुवं पिप्रयस्वास्मभ्यं च सौभगमायजस्व ॥",
-            "गोभिर्जुष्टमयुजो निषिक्तं तवेंद्र विष्णोरनुसंचरेम ।\nनाकस्य पृष्ठमभि संवसानो वैष्णवीं लोक इह मादयंताम् ॥",
-            "ॐ कात्यायनाय विद्महे कन्यकुमारि धीमहि ।\nतन्नो दुर्गिः प्रचोदयात् ॥",
-            "ॐ शांतिः शांतिः शांतिः ॥"
+            "ओं जा॒तवे॑दसे सुनवाम॒ सोम॑ मरातीय॒तो निद॑हाति॒ वेद॑: ।\nस न॑: पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒ताऽत्य॒ग्निः ॥ १",
+            "ताम॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं वै॑रोच॒नीं क॑र्मफ॒लेषु॒ जुष्टा᳚म् ।\nदु॒र्गां दे॒वीग्ं शर॑णम॒हं प्रप॑द्ये सु॒तर॑सि तरसे॒ नम॑: ॥ २",
+            "अग्ने॒ त्वं॑ पा॑रया॒ नव्यो॑ अ॒स्मान् स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा᳚ ।\nपूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शम्योः ॥ ३",
+            "विश्वा॑नि नो दु॒र्गहा॑ जातवेद॒: सिन्धुं॒ न ना॒वा दुरि॒ताऽति॑पर्षि ।\nअग्ने॑ अत्रि॒वन्मन॑सा गृणा॒नो᳚ऽस्माकं॑ बोध्यवि॒ता त॒नूना᳚म् ॥ ४",
+            "पृ॒त॒ना॒जित॒ग्ं सह॑मानमु॒ग्रम॒ग्निग्ं हु॑वेम पर॒माथ्स॒धस्था᳚त् ।\nस न॑: पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्देवो॒ अति॑ दुरि॒ताऽत्य॒ग्निः ॥ ५",
+            "प्र॒त्नोषि॑ क॒मीड्यो॑ अध्व॒रेषु॑ सनाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑ ।\nस्वां चा᳚ऽग्ने त॒नुवं॑ पि॒प्रय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒माय॑जस्व ॥ ६",
+            "गोभि॒र्जुष्ट॑म॒युजो॒ निषि॑क्तं॒ तवे᳚न्द्र विष्णो॒रनु॒सञ्च॑रेम ।\nनाक॑स्य पृ॒ष्ठमभि सं॒वसा॑नो॒ वैष्ण॑वीं लो॒क इ॒ह मा॑दयन्ताम् ॥ ७"
           ],
           "layout": "verses"
+        },
+        {
+          "id": "gayatri",
+          "title": "दुर्गागायत्री",
+          "paragraphs": [
+            "ओं का॒त्या॒य॒नाय॑ वि॒द्महे॑ कन्यकु॒मारि॑ धीमहि । तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥"
+          ]
+        },
+        {
+          "id": "shanti",
+          "title": "शान्तिमन्त्रः",
+          "paragraphs": [
+            "ओं शान्ति॒: शान्ति॒: शान्ति॑: ॥"
+          ]
         }
       ],
       "references": [
         {
-          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
-          "url": "https://vignanam.org/kannada/durga-suktam.html"
-        },
-        {
-          "label": "Published Sanskrit comparison text",
-          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+          "label": "Stotra Nidhi — accent-marked devanagari",
+          "url": "https://stotranidhi.com/hi/durga-suktam-in-sanskrit/"
         }
       ],
-      "source_sha256": "e29a06f9f2829b11e9fc7046bf6adccecef49b33b9f1f07eb24171e83f5fc231",
-      "derivation": {
-        "from_script": "kannada",
-        "from_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763",
-        "tool": "indic-transliteration",
-        "version": "2.3.82",
-        "roundtrip_verified": true,
-        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      "source_sha256": "6b3910dc0a3cc6b31a0cdcf218b8f04524af115b850c18e8b3624c1830ffad18",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 59,
+          "U+0952": 89,
+          "U+1CDA": 8
+        },
+        "sequence_sha256": "054a6028510c82517a7571cc7ff60c4a3e5a4771ca57be69e3edf077040ef612"
       }
     },
     {
@@ -86,39 +110,47 @@
       "chapters": [
         {
           "id": "main",
-          "title": "Family reading",
+          "title": "Durga Sukta — seven mantras",
           "paragraphs": [
-            "oṃ jātavedase sunavāma somamarātīyato nidahāti vedaḥ |\nsa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ duritātyagniḥ ||",
-            "tāmagnivarṇāṃ tapasā jvalaṃtīṃ vairocanīṃ karmaphaleṣu juṣṭām |\ndurgāṃ devīṃ śaraṇamahaṃ prapadye sutarasi tarase namaḥ ||",
-            "agne tvaṃ pārayā navyo asmānsvastibhirati durgāṇi viśvā |\npūśca pṛthvī bahulā na urvī bhavā tokāya tanayāya śaṃyoḥ ||",
-            "viśvāni no durgahā jātavedaḥ siṃdhuṃ na nāvā duritātiparṣi |\nagne atrivanmanasā gṛṇāno'smākaṃ bodhyavitā tanūnām ||",
-            "pṛtanājitaṃ sahamānamugramagniṃ huvema paramātsadhasthāt |\nsa naḥ parṣadati durgāṇi viśvā kṣāmaddevo ati duritātyagniḥ ||",
-            "pratnoṣi kamīḍyo adhvareṣu sanācca hotā navyaśca satsi |\nsvāṃ cāgne tanuvaṃ piprayasvāsmabhyaṃ ca saubhagamāyajasva ||",
-            "gobhirjuṣṭamayujo niṣiktaṃ taveṃdra viṣṇoranusaṃcarema |\nnākasya pṛṣṭhamabhi saṃvasāno vaiṣṇavīṃ loka iha mādayaṃtām ||",
-            "oṃ kātyāyanāya vidmahe kanyakumāri dhīmahi |\ntanno durgiḥ pracodayāt ||",
-            "oṃ śāṃtiḥ śāṃtiḥ śāṃtiḥ ||"
+            "oṃ jā̱tave̍dase sunavāma̱ soma̍ marātīya̱to nida̍hāti̱ veda̍: ।\nsa na̍: parṣa̱dati̍ du̱rgāṇi̱ viśvā̍ nā̱veva̱ sindhu̍ṃ duri̱tā’tya̱gniḥ ॥ 1",
+            "tāma̱gniva̍rṇā̱ṃ tapa̍sā jvala̱ntīṃ vai̍roca̱nīṃ ka̍rmapha̱leṣu̱ juṣṭā̎m ।\ndu̱rgāṃ de̱vīgṃ śara̍ṇama̱haṃ prapa̍dye su̱tara̍si tarase̱ nama̍: ॥ 2",
+            "agne̱ tva̍ṃ pā̍rayā̱ navyo̍ a̱smān sva̱stibhi̱rati̍ du̱rgāṇi̱ viśvā̎ ।\npūśca̍ pṛ̱thvī ba̍hu̱lā na̍ u̱rvī bhavā̍ to̱kāya̱ tana̍yāya̱ śamyoḥ ॥ 3",
+            "viśvā̍ni no du̱rgahā̍ jātaveda̱: sindhu̱ṃ na nā̱vā duri̱tā’ti̍parṣi ।\nagne̍ atri̱vanmana̍sā gṛṇā̱no̎’smāka̍ṃ bodhyavi̱tā ta̱nūnā̎m ॥ 4",
+            "pṛ̱ta̱nā̱jita̱gṃ saha̍mānamu̱grama̱gnigṃ hu̍vema para̱māthsa̱dhasthā̎t ।\nsa na̍: parṣa̱dati̍ du̱rgāṇi̱ viśvā̱ kṣāma̍ddevo̱ ati̍ duri̱tā’tya̱gniḥ ॥ 5",
+            "pra̱tnoṣi̍ ka̱mīḍyo̍ adhva̱reṣu̍ sanācca̱ hotā̱ navya̍śca̱ satsi̍ ।\nsvāṃ cā̎’gne ta̱nuva̍ṃ pi̱praya̍svā̱smabhya̍ṃ ca̱ saubha̍ga̱māya̍jasva ॥ 6",
+            "gobhi̱rjuṣṭa̍ma̱yujo̱ niṣi̍kta̱ṃ tave̎ndra viṣṇo̱ranu̱sañca̍rema ।\nnāka̍sya pṛ̱ṣṭhamabhi sa̱ṃvasā̍no̱ vaiṣṇa̍vīṃ lo̱ka i̱ha mā̍dayantām ॥ 7"
           ],
           "layout": "verses"
+        },
+        {
+          "id": "gayatri",
+          "title": "Durga Gayatri",
+          "paragraphs": [
+            "oṃ kā̱tyā̱ya̱nāya̍ vi̱dmahe̍ kanyaku̱māri̍ dhīmahi । tanno̍ durgiḥ praco̱dayā̎t ॥"
+          ]
+        },
+        {
+          "id": "shanti",
+          "title": "Peace prayer",
+          "paragraphs": [
+            "oṃ śānti̱: śānti̱: śānti̍: ॥"
+          ]
         }
       ],
       "references": [
         {
-          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
-          "url": "https://vignanam.org/kannada/durga-suktam.html"
-        },
-        {
-          "label": "Published Sanskrit comparison text",
-          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+          "label": "Stotra Nidhi — accent-marked english",
+          "url": "https://stotranidhi.com/en/durga-suktam-in-english/"
         }
       ],
-      "source_sha256": "e11ddd84b3cc69747c8d411d09f597e57fe5423173b017a3327f520c1c9df465",
-      "derivation": {
-        "from_script": "kannada",
-        "from_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763",
-        "tool": "indic-transliteration",
-        "version": "2.3.82",
-        "roundtrip_verified": true,
-        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      "source_sha256": "44f3d917638b1d4ac79833a04291b9aaca787a9e0daea47536e6b1ef6c378676",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 59,
+          "U+030E": 8,
+          "U+0331": 89
+        },
+        "sequence_sha256": "7548c91ef8c14e9394960399ea6a0bd16c93f4eac1de5bc176367849d291aa71"
       }
     }
   ]

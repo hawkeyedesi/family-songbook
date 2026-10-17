@@ -107,7 +107,15 @@
           "url": "https://vignanam.org/kannada/ganapati-atharva-sheersham.html"
         }
       ],
-      "source_sha256": "13cd2675b1083563ab67551df34b0804ef0725bee1914941e2839ceed697e460"
+      "source_sha256": "13cd2675b1083563ab67551df34b0804ef0725bee1914941e2839ceed697e460",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 151,
+          "U+0952": 213,
+          "U+1CDA": 27
+        },
+        "sequence_sha256": "444b4e926088dd6bc10b648fa263a6e5f6db0022393ab4228e63d52dc547bb57"
+      }
     },
     {
       "id": "devanagari",
@@ -216,7 +224,15 @@
           "url": "https://vignanam.org/devanagari/ganapati-atharva-sheersham.html"
         }
       ],
-      "source_sha256": "8320296067f0744e30ce21835dfd5fd6bdc51164669ae5e487cd14aca393b699"
+      "source_sha256": "8320296067f0744e30ce21835dfd5fd6bdc51164669ae5e487cd14aca393b699",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 151,
+          "U+0952": 213,
+          "U+1CDA": 27
+        },
+        "sequence_sha256": "444b4e926088dd6bc10b648fa263a6e5f6db0022393ab4228e63d52dc547bb57"
+      }
     },
     {
       "id": "roman",
@@ -325,7 +341,15 @@
           "url": "https://vignanam.org/english/ganapati-atharva-sheersham.html"
         }
       ],
-      "source_sha256": "fe7b098ab0a93184b948a8ac31294eccb63763831bff559be527e6ab6d50b6a4"
+      "source_sha256": "fe7b098ab0a93184b948a8ac31294eccb63763831bff559be527e6ab6d50b6a4",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 151,
+          "U+030E": 27,
+          "U+0320": 213
+        },
+        "sequence_sha256": "f697003a90ec754c977450a2107f8b169f01093d8e3d20ba3d3b7a2385c6377f"
+      }
     }
   ]
 }

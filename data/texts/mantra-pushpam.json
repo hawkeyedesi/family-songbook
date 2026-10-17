@@ -137,7 +137,15 @@
           "url": "https://vignanam.org/kannada/mantra-pushpam.html"
         }
       ],
-      "source_sha256": "370c9ab7e565d80d674fbd3b99a02bfcd1d6879a0cf53f510f23dba473538192"
+      "source_sha256": "370c9ab7e565d80d674fbd3b99a02bfcd1d6879a0cf53f510f23dba473538192",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 161,
+          "U+0952": 223,
+          "U+1CDA": 19
+        },
+        "sequence_sha256": "465ea0753fbaa2840cb467fa4a1bb5e3c685a7d1ec395d99545e071090b28075"
+      }
     },
     {
       "id": "devanagari",
@@ -276,7 +284,15 @@
           "url": "https://vignanam.org/devanagari/mantra-pushpam.html"
         }
       ],
-      "source_sha256": "697040672e205312b626ead7ce7dc5294a6584efc3f68acd4e6aa32942a397c3"
+      "source_sha256": "697040672e205312b626ead7ce7dc5294a6584efc3f68acd4e6aa32942a397c3",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 161,
+          "U+0952": 223,
+          "U+1CDA": 19
+        },
+        "sequence_sha256": "465ea0753fbaa2840cb467fa4a1bb5e3c685a7d1ec395d99545e071090b28075"
+      }
     },
     {
       "id": "roman",
@@ -415,7 +431,15 @@
           "url": "https://vignanam.org/english/mantra-pushpam.html"
         }
       ],
-      "source_sha256": "0833d8530a20cfccbd1a75c9e32816e7d16f8263c5ffc0862d6ae8355d68728e"
+      "source_sha256": "0833d8530a20cfccbd1a75c9e32816e7d16f8263c5ffc0862d6ae8355d68728e",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 161,
+          "U+030E": 19,
+          "U+0320": 223
+        },
+        "sequence_sha256": "d6d5e8dfced6553e0ac094d7691a17b22d7245b0abcd90faf3d4e6cefcb4b900"
+      }
     }
   ]
 }
