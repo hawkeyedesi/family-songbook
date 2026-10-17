@@ -52,7 +52,11 @@
         "Adi Shakti Akhilandeshwari, Annapoorneshwari baaramma",
         "Ashrita janarige abhaya needalu, Santhoshi Mateye baaramma"
       ]
-    ]
+    ],
+    "title_en": "Amma Baaramma",
+    "category_en": "Bhajan",
+    "description_en": "A devotional invitation to the Divine Mother.",
+    "language_en": "Original Roman script"
   },
   {
     "slug": "aditya-hridayam",
@@ -199,7 +203,11 @@
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
         "url": "https://vignanam.org/kannada/aditya-hrudayam.html"
       }
-    ]
+    ],
+    "title_en": "Aditya Hridayam",
+    "category_en": "Stotra",
+    "description_en": "Agastya’s hymn to the Sun, taught to Sri Rama.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "lakshmi-nrisimha-karavalamba",
@@ -290,7 +298,11 @@
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
         "url": "https://vignanam.org/kannada/lakshmi-nrusimha-karavalamba-stotram.html"
       }
-    ]
+    ],
+    "title_en": "Lakshmi Nrisimha Karavalamba",
+    "category_en": "Stotra",
+    "description_en": "A prayer to Lakshmi Nrisimha for a helping hand.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "durga-suktam",
@@ -346,7 +358,11 @@
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
         "url": "https://vignanam.org/kannada/durga-suktam.html"
       }
-    ]
+    ],
+    "title_en": "Durga Suktam",
+    "category_en": "Vedic hymn",
+    "description_en": "The Vedic hymn of refuge in Durga.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "sri-suktam",
@@ -437,7 +453,11 @@
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
         "url": "https://vignanam.org/kannada/sri-suktam.html"
       }
-    ]
+    ],
+    "title_en": "Sri Suktam",
+    "category_en": "Vedic hymn",
+    "description_en": "The hymn to Mahalakshmi, with the book’s closing prayers.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "krishna-ashtakam",
@@ -505,7 +525,11 @@
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
         "url": "https://stotranidhi.com/kn/krishna-ashtakam-adi-shankaracharya-kritam-in-kannada/"
       }
-    ]
+    ],
+    "title_en": "Sri Krishna Ashtakam",
+    "category_en": "Stotra",
+    "description_en": "Shankaracharya’s hymn beginning “Shriyaashlishto Vishnuh”.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "surya-kavacham",
@@ -553,7 +577,11 @@
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚ",
         "url": "https://stotranidhi.com/kn/sri-surya-kavacham-in-kannada/"
       }
-    ]
+    ],
+    "title_en": "Surya Kavacham",
+    "category_en": "Stotra",
+    "description_en": "Yajnavalkya’s seven-verse hymn to Surya.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "lakshmi-ashtottara-shatanamavali",
@@ -902,7 +930,11 @@
         "label": "ಸನಾತನ ವೇದ — ಕನ್ನಡ ನಾಮಾವಳಿ",
         "url": "https://www.sanatanveda.com/mantra/kannada/lakshmi-ashtottara-shatanamavali-in-kannada/"
       }
-    ]
+    ],
+    "title_en": "Lakshmi Ashtottara Shatanamavali",
+    "category_en": "Namavali",
+    "description_en": "The 108 names of Goddess Lakshmi.",
+    "language_en": "Sanskrit · Kannada script"
   },
   {
     "slug": "daily-puja-mantras",
@@ -957,6 +989,115 @@
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಗಣಪತಿ ಮಂತ್ರ",
         "url": "https://vignanam.org/kannada/ganapati-prarthana-ghanapatham.html"
       }
-    ]
+    ],
+    "title_en": "Daily Puja Mantras",
+    "category_en": "Mantras",
+    "description_en": "Seven mantra passages from the family’s puja book.",
+    "language_en": "Sanskrit · Kannada script"
+  },
+  {
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/sri-lalitha-sahasranama-stotram-in-kannada/"
+      }
+    ],
+    "slug": "lalitha-sahasranama",
+    "title": "ಶ್ರೀ ಲಲಿತಾ ಸಹಸ್ರನಾಮ ಸ್ತೋತ್ರಮ್",
+    "title_en": "Lalitha Sahasranama",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ನ್ಯಾಸ ಮತ್ತು ಧ್ಯಾನ ಸಹಿತ ಲಲಿತಾದೇವಿಯ ಸಹಸ್ರನಾಮ ಸ್ತೋತ್ರ.",
+    "description_en": "Lalitha’s thousand names, with nyasa and dhyana.",
+    "versions_file": "texts/lalitha-sahasranama.json",
+    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
+  },
+  {
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/sri-vishnu-sahasranama-stotram-in-kannada/"
+      }
+    ],
+    "slug": "vishnu-sahasranama",
+    "title": "ಶ್ರೀ ವಿಷ್ಣು ಸಹಸ್ರನಾಮ ಸ್ತೋತ್ರಮ್",
+    "title_en": "Vishnu Sahasranama",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ಪೂರ್ವಪೀಠಿಕಾ, ಸಹಸ್ರನಾಮ ಮತ್ತು ಫಲಶ್ರುತಿ ಸಹಿತ ವಿಷ್ಣು ಸ್ತೋತ್ರ.",
+    "description_en": "Vishnu’s thousand names, with opening prayers and phalashruti.",
+    "versions_file": "texts/vishnu-sahasranama.json",
+    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
+  },
+  {
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/sri-rudram-namakam-in-kannada/"
+      }
+    ],
+    "slug": "rudra-namakam-chamakam",
+    "title": "ಶ್ರೀ ರುದ್ರಮ್ — ನಮಕಮ್ ಮತ್ತು ಚಮಕಮ್",
+    "title_en": "Sri Rudram — Namakam & Chamakam",
+    "category": "ವೇದಮಂತ್ರ",
+    "category_en": "Vedic hymn",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ನಮಕದ ಹನ್ನೊಂದು ಮತ್ತು ಚಮಕದ ಹನ್ನೊಂದು ಅನುವಾಕಗಳು, ಸಮಾಪನ ಮಂತ್ರಗಳೊಂದಿಗೆ.",
+    "description_en": "All eleven anuvakas of Namakam and eleven of Chamakam, with closing prayers.",
+    "versions_file": "texts/rudra-namakam-chamakam.json",
+    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
+  },
+  {
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/sri-ganapati-atharvashirsha-upanishat-in-kannada/"
+      }
+    ],
+    "slug": "ganesha-atharvashirsham",
+    "title": "ಶ್ರೀ ಗಣಪತಿ ಅಥರ್ವಶೀರ್ಷಮ್",
+    "title_en": "Ganesha Atharvashirsham",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ಶಾಂತಿಮಂತ್ರ ಮತ್ತು ಫಲಶ್ರುತಿ ಸಹಿತ ಗಣಪತ್ಯಥರ್ವಶೀರ್ಷ ಉಪನಿಷತ್.",
+    "description_en": "The Ganapati Atharvashirsha Upanishad, with peace prayers and phalashruti.",
+    "versions_file": "texts/ganesha-atharvashirsham.json",
+    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
+  },
+  {
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/saundaryalahari-in-kannada/"
+      }
+    ],
+    "slug": "soundarya-lahari",
+    "title": "ಸೌಂದರ್ಯ ಲಹರೀ",
+    "title_en": "Soundarya Lahari",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ಆನಂದಲಹರೀ ಮತ್ತು ಸೌಂದರ್ಯಲಹರಿಯ ನೂರು ಮುಖ್ಯ ಶ್ಲೋಕಗಳು; ಅನುಬಂಧ ಪ್ರತ್ಯೇಕವಾಗಿ.",
+    "description_en": "The 100 principal verses, with Ananda Lahari and clearly separated supplementary verses.",
+    "versions_file": "texts/soundarya-lahari.json",
+    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
   }
 ]
