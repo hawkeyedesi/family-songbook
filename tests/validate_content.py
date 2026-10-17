@@ -54,7 +54,10 @@ for s in a:
     if marker:assert int(marker[1])==n
   if s['slug'] in ['ya-devi-sarva-bhuteshu','sharada-bhujanga-ashtakam','mahishasura-mardini']:
    assert numbers(text)==list(range(1,{'ya-devi-sarva-bhuteshu':28,'sharada-bhujanga-ashtakam':8,'mahishasura-mardini':21}[s['slug']]+1))
-  if s['slug']=='bhagyada-lakshmi-baramma':assert [c['id'] for c in v['chapters']]==['pallavi',*[f'charanam-{n}' for n in range(1,6)]]
+  if s['slug']=='bhagyada-lakshmi-baramma':
+   assert [c['id'] for c in v['chapters']]==['pallavi',*[f'charanam-{n}' for n in range(1,6)]]
+   assert len(v['source_corrections'])==3
+   for fix in v['source_corrections']:assert fix['reading'] in text and fix['original'] not in text
   if s['slug']=='mantra-pushpam':
    assert [c['id'] for c in v['chapters']]==['opening','main','closing']
    assert all(c['paragraphs'] for c in v['chapters'])

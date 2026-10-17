@@ -35,6 +35,11 @@ for slug,source,kn,sa,en,count in configs:
   else:
    url=f'https://vignanam.org/{sc}/{source}.html';publisher='Vaidika Vignanam'
    if slug=='bhagyada-lakshmi-baramma':
+    # Three obvious source spelling errors, checked against the actual Kannada comparison.
+    fixes=[{'ಅತ್ತಿತ್ತಗಳದೆ':'ಅತ್ತಿತ್ತಲಗದೆ','ಸಕ್ಕೆರೆ':'ಸಕ್ಕರೆ','ಅಕ್ಕೆರೆಯುಳ್ಳ':'ಅಕ್ಕರೆಯುಳ್ಳ'}, {'अत्तित्तगलदॆ':'अत्तित्तलगदॆ','सक्कॆरॆ':'सक्करॆ','अक्कॆरॆयुल्ल':'अक्करॆयुल्ल'}, {'attittagaḻade':'attittalagade','sakkere':'sakkare','akkereyuḻḻa':'akkareyuḻḻa'}][i]
+    for before,after in fixes.items():
+     assert whole.count(before)==1,(sc,before)
+     whole=whole.replace(before,after)
     # Music metadata uses different solfege alphabets; keep the song itself intact.
     t=whole[whole.index(['ಪಲ್ಲವಿ','पल्लवि','pallavi'][i]):];ps=t.split('\n\n')
     pattern=['ಚರಣಂ ','चरणं ','charaṇaṃ '][i]
@@ -53,6 +58,7 @@ for slug,source,kn,sa,en,count in configs:
     chapters=[ch('main',['ಸ್ತೋತ್ರಮ್','स्तोत्रम्','Hymn'][i],ps)]
   t='\n\n'.join('\n\n'.join(c['paragraphs']) for c in chapters)
   versions.append(dict(id='roman' if sc=='english' else sc,lang=lang,label=label,title=[kn,sa,en][i],chapters=chapters,references=[dict(label=publisher+' — '+label,url=url)],source_sha256=hashlib.sha256(t.encode()).hexdigest()))
+  if slug=='bhagyada-lakshmi-baramma':versions[-1]['source_corrections']=[dict(original=b,reading=a,authority='https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/') for b,a in fixes.items()]
   seqs.append([int(n) for n in re.findall(r'[।॥]\s*(\d+)\s*॥',t)])
  assert seqs[0]==seqs[1]==seqs[2],slug
  (ROOT/'data/texts'/f'{slug}.json').write_text(json.dumps(dict(versions=versions),ensure_ascii=False,indent=2)+'\n')
@@ -62,6 +68,8 @@ for slug,source,kn,sa,en,count in configs:
  if bhajan:
   s['note']+=' ಪುರಂದರದಾಸರ ಕನ್ನಡ ಕೀರ್ತನೆ; ದೇವನಾಗರಿಯಲ್ಲಿಯೂ ಅದೇ ಕನ್ನಡ ಪದಗಳು, ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ.'
   s['note_en']+=' Purandara Dasa’s Kannada composition: Devanagari also preserves the Kannada words, not a Sanskrit translation. Pallavi and all five charanams are included. This is distinct from Amma Baaramma.'
+  s['note_en']+=' Three source spelling errors are corrected against the Kannada comparison: attittalagade, sakkare and akkare; the same corrections are applied in all scripts.'
+  s['note']+=' ಕನ್ನಡದ ಪರಿಶೀಲನಾ ಮೂಲದಂತೆ ಅತ್ತಿತ್ತಲಗದೆ, ಸಕ್ಕರೆ, ಅಕ್ಕರೆ ಎಂಬ ಮೂರು ಪದಗಳ ಮುದ್ರಣದೋಷಗಳನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲೂ ಸರಿಪಡಿಸಲಾಗಿದೆ.'
   s['references']=[dict(label='Bhakti Nidhi — comparison Kannada edition',url='https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/')]
  if slug=='ya-devi-sarva-bhuteshu':s['references']=[dict(label='Stotra Nidhi — comparison edition',url='https://stotranidhi.com/hi/aparajitha-stotram-in-sanskrit/')]
  if slug=='sharada-bhujanga-ashtakam':

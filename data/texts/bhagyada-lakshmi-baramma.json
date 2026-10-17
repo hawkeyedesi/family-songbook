@@ -44,7 +44,7 @@
           "title": "ಚರಣ 3",
           "paragraphs": [
             "ಚರಣಂ 3",
-            "ಅತ್ತಿತ್ತಗಳದೆ ಭಕ್ತರ ಮನೆಯಲಿ",
+            "ಅತ್ತಿತ್ತಲಗದೆ ಭಕ್ತರ ಮನೆಯಲಿ",
             "ನಿತ್ಯ ಮಹೋತ್ಸವ ನಿತ್ಯ ಸುಮಂಗಲ ।",
             "ಸತ್ಯವ ತೋರುವ ಸಾಧು ಸಜ್ಜನರ",
             "ಚಿತ್ತದಿ ಹೊಳೆಯುವ ಪುತ್ಥಳಿ ಬೊಂಬೆ ॥",
@@ -68,9 +68,9 @@
           "title": "ಚರಣ 5",
           "paragraphs": [
             "ಚರಣಂ 5",
-            "ಸಕ್ಕೆರೆ ತುಪ್ಪದ ಕಾಲುವೆಹರಿಸಿ",
+            "ಸಕ್ಕರೆ ತುಪ್ಪದ ಕಾಲುವೆಹರಿಸಿ",
             "ಶುಕ್ರವಾರದಾ ಪೂಜೆಯ ವೇಳೆಗೆ ।",
-            "ಅಕ್ಕೆರೆಯುಳ್ಳ ಅಳಗಿರಿ ರಂಗನನ",
+            "ಅಕ್ಕರೆಯುಳ್ಳ ಅಳಗಿರಿ ರಂಗನನ",
             "ಚೊಕ್ಕ ಪುರಂದರ ವಿಠ್ಠಲನ ರಾಣೀ ॥",
             "(ಭಾಗ್ಯದಾ)"
           ]
@@ -82,7 +82,24 @@
           "url": "https://vignanam.org/kannada/bhagyada-lakshmi-baramma.html"
         }
       ],
-      "source_sha256": "52c298fdd5aa2e79ff8e5c681c16bdce110b818886ec3d8c1d07de3f11a2bc3c"
+      "source_sha256": "12bb87973d6ffe02660518fceeb12238fde7c7bd53024d5e51a65546d3e0a2ec",
+      "source_corrections": [
+        {
+          "original": "ಅತ್ತಿತ್ತಗಳದೆ",
+          "reading": "ಅತ್ತಿತ್ತಲಗದೆ",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "ಸಕ್ಕೆರೆ",
+          "reading": "ಸಕ್ಕರೆ",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "ಅಕ್ಕೆರೆಯುಳ್ಳ",
+          "reading": "ಅಕ್ಕರೆಯುಳ್ಳ",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        }
+      ]
     },
     {
       "id": "devanagari",
@@ -128,7 +145,7 @@
           "title": "चरण 3",
           "paragraphs": [
             "चरणं 3",
-            "अत्तित्तगलदॆ भक्तर मनॆयलि",
+            "अत्तित्तलगदॆ भक्तर मनॆयलि",
             "नित्य महोत्सव नित्य सुमङ्गल ।",
             "सत्यव तोरुव साधु सज्जनर",
             "चित्तदि हॊलॆयुव पुत्थलि बॊम्बॆ ॥",
@@ -152,9 +169,9 @@
           "title": "चरण 5",
           "paragraphs": [
             "चरणं 5",
-            "सक्कॆरॆ तुप्पद कालुवॆहरिसि",
+            "सक्करॆ तुप्पद कालुवॆहरिसि",
             "शुक्रवारदा पूजॆय वेलॆगॆ ।",
-            "अक्कॆरॆयुल्ल अलगिरि रङ्गनन",
+            "अक्करॆयुल्ल अलगिरि रङ्गनन",
             "चॊक्क पुरन्दर विठ्ठलन राणी ॥",
             "(भाग्यदा)"
           ]
@@ -166,7 +183,24 @@
           "url": "https://vignanam.org/devanagari/bhagyada-lakshmi-baramma.html"
         }
       ],
-      "source_sha256": "d797753b0ecf32f60ed3cbbc2994fcec8f10fb0788720c5a37be598136ac88ac"
+      "source_sha256": "89a2561eda767456ab39da618e8789a1a81cf7c881ae863d70df89ab26126692",
+      "source_corrections": [
+        {
+          "original": "अत्तित्तगलदॆ",
+          "reading": "अत्तित्तलगदॆ",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "सक्कॆरॆ",
+          "reading": "सक्करॆ",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "अक्कॆरॆयुल्ल",
+          "reading": "अक्करॆयुल्ल",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        }
+      ]
     },
     {
       "id": "roman",
@@ -212,7 +246,7 @@
           "title": "Charanam 3",
           "paragraphs": [
             "charaṇaṃ 3",
-            "attittagaḻade bhaktara maneyali",
+            "attittalagade bhaktara maneyali",
             "nitya mahōtsava nitya sumaṅgala ।",
             "satyava tōruva sādhu sajjanara",
             "chittadi hoḻeyuva putthaḻi bombe ॥",
@@ -236,9 +270,9 @@
           "title": "Charanam 5",
           "paragraphs": [
             "charaṇaṃ 5",
-            "sakkere tuppada kāluveharisi",
+            "sakkare tuppada kāluveharisi",
             "śukravāradā pūjeya vēḻege ।",
-            "akkereyuḻḻa aḻagiri raṅganana",
+            "akkareyuḻḻa aḻagiri raṅganana",
             "chokka purandara viṭhṭhalana rāṇī ॥",
             "(bhāgyadā)"
           ]
@@ -250,7 +284,24 @@
           "url": "https://vignanam.org/english/bhagyada-lakshmi-baramma.html"
         }
       ],
-      "source_sha256": "74fe05f113fbc16313abbfe730bca80b0aa0f601ed60e374d90843c333e38305"
+      "source_sha256": "9fef05218f89f029a6ad78fedf14a7ee870238f707a1aa4d5f32dab00c3a86ec",
+      "source_corrections": [
+        {
+          "original": "attittagaḻade",
+          "reading": "attittalagade",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "sakkere",
+          "reading": "sakkare",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        },
+        {
+          "original": "akkereyuḻḻa",
+          "reading": "akkareyuḻḻa",
+          "authority": "https://bhaktinidhi.com/kn/bhagyada-lakshmi-baramma-lyrics-in-kannada/"
+        }
+      ]
     }
   ]
 }

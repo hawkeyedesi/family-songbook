@@ -1383,8 +1383,8 @@
     "description": "ಭಾಗ್ಯದ ಲಕ್ಷ್ಮೀ ಬಾರಮ್ಮ — ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ.",
     "description_en": "Bhagyada Lakshmi Baramma — in three scripts.",
     "versions_file": "texts/bhagyada-lakshmi-baramma.json",
-    "note": "ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪುರಂದರದಾಸರ ಕನ್ನಡ ಕೀರ್ತನೆ; ದೇವನಾಗರಿಯಲ್ಲಿಯೂ ಅದೇ ಕನ್ನಡ ಪದಗಳು, ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ.",
-    "note_en": "One published edition in three scripts. Roman text is for pronunciation, not an English translation. Textual variants are retained. Purandara Dasa’s Kannada composition: Devanagari also preserves the Kannada words, not a Sanskrit translation. Pallavi and all five charanams are included. This is distinct from Amma Baaramma.",
+    "note": "ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪುರಂದರದಾಸರ ಕನ್ನಡ ಕೀರ್ತನೆ; ದೇವನಾಗರಿಯಲ್ಲಿಯೂ ಅದೇ ಕನ್ನಡ ಪದಗಳು, ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ. ಕನ್ನಡದ ಪರಿಶೀಲನಾ ಮೂಲದಂತೆ ಅತ್ತಿತ್ತಲಗದೆ, ಸಕ್ಕರೆ, ಅಕ್ಕರೆ ಎಂಬ ಮೂರು ಪದಗಳ ಮುದ್ರಣದೋಷಗಳನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲೂ ಸರಿಪಡಿಸಲಾಗಿದೆ.",
+    "note_en": "One published edition in three scripts. Roman text is for pronunciation, not an English translation. Textual variants are retained. Purandara Dasa’s Kannada composition: Devanagari also preserves the Kannada words, not a Sanskrit translation. Pallavi and all five charanams are included. This is distinct from Amma Baaramma. Three source spelling errors are corrected against the Kannada comparison: attittalagade, sakkare and akkare; the same corrections are applied in all scripts.",
     "references": [
       {
         "label": "Bhakti Nidhi — comparison Kannada edition",
