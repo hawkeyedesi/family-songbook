@@ -50,6 +50,7 @@ def chapters(slug,t,idx):
  return out
 
 songs=json.loads((ROOT/'data/songs.json').read_text())
+existing_collections={s['slug']:s.get('collection','daily') for s in songs}
 songs=[s for s in songs if s['slug'] not in {c[0] for c in CONFIG}]
 for slug,source,kn,sa,en,description,description_en in CONFIG:
  versions=[];sequences=[]
@@ -76,6 +77,6 @@ for slug,source,kn,sa,en,description,description_en in CONFIG:
  'rudra-namakam-chamakam':'https://stotranidhi.com/kn/sri-rudram-namakam-in-kannada/',
  'ganesha-atharvashirsham':'https://stotranidhi.com/kn/sri-ganapati-atharvashirsha-upanishat-in-kannada/',
  'soundarya-lahari':'https://stotranidhi.com/kn/saundaryalahari-in-kannada/'}
- songs.append(dict(references=[{'label':'Stotra Nidhi — comparison edition (Kannada)','url':comparison_urls[slug]}],slug=slug,title=kn,title_en=en,category='ಸ್ತೋತ್ರ' if source else 'ವೇದಮಂತ್ರ',category_en='Stotra' if source else 'Vedic hymn',language='ಕನ್ನಡ · संस्कृतम् · Roman',language_en='Kannada · Sanskrit · Roman',script='kannada',description=description,description_en=description_en,versions_file=f'texts/{slug}.json',note='ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.',note_en='Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.'))
+ songs.append(dict(collection=existing_collections.get(slug,'daily'),references=[{'label':'Stotra Nidhi — comparison edition (Kannada)','url':comparison_urls[slug]}],slug=slug,title=kn,title_en=en,category='ಸ್ತೋತ್ರ' if source else 'ವೇದಮಂತ್ರ',category_en='Stotra' if source else 'Vedic hymn',language='ಕನ್ನಡ · संस्कृतम् · Roman',language_en='Kannada · Sanskrit · Roman',script='kannada',description=description,description_en=description_en,versions_file=f'texts/{slug}.json',note='ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.',note_en='Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.'))
  print(slug,expected,'numbered passages per script; all 3 matched')
 (ROOT/'data/songs.json').write_text(json.dumps(songs,ensure_ascii=False,indent=2)+'\n')

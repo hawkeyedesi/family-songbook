@@ -4,6 +4,7 @@ import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
 assert len(a)==17 and len(by_slug)==17
+assert all(s.get('collection','daily') in {'daily','weekly','friday'} for s in a)
 assert all('versions_file' in s for s in a if s['slug']!='amma-baaramma'),'Incomplete script coverage'
 old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],cwd=ROOT))
 for s in old:

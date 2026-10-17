@@ -20,21 +20,32 @@ def shell(title,description,body,prefix='',lang='kn',ui='kn'):
 <body><header><a class="brand" href="{home or './'}"><span class="symbol" aria-hidden="true">✺</span> {u['brand']}</a><span class="header-note">{u['family']}</span></header>
 <main>{body}</main><footer>{u['footer']}<br><span>{u['footer_note']}</span></footer></body></html>'''
 
-def home(ui):
- en=ui=='en';prefix='../' if en else '';u=UI[ui]
+def home(ui,collection=None):
+ en=ui=='en';prefix='../'*((1 if en else 0)+(1 if collection else 0));u=UI[ui]
+ selected=[s for s in songs if collection is None or s.get('collection','daily')==collection]
+ collection_labels={'daily':('ದಿನನಿತ್ಯ','Daily'),'weekly':('ವಾರದ ಪಠ್ಯಗಳು','Weekly'),'friday':('ಶುಕ್ರವಾರ','Friday')}
+ group_base=prefix+('en/' if en else '')
+ category_links='<nav class="collection-nav" aria-label="Collection categories">'
+ for key in [None,'daily','weekly','friday']:
+  label=('All' if en else 'ಎಲ್ಲವೂ') if key is None else collection_labels[key][1 if en else 0]
+  count=len(songs) if key is None else sum(x.get('collection','daily')==key for x in songs)
+  target=group_base+(key+'/' if key else '')
+  category_links+=f'<a href="{target or './'}" data-collection="{key or 'all'}" '+('aria-current="page"' if key==collection else '')+f'>{label} <span>{count}</span></a>'
+ category_links+='</nav>'
  cards=[]
- for s in songs:
+ for s in selected:
   multi='versions_file' in s
   target=prefix+'songs/'+s['slug']+'/'+('roman/' if en and multi else '')
   aliases=' '.join([s['title'],s.get('title_en',''),s['category'],s.get('category_en','')])
   cards.append(f'''<a class="song-card" href="{target}" data-work="{s['slug']}" data-multiscript="{str(multi).lower()}" data-base="{prefix}songs/{s['slug']}/" data-search="{e(aliases,quote=True)}"><span class="eyebrow">{e(localized(s,'category',ui))}</span><h2>{e(localized(s,'title',ui))}</h2><p>{e(localized(s,'description',ui))}</p><span class="card-bottom">{e(localized(s,'language',ui))}<span aria-hidden="true">↗</span></span></a>''')
- toggle=f'''<nav class="language-switch" aria-label="Landing page language"><a href="{prefix or './'}" {'aria-current="page"' if not en else ''}>ಕನ್ನಡ</a><a href="{prefix}en/" {'aria-current="page"' if en else ''}>English (Roman)</a></nav>'''
+ category_path=collection+'/' if collection else ''
+ toggle=f'''<nav class="language-switch" aria-label="Landing page language"><a href="{prefix+category_path or './'}" {'aria-current="page"' if not en else ''}>ಕನ್ನಡ</a><a href="{prefix}en/{category_path}" {'aria-current="page"' if en else ''}>English (Roman)</a></nav>'''
  title='Words to return to.' if en else 'ನಿತ್ಯಪಾರಾಯಣದ ಸಂಗಾತಿ.'
  intro='Shlokas and bhajans for daily prayer,<br class="desktop"> quiet moments, and chanting together.' if en else 'ಶ್ಲೋಕಗಳು ಮತ್ತು ಭಜನೆಗಳು — ನಿತ್ಯಪಾರಾಯಣಕ್ಕೆ,<br class="desktop"> ಕುಟುಂಬದೊಂದಿಗೆ ಹಾಡಲು.'
- body=f'''{toggle}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>
-<section aria-label="Song collection"><div class="collection-heading"><h2>{'The songbook' if en else 'ಭಕ್ತಿ ಸಂಗ್ರಹ'}</h2><span>{len(songs)} {u['count']}</span></div><label class="search-label" for="search">{'Find a shloka or bhajan' if en else 'ಶ್ಲೋಕ ಅಥವಾ ಭಜನೆ ಹುಡುಕಿ'}</label><input id="search" type="search" placeholder="{'Search by Kannada or Roman title…' if en else 'ಕನ್ನಡ ಅಥವಾ ರೋಮನ್ ಹೆಸರಿನಿಂದ ಹುಡುಕಿ…'}" autocomplete="off"><div class="cards">{''.join(cards)}</div><p id="empty" hidden>{'No matches. Try another title.' if en else 'ಪಠ್ಯ ಸಿಗಲಿಲ್ಲ. ಬೇರೊಂದು ಹೆಸರು ಹುಡುಕಿ.'}</p></section>
+ body=f'''{toggle}{category_links}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>
+<section aria-label="Song collection"><div class="collection-heading"><h2>{'The songbook' if en else 'ಭಕ್ತಿ ಸಂಗ್ರಹ'}</h2><span>{len(selected)} {u['count']}</span></div><label class="search-label" for="search">{'Find a shloka or bhajan' if en else 'ಶ್ಲೋಕ ಅಥವಾ ಭಜನೆ ಹುಡುಕಿ'}</label><input id="search" type="search" placeholder="{'Search by Kannada or Roman title…' if en else 'ಕನ್ನಡ ಅಥವಾ ರೋಮನ್ ಹೆಸರಿನಿಂದ ಹುಡುಕಿ…'}" autocomplete="off"><div class="cards">{''.join(cards)}</div>{('<p class="category-empty">'+('No entries in this category yet.' if en else 'ಈ ವಿಭಾಗದಲ್ಲಿ ಇನ್ನೂ ಪಠ್ಯಗಳಿಲ್ಲ.')+'</p>') if not selected else ''}<p id="empty" hidden>{'No matches. Try another title.' if en else 'ಪಠ್ಯ ಸಿಗಲಿಲ್ಲ. ಬೇರೊಂದು ಹೆಸರು ಹುಡುಕಿ.'}</p></section>
 <aside class="collection-note">{'A growing collection. Each entry has its own link to bookmark or share. Choose a script on the new multilingual entries.' if en else 'ಇದು ಬೆಳೆಯುವ ಸಂಗ್ರಹ. ಪ್ರತಿಯೊಂದಕ್ಕೂ ತನ್ನದೇ ಲಿಂಕ್ ಇದೆ. ಬಹುಲಿಪಿಯ ಪಠ್ಯಗಳಲ್ಲಿ ನಿಮಗೆ ಬೇಕಾದ ಲಿಪಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.'}</aside>'''
- p=ROOT/'en/index.html' if en else ROOT/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
+ p=ROOT/('en' if en else '')/(collection or '')/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
  p.write_text(shell('A family songbook' if en else 'ಕುಟುಂಬದ ಭಕ್ತಿ ಸಂಗ್ರಹ','Shlokas and bhajans in one growing family collection.' if en else 'ಶ್ಲೋಕ ಮತ್ತು ಭಜನೆಗಳ ಕುಟುಂಬ ಸಂಗ್ರಹ.',body,prefix,'en' if en else 'kn',ui))
 
 def scans(s):
@@ -110,8 +121,10 @@ def render_multiscript(s):
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
 home('kn');home('en')
+for collection in ['daily','weekly','friday']:
+ home('kn',collection);home('en',collection)
 for s in songs:
  assert s['slug'] and all(c in 'abcdefghijklmnopqrstuvwxyz0123456789-' for c in s['slug'])
  if 'versions_file' in s:render_multiscript(s)
  else:render_legacy(s)
-print(f'Built 2 landing pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')
+print(f'Built 8 landing/category pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')

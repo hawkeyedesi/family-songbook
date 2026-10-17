@@ -55,3 +55,9 @@ For these family readings, Devanagari and Roman are deterministically rendered f
 Published Devanagari comparison pages were retrieved for all six named standalone works, including the correct Surya Kavacham and the `ಶ್ರಿಯಾಶ್ಲಿಷ್ಟೋ` Krishna Ashtakam. Daily puja stays the exact seven selected mantra units; it is not replaced by a different generic manual, and missing Vedic accents are not guessed. Chapter jumps use the opening words of each selected mantra.
 
 Current coverage: sixteen Sanskrit/Awadhi works with Kannada/Devanagari/Roman views; Amma Baaramma retains the original Roman-script Kannada bhajan from its photograph. Coverage validation now fails if any other entry lacks a version bundle. Original nine transcription fields remain unchanged. Browser checks cover all 51 routes and original scan URLs in every newly added script view.
+
+# Collection navigation — 2026-10-16
+
+Added schedule collections Daily, Weekly and Friday, with All as the flat view. Current17 entries provisionally assigned Daily as requested for otherwise unclassified items. No Friday/Weekly membership was guessed from shloka names. Both supplied iCloud Safari share links returned Apple's Safari-only notice rather than their tab lists. Native Safari access did not produce a usable group listing. Actual page URLs, labeled by group, have been requested; import remains pending.
+
+Category moves do not change reading URLs. Category views exist in Kannada and English; language switching preserves the group, search works within the group, and real links work without JavaScript. Browser checks cover all8 landing/category routes at320/390/1280px, entry counts, empty categories and deep script-reading links.

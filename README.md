@@ -36,3 +36,10 @@ Texts are a sourced devotional collection, not a critical edition. Notes identif
 
 ## Expand a checked family reading without changing editions
 `scripts/expand_family_scripts.py` renders the seven original Sanskrit readings into Devanagari and IAST while retaining the exact family Kannada edition. It requires the import-only pinned package in `requirements-import.txt`; regular `build.py` remains standard-library only. The importer performs reverse-transliteration checks and records provenance. Regional Kannada lateral-letter normalization for classical Sanskrit is explicit; the original Kannada is never overwritten. Chapter `layout: "verses"` preserves the original verse/selected-mantra units and supports a `number_start` offset.
+
+## Daily, Weekly and Friday collections
+Set an entry's `collection` to `daily`, `weekly` or `friday` in `data/songs.json`, then rebuild. These are reading schedules, separate from the existing Stotra/Bhajan text-type labels. Unassigned entries default to Daily. Import refreshes preserve assigned collection values.
+
+Category pages use real static routes (`/daily/`, `/weekly/`, `/friday/` and the same under `/en/`) and work without JavaScript. All keeps the flat view. Reading URLs remain unchanged when an entry is moved between collections. Language switching preserves the selected collection.
+
+The two iCloud Safari tab-group links supplied on 2026-10-16 are pending source lists: the reader redirects to Apple's Safari-only notice and cannot enumerate their tabs. Do not guess their contents or silently classify existing entries as Friday/Weekly. Until actual page URLs are supplied, current entries remain provisionally Daily and the other two groups are empty.

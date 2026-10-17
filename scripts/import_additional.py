@@ -43,7 +43,7 @@ for slug,source,kn,sa,en,desc,desc_en in configs:
  assert sequences[0]==sequences[1]==sequences[2]
  (ROOT/'data/texts'/f'{slug}.json').write_text(json.dumps(dict(versions=versions),ensure_ascii=False,indent=2)+'\n')
  old=next((s for s in songs if s['slug']==slug),None)
- s=old if old else dict(slug=slug)
+ s=old if old else dict(slug=slug,collection='daily')
  s.update(title=kn,title_en=en,category='ನಾಮಾವಳಿ' if not source else 'ಸ್ತೋತ್ರ',category_en='Namavali' if not source else 'Stotra',language='ಕನ್ನಡ · देवनागरी · Roman' if slug=='hanuman-chalisa' else 'ಕನ್ನಡ · संस्कृतम् · Roman',language_en='Kannada · Devanagari · Roman' if slug=='hanuman-chalisa' else 'Kannada · Sanskrit · Roman',script='kannada',description=desc,description_en=desc_en,versions_file=f'texts/{slug}.json')
  if old:
   s['note']='ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಒಂದೇ ಪ್ರಕಟಿತ ೧೦೮ ನಾಮಗಳ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ಪುಸ್ತಕದ ಕೆಲವು ಹೆಸರುಗಳಿಗೆ ಪಾಠಭೇದಗಳಿವೆ. ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಎರಡೂ ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಉಳಿಸಲಾಗಿದೆ.'
