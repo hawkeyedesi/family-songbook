@@ -5,8 +5,10 @@ ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
 assert len(a)==23 and len(by_slug)==23
 groups={g:[s['slug'] for s in a if g in s.get('collections',[s.get('collection','daily')])] for g in ['daily','weekly','friday','paduka-puja-bhajans']}
-assert {g:len(ls) for g,ls in groups.items()}=={'daily':8,'weekly':4,'friday':12,'paduka-puja-bhajans':0}
+assert {g:len(ls) for g,ls in groups.items()}=={'daily':7,'weekly':4,'friday':12,'paduka-puja-bhajans':1}
 assert all(s.get('collections') and set(s['collections']) <= set(groups) for s in a)
+assert groups['paduka-puja-bhajans']==['amma-baaramma']
+assert 'amma-baaramma' not in groups['daily']
 assert 'lakshmi-nrisimha-karavalamba' in groups['weekly'] and 'lakshmi-nrisimha-karavalamba' in groups['friday']
 expected_friday=['lakshmi-nrisimha-karavalamba','lakshmi-ashtottara-shatanamavali','durga-suktam','sri-suktam','ya-devi-sarva-bhuteshu','sharada-bhujanga-ashtakam','mahishasura-mardini','bhagyada-lakshmi-baramma','mantra-pushpam','hanuman-chalisa','mahalakshmi-ashtakam','kalabhairava-ashtakam']
 assert sorted(groups['friday'],key=lambda slug:by_slug[slug]['collection_order']['friday'])==expected_friday

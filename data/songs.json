@@ -58,9 +58,11 @@
     "description_en": "A devotional invitation to the Divine Mother.",
     "language_en": "Original Roman script",
     "collections": [
-      "daily"
+      "paduka-puja-bhajans"
     ],
-    "collection_order": {}
+    "collection_order": {
+      "paduka-puja-bhajans": 0
+    }
   },
   {
     "slug": "aditya-hridayam",
