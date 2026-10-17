@@ -23,7 +23,7 @@ normalize=lambda t:re.sub(r'\s+',' ',t.replace('|','।')).strip()
 assert version('indic-transliteration')=='2.3.82'
 for s in items:
  slug=s['slug']
- if slug not in config:continue
+ if slug not in config or s.get('published_edition'):continue
  title_sa,url=config[slug];original=['\n'.join(lines) for lines in s['verses']]
  # Kannada regional lateral spellings correspond to classical Sanskrit la here.
  # Verified in the Devanagari comparison edition for Aditya and Karavalamba.

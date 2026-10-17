@@ -20,15 +20,18 @@ def shell(title,description,body,prefix='',lang='kn',ui='kn'):
 <body><header><a class="brand" href="{home or './'}"><span class="symbol" aria-hidden="true">✺</span> {u['brand']}</a><span class="header-note">{u['family']}</span></header>
 <main>{body}</main><footer>{u['footer']}<br><span>{u['footer_note']}</span></footer></body></html>'''
 
+COLLECTIONS={'daily':('ದಿನನಿತ್ಯ','Daily'),'weekly':('ವಾರದ ಪಠ್ಯಗಳು','Weekly'),'friday':('ಶುಕ್ರವಾರ','Friday'),'paduka-puja-bhajans':('ಪಾದುಕಾ ಪೂಜಾ ಭಜನೆಗಳು','Paduka Puja Bhajans')}
+def memberships(s):return s.get('collections',[s.get('collection','daily')])
 def home(ui,collection=None):
  en=ui=='en';prefix='../'*((1 if en else 0)+(1 if collection else 0));u=UI[ui]
- selected=[s for s in songs if collection is None or s.get('collection','daily')==collection]
- collection_labels={'daily':('ದಿನನಿತ್ಯ','Daily'),'weekly':('ವಾರದ ಪಠ್ಯಗಳು','Weekly'),'friday':('ಶುಕ್ರವಾರ','Friday')}
+ selected=[s for s in songs if collection is None or collection in memberships(s)]
+ if collection:selected.sort(key=lambda s:s.get('collection_order',{}).get(collection,999))
+ collection_labels=COLLECTIONS
  group_base=prefix+('en/' if en else '')
  category_links='<nav class="collection-nav" aria-label="Collection categories">'
- for key in [None,'daily','weekly','friday']:
+ for key in [None,*COLLECTIONS]:
   label=('All' if en else 'ಎಲ್ಲವೂ') if key is None else collection_labels[key][1 if en else 0]
-  count=len(songs) if key is None else sum(x.get('collection','daily')==key for x in songs)
+  count=len(songs) if key is None else sum(key in memberships(x) for x in songs)
   target=group_base+(key+'/' if key else '')
   category_links+=f'<a href="{target or './'}" data-collection="{key or 'all'}" '+('aria-current="page"' if key==collection else '')+f'>{label} <span>{count}</span></a>'
  category_links+='</nav>'
@@ -121,10 +124,10 @@ def render_multiscript(s):
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
 home('kn');home('en')
-for collection in ['daily','weekly','friday']:
+for collection in COLLECTIONS:
  home('kn',collection);home('en',collection)
 for s in songs:
  assert s['slug'] and all(c in 'abcdefghijklmnopqrstuvwxyz0123456789-' for c in s['slug'])
  if 'versions_file' in s:render_multiscript(s)
  else:render_legacy(s)
-print(f'Built 8 landing/category pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')
+print(f'Built {2*(1+len(COLLECTIONS))} landing/category pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')

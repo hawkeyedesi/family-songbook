@@ -1,0 +1,256 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಭಾಗ್ಯದ ಲಕ್ಷ್ಮೀ ಬಾರಮ್ಮ",
+      "chapters": [
+        {
+          "id": "pallavi",
+          "title": "ಪಲ್ಲವಿ",
+          "paragraphs": [
+            "ಪಲ್ಲವಿ",
+            "ಭಾಗ್ಯದಾ ಲಕ್ಷ್ಮೀ ಬಾರಮ್ಮಾ",
+            "ನಮ್ಮಮ್ಮ ನೀ ಸೌ-ಭಾಗ್ಯದಾ ಲಕ್ಷ್ಮೀ ಬಾರಮ್ಮಾ ॥"
+          ]
+        },
+        {
+          "id": "charanam-1",
+          "title": "ಚರಣ 1",
+          "paragraphs": [
+            "ಚರಣಂ 1",
+            "ಹೆಜ್ಜೆಯೆ ಮೇಲೇ ಹೆಜ್ಜೆಯ ನಿಕ್ಕುತ",
+            "ಗೆಜ್ಜೆ ಕಾಲ್ಗಳಾ ಧ್ವನಿಯ ತೋರುತ (ಮಾಡುತ)",
+            "ಸಜ್ಜನ ಸಾಧೂ ಪೂಜೆಯ ವೇಳೆಗೆ",
+            "ಮಜ್ಜಿಗೆಯೊಳಗಿನ ಬೆಣ್ಣೆಯಂತೆ ॥",
+            "(ಭಾಗ್ಯದಾ)"
+          ]
+        },
+        {
+          "id": "charanam-2",
+          "title": "ಚರಣ 2",
+          "paragraphs": [
+            "ಚರಣಂ 2",
+            "ಕನಕಾವೃಷ್ಟಿಯ ಕರೆಯುತ ಬಾರೇ",
+            "ಮನಕಾಮನೆಯಾ ಸಿದ್ಧಿಯ ತೋರೆ ।",
+            "ದಿನಕರಕೋಟೀ ತೇಜದಿ ಹೊಳೆಯುವ",
+            "ಜನಕರಾಯನಾ ಕುಮಾರಿ ಬೇಗ ॥",
+            "(ಭಾಗ್ಯದಾ)"
+          ]
+        },
+        {
+          "id": "charanam-3",
+          "title": "ಚರಣ 3",
+          "paragraphs": [
+            "ಚರಣಂ 3",
+            "ಅತ್ತಿತ್ತಗಳದೆ ಭಕ್ತರ ಮನೆಯಲಿ",
+            "ನಿತ್ಯ ಮಹೋತ್ಸವ ನಿತ್ಯ ಸುಮಂಗಲ ।",
+            "ಸತ್ಯವ ತೋರುವ ಸಾಧು ಸಜ್ಜನರ",
+            "ಚಿತ್ತದಿ ಹೊಳೆಯುವ ಪುತ್ಥಳಿ ಬೊಂಬೆ ॥",
+            "(ಭಾಗ್ಯದಾ)"
+          ]
+        },
+        {
+          "id": "charanam-4",
+          "title": "ಚರಣ 4",
+          "paragraphs": [
+            "ಚರಣಂ 4",
+            "ಸಂಖ್ಯೇ ಇಲ್ಲದ ಭಾಗ್ಯವ ಕೊಟ್ಟು",
+            "ಕಂಕಣ ಕೈಯಾ ತಿರುವುತ ಬಾರೆ ।",
+            "ಕುಂಕುಮಾಂಕಿತೆ ಪಂಕಜ ಲೋಚನೆ",
+            "ವೇಂಕಟ ರಮಣನ ಬಿಂಕದರಾಣೀ ॥",
+            "(ಭಾಗ್ಯದಾ)"
+          ]
+        },
+        {
+          "id": "charanam-5",
+          "title": "ಚರಣ 5",
+          "paragraphs": [
+            "ಚರಣಂ 5",
+            "ಸಕ್ಕೆರೆ ತುಪ್ಪದ ಕಾಲುವೆಹರಿಸಿ",
+            "ಶುಕ್ರವಾರದಾ ಪೂಜೆಯ ವೇಳೆಗೆ ।",
+            "ಅಕ್ಕೆರೆಯುಳ್ಳ ಅಳಗಿರಿ ರಂಗನನ",
+            "ಚೊಕ್ಕ ಪುರಂದರ ವಿಠ್ಠಲನ ರಾಣೀ ॥",
+            "(ಭಾಗ್ಯದಾ)"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — ಕನ್ನಡ",
+          "url": "https://vignanam.org/kannada/bhagyada-lakshmi-baramma.html"
+        }
+      ],
+      "source_sha256": "52c298fdd5aa2e79ff8e5c681c16bdce110b818886ec3d8c1d07de3f11a2bc3c"
+    },
+    {
+      "id": "devanagari",
+      "lang": "kn",
+      "label": "देवनागरी",
+      "title": "भाग्यद लक्ष्मी बारम्म",
+      "chapters": [
+        {
+          "id": "pallavi",
+          "title": "पल्लवि",
+          "paragraphs": [
+            "पल्लवि",
+            "भाग्यदा लक्ष्मी बारम्मा",
+            "नम्मम्म नी सौ-भाग्यदा लक्ष्मी बारम्मा ॥"
+          ]
+        },
+        {
+          "id": "charanam-1",
+          "title": "चरण 1",
+          "paragraphs": [
+            "चरणं 1",
+            "हॆज्जॆयॆ मेले हॆज्जॆय निक्कुत",
+            "गॆज्जॆ काल्गला ध्वनिय तोरुत (माडुत)",
+            "सज्जन साधू पूजॆय वेलॆगॆ",
+            "मज्जिगॆयॊलगिन बॆण्णॆयन्तॆ ॥",
+            "(भाग्यदा)"
+          ]
+        },
+        {
+          "id": "charanam-2",
+          "title": "चरण 2",
+          "paragraphs": [
+            "चरणं 2",
+            "कनकावृष्टिय करॆयुत बारे",
+            "मनकामनॆया सिद्धिय तोरॆ ।",
+            "दिनकरकोटी तेजदि हॊलॆयुव",
+            "जनकरायना कुमारि बेग ॥",
+            "(भाग्यदा)"
+          ]
+        },
+        {
+          "id": "charanam-3",
+          "title": "चरण 3",
+          "paragraphs": [
+            "चरणं 3",
+            "अत्तित्तगलदॆ भक्तर मनॆयलि",
+            "नित्य महोत्सव नित्य सुमङ्गल ।",
+            "सत्यव तोरुव साधु सज्जनर",
+            "चित्तदि हॊलॆयुव पुत्थलि बॊम्बॆ ॥",
+            "(भाग्यदा)"
+          ]
+        },
+        {
+          "id": "charanam-4",
+          "title": "चरण 4",
+          "paragraphs": [
+            "चरणं 4",
+            "सङ्ख्ये इल्लद भाग्यव कॊट्टु",
+            "कङ्कण कैया तिरुवुत बारॆ ।",
+            "कुङ्कुमाङ्कितॆ पङ्कज लोचनॆ",
+            "वेङ्कट रमणन बिङ्कदराणी ॥",
+            "(भाग्यदा)"
+          ]
+        },
+        {
+          "id": "charanam-5",
+          "title": "चरण 5",
+          "paragraphs": [
+            "चरणं 5",
+            "सक्कॆरॆ तुप्पद कालुवॆहरिसि",
+            "शुक्रवारदा पूजॆय वेलॆगॆ ।",
+            "अक्कॆरॆयुल्ल अलगिरि रङ्गनन",
+            "चॊक्क पुरन्दर विठ्ठलन राणी ॥",
+            "(भाग्यदा)"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — देवनागरी",
+          "url": "https://vignanam.org/devanagari/bhagyada-lakshmi-baramma.html"
+        }
+      ],
+      "source_sha256": "d797753b0ecf32f60ed3cbbc2994fcec8f10fb0788720c5a37be598136ac88ac"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Bhagyada Lakshmi Baramma",
+      "chapters": [
+        {
+          "id": "pallavi",
+          "title": "Pallavi",
+          "paragraphs": [
+            "pallavi",
+            "bhāgyadā lakṣmī bārammā",
+            "nammamma nī sau-bhāgyadā lakṣmī bārammā ॥"
+          ]
+        },
+        {
+          "id": "charanam-1",
+          "title": "Charanam 1",
+          "paragraphs": [
+            "charaṇaṃ 1",
+            "hejjeye mēlē hejjeya nikkuta",
+            "gejje kālgaḻā dhvaniya tōruta (māḍuta)",
+            "sajjana sādhū pūjeya vēḻege",
+            "majjigeyoḻagina beṇṇeyante ॥",
+            "(bhāgyadā)"
+          ]
+        },
+        {
+          "id": "charanam-2",
+          "title": "Charanam 2",
+          "paragraphs": [
+            "charaṇaṃ 2",
+            "kanakāvṛṣṭiya kareyuta bārē",
+            "manakāmaneyā siddhiya tōre ।",
+            "dinakarakōṭī tējadi hoḻeyuva",
+            "janakarāyanā kumāri bēga ॥",
+            "(bhāgyadā)"
+          ]
+        },
+        {
+          "id": "charanam-3",
+          "title": "Charanam 3",
+          "paragraphs": [
+            "charaṇaṃ 3",
+            "attittagaḻade bhaktara maneyali",
+            "nitya mahōtsava nitya sumaṅgala ।",
+            "satyava tōruva sādhu sajjanara",
+            "chittadi hoḻeyuva putthaḻi bombe ॥",
+            "(bhāgyadā)"
+          ]
+        },
+        {
+          "id": "charanam-4",
+          "title": "Charanam 4",
+          "paragraphs": [
+            "charaṇaṃ 4",
+            "saṅkhyē illada bhāgyava koṭṭu",
+            "kaṅkaṇa kaiyā tiruvuta bāre ।",
+            "kuṅkumāṅkite paṅkaja lōchane",
+            "vēṅkaṭa ramaṇana biṅkadarāṇī ॥",
+            "(bhāgyadā)"
+          ]
+        },
+        {
+          "id": "charanam-5",
+          "title": "Charanam 5",
+          "paragraphs": [
+            "charaṇaṃ 5",
+            "sakkere tuppada kāluveharisi",
+            "śukravāradā pūjeya vēḻege ।",
+            "akkereyuḻḻa aḻagiri raṅganana",
+            "chokka purandara viṭhṭhalana rāṇī ॥",
+            "(bhāgyadā)"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — English (Roman)",
+          "url": "https://vignanam.org/english/bhagyada-lakshmi-baramma.html"
+        }
+      ],
+      "source_sha256": "74fe05f113fbc16313abbfe730bca80b0aa0f601ed60e374d90843c333e38305"
+    }
+  ]
+}

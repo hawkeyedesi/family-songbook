@@ -61,3 +61,22 @@ Current coverage: sixteen Sanskrit/Awadhi works with Kannada/Devanagari/Roman vi
 Added schedule collections Daily, Weekly and Friday, with All as the flat view. Current17 entries provisionally assigned Daily as requested for otherwise unclassified items. No Friday/Weekly membership was guessed from shloka names. Both supplied iCloud Safari share links returned Apple's Safari-only notice rather than their tab lists. Native Safari access did not produce a usable group listing. Actual page URLs, labeled by group, have been requested; import remains pending.
 
 Category moves do not change reading URLs. Category views exist in Kannada and English; language switching preserves the group, search works within the group, and real links work without JavaScript. Browser checks cover all8 landing/category routes at320/390/1280px, entry counts, empty categories and deep script-reading links.
+
+# Confirmed Weekly / Friday lists and bhajan collection — 2026-10-16
+
+Supersedes the provisional grouping above. Kashyap confirmed the supplied four unique URLs as Weekly, then supplied thirteen Friday labels; Mahishasura Mardini and Aigiri Nandini refer to one hymn. Friday therefore contains twelve distinct works, in the requested order. Karavalamba appears in both Weekly and Friday without duplicating its page. Eight other entries remain Daily. Paduka Puja Bhajans is a separate, initially empty Sringeri collection, not a regular chanting schedule.
+
+Six new works imported in all three scripts:
+
+- Ya Devi Sarva Bhuteshu: Vaidika Vignanam's Devi Aparajita Stotram, all 28 numbered verses; compared with the actual Stotra Nidhi Devanagari page.
+- Sharada Bhujanga Prayata Ashtakam: all 8 verses and colophon; compared with Sanskrit Documents' actual HTML. Verses 3 and 5 have variants (`patra/pratna`, `sarga/sanga`); reading consistently retains the Vignanam edition.
+- Mahishasura Mardini / Aigiri Nandini: one entry, all 21 numbered verses, matching sequences in Vignanam's three script versions.
+- Bhagyada Lakshmi Baramma: pallavi and five charanams, not Amma Baaramma. Compared with Bhakti Nidhi's Kannada text; musical/word variants retained, not blended. Source music metadata omitted from the chanting text. This is a Kannada composition by Purandara Dasa; Devanagari is explicitly labelled as script, not a Sanskrit translation.
+- Mantra Pushpam: complete Vignanam three-script text, including opening peace prayer and closing mantras. Stotra Nidhi's actual Kannada page has a more expanded puja compilation (Narayana Sukta and more Gayatris); these extras are not silently combined.
+- Lalitha Sahasra Namavali: genuinely distinct from the existing metrical Sahasranama. Family-shared temple PDF confirmed as a 35-page namavali; its legacy-font extraction is unreliable. Vignanam's extract has malformed/split name rows, so the matched Stotra Nidhi three-script edition is used instead: exactly 1,000 names in each script, every printed decade marker checked against list position. Temple PDF is linked for comparison; it is not falsely presented as a verbatim transcription.
+
+The other two shared PDFs were downloaded and inspected: `lalita.pdf` is the existing Sahasranama stotram, and `saundaryalahari.pdf` is the existing Soundarya Lahari. Linked as comparison editions without copying their annotated PDF editions or creating duplicate pages.
+
+Important Karavalamba correction: the shared Stotra Nidhi edition has 25 verses, not the family scan's 17. The reading now includes all 25 in each of its published three scripts. Pipe punctuation alone is normalized to danda marks. The original family Kannada transcription and scans remain separately visible below; original `verses` data is unchanged. The family transliteration refresh skips entries explicitly marked with a published edition.
+
+Coverage is now 23 unique entries, 67 reading pages, and 10 landing/category pages. Original nine transcription fields are still unchanged. Imports validate complete verse sequences (28 / 8 / 21 / 25), all five bhajan charanams, 1,000 names, source hashes, schedule overlaps and Friday order. This is a sourced family reading collection, not a critical edition or a claim of independent philological proofreading of every syllable.

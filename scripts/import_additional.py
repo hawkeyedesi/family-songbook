@@ -58,5 +58,5 @@ for slug,source,kn,sa,en,desc,desc_en in configs:
   s['note']+=' ಚಾಲೀಸಾದ ಮೂಲಭಾಷೆ ಅವಧಿ; ದೇವನಾಗರಿ ಆಯ್ಕೆಯು ಅದೇ ಮೂಲ ಪದಗಳನ್ನು ತೋರಿಸುತ್ತದೆ, ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ. ಧ್ಯಾನ ಶ್ಲೋಕಗಳನ್ನು ಪ್ರತ್ಯೇಕ ಭಾಗವಾಗಿ ನೀಡಲಾಗಿದೆ.'
   s['note_en']+=' The Chalisa is originally Awadhi: the Devanagari option preserves its words, not a Sanskrit translation. The source’s additional dhyana prayers are a separate section.'
  print(slug,len(sequences[0]),'matched units per script')
-assert len(songs)==17
+assert len({s['slug'] for s in songs})==len(songs)
 (ROOT/'data/songs.json').write_text(json.dumps(songs,ensure_ascii=False,indent=2)+'\n')
