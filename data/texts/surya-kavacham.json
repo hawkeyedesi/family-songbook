@@ -1,0 +1,119 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ಸೂರ್ಯ ಕವಚ ಸ್ತೋತ್ರಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "paragraphs": [
+            "ಶೃಣುಷ್ವ ಮುನಿಶಾರ್ದೂಲ ಸೂರ್ಯಸ್ಯ ಕವಚಂ ಶುಭಮ್ |\nಶರೀರಾರೋಗ್ಯದಂ ದಿವ್ಯಂ ಸರ್ವಸೌಭಾಗ್ಯದಾಯಕಮ್",
+            "ದೇದೀಪ್ಯಮಾನಮುಕುಟಂ ಸ್ಫುರನ್ಮಕರಕುಂಡಲಮ್ |\nಧ್ಯಾತ್ವಾ ಸಹಸ್ರಕಿರಣಂ ಸ್ತೋತ್ರಮೇತದುದೀರಯೇತ್",
+            "ಶಿರೋ ಮೇ ಭಾಸ್ಕರಃ ಪಾತು ಲಲಾಟಂ ಮೇಽಮಿತದ್ಯುತಿಃ |\nನೇತ್ರೇ ದಿನಮಣಿಃ ಪಾತು ಶ್ರವಣೇ ವಾಸರೇಶ್ವರಃ",
+            "ಘ್ರಾಣಂ ಘರ್ಮಘೃಣಿಃ ಪಾತು ವದನಂ ವೇದವಾಹನಃ |\nಜಿಹ್ವಾಂ ಮೇ ಮಾನದಃ ಪಾತು ಕಂಠಂ ಮೇ ಸುರವಂದಿತಃ",
+            "ಸ್ಕಂಧೌ ಪ್ರಭಾಕರಃ ಪಾತು ವಕ್ಷಃ ಪಾತು ಜನಪ್ರಿಯಃ |\nಪಾತು ಪಾದೌ ದ್ವಾದಶಾತ್ಮಾ ಸರ್ವಾಂಗಂ ಸಕಲೇಶ್ವರಃ",
+            "ಸೂರ್ಯರಕ್ಷಾತ್ಮಕಂ ಸ್ತೋತ್ರಂ ಲಿಖಿತ್ವಾ ಭೂರ್ಜಪತ್ರಕೇ |\nದಧಾತಿ ಯಃ ಕರೇ ತಸ್ಯ ವಶಗಾಃ ಸರ್ವಸಿದ್ಧಯಃ",
+            "ಸುಸ್ನಾತೋ ಯೋ ಜಪೇತ್ ಸಮ್ಯಗ್ಯೋಽಧೀತೇ ಸ್ವಸ್ಥಮಾನಸಃ |\nಸ ರೋಗಮುಕ್ತೋ ದೀರ್ಘಾಯುಃ ಸುಖಂ ಪುಷ್ಟಿಂ ಚ ವಿಂದತಿ"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚ",
+          "url": "https://stotranidhi.com/kn/sri-surya-kavacham-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/sri-surya-kavacham-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "a7955881821133b8bed1a4f220a066754c099eae28965a0c6c9032ee8abfa4bc"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "सूर्यकवचस्तोत्रम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "पारिवारिकपाठः",
+          "paragraphs": [
+            "शृणुष्व मुनिशार्दूल सूर्यस्य कवचं शुभम् |\nशरीरारोग्यदं दिव्यं सर्वसौभाग्यदायकम्",
+            "देदीप्यमानमुकुटं स्फुरन्मकरकुंडलम् |\nध्यात्वा सहस्रकिरणं स्तोत्रमेतदुदीरयेत्",
+            "शिरो मे भास्करः पातु ललाटं मेऽमितद्युतिः |\nनेत्रे दिनमणिः पातु श्रवणे वासरेश्वरः",
+            "घ्राणं घर्मघृणिः पातु वदनं वेदवाहनः |\nजिह्वां मे मानदः पातु कंठं मे सुरवंदितः",
+            "स्कंधौ प्रभाकरः पातु वक्षः पातु जनप्रियः |\nपातु पादौ द्वादशात्मा सर्वांगं सकलेश्वरः",
+            "सूर्यरक्षात्मकं स्तोत्रं लिखित्वा भूर्जपत्रके |\nदधाति यः करे तस्य वशगाः सर्वसिद्धयः",
+            "सुस्नातो यो जपेत् सम्यग्योऽधीते स्वस्थमानसः |\nस रोगमुक्तो दीर्घायुः सुखं पुष्टिं च विंदति"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚ",
+          "url": "https://stotranidhi.com/kn/sri-surya-kavacham-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/sri-surya-kavacham-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "9aa9b8252a65c34dc8060b600524c8747dbd758b6d18f5b893124348cb14ac88",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "a7955881821133b8bed1a4f220a066754c099eae28965a0c6c9032ee8abfa4bc",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Surya Kavacham",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Family reading",
+          "paragraphs": [
+            "śṛṇuṣva muniśārdūla sūryasya kavacaṃ śubham |\nśarīrārogyadaṃ divyaṃ sarvasaubhāgyadāyakam",
+            "dedīpyamānamukuṭaṃ sphuranmakarakuṃḍalam |\ndhyātvā sahasrakiraṇaṃ stotrametadudīrayet",
+            "śiro me bhāskaraḥ pātu lalāṭaṃ me'mitadyutiḥ |\nnetre dinamaṇiḥ pātu śravaṇe vāsareśvaraḥ",
+            "ghrāṇaṃ gharmaghṛṇiḥ pātu vadanaṃ vedavāhanaḥ |\njihvāṃ me mānadaḥ pātu kaṃṭhaṃ me suravaṃditaḥ",
+            "skaṃdhau prabhākaraḥ pātu vakṣaḥ pātu janapriyaḥ |\npātu pādau dvādaśātmā sarvāṃgaṃ sakaleśvaraḥ",
+            "sūryarakṣātmakaṃ stotraṃ likhitvā bhūrjapatrake |\ndadhāti yaḥ kare tasya vaśagāḥ sarvasiddhayaḥ",
+            "susnāto yo japet samyagyo'dhīte svasthamānasaḥ |\nsa rogamukto dīrghāyuḥ sukhaṃ puṣṭiṃ ca viṃdati"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚ",
+          "url": "https://stotranidhi.com/kn/sri-surya-kavacham-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/sri-surya-kavacham-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "6fa17a8fca2a3a898d865e9a07c98d02e078373afd0b6ea890cdb18b49f6e883",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "a7955881821133b8bed1a4f220a066754c099eae28965a0c6c9032ee8abfa4bc",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}

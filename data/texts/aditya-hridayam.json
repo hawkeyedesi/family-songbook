@@ -1,0 +1,191 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ಆದಿತ್ಯ ಹೃದಯಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "paragraphs": [
+            "ತತೋ ಯುದ್ಧ ಪರಿಶ್ರಾಂತಂ ಸಮರೇ ಚಿಂತಯಾಸ್ಥಿತಮ್ ।\nರಾವಣಂ ಚಾಗ್ರತೋ ದೃಷ್ಟ್ವಾ ಯುದ್ಧಾಯ ಸಮುಪಸ್ಥಿತಮ್",
+            "ದೈವತೈಶ್ಚ ಸಮಾಗಮ್ಯ ದ್ರಷ್ಟುಮಭ್ಯಾಗತೋ ರಣಮ್ ।\nಉಪಾಗಮ್ಯಾಬ್ರವೀದ್ರಾಮಂ ಅಗಸ್ತ್ಯೋ ಭಗವಾನ್ ಋಷಿಃ",
+            "ರಾಮ ರಾಮ ಮಹಾಬಾಹೋ ಶೃಣು ಗುಹ್ಯಂ ಸನಾತನಮ್ ।\nಯೇನ ಸರ್ವಾನರೀನ್ ವತ್ಸ ಸಮರೇ ವಿಜಯಿಷ್ಯಸಿ",
+            "ಆದಿತ್ಯಹೃದಯಂ ಪುಣ್ಯಂ ಸರ್ವಶತ್ರು-ವಿನಾಶನಮ್ ।\nಜಯಾವಹಂ ಜಪೇನ್ನಿತ್ಯಂ ಅಕ್ಷಯ್ಯಂ ಪರಮಂ ಶಿವಮ್",
+            "ಸರ್ವಮಂಗಳ-ಮಾಂಗಳ್ಯಂ ಸರ್ವಪಾಪ-ಪ್ರಣಾಶನಮ್ ।\nಚಿಂತಾಶೋಕ-ಪ್ರಶಮನಂ ಆಯುರ್ವರ್ಧನಮುತ್ತಮಮ್",
+            "ರಶ್ಮಿಮಂತಂ ಸಮುದ್ಯಂತಂ ದೇವಾಸುರ ನಮಸ್ಕೃತಮ್ ।\nಪೂಜಯಸ್ವ ವಿವಸ್ವಂತಂ ಭಾಸ್ಕರಂ ಭುವನೇಶ್ವರಮ್",
+            "ಸರ್ವದೇವಾತ್ಮಕೋ ಹ್ಯೇಷ ತೇಜಸ್ವೀ ರಶ್ಮಿಭಾವನಃ ।\nಏಷ ದೇವಾಸುರ-ಗಣಾನ್ ಲೋಕಾನ್ ಪಾತಿ ಗಭಸ್ತಿಭಿಃ",
+            "ಏಷ ಬ್ರಹ್ಮಾ ಚ ವಿಷ್ಣುಶ್ಚ ಶಿವಃ ಸ್ಕಂದಃ ಪ್ರಜಾಪತಿಃ ।\nಮಹೇಂದ್ರೋ ಧನದಃ ಕಾಲೋ ಯಮಃ ಸೋಮೋ ಹ್ಯಪಾಂ ಪತಿಃ",
+            "ಪಿತರೋ ವಸವಃ ಸಾಧ್ಯಾ ಹ್ಯಶ್ವಿನೌ ಮರುತೋ ಮನುಃ ।\nವಾಯುರ್ವಹ್ನಿಃ ಪ್ರಜಾಪ್ರಾಣಃ ಋತುಕರ್ತಾ ಪ್ರಭಾಕರಃ",
+            "ಆದಿತ್ಯಃ ಸವಿತಾ ಸೂರ್ಯಃ ಖಗಃ ಪೂಷಾ ಗಭಸ್ತಿಮಾನ್ ।\nಸುವರ್ಣಸದೃಶೋ ಭಾನುಃ ಹಿರಣ್ಯರೇತಾ ದಿವಾಕರಃ",
+            "ಹರಿದಶ್ವಃ ಸಹಸ್ರಾರ್ಚಿಃ ಸಪ್ತಸಪ್ತಿ-ರ್ಮರೀಚಿಮಾನ್ ।\nತಿಮಿರೋನ್ಮಥನಃ ಶಂಭುಃ ತ್ವಷ್ಟಾ ಮಾರ್ತಾಂಡ ಅಂಶುಮಾನ್",
+            "ಹಿರಣ್ಯಗರ್ಭಃ ಶಿಶಿರಃ ತಪನೋ ಭಾಸ್ಕರೋ ರವಿಃ ।\nಅಗ್ನಿಗರ್ಭೋಽದಿತೇಃ ಪುತ್ರಃ ಶಂಖಃ ಶಿಶಿರನಾಶನಃ",
+            "ವ್ಯೋಮನಾಥ-ಸ್ತಮೋಭೇದೀ ಋಗ್ಯಜುಃಸಾಮ-ಪಾರಗಃ ।\nಘನಾವೃಷ್ಟಿರಪಾಂ ಮಿತ್ರಃ ವಿಂಧ್ಯವೀಥೀ ಪ್ಲವಂಗಮಃ",
+            "ಆತಪೀ ಮಂಡಲೀ ಮೃತ್ಯುಃ ಪಿಂಗಳಃ ಸರ್ವತಾಪನಃ ।\nಕವಿರ್ವಿಶ್ವೋ ಮಹಾತೇಜಾ ರಕ್ತಃ ಸರ್ವಭವೋದ್ಭವಃ",
+            "ನಕ್ಷತ್ರ ಗ್ರಹ ತಾರಾಣಾಂ ಅಧಿಪೋ ವಿಶ್ವಭಾವನಃ ।\nತೇಜಸಾಮಪಿ ತೇಜಸ್ವೀ ದ್ವಾದಶಾತ್ಮ-ನ್ನಮೋಽಸ್ತು ತೇ",
+            "ನಮಃ ಪೂರ್ವಾಯ ಗಿರಯೇ ಪಶ್ಚಿಮಾಯಾದ್ರಯೇ ನಮಃ ।\nಜ್ಯೋತಿರ್ಗಣಾನಾಂ ಪತಯೇ ದಿನಾಧಿಪತಯೇ ನಮಃ",
+            "ಜಯಾಯ ಜಯಭದ್ರಾಯ ಹರ್ಯಶ್ವಾಯ ನಮೋ ನಮಃ ।\nನಮೋ ನಮಃ ಸಹಸ್ರಾಂಶೋ ಆದಿತ್ಯಾಯ ನಮೋ ನಮಃ",
+            "ನಮ ಉಗ್ರಾಯ ವೀರಾಯ ಸಾರಂಗಾಯ ನಮೋ ನಮಃ ।\nನಮಃ ಪದ್ಮಪ್ರಬೋಧಾಯ ಮಾರ್ತಾಂಡಾಯ ನಮೋ ನಮಃ",
+            "ಬ್ರಹ್ಮೇಶಾನಾಚ್ಯುತೇಶಾಯ ಸೂರ್ಯಾಯಾದಿತ್ಯ-ವರ್ಚಸೇ ।\nಭಾಸ್ವತೇ ಸರ್ವಭಕ್ಷಾಯ ರೌದ್ರಾಯ ವಪುಷೇ ನಮಃ",
+            "ತಮೋಘ್ನಾಯ ಹಿಮಘ್ನಾಯ ಶತ್ರುಘ್ನಾ-ಯಾಮಿತಾತ್ಮನೇ ।\nಕೃತಘ್ನಘ್ನಾಯ ದೇವಾಯ ಜ್ಯೋತಿಷಾಂ ಪತಯೇ ನಮಃ",
+            "ತಪ್ತ ಚಾಮೀಕರಾಭಾಯ ವಹ್ನಯೇ ವಿಶ್ವಕರ್ಮಣೇ ।\nನಮ-ಸ್ತಮೋಽಭಿನಿಘ್ನಾಯ ರವಯೇ ಲೋಕಸಾಕ್ಷಿಣೇ",
+            "ನಾಶಯತ್ಯೇಷ ವೈ ಭೂತಂ ತದೇವ ಸೃಜತಿ ಪ್ರಭುಃ ।\nಪಾಯತ್ಯೇಷ ತಪತ್ಯೇಷ ವರ್ಷತ್ಯೇಷ ಗಭಸ್ತಿಭಿಃ",
+            "ಏಷ ಸುಪ್ತೇಷು ಜಾಗರ್ತಿ ಭೂತೇಷು ಪರಿನಿಷ್ಠಿತಃ ।\nಏಷ ಏವಾಗ್ನಿಹೋತ್ರಂ ಚ ಫಲಂ ಚೈವಾಗ್ನಿಹೋತ್ರಿಣಾಮ್",
+            "ವೇದಾಶ್ಚ ಕ್ರತವಶ್ಚೈವ ಕ್ರತೂನಾಂ ಫಲಮೇವ ಚ ।\nಯಾನಿ ಕೃತ್ಯಾನಿ ಲೋಕೇಷು ಸರ್ವ ಏಷ ರವಿಃ ಪ್ರಭುಃ",
+            "ಏನ-ಮಾಪತ್ಸು ಕೃಚ್ಛ್ರೇಷು ಕಾಂತಾರೇಷು ಭಯೇಷು ಚ ।\nಕೀರ್ತಯನ್ ಪುರುಷಃ ಕಶ್ಚಿನ್ನಾವಶೀದತಿ ರಾಘವ",
+            "ಪೂಜಯಸ್ವೈನ-ಮೇಕಾಗ್ರಃ ದೇವದೇವಂ ಜಗತ್ಪತಿಮ್ ।\nಏತತ್ ತ್ರಿಗುಣಿತಂ ಜಪ್ತ್ವಾ ಯುದ್ಧೇಷು ವಿಜಯಿಷ್ಯಸಿ",
+            "ಅಸ್ಮಿನ್ ಕ್ಷಣೇ ಮಹಾಬಾಹೋ ರಾವಣಂ ತ್ವಂ ವಧಿಷ್ಯಸಿ ।\nಏವಮುಕ್ತ್ವಾ ತದಾಗಸ್ತ್ಯೋ ಜಗಾಮ ಚ ಯಥಾಗತಮ್",
+            "ಏತಚ್ಛ್ರುತ್ವಾ ಮಹಾತೇಜಾಃ ನಷ್ಟಶೋಕೋಽಭವತ್ತದಾ ।\nಧಾರಯಾಮಾಸ ಸುಪ್ರೀತಃ ರಾಘವಃ ಪ್ರಯತಾತ್ಮವಾನ್",
+            "ಆದಿತ್ಯಂ ಪ್ರೇಕ್ಷ್ಯ ಜಪ್ತ್ವಾ ತು ಪರಂ ಹರ್ಷಮವಾಪ್ತವಾನ್ ।\nತ್ರಿರಾಚಮ್ಯ ಶುಚಿರ್ಭೂತ್ವಾ ಧನುರಾದಾಯ ವೀರ್ಯವಾನ್",
+            "ರಾವಣಂ ಪ್ರೇಕ್ಷ್ಯ ಹೃಷ್ಟಾತ್ಮಾ ಯುದ್ಧಾಯ ಸಮುಪಾಗಮತ್ ।\nಸರ್ವಯತ್ನೇನ ಮಹತಾ ವಧೇ ತಸ್ಯ ಧೃತೋಽಭವತ್",
+            "ಅಥ ರವಿರವದನ್ನಿರೀಕ್ಷ್ಯ ರಾಮಂ ಮುದಿತಮನಾಃ ಪರಮಂ ಪ್ರಹೃಷ್ಯಮಾಣಃ ।\nನಿಶಿಚರಪತಿ ಸಂಕ್ಷಯಂ ವಿದಿತ್ವಾ ಸುರಗಣ ಮಧ್ಯಗತೋ ವಚಸ್ತ್ವರೇತಿ"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/aditya-hrudayam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/aditya-hrudayam.html"
+        }
+      ],
+      "source_sha256": "3620c2768a635f8ed974f9ccb6064e1bdcabe06e139b09388a75d8e2e12c3160"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "आदित्यहृदयम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "पारिवारिकपाठः",
+          "paragraphs": [
+            "ततो युद्ध परिश्रांतं समरे चिंतयास्थितम् ।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्",
+            "दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम् ।\nउपागम्याब्रवीद्रामं अगस्त्यो भगवान् ऋषिः",
+            "राम राम महाबाहो शृणु गुह्यं सनातनम् ।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि",
+            "आदित्यहृदयं पुण्यं सर्वशत्रु-विनाशनम् ।\nजयावहं जपेन्नित्यं अक्षय्यं परमं शिवम्",
+            "सर्वमंगल-मांगल्यं सर्वपाप-प्रणाशनम् ।\nचिंताशोक-प्रशमनं आयुर्वर्धनमुत्तमम्",
+            "रश्मिमंतं समुद्यंतं देवासुर नमस्कृतम् ।\nपूजयस्व विवस्वंतं भास्करं भुवनेश्वरम्",
+            "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः ।\nएष देवासुर-गणान् लोकान् पाति गभस्तिभिः",
+            "एष ब्रह्मा च विष्णुश्च शिवः स्कंदः प्रजापतिः ।\nमहेंद्रो धनदः कालो यमः सोमो ह्यपां पतिः",
+            "पितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः ।\nवायुर्वह्निः प्रजाप्राणः ऋतुकर्ता प्रभाकरः",
+            "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान् ।\nसुवर्णसदृशो भानुः हिरण्यरेता दिवाकरः",
+            "हरिदश्वः सहस्रार्चिः सप्तसप्ति-र्मरीचिमान् ।\nतिमिरोन्मथनः शंभुः त्वष्टा मार्तांड अंशुमान्",
+            "हिरण्यगर्भः शिशिरः तपनो भास्करो रविः ।\nअग्निगर्भोऽदितेः पुत्रः शंखः शिशिरनाशनः",
+            "व्योमनाथ-स्तमोभेदी ऋग्यजुःसाम-पारगः ।\nघनावृष्टिरपां मित्रः विंध्यवीथी प्लवंगमः",
+            "आतपी मंडली मृत्युः पिंगलः सर्वतापनः ।\nकविर्विश्वो महातेजा रक्तः सर्वभवोद्भवः",
+            "नक्षत्र ग्रह ताराणां अधिपो विश्वभावनः ।\nतेजसामपि तेजस्वी द्वादशात्म-न्नमोऽस्तु ते",
+            "नमः पूर्वाय गिरये पश्चिमायाद्रये नमः ।\nज्योतिर्गणानां पतये दिनाधिपतये नमः",
+            "जयाय जयभद्राय हर्यश्वाय नमो नमः ।\nनमो नमः सहस्रांशो आदित्याय नमो नमः",
+            "नम उग्राय वीराय सारंगाय नमो नमः ।\nनमः पद्मप्रबोधाय मार्तांडाय नमो नमः",
+            "ब्रह्मेशानाच्युतेशाय सूर्यायादित्य-वर्चसे ।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः",
+            "तमोघ्नाय हिमघ्नाय शत्रुघ्ना-यामितात्मने ।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः",
+            "तप्त चामीकराभाय वह्नये विश्वकर्मणे ।\nनम-स्तमोऽभिनिघ्नाय रवये लोकसाक्षिणे",
+            "नाशयत्येष वै भूतं तदेव सृजति प्रभुः ।\nपायत्येष तपत्येष वर्षत्येष गभस्तिभिः",
+            "एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः ।\nएष एवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम्",
+            "वेदाश्च क्रतवश्चैव क्रतूनां फलमेव च ।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः",
+            "एन-मापत्सु कृच्छ्रेषु कांतारेषु भयेषु च ।\nकीर्तयन् पुरुषः कश्चिन्नावशीदति राघव",
+            "पूजयस्वैन-मेकाग्रः देवदेवं जगत्पतिम् ।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि",
+            "अस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि ।\nएवमुक्त्वा तदागस्त्यो जगाम च यथागतम्",
+            "एतच्छ्रुत्वा महातेजाः नष्टशोकोऽभवत्तदा ।\nधारयामास सुप्रीतः राघवः प्रयतात्मवान्",
+            "आदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान् ।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान्",
+            "रावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत् ।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत्",
+            "अथ रविरवदन्निरीक्ष्य रामं मुदितमनाः परमं प्रहृष्यमाणः ।\nनिशिचरपति संक्षयं विदित्वा सुरगण मध्यगतो वचस्त्वरेति"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/aditya-hrudayam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/aditya-hrudayam.html"
+        }
+      ],
+      "source_sha256": "c431feafcdada148033c8ba5fc3a6bd157c8fa2e57fcfdb58c3571902f04114c",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "3620c2768a635f8ed974f9ccb6064e1bdcabe06e139b09388a75d8e2e12c3160",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Aditya Hridayam",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Family reading",
+          "paragraphs": [
+            "tato yuddha pariśrāṃtaṃ samare ciṃtayāsthitam |\nrāvaṇaṃ cāgrato dṛṣṭvā yuddhāya samupasthitam",
+            "daivataiśca samāgamya draṣṭumabhyāgato raṇam |\nupāgamyābravīdrāmaṃ agastyo bhagavān ṛṣiḥ",
+            "rāma rāma mahābāho śṛṇu guhyaṃ sanātanam |\nyena sarvānarīn vatsa samare vijayiṣyasi",
+            "ādityahṛdayaṃ puṇyaṃ sarvaśatru-vināśanam |\njayāvahaṃ japennityaṃ akṣayyaṃ paramaṃ śivam",
+            "sarvamaṃgala-māṃgalyaṃ sarvapāpa-praṇāśanam |\nciṃtāśoka-praśamanaṃ āyurvardhanamuttamam",
+            "raśmimaṃtaṃ samudyaṃtaṃ devāsura namaskṛtam |\npūjayasva vivasvaṃtaṃ bhāskaraṃ bhuvaneśvaram",
+            "sarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ |\neṣa devāsura-gaṇān lokān pāti gabhastibhiḥ",
+            "eṣa brahmā ca viṣṇuśca śivaḥ skaṃdaḥ prajāpatiḥ |\nmaheṃdro dhanadaḥ kālo yamaḥ somo hyapāṃ patiḥ",
+            "pitaro vasavaḥ sādhyā hyaśvinau maruto manuḥ |\nvāyurvahniḥ prajāprāṇaḥ ṛtukartā prabhākaraḥ",
+            "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān |\nsuvarṇasadṛśo bhānuḥ hiraṇyaretā divākaraḥ",
+            "haridaśvaḥ sahasrārciḥ saptasapti-rmarīcimān |\ntimironmathanaḥ śaṃbhuḥ tvaṣṭā mārtāṃḍa aṃśumān",
+            "hiraṇyagarbhaḥ śiśiraḥ tapano bhāskaro raviḥ |\nagnigarbho'diteḥ putraḥ śaṃkhaḥ śiśiranāśanaḥ",
+            "vyomanātha-stamobhedī ṛgyajuḥsāma-pāragaḥ |\nghanāvṛṣṭirapāṃ mitraḥ viṃdhyavīthī plavaṃgamaḥ",
+            "ātapī maṃḍalī mṛtyuḥ piṃgalaḥ sarvatāpanaḥ |\nkavirviśvo mahātejā raktaḥ sarvabhavodbhavaḥ",
+            "nakṣatra graha tārāṇāṃ adhipo viśvabhāvanaḥ |\ntejasāmapi tejasvī dvādaśātma-nnamo'stu te",
+            "namaḥ pūrvāya giraye paścimāyādraye namaḥ |\njyotirgaṇānāṃ pataye dinādhipataye namaḥ",
+            "jayāya jayabhadrāya haryaśvāya namo namaḥ |\nnamo namaḥ sahasrāṃśo ādityāya namo namaḥ",
+            "nama ugrāya vīrāya sāraṃgāya namo namaḥ |\nnamaḥ padmaprabodhāya mārtāṃḍāya namo namaḥ",
+            "brahmeśānācyuteśāya sūryāyāditya-varcase |\nbhāsvate sarvabhakṣāya raudrāya vapuṣe namaḥ",
+            "tamoghnāya himaghnāya śatrughnā-yāmitātmane |\nkṛtaghnaghnāya devāya jyotiṣāṃ pataye namaḥ",
+            "tapta cāmīkarābhāya vahnaye viśvakarmaṇe |\nnama-stamo'bhinighnāya ravaye lokasākṣiṇe",
+            "nāśayatyeṣa vai bhūtaṃ tadeva sṛjati prabhuḥ |\npāyatyeṣa tapatyeṣa varṣatyeṣa gabhastibhiḥ",
+            "eṣa supteṣu jāgarti bhūteṣu pariniṣṭhitaḥ |\neṣa evāgnihotraṃ ca phalaṃ caivāgnihotriṇām",
+            "vedāśca kratavaścaiva kratūnāṃ phalameva ca |\nyāni kṛtyāni lokeṣu sarva eṣa raviḥ prabhuḥ",
+            "ena-māpatsu kṛcchreṣu kāṃtāreṣu bhayeṣu ca |\nkīrtayan puruṣaḥ kaścinnāvaśīdati rāghava",
+            "pūjayasvaina-mekāgraḥ devadevaṃ jagatpatim |\netat triguṇitaṃ japtvā yuddheṣu vijayiṣyasi",
+            "asmin kṣaṇe mahābāho rāvaṇaṃ tvaṃ vadhiṣyasi |\nevamuktvā tadāgastyo jagāma ca yathāgatam",
+            "etacchrutvā mahātejāḥ naṣṭaśoko'bhavattadā |\ndhārayāmāsa suprītaḥ rāghavaḥ prayatātmavān",
+            "ādityaṃ prekṣya japtvā tu paraṃ harṣamavāptavān |\ntrirācamya śucirbhūtvā dhanurādāya vīryavān",
+            "rāvaṇaṃ prekṣya hṛṣṭātmā yuddhāya samupāgamat |\nsarvayatnena mahatā vadhe tasya dhṛto'bhavat",
+            "atha raviravadannirīkṣya rāmaṃ muditamanāḥ paramaṃ prahṛṣyamāṇaḥ |\nniśicarapati saṃkṣayaṃ viditvā suragaṇa madhyagato vacastvareti"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/aditya-hrudayam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/aditya-hrudayam.html"
+        }
+      ],
+      "source_sha256": "86174e8e5d43d7389ebd127a1017a2248b8c7ccddd3b7da37bf1eb1152dbe71b",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "3620c2768a635f8ed974f9ccb6064e1bdcabe06e139b09388a75d8e2e12c3160",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}

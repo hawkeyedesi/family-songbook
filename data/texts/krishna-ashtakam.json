@@ -1,0 +1,122 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ಶ್ರೀ ಕೃಷ್ಣಾಷ್ಟಕಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "paragraphs": [
+            "ಶ್ರಿಯಾಶ್ಲಿಷ್ಟೋ ವಿಷ್ಣುಃ ಸ್ಥಿರಚರಗುರುರ್ವೇದವಿಷಯೋ\nಧಿಯಾಂ ಸಾಕ್ಷೀ ಶುದ್ಧೋ ಹರಿರಸುರಹಂತಾಬ್ಜನಯನಃ |\nಗದೀ ಶಂಖೀ ಚಕ್ರೀ ವಿಮಲವನಮಾಲೀ ಸ್ಥಿರರುಚಿಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ಯತಃ ಸರ್ವಂ ಜಾತಂ ವಿಯದನಿಲಮುಖ್ಯಂ ಜಗದಿದಂ\nಸ್ಥಿತೌ ನಿಃಶೇಷಂ ಯೋಽವತಿ ನಿಜಸುಖಾಂಶೇನ ಮಧುಹಾ |\nಲಯೇ ಸರ್ವಂ ಸ್ವಸ್ಮಿನ್ಹರತಿ ಕಲಯಾ ಯಸ್ತು ಸ ವಿಭುಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ಅಸೂನಾಯಮ್ಯಾದೌ ಯಮನಿಯಮಮುಖ್ಯೈಃ ಸುಕರಣೈ-\nರ್ನಿರುದ್ಧ್ಯೇದಂ ಚಿತ್ತಂ ಹೃದಿ ವಿಲಯಮಾನೀಯ ಸಕಲಮ್ |\nಯಮೀಡ್ಯಂ ಪಶ್ಯಂತಿ ಪ್ರವರಮತಯೋ ಮಾಯಿನಮಸೌ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ಪೃಥಿವ್ಯಾಂ ತಿಷ್ಠನ್ಯೋ ಯಮಯತಿ ಮಹೀಂ ವೇದ ನ ಧರಾ\nಯಮಿತ್ಯಾದೌ ವೇದೋ ವದತಿ ಜಗತಾಮೀಶಮಮಲಮ್ |\nನಿಯಂತಾರಂ ಧ್ಯೇಯಂ ಮುನಿಸುರನೃಣಾಂ ಮೋಕ್ಷದಮಸೌ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ಮಹೇಂದ್ರಾದಿರ್ದೇವೋ ಜಯತಿ ದಿತಿಜಾನ್ಯಸ್ಯ ಬಲತೋ\nನ ಕಸ್ಯ ಸ್ವಾತಂತ್ರ್ಯಂ ಕ್ವಚಿದಪಿ ಕೃತೌ ಯತ್ಕೃತಿಮೃತೇ |\nಬಲಾರಾತೇರ್ಗರ್ವಂ ಪರಿಹರತಿ ಯೋಽಸೌ ವಿಜಯಿನಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ವಿನಾ ಯಸ್ಯ ಧ್ಯಾನಂ ವ್ರಜತಿ ಪಶುತಾಂ ಸೂಕರಮುಖಾಂ\nವಿನಾ ಯಸ್ಯ ಜ್ಞಾನಂ ಜನಿಮೃತಿಭಯಂ ಯಾತಿ ಜನತಾ |\nವಿನಾ ಯಸ್ಯ ಸ್ಮೃತ್ಯಾ ಕೃಮಿಶತಜನಿಂ ಯಾತಿ ಸ ವಿಭುಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ನರಾತಂಕೋಟ್ಟಂಕಃ ಶರಣಶರಣೋ ಭ್ರಾಂತಿಹರಣೋ\nಘನಶ್ಯಾಮೋ ವಾಮೋ ವ್ರಜಶಿಶುವಯಸ್ಯೋಽರ್ಜುನಸಖಃ |\nಸ್ವಯಂಭೂರ್ಭೂತಾನಾಂ ಜನಕ ಉಚಿತಾಚಾರಸುಖದಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ",
+            "ಯಥಾ ಧರ್ಮಗ್ಲಾನಿರ್ಭವತಿ ಜಗತಾಂ ಕ್ಷೋಭಕರಣೀ\nತದಾ ಲೋಕಸ್ವಾಮೀ ಪ್ರಕಟಿತವಪುಃ ಸೇತುಧೃದಜಃ |\nಸತಾಂ ಧಾತಾ ಸ್ವಚ್ಛೋ ನಿಗಮಗಣಗೀತೋ ವ್ರಜಪತಿಃ\nಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
+          "url": "https://stotranidhi.com/kn/krishna-ashtakam-adi-shankaracharya-kritam-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/krishnashtakam-2-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "c060c700946a77c10f30175be1ba1bed22be7d45ac6169ae496c9974e24ad858"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "श्रीकृष्णाष्टकम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "पारिवारिकपाठः",
+          "paragraphs": [
+            "श्रियाश्लिष्टो विष्णुः स्थिरचरगुरुर्वेदविषयो\nधियां साक्षी शुद्धो हरिरसुरहंताब्जनयनः |\nगदी शंखी चक्री विमलवनमाली स्थिररुचिः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "यतः सर्वं जातं वियदनिलमुख्यं जगदिदं\nस्थितौ निःशेषं योऽवति निजसुखांशेन मधुहा |\nलये सर्वं स्वस्मिन्हरति कलया यस्तु स विभुः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "असूनायम्यादौ यमनियममुख्यैः सुकरणै-\nर्निरुद्ध्येदं चित्तं हृदि विलयमानीय सकलम् |\nयमीड्यं पश्यंति प्रवरमतयो मायिनमसौ\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "पृथिव्यां तिष्ठन्यो यमयति महीं वेद न धरा\nयमित्यादौ वेदो वदति जगतामीशममलम् |\nनियंतारं ध्येयं मुनिसुरनृणां मोक्षदमसौ\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "महेंद्रादिर्देवो जयति दितिजान्यस्य बलतो\nन कस्य स्वातंत्र्यं क्वचिदपि कृतौ यत्कृतिमृते |\nबलारातेर्गर्वं परिहरति योऽसौ विजयिनः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "विना यस्य ध्यानं व्रजति पशुतां सूकरमुखां\nविना यस्य ज्ञानं जनिमृतिभयं याति जनता |\nविना यस्य स्मृत्या कृमिशतजनिं याति स विभुः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "नरातंकोट्टंकः शरणशरणो भ्रांतिहरणो\nघनश्यामो वामो व्रजशिशुवयस्योऽर्जुनसखः |\nस्वयंभूर्भूतानां जनक उचिताचारसुखदः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः",
+            "यथा धर्मग्लानिर्भवति जगतां क्षोभकरणी\nतदा लोकस्वामी प्रकटितवपुः सेतुधृदजः |\nसतां धाता स्वच्छो निगमगणगीतो व्रजपतिः\nशरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषयः"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
+          "url": "https://stotranidhi.com/kn/krishna-ashtakam-adi-shankaracharya-kritam-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/krishnashtakam-2-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "43c0c630e21ae95267d778f1b5443f5804e1f0a1130b0bf0b172f3614fe97b3e",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "c060c700946a77c10f30175be1ba1bed22be7d45ac6169ae496c9974e24ad858",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Sri Krishna Ashtakam",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Family reading",
+          "paragraphs": [
+            "śriyāśliṣṭo viṣṇuḥ sthiracaragururvedaviṣayo\ndhiyāṃ sākṣī śuddho harirasurahaṃtābjanayanaḥ |\ngadī śaṃkhī cakrī vimalavanamālī sthiraruciḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "yataḥ sarvaṃ jātaṃ viyadanilamukhyaṃ jagadidaṃ\nsthitau niḥśeṣaṃ yo'vati nijasukhāṃśena madhuhā |\nlaye sarvaṃ svasminharati kalayā yastu sa vibhuḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "asūnāyamyādau yamaniyamamukhyaiḥ sukaraṇai-\nrniruddhyedaṃ cittaṃ hṛdi vilayamānīya sakalam |\nyamīḍyaṃ paśyaṃti pravaramatayo māyinamasau\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "pṛthivyāṃ tiṣṭhanyo yamayati mahīṃ veda na dharā\nyamityādau vedo vadati jagatāmīśamamalam |\nniyaṃtāraṃ dhyeyaṃ munisuranṛṇāṃ mokṣadamasau\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "maheṃdrādirdevo jayati ditijānyasya balato\nna kasya svātaṃtryaṃ kvacidapi kṛtau yatkṛtimṛte |\nbalārātergarvaṃ pariharati yo'sau vijayinaḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "vinā yasya dhyānaṃ vrajati paśutāṃ sūkaramukhāṃ\nvinā yasya jñānaṃ janimṛtibhayaṃ yāti janatā |\nvinā yasya smṛtyā kṛmiśatajaniṃ yāti sa vibhuḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "narātaṃkoṭṭaṃkaḥ śaraṇaśaraṇo bhrāṃtiharaṇo\nghanaśyāmo vāmo vrajaśiśuvayasyo'rjunasakhaḥ |\nsvayaṃbhūrbhūtānāṃ janaka ucitācārasukhadaḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ",
+            "yathā dharmaglānirbhavati jagatāṃ kṣobhakaraṇī\ntadā lokasvāmī prakaṭitavapuḥ setudhṛdajaḥ |\nsatāṃ dhātā svaccho nigamagaṇagīto vrajapatiḥ\nśaraṇyo lokeśo mama bhavatu kṛṣṇo'kṣiviṣayaḥ"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
+          "url": "https://stotranidhi.com/kn/krishna-ashtakam-adi-shankaracharya-kritam-in-kannada/"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://stotranidhi.com/hi/krishnashtakam-2-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "090b3e50d4cf054f6a06acfeb361ceeebb5dbf258605f214d16e6aae91419426",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "c060c700946a77c10f30175be1ba1bed22be7d45ac6169ae496c9974e24ad858",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}

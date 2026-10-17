@@ -62,7 +62,7 @@
     "slug": "aditya-hridayam",
     "title": "ಆದಿತ್ಯ ಹೃದಯಮ್",
     "category": "ಸ್ತೋತ್ರ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ಅಗಸ್ತ್ಯ ಮಹರ್ಷಿಗಳು ಶ್ರೀರಾಮನಿಗೆ ಉಪದೇಶಿಸಿದ ಸೂರ್ಯ ಸ್ತೋತ್ರ.",
     "scans": [
@@ -197,7 +197,7 @@
         "ನಿಶಿಚರಪತಿ ಸಂಕ್ಷಯಂ ವಿದಿತ್ವಾ ಸುರಗಣ ಮಧ್ಯಗತೋ ವಚಸ್ತ್ವರೇತಿ"
       ]
     ],
-    "note": "ಮೂಲ ಪುಸ್ತಕದ ೧೬–೧೯ನೇ ಪುಟಗಳೊಂದಿಗೆ ಹೋಲಿಸಿದ ೩೧ ಶ್ಲೋಕಗಳು. ಮೂರನೇ ಚಿತ್ರದ ಶೀರ್ಷಿಕೆ ಬೇರೆ ಇದ್ದರೂ ಅದು ಆದಿತ್ಯ ಹೃದಯದ ಮುಂದುವರಿದ ಭಾಗವಾಗಿದೆ. ಅಂಚಿನಲ್ಲಿ ಮಸುಕಾದ ಪದಗಳನ್ನು ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಠ್ಯದೊಂದಿಗೆ ಪರಿಶೀಲಿಸಲಾಗಿದೆ.",
+    "note": "ಮೂಲ ಪುಸ್ತಕದ ೧೬–೧೯ನೇ ಪುಟಗಳೊಂದಿಗೆ ಹೋಲಿಸಿದ ೩೧ ಶ್ಲೋಕಗಳು. ಮೂರನೇ ಚಿತ್ರದ ಶೀರ್ಷಿಕೆ ಬೇರೆ ಇದ್ದರೂ ಅದು ಆದಿತ್ಯ ಹೃದಯದ ಮುಂದುವರಿದ ಭಾಗವಾಗಿದೆ. ಅಂಚಿನಲ್ಲಿ ಮಸುಕಾದ ಪದಗಳನ್ನು ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಠ್ಯದೊಂದಿಗೆ ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -207,13 +207,17 @@
     "title_en": "Aditya Hridayam",
     "category_en": "Stotra",
     "description_en": "Agastya’s hymn to the Sun, taught to Sri Rama.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/aditya-hridayam.json",
+    "family_note_original": "ಮೂಲ ಪುಸ್ತಕದ ೧೬–೧೯ನೇ ಪುಟಗಳೊಂದಿಗೆ ಹೋಲಿಸಿದ ೩೧ ಶ್ಲೋಕಗಳು. ಮೂರನೇ ಚಿತ್ರದ ಶೀರ್ಷಿಕೆ ಬೇರೆ ಇದ್ದರೂ ಅದು ಆದಿತ್ಯ ಹೃದಯದ ಮುಂದುವರಿದ ಭಾಗವಾಗಿದೆ. ಅಂಚಿನಲ್ಲಿ ಮಸುಕಾದ ಪದಗಳನ್ನು ಪ್ರಕಟಿತ ಕನ್ನಡ ಪಠ್ಯದೊಂದಿಗೆ ಪರಿಶೀಲಿಸಲಾಗಿದೆ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "lakshmi-nrisimha-karavalamba",
     "title": "ಲಕ್ಷ್ಮೀ ನೃಸಿಂಹ ಕರಾವಲಂಬ ಸ್ತೋತ್ರಮ್",
     "category": "ಸ್ತೋತ್ರ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನೃಸಿಂಹನಲ್ಲಿ ಕರಾವಲಂಬವನ್ನು ಬೇಡುವ ಶಂಕರಾಚಾರ್ಯರ ಸ್ತೋತ್ರ.",
     "scans": [
@@ -292,7 +296,7 @@
         "ಯೇ ತತ್ಪಠಂತಿ ಮನುಜಾ ಹರಿಭಕ್ತಿಯುಕ್ತಾ-ಸ್ತೇ ಯಾಂತಿ ತತ್ಪದಸರೋಜಮಖಂಡರೂಪಮ್"
       ]
     ],
-    "note": "ಪುಸ್ತಕದಲ್ಲಿರುವ ೧೭ ಶ್ಲೋಕಗಳ ಪಾಠ. ಕೊನೆಯ ಎರಡು ಶ್ಲೋಕಗಳು ೧೪೮ನೇ ಪುಟದ ಎಡಭಾಗದಲ್ಲಿವೆ. ಪುಸ್ತಕದ ಕನ್ನಡ ಭಾವಾರ್ಥವನ್ನು ಇಲ್ಲಿ ಮರುಬರೆದಿಲ್ಲ; ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ಓದಬಹುದು. ಎಂಟನೇ ಶ್ಲೋಕದಲ್ಲಿ ಪುಸ್ತಕದಲ್ಲಿರುವ “ಪತತೋ ದಯಾಳೋ” ಪಾಠವನ್ನೇ ಉಳಿಸಲಾಗಿದೆ.",
+    "note": "ಪುಸ್ತಕದಲ್ಲಿರುವ ೧೭ ಶ್ಲೋಕಗಳ ಪಾಠ. ಕೊನೆಯ ಎರಡು ಶ್ಲೋಕಗಳು ೧೪೮ನೇ ಪುಟದ ಎಡಭಾಗದಲ್ಲಿವೆ. ಪುಸ್ತಕದ ಕನ್ನಡ ಭಾವಾರ್ಥವನ್ನು ಇಲ್ಲಿ ಮರುಬರೆದಿಲ್ಲ; ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ಓದಬಹುದು. ಎಂಟನೇ ಶ್ಲೋಕದಲ್ಲಿ ಪುಸ್ತಕದಲ್ಲಿರುವ “ಪತತೋ ದಯಾಳೋ” ಪಾಠವನ್ನೇ ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -302,13 +306,17 @@
     "title_en": "Lakshmi Nrisimha Karavalamba",
     "category_en": "Stotra",
     "description_en": "A prayer to Lakshmi Nrisimha for a helping hand.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/lakshmi-nrisimha-karavalamba.json",
+    "family_note_original": "ಪುಸ್ತಕದಲ್ಲಿರುವ ೧೭ ಶ್ಲೋಕಗಳ ಪಾಠ. ಕೊನೆಯ ಎರಡು ಶ್ಲೋಕಗಳು ೧೪೮ನೇ ಪುಟದ ಎಡಭಾಗದಲ್ಲಿವೆ. ಪುಸ್ತಕದ ಕನ್ನಡ ಭಾವಾರ್ಥವನ್ನು ಇಲ್ಲಿ ಮರುಬರೆದಿಲ್ಲ; ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ಓದಬಹುದು. ಎಂಟನೇ ಶ್ಲೋಕದಲ್ಲಿ ಪುಸ್ತಕದಲ್ಲಿರುವ “ಪತತೋ ದಯಾಳೋ” ಪಾಠವನ್ನೇ ಉಳಿಸಲಾಗಿದೆ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "durga-suktam",
     "title": "ದುರ್ಗಾ ಸೂಕ್ತಮ್",
     "category": "ಸೂಕ್ತ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ದುರ್ಗಾದೇವಿಯ ಶರಣಾಗತಿಯನ್ನು ಸಾರುವ ವೈದಿಕ ಸೂಕ್ತ.",
     "scans": [
@@ -352,7 +360,7 @@
         "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
       ]
     ],
-    "note": "ಎರಡೂ ಮೂಲ ಪುಟಗಳು ಮತ್ತು ಅದೇ ವೈದಿಕ ವಿಜ್ಞಾನ ಮೂಲದೊಂದಿಗೆ ಹೋಲಿಸಿದ ಪಠ್ಯ. ಓದಲು ಅನುಕೂಲವಾಗುವಂತೆ ಸ್ವರಚಿಹ್ನೆಗಳಿಲ್ಲದ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ವೇದಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷ ಉಚ್ಚಾರಣಾ ಗುರುತುಗಳಿಗಾಗಿ ಮೂಲ ಪುಟಗಳನ್ನು ನೋಡಿ.",
+    "note": "ಎರಡೂ ಮೂಲ ಪುಟಗಳು ಮತ್ತು ಅದೇ ವೈದಿಕ ವಿಜ್ಞಾನ ಮೂಲದೊಂದಿಗೆ ಹೋಲಿಸಿದ ಪಠ್ಯ. ಓದಲು ಅನುಕೂಲವಾಗುವಂತೆ ಸ್ವರಚಿಹ್ನೆಗಳಿಲ್ಲದ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ವೇದಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷ ಉಚ್ಚಾರಣಾ ಗುರುತುಗಳಿಗಾಗಿ ಮೂಲ ಪುಟಗಳನ್ನು ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -362,13 +370,17 @@
     "title_en": "Durga Suktam",
     "category_en": "Vedic hymn",
     "description_en": "The Vedic hymn of refuge in Durga.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/durga-suktam.json",
+    "family_note_original": "ಎರಡೂ ಮೂಲ ಪುಟಗಳು ಮತ್ತು ಅದೇ ವೈದಿಕ ವಿಜ್ಞಾನ ಮೂಲದೊಂದಿಗೆ ಹೋಲಿಸಿದ ಪಠ್ಯ. ಓದಲು ಅನುಕೂಲವಾಗುವಂತೆ ಸ್ವರಚಿಹ್ನೆಗಳಿಲ್ಲದ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ವೇದಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷ ಉಚ್ಚಾರಣಾ ಗುರುತುಗಳಿಗಾಗಿ ಮೂಲ ಪುಟಗಳನ್ನು ನೋಡಿ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "sri-suktam",
     "title": "ಶ್ರೀಸೂಕ್ತಮ್",
     "category": "ಸೂಕ್ತ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ಮಹಾಲಕ್ಷ್ಮಿಯನ್ನು ಸ್ತುತಿಸುವ ಶ್ರೀಸೂಕ್ತ ಮತ್ತು ಪುಸ್ತಕದಲ್ಲಿರುವ ಸಮಾಪನ ಮಂತ್ರಗಳು.",
     "scans": [
@@ -447,7 +459,7 @@
         "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
       ]
     ],
-    "note": "ಮೂಲ ಪುಸ್ತಕದ ೫೬–೫೭ನೇ ಪುಟಗಳ ಕ್ರಮವನ್ನು ಅನುಸರಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಪುಟದ ಪ್ರತ್ಯೇಕ ಪುರುಷಸೂಕ್ತದ ಸಾಲುಗಳನ್ನು ಸೇರಿಸಿಲ್ಲ. ೧೩–೧೪ನೇ ಮಂತ್ರಗಳಲ್ಲಿ ಪುಸ್ತಕದ ಸೂರ್ಯ–ಚಂದ್ರ ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಪ್ರಕಟಿತ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಪಾಠಭೇದಗಳಿವೆ. ಸ್ವರಚಿಹ್ನೆಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
+    "note": "ಮೂಲ ಪುಸ್ತಕದ ೫೬–೫೭ನೇ ಪುಟಗಳ ಕ್ರಮವನ್ನು ಅನುಸರಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಪುಟದ ಪ್ರತ್ಯೇಕ ಪುರುಷಸೂಕ್ತದ ಸಾಲುಗಳನ್ನು ಸೇರಿಸಿಲ್ಲ. ೧೩–೧೪ನೇ ಮಂತ್ರಗಳಲ್ಲಿ ಪುಸ್ತಕದ ಸೂರ್ಯ–ಚಂದ್ರ ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಪ್ರಕಟಿತ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಪಾಠಭೇದಗಳಿವೆ. ಸ್ವರಚಿಹ್ನೆಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -457,13 +469,17 @@
     "title_en": "Sri Suktam",
     "category_en": "Vedic hymn",
     "description_en": "The hymn to Mahalakshmi, with the book’s closing prayers.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/sri-suktam.json",
+    "family_note_original": "ಮೂಲ ಪುಸ್ತಕದ ೫೬–೫೭ನೇ ಪುಟಗಳ ಕ್ರಮವನ್ನು ಅನುಸರಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಪುಟದ ಪ್ರತ್ಯೇಕ ಪುರುಷಸೂಕ್ತದ ಸಾಲುಗಳನ್ನು ಸೇರಿಸಿಲ್ಲ. ೧೩–೧೪ನೇ ಮಂತ್ರಗಳಲ್ಲಿ ಪುಸ್ತಕದ ಸೂರ್ಯ–ಚಂದ್ರ ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಪ್ರಕಟಿತ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಪಾಠಭೇದಗಳಿವೆ. ಸ್ವರಚಿಹ್ನೆಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "krishna-ashtakam",
     "title": "ಶ್ರೀ ಕೃಷ್ಣಾಷ್ಟಕಮ್",
     "category": "ಸ್ತೋತ್ರ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "“ಶ್ರಿಯಾಶ್ಲಿಷ್ಟೋ ವಿಷ್ಣುಃ” ಎಂದು ಆರಂಭವಾಗುವ ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ.",
     "scans": [
@@ -519,7 +535,7 @@
         "ಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ"
       ]
     ],
-    "note": "ಕಳುಹಿಸಿದ ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿ ಮೊದಲ ಎರಡು ಶ್ಲೋಕಗಳು ಮಾತ್ರ ಇವೆ. ಅವುಗಳನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಪೂರ್ಣ ಪಾರಾಯಣಕ್ಕಾಗಿ ಉಳಿದ ಆರು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಇದೇ ಕೃಷ್ಣಾಷ್ಟಕದ ಕನ್ನಡ ಪಠ್ಯದಿಂದ ಸೇರಿಸಲಾಗಿದೆ.",
+    "note": "ಕಳುಹಿಸಿದ ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿ ಮೊದಲ ಎರಡು ಶ್ಲೋಕಗಳು ಮಾತ್ರ ಇವೆ. ಅವುಗಳನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಪೂರ್ಣ ಪಾರಾಯಣಕ್ಕಾಗಿ ಉಳಿದ ಆರು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಇದೇ ಕೃಷ್ಣಾಷ್ಟಕದ ಕನ್ನಡ ಪಠ್ಯದಿಂದ ಸೇರಿಸಲಾಗಿದೆ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
@@ -529,13 +545,17 @@
     "title_en": "Sri Krishna Ashtakam",
     "category_en": "Stotra",
     "description_en": "Shankaracharya’s hymn beginning “Shriyaashlishto Vishnuh”.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/krishna-ashtakam.json",
+    "family_note_original": "ಕಳುಹಿಸಿದ ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿ ಮೊದಲ ಎರಡು ಶ್ಲೋಕಗಳು ಮಾತ್ರ ಇವೆ. ಅವುಗಳನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಪೂರ್ಣ ಪಾರಾಯಣಕ್ಕಾಗಿ ಉಳಿದ ಆರು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಇದೇ ಕೃಷ್ಣಾಷ್ಟಕದ ಕನ್ನಡ ಪಠ್ಯದಿಂದ ಸೇರಿಸಲಾಗಿದೆ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "surya-kavacham",
     "title": "ಸೂರ್ಯ ಕವಚ ಸ್ತೋತ್ರಮ್",
     "category": "ಸ್ತೋತ್ರ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ಯಾಜ್ಞವಲ್ಕ್ಯ ಮುನಿಗಳ ಸೂರ್ಯ ಕವಚ — ಏಳು ಶ್ಲೋಕಗಳ ಪಾಠ.",
     "scans": [
@@ -571,7 +591,7 @@
         "ಸ ರೋಗಮುಕ್ತೋ ದೀರ್ಘಾಯುಃ ಸುಖಂ ಪುಷ್ಟಿಂ ಚ ವಿಂದತಿ"
       ]
     ],
-    "note": "ಮೂಲ ಚಿತ್ರದ ಏಳು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಇದೇ ಹೆಸರಿನ ದೀರ್ಘ ವಜ್ರಪಂಜರ ಕವಚವನ್ನು ಇದಕ್ಕೆ ಬದಲಾಗಿ ಬಳಸಿಲ್ಲ.",
+    "note": "ಮೂಲ ಚಿತ್ರದ ಏಳು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಇದೇ ಹೆಸರಿನ ದೀರ್ಘ ವಜ್ರಪಂಜರ ಕವಚವನ್ನು ಇದಕ್ಕೆ ಬದಲಾಗಿ ಬಳಸಿಲ್ಲ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚ",
@@ -581,7 +601,11 @@
     "title_en": "Surya Kavacham",
     "category_en": "Stotra",
     "description_en": "Yajnavalkya’s seven-verse hymn to Surya.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/surya-kavacham.json",
+    "family_note_original": "ಮೂಲ ಚಿತ್ರದ ಏಳು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಯಾಜ್ಞವಲ್ಕ್ಯ ಕೃತ ಸೂರ್ಯ ಕವಚದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಇದೇ ಹೆಸರಿನ ದೀರ್ಘ ವಜ್ರಪಂಜರ ಕವಚವನ್ನು ಇದಕ್ಕೆ ಬದಲಾಗಿ ಬಳಸಿಲ್ಲ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below."
   },
   {
     "slug": "lakshmi-ashtottara-shatanamavali",
@@ -943,7 +967,7 @@
     "slug": "daily-puja-mantras",
     "title": "ನಿತ್ಯಪೂಜಾ ಮಂತ್ರಗಳು",
     "category": "ಮಂತ್ರಗಳು",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
     "description": "ಪೂಜಾವಿಧಿಯ ೬೫ನೇ ಪುಟದಲ್ಲಿರುವ ಮಂತ್ರಗಳ ಸಂಗ್ರಹ.",
     "scans": [
@@ -982,7 +1006,7 @@
         "ಸರ್ವಸ್ಯಾಪ್ತ್ಯೈ ಸರ್ವಸ್ಯ ಜಿತ್ಯೈ ಸರ್ವಮೇವ ತೇನಾಪ್ನೋತಿ ಸರ್ವಂ ಜಯತಿ ॥"
       ]
     ],
-    "note": "ಪುಸ್ತಕದ ೬೫ನೇ ಪುಟದ ಕ್ರಮದಲ್ಲಿರುವ ಏಳು ಮಂತ್ರಭಾಗಗಳು. ಕೆಂಪು ಗುರುತು ಹಾಕಿರುವ ಭಾಗಗಳ ಜೊತೆಗೆ ಅದೇ ಪುಟದ ಉಳಿದ ಮಂತ್ರಗಳನ್ನೂ ಉಳಿಸಲಾಗಿದೆ. ಓದಲು ಅನುಕೂಲವಾದ ಸ್ವರಚಿಹ್ನೆರಹಿತ ಪಾಠ; ವೇದಸ್ವರಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
+    "note": "ಪುಸ್ತಕದ ೬೫ನೇ ಪುಟದ ಕ್ರಮದಲ್ಲಿರುವ ಏಳು ಮಂತ್ರಭಾಗಗಳು. ಕೆಂಪು ಗುರುತು ಹಾಕಿರುವ ಭಾಗಗಳ ಜೊತೆಗೆ ಅದೇ ಪುಟದ ಉಳಿದ ಮಂತ್ರಗಳನ್ನೂ ಉಳಿಸಲಾಗಿದೆ. ಓದಲು ಅನುಕೂಲವಾದ ಸ್ವರಚಿಹ್ನೆರಹಿತ ಪಾಠ; ವೇದಸ್ವರಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ತದ್ವಿಷ್ಣೋಃ ಮತ್ತು ಕುಬೇರ ಮಂತ್ರಗಳು",
@@ -996,7 +1020,11 @@
     "title_en": "Daily Puja Mantras",
     "category_en": "Mantras",
     "description_en": "Seven mantra passages from the family’s puja book.",
-    "language_en": "Sanskrit · Kannada script"
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/daily-puja-mantras.json",
+    "family_note_original": "ಪುಸ್ತಕದ ೬೫ನೇ ಪುಟದ ಕ್ರಮದಲ್ಲಿರುವ ಏಳು ಮಂತ್ರಭಾಗಗಳು. ಕೆಂಪು ಗುರುತು ಹಾಕಿರುವ ಭಾಗಗಳ ಜೊತೆಗೆ ಅದೇ ಪುಟದ ಉಳಿದ ಮಂತ್ರಗಳನ್ನೂ ಉಳಿಸಲಾಗಿದೆ. ಓದಲು ಅನುಕೂಲವಾದ ಸ್ವರಚಿಹ್ನೆರಹಿತ ಪಾಠ; ವೇದಸ್ವರಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ನೋಡಿ.",
+    "family_note_original_en": "",
+    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below. These are the same seven selected mantra passages from the family page, not an expanded daily-puja manual. Vedic accent marks remain in the scan rather than being reconstructed."
   },
   {
     "references": [

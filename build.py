@@ -45,6 +45,7 @@ def scans(s):
 
 def refs_html(refs,ui):
  if not refs:return ''
+ refs=list({r['url']:r for r in reversed(refs)}.values())[::-1]
  return '<h3>'+UI[ui]['references']+'</h3><ul>'+''.join(f'<li><a href="{e(r["url"],quote=True)}" target="_blank" rel="noopener">{e(r["label"])}</a></li>' for r in refs)+'</ul>'
 
 def toolbar(ui):
@@ -68,6 +69,10 @@ def render_legacy(s):
 HEADINGS=re.compile(r'^(?:ಕರನ್ಯಾಸಃ|ಅಂಗನ್ಯಾಸಃ|ಧ್ಯಾನಂ|ಹರಿಃ ಓಂ|ಪೂರ್ವ ಪೀಠಿಕಾ|ಉತ್ತರ ಪೀಠಿಕಾ|ಫಲಶ್ರುತಿಃ|ಸ್ತೋತ್ರಂ|करन्यासः|अंगन्यासः|ध्यानं|हरिः ॐ|पूर्व पीठिका|उत्तर पीठिका|फलश्रुतिः|स्तोत्रं|karanyāsaḥ|aṅganyāsaḥ|dhyānaṃ|hariḥ ōṃ|pūrva pīṭhikā|uttara pīṭhikā|phalaśrutiḥ|stōtraṃ)$')
 def render_chapter(c):
  out=[f'<section class="text-chapter" id="{c["id"]}"><h2>{e(c["title"])}</h2>'];pending=[];occ={}
+ if c.get('layout')=='verses':
+  for i,p in enumerate(c['paragraphs'],c.get('number_start',1)):
+   out.append(f'<section class="verse" id="verse-{i}" data-verse="{i}"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(line) for line in p.splitlines())}</p></section>')
+  return ''.join(out)+'</section>'
  if c.get('layout')=='names':
   for i,p in enumerate(c['paragraphs'],1):
    display=re.sub(r'([।|])\s*[0-9೦-೯०-९]+\s*$',r'\1',p)

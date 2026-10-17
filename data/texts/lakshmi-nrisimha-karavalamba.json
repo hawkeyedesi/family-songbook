@@ -1,0 +1,149 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ಲಕ್ಷ್ಮೀ ನೃಸಿಂಹ ಕರಾವಲಂಬ ಸ್ತೋತ್ರಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "paragraphs": [
+            "ಶ್ರೀಮತ್ಪಯೋನಿಧಿನಿಕೇತನ ಚಕ್ರಪಾಣೇ ಭೋಗೀಂದ್ರಭೋಗಮಣಿರಾಜಿತ ಪುಣ್ಯಮೂರ್ತೇ ।\nಯೋಗೀಶ ಶಾಶ್ವತ ಶರಣ್ಯ ಭವಾಬ್ಧಿಪೋತ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಬ್ರಹ್ಮೇಂದ್ರರುದ್ರಮರುದರ್ಕಕಿರೀಟಕೋಟಿ ಸಂಘಟ್ಟಿತಾಂಘ್ರಿಕಮಲಾಮಲಕಾಂತಿಕಾಂತ ।\nಲಕ್ಷ್ಮೀಲಸತ್ಕುಚಸರೋರುಹರಾಜಹಂಸ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರದಾವದಹನಾಕರಭೀಕರೋರು-ಜ್ವಾಲಾವಳೀಭಿರತಿದಗ್ಧತನೂರುಹಸ್ಯ ।\nತ್ವತ್ಪಾದಪದ್ಮಸರಸೀರುಹಮಾಗತಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಜಾಲಪತಿತಸ್ಯ ಜಗನ್ನಿವಾಸ ಸರ್ವೇಂದ್ರಿಯಾರ್ಥ ಬಡಿಶಾಗ್ರ ಝಷೋಪಮಸ್ಯ ।\nಪ್ರೋತ್ಕಂಪಿತ ಪ್ರಚುರತಾಲುಕ ಮಸ್ತಕಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಕೂಪಮತಿಘೋರಮಗಾಧಮೂಲಂ ಸಂಪ್ರಾಪ್ಯ ದುಃಖಶತಸರ್ಪಸಮಾಕುಲಸ್ಯ ।\nದೀನಸ್ಯ ದೇವ ಕೃಪಯಾ ಪದಮಾಗತಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಭೀಕರಕರೀಂದ್ರಕರಾಭಿಘಾತ ನಿಷ್ಪೀಡ್ಯಮಾನವಪುಷಃ ಸಕಲಾರ್ತಿನಾಶ ।\nಪ್ರಾಣಪ್ರಯಾಣಭವಭೀತಿಸಮಾಕುಲಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಸರ್ಪವಿಷದಿಗ್ಧಮಹೋಗ್ರತೀವ್ರ ದಂಷ್ಟ್ರಾಗ್ರಕೋಟಿಪರಿದಷ್ಟವಿನಷ್ಟಮೂರ್ತೇಃ ।\nನಾಗಾರಿವಾಹನ ಸುಧಾಬ್ಧಿನಿವಾಸ ಶೌರೇ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರವೃಕ್ಷಮಘಬೀಜಮನಂತಕರ್ಮ-ಶಾಖಾಯುತಂ ಕರಣಪತ್ರಮನಂಗಪುಷ್ಪಮ್ ।\nಆರುಹ್ಯ ದುಃಖಫಲಿತಂ ಪತತೋ ದಯಾಳೋ  ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಸಾಗರವಿಶಾಲಕರಾಳಕಾಳ ನಕ್ರಗ್ರಹಗ್ರಸಿತನಿಗ್ರಹವಿಗ್ರಹಸ್ಯ ।\nವ್ಯಗ್ರಸ್ಯ ರಾಗನಿಚಯೋರ್ಮಿನಿಪೀಡಿತಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಸಾಗರನಿಮಜ್ಜನಮುಹ್ಯಮಾನಂ ದೀನಂ ವಿಲೋಕಯ ವಿಭೋ ಕರುಣಾನಿಧೇ ಮಾಮ್ ।\nಪ್ರಹ್ಲಾದಖೇದಪರಿಹಾರಪರಾವತಾರ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಸಂಸಾರಘೋರಗಹನೇ ಚರತೋ ಮುರಾರೇ ಮಾರೋಗ್ರಭೀಕರಮೃಗಪ್ರಚುರಾರ್ದಿತಸ್ಯ ।\nಆರ್ತಸ್ಯ ಮತ್ಸರನಿದಾಘಸುದುಃಖಿತಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಬದ್ಧ್ವಾ ಗಲೇ ಯಮಭಟಾ ಬಹು ತರ್ಜಯಂತಃ ಕರ್ಷಂತಿ ಯತ್ರ ಭವಪಾಶಶತೈರ್ಯುತಂ ಮಾಮ್ ।\nಏಕಾಕಿನಂ ಪರವಶಂ ಚಕಿತಂ ದಯಾಳೋ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಲಕ್ಷ್ಮೀಪತೇ ಕಮಲನಾಭ ಸುರೇಶ ವಿಷ್ಣೋ ಯಜ್ಞೇಶ ಯಜ್ಞ ಮಧುಸೂದನ ವಿಶ್ವರೂಪ ।\nಬ್ರಹ್ಮಣ್ಯ ಕೇಶವ ಜನಾರ್ದನ ವಾಸುದೇವ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಏಕೇನ ಚಕ್ರಮಪರೇಣ ಕರೇಣ ಶಂಖ-ಮನ್ಯೇನ ಸಿಂಧುತನಯಾಮವಲಂಬ್ಯ ತಿಷ್ಠನ್ ।\nವಾಮೇತರೇಣ ವರದಾಭಯಪದ್ಮಚಿಹ್ನಂ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಅಂಧಸ್ಯ ಮೇ ಹೃತವಿವೇಕಮಹಾಧನಸ್ಯ ಚೋರೈರ್ಮಹಾಬಲಿಭಿರಿಂದ್ರಿಯನಾಮಧೇಯೈಃ ।\nಮೋಹಾಂಧಕಾರಕುಹರೇ ವಿನಿಪಾತಿತಸ್ಯ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಪ್ರಹ್ಲಾದನಾರದಪರಾಶರಪುಂಡರೀಕ-ವ್ಯಾಸಾದಿಭಾಗವತಪುಂಗವಹೃನ್ನಿವಾಸ ।\nಭಕ್ತಾನುರಕ್ತಪರಿಪಾಲನಪಾರಿಜಾತ ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಮಮ ದೇಹಿ ಕರಾವಲಂಬಮ್",
+            "ಲಕ್ಷ್ಮೀನೃಸಿಂಹಚರಣಾಬ್ಜಮಧುವ್ರತೇನ ಸ್ತೋತ್ರಂ ಕೃತಂ ಶುಭಕರಂ ಭುವಿ ಶಂಕರೇಣ ।\nಯೇ ತತ್ಪಠಂತಿ ಮನುಜಾ ಹರಿಭಕ್ತಿಯುಕ್ತಾ-ಸ್ತೇ ಯಾಂತಿ ತತ್ಪದಸರೋಜಮಖಂಡರೂಪಮ್"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/lakshmi-nrusimha-karavalamba-stotram.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/lakshmi-nrusimha-karavalamba-stotram.html"
+        }
+      ],
+      "source_sha256": "3a83362a90d7b778c3b0b8ac01310a178e422c0f567e02ac9d3c6026c81df3e8"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "श्रीलक्ष्मीनृसिंहकरावलम्बस्तोत्रम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "पारिवारिकपाठः",
+          "paragraphs": [
+            "श्रीमत्पयोनिधिनिकेतन चक्रपाणे भोगींद्रभोगमणिराजित पुण्यमूर्ते ।\nयोगीश शाश्वत शरण्य भवाब्धिपोत लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "ब्रह्मेंद्ररुद्रमरुदर्ककिरीटकोटि संघट्टितांघ्रिकमलामलकांतिकांत ।\nलक्ष्मीलसत्कुचसरोरुहराजहंस लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारदावदहनाकरभीकरोरु-ज्वालावलीभिरतिदग्धतनूरुहस्य ।\nत्वत्पादपद्मसरसीरुहमागतस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारजालपतितस्य जगन्निवास सर्वेंद्रियार्थ बडिशाग्र झषोपमस्य ।\nप्रोत्कंपित प्रचुरतालुक मस्तकस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारकूपमतिघोरमगाधमूलं संप्राप्य दुःखशतसर्पसमाकुलस्य ।\nदीनस्य देव कृपया पदमागतस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारभीकरकरींद्रकराभिघात निष्पीड्यमानवपुषः सकलार्तिनाश ।\nप्राणप्रयाणभवभीतिसमाकुलस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारसर्पविषदिग्धमहोग्रतीव्र दंष्ट्राग्रकोटिपरिदष्टविनष्टमूर्तेः ।\nनागारिवाहन सुधाब्धिनिवास शौरे लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारवृक्षमघबीजमनंतकर्म-शाखायुतं करणपत्रमनंगपुष्पम् ।\nआरुह्य दुःखफलितं पततो दयालो  लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारसागरविशालकरालकाल नक्रग्रहग्रसितनिग्रहविग्रहस्य ।\nव्यग्रस्य रागनिचयोर्मिनिपीडितस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारसागरनिमज्जनमुह्यमानं दीनं विलोकय विभो करुणानिधे माम् ।\nप्रह्लादखेदपरिहारपरावतार लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "संसारघोरगहने चरतो मुरारे मारोग्रभीकरमृगप्रचुरार्दितस्य ।\nआर्तस्य मत्सरनिदाघसुदुःखितस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "बद्ध्वा गले यमभटा बहु तर्जयंतः कर्षंति यत्र भवपाशशतैर्युतं माम् ।\nएकाकिनं परवशं चकितं दयालो लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "लक्ष्मीपते कमलनाभ सुरेश विष्णो यज्ञेश यज्ञ मधुसूदन विश्वरूप ।\nब्रह्मण्य केशव जनार्दन वासुदेव लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "एकेन चक्रमपरेण करेण शंख-मन्येन सिंधुतनयामवलंब्य तिष्ठन् ।\nवामेतरेण वरदाभयपद्मचिह्नं लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "अंधस्य मे हृतविवेकमहाधनस्य चोरैर्महाबलिभिरिंद्रियनामधेयैः ।\nमोहांधकारकुहरे विनिपातितस्य लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "प्रह्लादनारदपराशरपुंडरीक-व्यासादिभागवतपुंगवहृन्निवास ।\nभक्तानुरक्तपरिपालनपारिजात लक्ष्मीनृसिंह मम देहि करावलंबम्",
+            "लक्ष्मीनृसिंहचरणाब्जमधुव्रतेन स्तोत्रं कृतं शुभकरं भुवि शंकरेण ।\nये तत्पठंति मनुजा हरिभक्तियुक्ता-स्ते यांति तत्पदसरोजमखंडरूपम्"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/lakshmi-nrusimha-karavalamba-stotram.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/lakshmi-nrusimha-karavalamba-stotram.html"
+        }
+      ],
+      "source_sha256": "38784776ecf228ad5de68981abee6a1b21fa9811466223231dccfcf753427ebb",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "3a83362a90d7b778c3b0b8ac01310a178e422c0f567e02ac9d3c6026c81df3e8",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Lakshmi Nrisimha Karavalamba",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Family reading",
+          "paragraphs": [
+            "śrīmatpayonidhiniketana cakrapāṇe bhogīṃdrabhogamaṇirājita puṇyamūrte |\nyogīśa śāśvata śaraṇya bhavābdhipota lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "brahmeṃdrarudramarudarkakirīṭakoṭi saṃghaṭṭitāṃghrikamalāmalakāṃtikāṃta |\nlakṣmīlasatkucasaroruharājahaṃsa lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsāradāvadahanākarabhīkaroru-jvālāvalībhiratidagdhatanūruhasya |\ntvatpādapadmasarasīruhamāgatasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārajālapatitasya jagannivāsa sarveṃdriyārtha baḍiśāgra jhaṣopamasya |\nprotkaṃpita pracuratāluka mastakasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārakūpamatighoramagādhamūlaṃ saṃprāpya duḥkhaśatasarpasamākulasya |\ndīnasya deva kṛpayā padamāgatasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārabhīkarakarīṃdrakarābhighāta niṣpīḍyamānavapuṣaḥ sakalārtināśa |\nprāṇaprayāṇabhavabhītisamākulasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārasarpaviṣadigdhamahogratīvra daṃṣṭrāgrakoṭiparidaṣṭavinaṣṭamūrteḥ |\nnāgārivāhana sudhābdhinivāsa śaure lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsāravṛkṣamaghabījamanaṃtakarma-śākhāyutaṃ karaṇapatramanaṃgapuṣpam |\nāruhya duḥkhaphalitaṃ patato dayālo  lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārasāgaraviśālakarālakāla nakragrahagrasitanigrahavigrahasya |\nvyagrasya rāganicayorminipīḍitasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsārasāgaranimajjanamuhyamānaṃ dīnaṃ vilokaya vibho karuṇānidhe mām |\nprahlādakhedaparihāraparāvatāra lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "saṃsāraghoragahane carato murāre mārograbhīkaramṛgapracurārditasya |\nārtasya matsaranidāghasuduḥkhitasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "baddhvā gale yamabhaṭā bahu tarjayaṃtaḥ karṣaṃti yatra bhavapāśaśatairyutaṃ mām |\nekākinaṃ paravaśaṃ cakitaṃ dayālo lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "lakṣmīpate kamalanābha sureśa viṣṇo yajñeśa yajña madhusūdana viśvarūpa |\nbrahmaṇya keśava janārdana vāsudeva lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "ekena cakramapareṇa kareṇa śaṃkha-manyena siṃdhutanayāmavalaṃbya tiṣṭhan |\nvāmetareṇa varadābhayapadmacihnaṃ lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "aṃdhasya me hṛtavivekamahādhanasya corairmahābalibhiriṃdriyanāmadheyaiḥ |\nmohāṃdhakārakuhare vinipātitasya lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "prahlādanāradaparāśarapuṃḍarīka-vyāsādibhāgavatapuṃgavahṛnnivāsa |\nbhaktānuraktaparipālanapārijāta lakṣmīnṛsiṃha mama dehi karāvalaṃbam",
+            "lakṣmīnṛsiṃhacaraṇābjamadhuvratena stotraṃ kṛtaṃ śubhakaraṃ bhuvi śaṃkareṇa |\nye tatpaṭhaṃti manujā haribhaktiyuktā-ste yāṃti tatpadasarojamakhaṃḍarūpam"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/lakshmi-nrusimha-karavalamba-stotram.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/lakshmi-nrusimha-karavalamba-stotram.html"
+        }
+      ],
+      "source_sha256": "29251cc9f919c69159384d57424faeed6105ffc52ec87c473eb67d65c65d4426",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "3a83362a90d7b778c3b0b8ac01310a178e422c0f567e02ac9d3c6026c81df3e8",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}

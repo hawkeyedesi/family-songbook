@@ -45,3 +45,13 @@ Local browser checks: 2 landing pages + 24 reading pages, all tested at 320/390/
 The three newly added works use matching Vaidika Vignanam Kannada/Devanagari/Roman editions with source variants retained, and Stotra Nidhi comparison links. Lakshmi uses Stotra Nidhi's actual three-script lists, not Vaidika Vignanam's differently divided name list. No Roman pronunciation text was fabricated from a search summary. Completeness and source-preservation tests cover all four updates.
 
 Local browser verification: all 37 routes (2 landing pages +35 reading pages) at 320/390/1280px; all four new/updated script selectors, 108 main names and 108 preserved family names, both Lakshmi scans, 40 Chalisa verses, opening-name search, independent script preferences and non-JavaScript navigation.
+
+# Earlier scan-entry coverage correction — 2026-10-16
+
+Audit found seven remaining Kannada-only Sanskrit entries: Aditya Hridayam, Karavalamba, Durga Suktam, Sri Suktam, Shankaracharya Krishna Ashtakam, Yajnavalkya Surya Kavacham and daily puja mantras. All now use the same three-view model. Lakshmi Ashtottara was already upgraded and was rechecked, not duplicated.
+
+For these family readings, Devanagari and Roman are deterministically rendered from the already checked Kannada paragraphs using `indic-transliteration==2.3.82`, not assembled from a potentially different edition. The Kannada rows, wording, sequence, book-specific variants and all original scans are preserved. Each rendered paragraph was converted back to Kannada and compared, allowing only equivalent danda/pipe punctuation. Aditya and Karavalamba's regional Kannada `ಳ` spellings correspond to classical Sanskrit `ल/l` in their published Devanagari comparison texts; that explicit normalization is applied to the rendering input, not to the original Kannada. Derivation, original hash, tool version and round-trip result are recorded per view.
+
+Published Devanagari comparison pages were retrieved for all six named standalone works, including the correct Surya Kavacham and the `ಶ್ರಿಯಾಶ್ಲಿಷ್ಟೋ` Krishna Ashtakam. Daily puja stays the exact seven selected mantra units; it is not replaced by a different generic manual, and missing Vedic accents are not guessed. Chapter jumps use the opening words of each selected mantra.
+
+Current coverage: sixteen Sanskrit/Awadhi works with Kannada/Devanagari/Roman views; Amma Baaramma retains the original Roman-script Kannada bhajan from its photograph. Coverage validation now fails if any other entry lacks a version bundle. Original nine transcription fields remain unchanged. Browser checks cover all 51 routes and original scan URLs in every newly added script view.

@@ -1,0 +1,278 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ನಿತ್ಯಪೂಜಾ ಮಂತ್ರಗಳು",
+      "chapters": [
+        {
+          "id": "mantra-1",
+          "title": "ಯೋ ವೇದಾದೌ",
+          "paragraphs": [
+            "ಯೋ ವೇದಾದೌ ಸ್ವರಃ ಪ್ರೋಕ್ತೋ ವೇದಾಂತೇ ಚ ಪ್ರತಿಷ್ಠಿತಃ ।\nತಸ್ಯ ಪ್ರಕೃತಿಲೀನಸ್ಯ ಯಃ ಪರಃ ಸ ಮಹೇಶ್ವರಃ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 1
+        },
+        {
+          "id": "mantra-2",
+          "title": "ಗೌರೀರ್ಮಿಮಾಯ",
+          "paragraphs": [
+            "ಗೌರೀರ್ಮಿಮಾಯ ಸಲಿಲಾನಿ ತಕ್ಷತ್ಯೇಕಪದೀ ದ್ವಿಪದೀ ಸಾ ಚತುಷ್ಪದೀ ।\nಅಷ್ಟಾಪದೀ ನವಪದೀ ಬಭೂವುಷೀ ಸಹಸ್ರಾಕ್ಷರಾ ಪರಮೇ ವ್ಯೋಮನ್ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 2
+        },
+        {
+          "id": "mantra-3",
+          "title": "ಗಣಾನಾಂ ತ್ವಾ",
+          "paragraphs": [
+            "ಗಣಾನಾಂ ತ್ವಾ ಗಣಪತಿಂ ಹವಾಮಹೇ ಕವಿಂ ಕವೀನಾಮುಪಮಶ್ರವಸ್ತಮಮ್ ।\nಜ್ಯೇಷ್ಠರಾಜಂ ಬ್ರಹ್ಮಣಾಂ ಬ್ರಹ್ಮಣಸ್ಪತ ಆ ನಃ ಶೃಣ್ವನ್ನೂತಿಭಿಃ ಸೀದ ಸಾದನಮ್ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        },
+        {
+          "id": "mantra-4",
+          "title": "ತದ್ವಿಷ್ಣೋಃ",
+          "paragraphs": [
+            "ತದ್ವಿಷ್ಣೋಃ ಪರಮಂ ಪದಂ ಸದಾ ಪಶ್ಯಂತಿ ಸೂರಯಃ ।\nದಿವೀವ ಚಕ್ಷುರಾತತಮ್ ॥\nತದ್ವಿಪ್ರಾಸೋ ವಿಪನ್ಯವೋ ಜಾಗೃವಾಂಸಃ ಸಮಿಂಧತೇ ।\nವಿಷ್ಣೋರ್ಯತ್ಪರಮಂ ಪದಮ್ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 4
+        },
+        {
+          "id": "mantra-5",
+          "title": "ಆ ಕೃಷ್ಣೇನ",
+          "paragraphs": [
+            "ಆ ಕೃಷ್ಣೇನ ರಜಸಾ ವರ್ತಮಾನೋ ನಿವೇಶಯನ್ನಮೃತಂ ಮರ್ತ್ಯಂ ಚ ।\nಹಿರಣ್ಯಯೇನ ಸವಿತಾ ರಥೇನಾದೇವೋ ಯಾತಿ ಭುವನಾನಿ ಪಶ್ಯನ್ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 5
+        },
+        {
+          "id": "mantra-6",
+          "title": "ರಾಜಾಧಿರಾಜಾಯ",
+          "paragraphs": [
+            "ರಾಜಾಧಿರಾಜಾಯ ಪ್ರಸಹ್ಯಸಾಹಿನೇ ನಮೋ ವಯಂ ವೈಶ್ರವಣಾಯ ಕುರ್ಮಹೇ ।\nಸ ಮೇ ಕಾಮಾನ್ ಕಾಮಕಾಮಾಯ ಮಹ್ಯಂ ಕಾಮೇಶ್ವರೋ ವೈಶ್ರವಣೋ ದದಾತು ।\nಕುಬೇರಾಯ ವೈಶ್ರವಣಾಯ ಮಹಾರಾಜಾಯ ನಮಃ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 6
+        },
+        {
+          "id": "mantra-7",
+          "title": "ಪರ್ಯಾಪ್ತ್ಯಾ",
+          "paragraphs": [
+            "ಪರ್ಯಾಪ್ತ್ಯಾ ಅನಂತರಾಯಾಯ ಸರ್ವಸ್ತೋಮೋಽತಿರಾತ್ರ ಉತ್ತಮಮಹರ್ಭವತಿ ।\nಸರ್ವಸ್ಯಾಪ್ತ್ಯೈ ಸರ್ವಸ್ಯ ಜಿತ್ಯೈ ಸರ್ವಮೇವ ತೇನಾಪ್ನೋತಿ ಸರ್ವಂ ಜಯತಿ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 7
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ತದ್ವಿಷ್ಣೋಃ ಮತ್ತು ಕುಬೇರ ಮಂತ್ರಗಳು",
+          "url": "https://vignanam.org/kannada/mantra-pushpam.html"
+        },
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಗಣಪತಿ ಮಂತ್ರ",
+          "url": "https://vignanam.org/kannada/ganapati-prarthana-ghanapatham.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/mantra-pushpam.html"
+        }
+      ],
+      "source_sha256": "c92ebb1c7caf5e2b8519ebeeab405508c2db3953c46e5abb2af83fc9a704a63e"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "नित्यपूजामन्त्राः",
+      "chapters": [
+        {
+          "id": "mantra-1",
+          "title": "यो वेदादौ",
+          "paragraphs": [
+            "यो वेदादौ स्वरः प्रोक्तो वेदांते च प्रतिष्ठितः ।\nतस्य प्रकृतिलीनस्य यः परः स महेश्वरः ॥"
+          ],
+          "layout": "verses",
+          "number_start": 1
+        },
+        {
+          "id": "mantra-2",
+          "title": "गौरीर्मिमाय",
+          "paragraphs": [
+            "गौरीर्मिमाय सलिलानि तक्षत्येकपदी द्विपदी सा चतुष्पदी ।\nअष्टापदी नवपदी बभूवुषी सहस्राक्षरा परमे व्योमन् ॥"
+          ],
+          "layout": "verses",
+          "number_start": 2
+        },
+        {
+          "id": "mantra-3",
+          "title": "गणानां त्वा",
+          "paragraphs": [
+            "गणानां त्वा गणपतिं हवामहे कविं कवीनामुपमश्रवस्तमम् ।\nज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिः सीद सादनम् ॥"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        },
+        {
+          "id": "mantra-4",
+          "title": "तद्विष्णोः",
+          "paragraphs": [
+            "तद्विष्णोः परमं पदं सदा पश्यंति सूरयः ।\nदिवीव चक्षुराततम् ॥\nतद्विप्रासो विपन्यवो जागृवांसः समिंधते ।\nविष्णोर्यत्परमं पदम् ॥"
+          ],
+          "layout": "verses",
+          "number_start": 4
+        },
+        {
+          "id": "mantra-5",
+          "title": "आ कृष्णेन",
+          "paragraphs": [
+            "आ कृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च ।\nहिरण्ययेन सविता रथेनादेवो याति भुवनानि पश्यन् ॥"
+          ],
+          "layout": "verses",
+          "number_start": 5
+        },
+        {
+          "id": "mantra-6",
+          "title": "राजाधिराजाय",
+          "paragraphs": [
+            "राजाधिराजाय प्रसह्यसाहिने नमो वयं वैश्रवणाय कुर्महे ।\nस मे कामान् कामकामाय मह्यं कामेश्वरो वैश्रवणो ददातु ।\nकुबेराय वैश्रवणाय महाराजाय नमः ॥"
+          ],
+          "layout": "verses",
+          "number_start": 6
+        },
+        {
+          "id": "mantra-7",
+          "title": "पर्याप्त्या",
+          "paragraphs": [
+            "पर्याप्त्या अनंतरायाय सर्वस्तोमोऽतिरात्र उत्तममहर्भवति ।\nसर्वस्याप्त्यै सर्वस्य जित्यै सर्वमेव तेनाप्नोति सर्वं जयति ॥"
+          ],
+          "layout": "verses",
+          "number_start": 7
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ತದ್ವಿಷ್ಣೋಃ ಮತ್ತು ಕುಬೇರ ಮಂತ್ರಗಳು",
+          "url": "https://vignanam.org/kannada/mantra-pushpam.html"
+        },
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಗಣಪತಿ ಮಂತ್ರ",
+          "url": "https://vignanam.org/kannada/ganapati-prarthana-ghanapatham.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/mantra-pushpam.html"
+        }
+      ],
+      "source_sha256": "dbb8f40b943b8044208124ef87ccc90d558c3ac6f172d4d32960572b35b3b1fb",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "c92ebb1c7caf5e2b8519ebeeab405508c2db3953c46e5abb2af83fc9a704a63e",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Daily Puja Mantras",
+      "chapters": [
+        {
+          "id": "mantra-1",
+          "title": "yo vedādau",
+          "paragraphs": [
+            "yo vedādau svaraḥ prokto vedāṃte ca pratiṣṭhitaḥ |\ntasya prakṛtilīnasya yaḥ paraḥ sa maheśvaraḥ ||"
+          ],
+          "layout": "verses",
+          "number_start": 1
+        },
+        {
+          "id": "mantra-2",
+          "title": "gaurīrmimāya",
+          "paragraphs": [
+            "gaurīrmimāya salilāni takṣatyekapadī dvipadī sā catuṣpadī |\naṣṭāpadī navapadī babhūvuṣī sahasrākṣarā parame vyoman ||"
+          ],
+          "layout": "verses",
+          "number_start": 2
+        },
+        {
+          "id": "mantra-3",
+          "title": "gaṇānāṃ tvā",
+          "paragraphs": [
+            "gaṇānāṃ tvā gaṇapatiṃ havāmahe kaviṃ kavīnāmupamaśravastamam |\njyeṣṭharājaṃ brahmaṇāṃ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanam ||"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        },
+        {
+          "id": "mantra-4",
+          "title": "tadviṣṇoḥ",
+          "paragraphs": [
+            "tadviṣṇoḥ paramaṃ padaṃ sadā paśyaṃti sūrayaḥ |\ndivīva cakṣurātatam ||\ntadviprāso vipanyavo jāgṛvāṃsaḥ samiṃdhate |\nviṣṇoryatparamaṃ padam ||"
+          ],
+          "layout": "verses",
+          "number_start": 4
+        },
+        {
+          "id": "mantra-5",
+          "title": "ā kṛṣṇena",
+          "paragraphs": [
+            "ā kṛṣṇena rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca |\nhiraṇyayena savitā rathenādevo yāti bhuvanāni paśyan ||"
+          ],
+          "layout": "verses",
+          "number_start": 5
+        },
+        {
+          "id": "mantra-6",
+          "title": "rājādhirājāya",
+          "paragraphs": [
+            "rājādhirājāya prasahyasāhine namo vayaṃ vaiśravaṇāya kurmahe |\nsa me kāmān kāmakāmāya mahyaṃ kāmeśvaro vaiśravaṇo dadātu |\nkuberāya vaiśravaṇāya mahārājāya namaḥ ||"
+          ],
+          "layout": "verses",
+          "number_start": 6
+        },
+        {
+          "id": "mantra-7",
+          "title": "paryāptyā",
+          "paragraphs": [
+            "paryāptyā anaṃtarāyāya sarvastomo'tirātra uttamamaharbhavati |\nsarvasyāptyai sarvasya jityai sarvameva tenāpnoti sarvaṃ jayati ||"
+          ],
+          "layout": "verses",
+          "number_start": 7
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ತದ್ವಿಷ್ಣೋಃ ಮತ್ತು ಕುಬೇರ ಮಂತ್ರಗಳು",
+          "url": "https://vignanam.org/kannada/mantra-pushpam.html"
+        },
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಗಣಪತಿ ಮಂತ್ರ",
+          "url": "https://vignanam.org/kannada/ganapati-prarthana-ghanapatham.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/mantra-pushpam.html"
+        }
+      ],
+      "source_sha256": "06ad20481882f50e3f0c9c4bafd3571c16df716bd72f44b000cf93135a4adb71",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "c92ebb1c7caf5e2b8519ebeeab405508c2db3953c46e5abb2af83fc9a704a63e",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ದುರ್ಗಾ ಸೂಕ್ತಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಕುಟುಂಬದ ಪಾಠ",
+          "paragraphs": [
+            "ಓಂ ಜಾತವೇದಸೇ ಸುನವಾಮ ಸೋಮಮರಾತೀಯತೋ ನಿದಹಾತಿ ವೇದಃ ।\nಸ ನಃ ಪರ್ಷದತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ನಾವೇವ ಸಿಂಧುಂ ದುರಿತಾತ್ಯಗ್ನಿಃ ॥",
+            "ತಾಮಗ್ನಿವರ್ಣಾಂ ತಪಸಾ ಜ್ವಲಂತೀಂ ವೈರೋಚನೀಂ ಕರ್ಮಫಲೇಷು ಜುಷ್ಟಾಮ್ ।\nದುರ್ಗಾಂ ದೇವೀಂ ಶರಣಮಹಂ ಪ್ರಪದ್ಯೇ ಸುತರಸಿ ತರಸೇ ನಮಃ ॥",
+            "ಅಗ್ನೇ ತ್ವಂ ಪಾರಯಾ ನವ್ಯೋ ಅಸ್ಮಾನ್ಸ್ವಸ್ತಿಭಿರತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ।\nಪೂಶ್ಚ ಪೃಥ್ವೀ ಬಹುಲಾ ನ ಉರ್ವೀ ಭವಾ ತೋಕಾಯ ತನಯಾಯ ಶಂಯೋಃ ॥",
+            "ವಿಶ್ವಾನಿ ನೋ ದುರ್ಗಹಾ ಜಾತವೇದಃ ಸಿಂಧುಂ ನ ನಾವಾ ದುರಿತಾತಿಪರ್ಷಿ ।\nಅಗ್ನೇ ಅತ್ರಿವನ್ಮನಸಾ ಗೃಣಾನೋಽಸ್ಮಾಕಂ ಬೋಧ್ಯವಿತಾ ತನೂನಾಮ್ ॥",
+            "ಪೃತನಾಜಿತಂ ಸಹಮಾನಮುಗ್ರಮಗ್ನಿಂ ಹುವೇಮ ಪರಮಾತ್ಸಧಸ್ಥಾತ್ ।\nಸ ನಃ ಪರ್ಷದತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ಕ್ಷಾಮದ್ದೇವೋ ಅತಿ ದುರಿತಾತ್ಯಗ್ನಿಃ ॥",
+            "ಪ್ರತ್ನೋಷಿ ಕಮೀಡ್ಯೋ ಅಧ್ವರೇಷು ಸನಾಚ್ಚ ಹೋತಾ ನವ್ಯಶ್ಚ ಸತ್ಸಿ ।\nಸ್ವಾಂ ಚಾಗ್ನೇ ತನುವಂ ಪಿಪ್ರಯಸ್ವಾಸ್ಮಭ್ಯಂ ಚ ಸೌಭಗಮಾಯಜಸ್ವ ॥",
+            "ಗೋಭಿರ್ಜುಷ್ಟಮಯುಜೋ ನಿಷಿಕ್ತಂ ತವೇಂದ್ರ ವಿಷ್ಣೋರನುಸಂಚರೇಮ ।\nನಾಕಸ್ಯ ಪೃಷ್ಠಮಭಿ ಸಂವಸಾನೋ ವೈಷ್ಣವೀಂ ಲೋಕ ಇಹ ಮಾದಯಂತಾಮ್ ॥",
+            "ಓಂ ಕಾತ್ಯಾಯನಾಯ ವಿದ್ಮಹೇ ಕನ್ಯಕುಮಾರಿ ಧೀಮಹಿ ।\nತನ್ನೋ ದುರ್ಗಿಃ ಪ್ರಚೋದಯಾತ್ ॥",
+            "ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ ॥"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/durga-suktam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+        }
+      ],
+      "source_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763"
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "दुर्गासूक्तम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "पारिवारिकपाठः",
+          "paragraphs": [
+            "ॐ जातवेदसे सुनवाम सोममरातीयतो निदहाति वेदः ।\nस नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं दुरितात्यग्निः ॥",
+            "तामग्निवर्णां तपसा ज्वलंतीं वैरोचनीं कर्मफलेषु जुष्टाम् ।\nदुर्गां देवीं शरणमहं प्रपद्ये सुतरसि तरसे नमः ॥",
+            "अग्ने त्वं पारया नव्यो अस्मान्स्वस्तिभिरति दुर्गाणि विश्वा ।\nपूश्च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शंयोः ॥",
+            "विश्वानि नो दुर्गहा जातवेदः सिंधुं न नावा दुरितातिपर्षि ।\nअग्ने अत्रिवन्मनसा गृणानोऽस्माकं बोध्यविता तनूनाम् ॥",
+            "पृतनाजितं सहमानमुग्रमग्निं हुवेम परमात्सधस्थात् ।\nस नः पर्षदति दुर्गाणि विश्वा क्षामद्देवो अति दुरितात्यग्निः ॥",
+            "प्रत्नोषि कमीड्यो अध्वरेषु सनाच्च होता नव्यश्च सत्सि ।\nस्वां चाग्ने तनुवं पिप्रयस्वास्मभ्यं च सौभगमायजस्व ॥",
+            "गोभिर्जुष्टमयुजो निषिक्तं तवेंद्र विष्णोरनुसंचरेम ।\nनाकस्य पृष्ठमभि संवसानो वैष्णवीं लोक इह मादयंताम् ॥",
+            "ॐ कात्यायनाय विद्महे कन्यकुमारि धीमहि ।\nतन्नो दुर्गिः प्रचोदयात् ॥",
+            "ॐ शांतिः शांतिः शांतिः ॥"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/durga-suktam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+        }
+      ],
+      "source_sha256": "e29a06f9f2829b11e9fc7046bf6adccecef49b33b9f1f07eb24171e83f5fc231",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Durga Suktam",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Family reading",
+          "paragraphs": [
+            "oṃ jātavedase sunavāma somamarātīyato nidahāti vedaḥ |\nsa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ duritātyagniḥ ||",
+            "tāmagnivarṇāṃ tapasā jvalaṃtīṃ vairocanīṃ karmaphaleṣu juṣṭām |\ndurgāṃ devīṃ śaraṇamahaṃ prapadye sutarasi tarase namaḥ ||",
+            "agne tvaṃ pārayā navyo asmānsvastibhirati durgāṇi viśvā |\npūśca pṛthvī bahulā na urvī bhavā tokāya tanayāya śaṃyoḥ ||",
+            "viśvāni no durgahā jātavedaḥ siṃdhuṃ na nāvā duritātiparṣi |\nagne atrivanmanasā gṛṇāno'smākaṃ bodhyavitā tanūnām ||",
+            "pṛtanājitaṃ sahamānamugramagniṃ huvema paramātsadhasthāt |\nsa naḥ parṣadati durgāṇi viśvā kṣāmaddevo ati duritātyagniḥ ||",
+            "pratnoṣi kamīḍyo adhvareṣu sanācca hotā navyaśca satsi |\nsvāṃ cāgne tanuvaṃ piprayasvāsmabhyaṃ ca saubhagamāyajasva ||",
+            "gobhirjuṣṭamayujo niṣiktaṃ taveṃdra viṣṇoranusaṃcarema |\nnākasya pṛṣṭhamabhi saṃvasāno vaiṣṇavīṃ loka iha mādayaṃtām ||",
+            "oṃ kātyāyanāya vidmahe kanyakumāri dhīmahi |\ntanno durgiḥ pracodayāt ||",
+            "oṃ śāṃtiḥ śāṃtiḥ śāṃtiḥ ||"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "references": [
+        {
+          "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
+          "url": "https://vignanam.org/kannada/durga-suktam.html"
+        },
+        {
+          "label": "Published Sanskrit comparison text",
+          "url": "https://vignanam.org/devanagari/durga-suktam.html"
+        }
+      ],
+      "source_sha256": "e11ddd84b3cc69747c8d411d09f597e57fe5423173b017a3327f520c1c9df465",
+      "derivation": {
+        "from_script": "kannada",
+        "from_sha256": "8392917dc1c1e2b94ec1b11339c31d9a006d02bd8488ed0b6a493cbb90ca7763",
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "roundtrip_verified": true,
+        "normalization": "Kannada regional ಳ -> classical Sanskrit ल/l where present; original Kannada unchanged"
+      }
+    }
+  ]
+}
