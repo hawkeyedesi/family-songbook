@@ -27,8 +27,8 @@ document.querySelector('#print')?.addEventListener('click', () => window.print()
 document.querySelector('#share')?.addEventListener('click', async () => {
   const status = document.querySelector('#share-status');
   try {
-    if (navigator.share) { await navigator.share({ title: document.title, url: location.href }); status.textContent = 'Link shared.'; }
-    else if (navigator.clipboard?.writeText) { await navigator.clipboard.writeText(location.href); status.textContent = 'Link copied. Paste it into WhatsApp or a message.'; }
-    else { status.textContent = `Copy this link: ${location.href}`; }
-  } catch (error) { if (error.name !== 'AbortError') status.textContent = `Copy this link: ${location.href}`; }
+    if (navigator.share) { await navigator.share({ title: document.title, url: location.href }); status.textContent = 'ಲಿಂಕ್ ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ.'; }
+    else if (navigator.clipboard?.writeText) { await navigator.clipboard.writeText(location.href); status.textContent = 'ಲಿಂಕ್ ನಕಲಿಸಲಾಗಿದೆ. ಸಂದೇಶದಲ್ಲಿ ಅಂಟಿಸಿ ಹಂಚಿಕೊಳ್ಳಿ.'; }
+    else { status.textContent = `ಈ ಲಿಂಕ್ ನಕಲಿಸಿ: ${location.href}`; }
+  } catch (error) { if (error.name !== 'AbortError') status.textContent = `ಈ ಲಿಂಕ್ ನಕಲಿಸಿ: ${location.href}`; }
 });
