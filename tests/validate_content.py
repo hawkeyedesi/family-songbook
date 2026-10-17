@@ -3,7 +3,7 @@ from pathlib import Path
 import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
-assert len(a)==14 and len(by_slug)==14
+assert len(a)==17 and len(by_slug)==17
 old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],cwd=ROOT))
 for s in old:
  assert by_slug[s['slug']]['verses']==s['verses'],f'Changed existing prayer: {s["slug"]}'
@@ -30,6 +30,13 @@ for s in a:
   if s['slug']=='ganesha-atharvashirsham':assert numbers(text)==list(range(1,15))
   if s['slug']=='soundarya-lahari':
    assert numbers(chapter['ananda'])==list(range(1,42));assert numbers(chapter['soundarya'])==list(range(42,101));assert numbers(chapter['appendix'])==[101,102,103]
+  if s['slug']=='lakshmi-ashtottara-shatanamavali':
+   assert len(v['chapters'])==1 and len(v['chapters'][0]['paragraphs'])==108
+   assert v['chapters'][0]['layout']=='names'
+  if s['slug']=='hanuman-chalisa':
+   assert numbers(chapter['chalisa'])==list(range(1,41));assert chapter['opening'] and chapter['closing'] and chapter['dhyana']
+  if s['slug'] in ['kalabhairava-ashtakam','mahalakshmi-ashtakam']:
+   assert numbers(chapter['main'])==list(range(1,9));assert chapter['closing']
  assert seqs[0]==seqs[1]==seqs[2]
  print('PASS',s['slug'],'complete source text + matching verse sequence in three scripts')
-print('PASS: all nine existing prayers unchanged; 14 entries total.')
+print('PASS: all nine original transcriptions preserved; 17 entries total.')

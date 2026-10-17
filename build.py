@@ -68,6 +68,12 @@ def render_legacy(s):
 HEADINGS=re.compile(r'^(?:ಕರನ್ಯಾಸಃ|ಅಂಗನ್ಯಾಸಃ|ಧ್ಯಾನಂ|ಹರಿಃ ಓಂ|ಪೂರ್ವ ಪೀಠಿಕಾ|ಉತ್ತರ ಪೀಠಿಕಾ|ಫಲಶ್ರುತಿಃ|ಸ್ತೋತ್ರಂ|करन्यासः|अंगन्यासः|ध्यानं|हरिः ॐ|पूर्व पीठिका|उत्तर पीठिका|फलश्रुतिः|स्तोत्रं|karanyāsaḥ|aṅganyāsaḥ|dhyānaṃ|hariḥ ōṃ|pūrva pīṭhikā|uttara pīṭhikā|phalaśrutiḥ|stōtraṃ)$')
 def render_chapter(c):
  out=[f'<section class="text-chapter" id="{c["id"]}"><h2>{e(c["title"])}</h2>'];pending=[];occ={}
+ if c.get('layout')=='names':
+  for i,p in enumerate(c['paragraphs'],1):
+   display=re.sub(r'([।|])\s*[0-9೦-೯०-९]+\s*$',r'\1',p)
+   out.append(f'<div class="source-name" id="names-name-{i}" data-name="{i}"><span class="verse-number">{i:02}</span><p>{e(display)}</p></div>')
+  return ''.join(out)+'</section>'
+
  def flush(number=None):
   if not pending:return
   if number is not None:
@@ -92,7 +98,10 @@ def render_multiscript(s):
   vid=v['id'];ui='kn' if vid=='kannada' else 'en';u=UI[ui];deep=vid!='kannada';prefix='../../../' if deep else '../../';base='../' if deep else './'
   nav='<nav class="script-switch" aria-label="Choose reading script">'+''.join(f'<a href="{base}{"" if w["id"]=="kannada" else w["id"]+"/"}" data-script="{w["id"]}" {"aria-current=\"page\"" if vid==w["id"] else ""}>{e(w["label"])}</a>' for w in versions)+'</nav>'
   toc='<nav class="chapter-nav" aria-label="Sections"><span>'+u['sections']+':</span>'+''.join(f'<a href="#{c["id"]}">{e(c["title"])}</a>' for c in v['chapters'])+'</nav>'
-  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}</section>'''
+  original=''
+  if s.get('preserve_original_transcription'):
+   original='<details class="original-transcription"><summary>'+('ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ' if ui=='kn' else 'Original family-book Kannada transcription')+'</summary><div class="lyrics kn" lang="kn">'+''.join(f'<div class="source-name"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(x) for x in lines)}</p></div>' for i,lines in enumerate(s['verses'],1))+'</div></details>'
+  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
 home('kn');home('en')

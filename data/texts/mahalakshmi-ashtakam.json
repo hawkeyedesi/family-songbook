@@ -1,0 +1,157 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಮಹಾಲಕ್ಷ್ಮಿ ಅಷ್ಟಕಮ್ — ನಮಸ್ತೇಽಸ್ತು ಮಹಾಮಾಯೇ",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಅಷ್ಟಕ — ಎಂಟು ಶ್ಲೋಕಗಳು",
+          "paragraphs": [
+            "ಇಂದ್ರ ಉವಾಚ -",
+            "ನಮಸ್ತೇಽಸ್ತು ಮಹಾಮಾಯೇ ಶ್ರೀಪೀಠೇ ಸುರಪೂಜಿತೇ ।",
+            "ಶಂಖಚಕ್ರ ಗದಾಹಸ್ತೇ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 1 ॥",
+            "ನಮಸ್ತೇ ಗರುಡಾರೂಢೇ ಕೋಲಾಸುರ ಭಯಂಕರಿ ।",
+            "ಸರ್ವಪಾಪಹರೇ ದೇವಿ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 2 ॥",
+            "ಸರ್ವಜ್ಞೇ ಸರ್ವವರದೇ ಸರ್ವ ದುಷ್ಟ ಭಯಂಕರಿ ।",
+            "ಸರ್ವದುಃಖ ಹರೇ ದೇವಿ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 3 ॥",
+            "ಸಿದ್ಧಿ ಬುದ್ಧಿ ಪ್ರದೇ ದೇವಿ ಭುಕ್ತಿ ಮುಕ್ತಿ ಪ್ರದಾಯಿನಿ ।",
+            "ಮಂತ್ರ ಮೂರ್ತೇ ಸದಾ ದೇವಿ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 4 ॥",
+            "ಆದ್ಯಂತ ರಹಿತೇ ದೇವಿ ಆದಿಶಕ್ತಿ ಮಹೇಶ್ವರಿ ।",
+            "ಯೋಗಜ್ಞೇ ಯೋಗ ಸಂಭೂತೇ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 5 ॥",
+            "ಸ್ಥೂಲ ಸೂಕ್ಷ್ಮ ಮಹಾರೌದ್ರೇ ಮಹಾಶಕ್ತಿ ಮಹೋದರೇ ।",
+            "ಮಹಾ ಪಾಪ ಹರೇ ದೇವಿ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 6 ॥",
+            "ಪದ್ಮಾಸನ ಸ್ಥಿತೇ ದೇವಿ ಪರಬ್ರಹ್ಮ ಸ್ವರೂಪಿಣಿ ।",
+            "ಪರಮೇಶಿ ಜಗನ್ಮಾತಃ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 7 ॥",
+            "ಶ್ವೇತಾಂಬರಧರೇ ದೇವಿ ನಾನಾಲಂಕಾರ ಭೂಷಿತೇ ।",
+            "ಜಗಸ್ಥಿತೇ ಜಗನ್ಮಾತಃ ಮಹಾಲಕ್ಷ್ಮಿ ನಮೋಽಸ್ತು ತೇ ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "ಫಲಶ್ರುತಿ ಮತ್ತು ಸಮಾಪ್ತಿ",
+          "paragraphs": [
+            "ಮಹಾಲಕ್ಷ್ಮಷ್ಟಕಂ ಸ್ತೋತ್ರಂ ಯಃ ಪಠೇದ್ ಭಕ್ತಿಮಾನ್ ನರಃ ।",
+            "ಸರ್ವ ಸಿದ್ಧಿ ಮವಾಪ್ನೋತಿ ರಾಜ್ಯಂ ಪ್ರಾಪ್ನೋತಿ ಸರ್ವದಾ ॥",
+            "ಏಕಕಾಲೇ ಪಠೇನ್ನಿತ್ಯಂ ಮಹಾಪಾಪ ವಿನಾಶನಮ್ ।",
+            "ದ್ವಿಕಾಲಂ ಯಃ ಪಠೇನ್ನಿತ್ಯಂ ಧನ ಧಾನ್ಯ ಸಮನ್ವಿತಃ ॥",
+            "ತ್ರಿಕಾಲಂ ಯಃ ಪಠೇನ್ನಿತ್ಯಂ ಮಹಾಶತ್ರು ವಿನಾಶನಮ್ ।",
+            "ಮಹಾಲಕ್ಷ್ಮೀ ರ್ಭವೇನ್-ನಿತ್ಯಂ ಪ್ರಸನ್ನಾ ವರದಾ ಶುಭಾ ॥",
+            "[ಇತಿ ಶ್ರೀ ಇಂದ್ರಕೃತಂ ಮಹಾಲಕ್ಷ್ಮ್ಯಷ್ಟಕಸ್ತೋತ್ರಂ ಸಂಪೂರ್ಣಂ]"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — ಕನ್ನಡ",
+          "url": "https://vignanam.org/kannada/maha-lakshmi-ashtakam.html"
+        }
+      ],
+      "source_sha256": "e46e7a0670a46dc3f47cc48fddb78c913e518224be6b7e6b7f551c51c10405f7"
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "महालक्ष्म्यष्टकम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "अष्टकम् — अष्टश्लोकाः",
+          "paragraphs": [
+            "इन्द्र उवाच -",
+            "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।",
+            "शङ्खचक्र गदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥ 1 ॥",
+            "नमस्ते गरुडारूढे कोलासुर भयङ्करि ।",
+            "सर्वपापहरे देवि महालक्ष्मि नमोऽस्तु ते ॥ 2 ॥",
+            "सर्वज्ञे सर्ववरदे सर्व दुष्ट भयङ्करि ।",
+            "सर्वदुःख हरे देवि महालक्ष्मि नमोऽस्तु ते ॥ 3 ॥",
+            "सिद्धि बुद्धि प्रदे देवि भुक्ति मुक्ति प्रदायिनि ।",
+            "मन्त्र मूर्ते सदा देवि महालक्ष्मि नमोऽस्तु ते ॥ 4 ॥",
+            "आद्यन्त रहिते देवि आदिशक्ति महेश्वरि ।",
+            "योगज्ञे योग सम्भूते महालक्ष्मि नमोऽस्तु ते ॥ 5 ॥",
+            "स्थूल सूक्ष्म महारौद्रे महाशक्ति महोदरे ।",
+            "महा पाप हरे देवि महालक्ष्मि नमोऽस्तु ते ॥ 6 ॥",
+            "पद्मासन स्थिते देवि परब्रह्म स्वरूपिणि ।",
+            "परमेशि जगन्मातः महालक्ष्मि नमोऽस्तु ते ॥ 7 ॥",
+            "श्वेताम्बरधरे देवि नानालङ्कार भूषिते ।",
+            "जगस्थिते जगन्मातः महालक्ष्मि नमोऽस्तु ते ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "फलश्रुतिः समाप्तिश्च",
+          "paragraphs": [
+            "महालक्ष्मष्टकं स्तोत्रं यः पठेद् भक्तिमान् नरः ।",
+            "सर्व सिद्धि मवाप्नोति राज्यं प्राप्नोति सर्वदा ॥",
+            "एककाले पठेन्नित्यं महापाप विनाशनम् ।",
+            "द्विकालं यः पठेन्नित्यं धन धान्य समन्वितः ॥",
+            "त्रिकालं यः पठेन्नित्यं महाशत्रु विनाशनम् ।",
+            "महालक्ष्मी र्भवेन्-नित्यं प्रसन्ना वरदा शुभा ॥",
+            "[इति श्री इन्द्रकृतं महालक्ष्म्यष्टकस्तोत्रं सम्पूर्णम्]"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — संस्कृतम्",
+          "url": "https://vignanam.org/devanagari/maha-lakshmi-ashtakam.html"
+        }
+      ],
+      "source_sha256": "08bf72d3a9c763630b2614f4fb6dd32bf7908bd5c169460f0dc00f949ae305b4"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Mahalakshmi Ashtakam — Namaste Astu Mahamaye",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Ashtakam — eight verses",
+          "paragraphs": [
+            "indra uvācha -",
+            "namastē'stu mahāmāyē śrīpīṭhē surapūjitē ।",
+            "śaṅkhachakra gadāhastē mahālakṣmi namō'stu tē ॥ 1 ॥",
+            "namastē garuḍārūḍhē kōlāsura bhayaṅkari ।",
+            "sarvapāpaharē dēvi mahālakṣmi namō'stu tē ॥ 2 ॥",
+            "sarvajñē sarvavaradē sarva duṣṭa bhayaṅkari ।",
+            "sarvaduḥkha harē dēvi mahālakṣmi namō'stu tē ॥ 3 ॥",
+            "siddhi buddhi pradē dēvi bhukti mukti pradāyini ।",
+            "mantra mūrtē sadā dēvi mahālakṣmi namō'stu tē ॥ 4 ॥",
+            "ādyanta rahitē dēvi ādiśakti mahēśvari ।",
+            "yōgajñē yōga sambhūtē mahālakṣmi namō'stu tē ॥ 5 ॥",
+            "sthūla sūkṣma mahāraudrē mahāśakti mahōdarē ।",
+            "mahā pāpa harē dēvi mahālakṣmi namō'stu tē ॥ 6 ॥",
+            "padmāsana sthitē dēvi parabrahma svarūpiṇi ।",
+            "paramēśi jaganmātaḥ mahālakṣmi namō'stu tē ॥ 7 ॥",
+            "śvētāmbaradharē dēvi nānālaṅkāra bhūṣitē ।",
+            "jagasthitē jaganmātaḥ mahālakṣmi namō'stu tē ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "Phalashruti & closing",
+          "paragraphs": [
+            "mahālakṣmaṣṭakaṃ stōtraṃ yaḥ paṭhēd bhaktimān naraḥ ।",
+            "sarva siddhi mavāpnōti rājyaṃ prāpnōti sarvadā ॥",
+            "ēkakālē paṭhēnnityaṃ mahāpāpa vināśanam ।",
+            "dvikālṃ yaḥ paṭhēnnityaṃ dhana dhānya samanvitaḥ ॥",
+            "trikālaṃ yaḥ paṭhēnnityaṃ mahāśatru vināśanam ।",
+            "mahālakṣmī rbhavēn-nityaṃ prasannā varadā śubhā ॥",
+            "[iti śrī indrakṛtaṃ mahālakṣmyaṣṭakastōtraṃ sampūrṇam]"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — English (Roman)",
+          "url": "https://vignanam.org/english/maha-lakshmi-ashtakam.html"
+        }
+      ],
+      "source_sha256": "6b072f53b664b78bad3ae8433c31f300f4ecbbbe745af456e2de4133e0418b9f"
+    }
+  ]
+}

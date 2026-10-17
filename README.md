@@ -31,3 +31,5 @@ The script selector uses real links and works without JavaScript. JavaScript rem
 - Test text size, share/copy fallback and print preview. Check source links and scans.
 
 Texts are a sourced devotional collection, not a critical edition. Notes identify editions, supplements and simplified accent notation where applicable. No license or authorship is claimed over traditional texts or family scans.
+
+`scripts/import_additional.py <extract-directory>` reproduces the four follow-up imports (Lakshmi Ashtottara upgrade, Kalabhairava Ashtakam, Hanuman Chalisa and Mahalakshmi Ashtakam). Namavali chapters use `layout: "names"`. An upgraded scan-based entry can set `preserve_original_transcription: true` to retain its original Kannada rows and source photos below the three-script reading edition. Hanuman Chalisa's Devanagari view is tagged Awadhi, not mislabeled as Sanskrit.

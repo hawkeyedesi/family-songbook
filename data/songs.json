@@ -587,9 +587,9 @@
     "slug": "lakshmi-ashtottara-shatanamavali",
     "title": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
     "category": "ನಾಮಾವಳಿ",
-    "language": "ಸಂಸ್ಕೃತ · ಕನ್ನಡ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
     "script": "kannada",
-    "description": "ಶ್ರೀ ಲಕ್ಷ್ಮೀದೇವಿಯ ನೂರ ಎಂಟು ಹೆಸರುಗಳು.",
+    "description": "ಶ್ರೀ ಲಕ್ಷ್ಮೀದೇವಿಯ ನೂರ ಎಂಟು ಹೆಸರುಗಳು — ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ.",
     "scans": [
       "lakshmi-nrisimha-namavali.jpg",
       "namavali-sheet-a.jpg"
@@ -920,7 +920,7 @@
         "ಓಂ ಭುವನೇಶ್ವರ್ಯೈ ನಮಃ ।"
       ]
     ],
-    "note": "ಮೊದಲ ಚಿತ್ರದಲ್ಲಿ ಆರಂಭದ ಹೆಸರುಗಳು, ಎರಡನೇ ಚಿತ್ರದಲ್ಲಿ ಮುಂದುವರಿದ ಹೆಸರುಗಳಿವೆ. ಎರಡೂ ಲಕ್ಷ್ಮೀ ನಾಮಾವಳಿಯ ಭಾಗಗಳು; ನೃಸಿಂಹ ನಾಮಾವಳಿ ಅಲ್ಲ. ಪ್ರಕಟಿತ ಎರಡು ಕನ್ನಡ ಪಟ್ಟಿಗಳೊಂದಿಗೆ ಹೋಲಿಸಿ ಮುದ್ರಣದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ. ಪಾಠಭೇದಗಳಿರುವ ಹೆಸರುಗಳಿಗೆ ಮೂಲ ಚಿತ್ರ ಮತ್ತು ಕೆಳಗಿನ ಆಧಾರಗಳನ್ನು ನೋಡಿ. ೨೮–೨೯ನೇ ಹೆಸರುಗಳಲ್ಲಿ ಪುಸ್ತಕದ “ಕಾಮಾಕ್ಷ್ಯೈ”, “ಕ್ರೋಧಸಂಭವಾಯೈ” ಪಾಠಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಸ್ತೋತ್ರನಿಧಿಯಲ್ಲೂ ಇವು ಪಾಠಭೇದಗಳಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ.",
+    "note": "ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಒಂದೇ ಪ್ರಕಟಿತ ೧೦೮ ನಾಮಗಳ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ಪುಸ್ತಕದ ಕೆಲವು ಹೆಸರುಗಳಿಗೆ ಪಾಠಭೇದಗಳಿವೆ. ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಎರಡೂ ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಉಳಿಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಲಕ್ಷ್ಮೀ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
@@ -933,8 +933,11 @@
     ],
     "title_en": "Lakshmi Ashtottara Shatanamavali",
     "category_en": "Namavali",
-    "description_en": "The 108 names of Goddess Lakshmi.",
-    "language_en": "Sanskrit · Kannada script"
+    "description_en": "The 108 names of Lakshmi, in three scripts.",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "versions_file": "texts/lakshmi-ashtottara-shatanamavali.json",
+    "note_en": "The three scripts use one matched published 108-name edition. A few names differ from the family book. Its original Kannada transcription and both scans are preserved below.",
+    "preserve_original_transcription": true
   },
   {
     "slug": "daily-puja-mantras",
@@ -1099,5 +1102,68 @@
     "versions_file": "texts/soundarya-lahari.json",
     "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
     "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained."
+  },
+  {
+    "slug": "kalabhairava-ashtakam",
+    "title": "ಕಾಲಭೈರವ ಅಷ್ಟಕಮ್",
+    "title_en": "Kalabhairava Ashtakam",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "ಕಾಲಭೈರವನ ಎಂಟು ಶ್ಲೋಕಗಳು ಮತ್ತು ಫಲಶ್ರುತಿ.",
+    "description_en": "The eight verses to Kalabhairava, with phalashruti.",
+    "versions_file": "texts/kalabhairava-ashtakam.json",
+    "note": "ಒಂದೇ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಮೂಲದ ಪಾಠಭೇದಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "The same published text in three scripts. Roman text is pronunciation transliteration, not translated meaning. Source variants are retained.",
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/kalabhairava-ashtakam-in-kannada/"
+      }
+    ]
+  },
+  {
+    "slug": "hanuman-chalisa",
+    "title": "ಹನುಮಾನ್ ಚಾಲೀಸಾ",
+    "title_en": "Hanuman Chalisa",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "description": "ತುಲಸೀದಾಸರ ಚಾಲೀಸಾ — ನಲವತ್ತು ಚೌಪಾಯಿಗಳು, ಆರಂಭ ಮತ್ತು ಸಮಾಪನ ದೋಹಾಗಳೊಂದಿಗೆ.",
+    "description_en": "Tulsidas’s forty chaupais, with opening and closing dohas.",
+    "versions_file": "texts/hanuman-chalisa.json",
+    "note": "ಒಂದೇ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಮೂಲದ ಪಾಠಭೇದಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಚಾಲೀಸಾದ ಮೂಲಭಾಷೆ ಅವಧಿ; ದೇವನಾಗರಿ ಆಯ್ಕೆಯು ಅದೇ ಮೂಲ ಪದಗಳನ್ನು ತೋರಿಸುತ್ತದೆ, ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ. ಧ್ಯಾನ ಶ್ಲೋಕಗಳನ್ನು ಪ್ರತ್ಯೇಕ ಭಾಗವಾಗಿ ನೀಡಲಾಗಿದೆ.",
+    "note_en": "The same published text in three scripts. Roman text is pronunciation transliteration, not translated meaning. Source variants are retained. The Chalisa is originally Awadhi: the Devanagari option preserves its words, not a Sanskrit translation. The source’s additional dhyana prayers are a separate section.",
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/hanuman-chalisa-in-kannada/"
+      }
+    ]
+  },
+  {
+    "slug": "mahalakshmi-ashtakam",
+    "title": "ಮಹಾಲಕ್ಷ್ಮಿ ಅಷ್ಟಕಮ್ — ನಮಸ್ತೇಽಸ್ತು ಮಹಾಮಾಯೇ",
+    "title_en": "Mahalakshmi Ashtakam — Namaste Astu Mahamaye",
+    "category": "ಸ್ತೋತ್ರ",
+    "category_en": "Stotra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "description": "“ನಮಸ್ತೇಽಸ್ತು ಮಹಾಮಾಯೇ” ಎಂದು ಆರಂಭವಾಗುವ ಎಂಟು ಶ್ಲೋಕಗಳು ಮತ್ತು ಫಲಶ್ರುತಿ.",
+    "description_en": "The hymn beginning “Namaste Astu Mahamaye”, with eight verses and phalashruti.",
+    "versions_file": "texts/mahalakshmi-ashtakam.json",
+    "note": "ಒಂದೇ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಮೂಲದ ಪಾಠಭೇದಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "The same published text in three scripts. Roman text is pronunciation transliteration, not translated meaning. Source variants are retained.",
+    "references": [
+      {
+        "label": "Stotra Nidhi — comparison edition (Kannada)",
+        "url": "https://stotranidhi.com/kn/mahalakshmi-ashtakam-in-kannada/"
+      }
+    ]
   }
 ]
