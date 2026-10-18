@@ -21,15 +21,19 @@ def shell(title,description,body,prefix='',lang='kn',ui='kn'):
 <main>{body}</main><footer>{u['footer']}<br><span>{u['footer_note']}</span></footer></body></html>'''
 
 COLLECTIONS={'daily':('ದಿನನಿತ್ಯ','Daily'),'weekly':('ವಾರದ ಪಠ್ಯಗಳು','Weekly'),'friday':('ಶುಕ್ರವಾರ','Friday'),'paduka-puja-bhajans':('ಪಾದುಕಾ ಪೂಜಾ ಭಜನೆಗಳು','Paduka Puja Bhajans')}
-def memberships(s):return s.get('collections',[s.get('collection','daily')])
+TAGS={'navaratri':('ನವರಾತ್ರಿ','Navaratri')}
+FILTERS={**COLLECTIONS,**TAGS}
+def memberships(s):return s.get('collections',[s.get('collection','daily')])+s.get('tags',[])
+def work_tags(s,ui,prefix):
+ return '<nav class="work-tags" aria-label="Tags">'+''.join(f'<a href="{prefix}{"en/" if ui=="en" else ""}{tag}/">{e(TAGS[tag][1 if ui=="en" else 0])}</a>' for tag in s.get('tags',[]) if tag in TAGS)+'</nav>' if s.get('tags') else ''
 def home(ui,collection=None):
  en=ui=='en';prefix='../'*((1 if en else 0)+(1 if collection else 0));u=UI[ui]
  selected=[s for s in songs if collection is None or collection in memberships(s)]
  if collection:selected.sort(key=lambda s:s.get('collection_order',{}).get(collection,999))
- collection_labels=COLLECTIONS
+ collection_labels=FILTERS
  group_base=prefix+('en/' if en else '')
  category_links='<nav class="collection-nav" aria-label="Collection categories">'
- for key in [None,*COLLECTIONS]:
+ for key in [None,*FILTERS]:
   label=('All' if en else 'ಎಲ್ಲವೂ') if key is None else collection_labels[key][1 if en else 0]
   count=len(songs) if key is None else sum(key in memberships(x) for x in songs)
   target=group_base+(key+'/' if key else '')
@@ -39,11 +43,11 @@ def home(ui,collection=None):
  for s in selected:
   multi='versions_file' in s
   target=prefix+'songs/'+s['slug']+'/'+('roman/' if en and multi else '')
-  aliases=' '.join([s['title'],s.get('title_en',''),s['category'],s.get('category_en','')])
+  aliases=' '.join([s['title'],s.get('title_en',''),s['category'],s.get('category_en','')]+s.get('search_aliases',[])+(['Navaratri Navarathri ನವರಾತ್ರಿ नवरात्रि'] if 'navaratri' in s.get('tags',[]) else []))
   cards.append(f'''<a class="song-card" href="{target}" data-work="{s['slug']}" data-multiscript="{str(multi).lower()}" data-base="{prefix}songs/{s['slug']}/" data-search="{e(aliases,quote=True)}"><span class="eyebrow">{e(localized(s,'category',ui))}</span><h2>{e(localized(s,'title',ui))}</h2><p>{e(localized(s,'description',ui))}</p><span class="card-bottom">{e(localized(s,'language',ui))}<span aria-hidden="true">↗</span></span></a>''')
  category_path=collection+'/' if collection else ''
  toggle=f'''<nav class="language-switch" aria-label="Landing page language"><a href="{prefix+category_path or './'}" {'aria-current="page"' if not en else ''}>ಕನ್ನಡ</a><a href="{prefix}en/{category_path}" {'aria-current="page"' if en else ''}>English (Roman)</a></nav>'''
- title='Words to return to.' if en else 'ನಿತ್ಯಪಾರಾಯಣದ ಸಂಗಾತಿ.'
+ title=('Navaratri prayers' if en else 'ನವರಾತ್ರಿ ಪಾರಾಯಣ') if collection in TAGS else ('Words to return to.' if en else 'ನಿತ್ಯಪಾರಾಯಣದ ಸಂಗಾತಿ.')
  intro='Shlokas and bhajans for daily prayer,<br class="desktop"> quiet moments, and chanting together.' if en else 'ಶ್ಲೋಕಗಳು ಮತ್ತು ಭಜನೆಗಳು — ನಿತ್ಯಪಾರಾಯಣಕ್ಕೆ,<br class="desktop"> ಕುಟುಂಬದೊಂದಿಗೆ ಹಾಡಲು.'
  body=f'''{toggle}{category_links}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>
 <section aria-label="Song collection"><div class="collection-heading"><h2>{'The songbook' if en else 'ಭಕ್ತಿ ಸಂಗ್ರಹ'}</h2><span>{len(selected)} {u['count']}</span></div><label class="search-label" for="search">{'Find a shloka or bhajan' if en else 'ಶ್ಲೋಕ ಅಥವಾ ಭಜನೆ ಹುಡುಕಿ'}</label><input id="search" type="search" placeholder="{'Search by Kannada or Roman title…' if en else 'ಕನ್ನಡ ಅಥವಾ ರೋಮನ್ ಹೆಸರಿನಿಂದ ಹುಡುಕಿ…'}" autocomplete="off"><div class="cards">{''.join(cards)}</div>{('<p class="category-empty">'+('No entries in this category yet.' if en else 'ಈ ವಿಭಾಗದಲ್ಲಿ ಇನ್ನೂ ಪಠ್ಯಗಳಿಲ್ಲ.')+'</p>') if not selected else ''}<p id="empty" hidden>{'No matches. Try another title.' if en else 'ಪಠ್ಯ ಸಿಗಲಿಲ್ಲ. ಬೇರೊಂದು ಹೆಸರು ಹುಡುಕಿ.'}</p></section>
@@ -76,7 +80,7 @@ def render_legacy(s):
  kn=s.get('script')=='kannada';slug=s['slug'];prefix='../../';u=UI['kn'];chorus=''
  if s.get('chorus'):chorus='<section class="chorus"><span class="eyebrow">ಪಲ್ಲವಿ</span><p>'+'<br>'.join(e(x) for x in s['chorus'])+'</p></section>'
  verses=''.join(f'<section class="verse" id="verse-{i}"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(x) for x in lines)}</p></section>' for i,lines in enumerate(s['verses'],1))
- body=f'''<nav class="back"><a href="../../">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(s['category'])} / {e(s['language'])}</span><h1>{e(s['title'])}</h1><p>{e(s['description'])}</p></section>{toolbar('kn')}<article class="lyrics{' kn' if kn else ''}" aria-label="Lyrics">{chorus}{verses}</article><section class="source"><h2>{u['source']}</h2><p>{e(s['note'])}</p>{refs_html(s.get('references',[]),'kn')}{scan_html(s,'kn',prefix)}</section>'''
+ body=f'''<nav class="back"><a href="../../">{u['back']}</a></nav>{work_tags(s,'kn',prefix)}<section class="song-heading"><span class="eyebrow">{e(s['category'])} / {e(s['language'])}</span><h1>{e(s['title'])}</h1><p>{e(s['description'])}</p></section>{toolbar('kn')}<article class="lyrics{' kn' if kn else ''}" aria-label="Lyrics">{chorus}{verses}</article><section class="source"><h2>{u['source']}</h2><p>{e(s['note'])}</p>{refs_html(s.get('references',[]),'kn')}{scan_html(s,'kn',prefix)}</section>'''
  p=ROOT/'songs'/slug/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(s['title'],s['description'],body,prefix,'kn' if kn else 'en'))
 
 # Keep each source paragraph intact. Numbered verse markers define stable anchors.
@@ -140,14 +144,14 @@ def render_multiscript(s):
   original=''
   if s.get('preserve_original_transcription'):
    original='<details class="original-transcription"><summary>'+('ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ' if ui=='kn' else 'Original family-book Kannada transcription')+'</summary><div class="lyrics kn" lang="kn">'+''.join(f'<div class="source-name"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(x) for x in lines)}</p></div>' for i,lines in enumerate(s['verses'],1))+'</div></details>'
-  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav><section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{notation}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
+  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav>{work_tags(s,ui,prefix)}<section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{notation}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article><section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
 home('kn');home('en')
-for collection in COLLECTIONS:
+for collection in FILTERS:
  home('kn',collection);home('en',collection)
 for s in songs:
  assert s['slug'] and all(c in 'abcdefghijklmnopqrstuvwxyz0123456789-' for c in s['slug'])
  if 'versions_file' in s:render_multiscript(s)
  else:render_legacy(s)
-print(f'Built {2*(1+len(COLLECTIONS))} landing/category pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')
+print(f'Built {2*(1+len(FILTERS))} landing/category/tag pages, {len(songs)} entries and {sum(3 if "versions_file" in s else 1 for s in songs)} reading pages.')

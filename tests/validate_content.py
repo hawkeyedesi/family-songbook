@@ -17,6 +17,8 @@ old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],
 vedic_totals={'sri-suktam':[279]*3,'durga-suktam':[156]*3,'ganesha-atharvashirsham':[391]*3,'rudra-namakam-chamakam':[2317,2318,2318],'mantra-pushpam':[403]*3}
 assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras'}
 assert by_slug['daily-puja-mantras']['svara_status']=='scan-only'
+assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali']
+assert 'weekly' in by_slug['lalitha-sahasra-namavali']['collections'],'Tagging must not replace schedule'
 for s in old:
  assert by_slug[s['slug']]['verses']==s['verses'],f'Changed existing prayer: {s["slug"]}'
  assert by_slug[s['slug']].get('chorus')==s.get('chorus')
@@ -103,13 +105,13 @@ for s in a:
  print('PASS',s['slug'],'complete source text + matching verse sequence in three scripts')
 print('PASS: all nine original transcriptions preserved; 23 entries; Friday order and overlapping schedules verified.')
 for ui in ['', 'en']:
- for group in [None,*groups]:
+ for group in [None,*groups,'navaratri']:
   path=ROOT/ui/(group or '')/'index.html';html=path.read_text()
-  want=a if group is None else sorted([s for s in a if s['slug'] in groups[group]],key=lambda s:s.get('collection_order',{}).get(group,999))
+  want=a if group is None else sorted([s for s in a if (group in s.get('tags',[]) if group=='navaratri' else s['slug'] in groups[group])],key=lambda s:s.get('collection_order',{}).get(group,999))
   assert re.findall(r'data-work="([a-z0-9-]+)"',html)==[s['slug'] for s in want],str(path)
-  assert len(re.findall('data-collection=',html))==5
+  assert len(re.findall('data-collection=',html))==6
   for href in re.findall(r'<a href="([^"]+)"',html):
    if href.startswith(('http','#')):continue
    target=(path.parent/href).resolve()
    assert target.is_file() or (target/'index.html').is_file(),(path,href)
-print('PASS: all ten generated landing pages, list order, category links and static destinations.')
+print('PASS: all twelve generated landing/tag pages, list order, category links and static destinations.')

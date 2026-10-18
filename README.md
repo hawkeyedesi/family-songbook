@@ -44,6 +44,10 @@ Category pages use real static routes (`/daily/`, `/weekly/`, `/friday/`, `/padu
 
 The Safari groups could not be enumerated, but Kashyap subsequently supplied the Weekly URLs and Friday list explicitly. Those confirmed lists now drive membership and order: 12 distinct Friday entries, 4 Weekly entries, 7 otherwise Daily entries, plus Amma Baaramma in Paduka Puja Bhajans (23 unique works, with Karavalamba in both schedules). Mahishasura Mardini and Aigiri Nandini are one entry; Bhagyaada Lakshmi Baaramma and Amma Baaramma are distinct. Amma Baaramma is in Paduka Puja Bhajans; further Sringeri bhajans can be added there.
 
+## Festival tags
+
+`tags: ["navaratri"]` is independent of an entry's reading schedules. The Kannada and Roman landing pages expose a Navaratri filter (`/navaratri/`, `/en/navaratri/`); reading pages link back to the tag. Lalitha Sahasra Namavali retains Weekly membership while also appearing under Navaratri.
+
 ## Vedic accents
 
 Vedic entries have explicit `vedic` and `svara_status` metadata. Sri Sukta and Durga Sukta now use the published, accent-marked Stotra Nidhi three-script edition, with Dad's original transcription/scans preserved separately. Ganapati Atharvashirsha, Rudram/Chamakam and Mantra Pushpam retain their existing marked Vignanam sources. Each view has an expandable printing/pronunciation key; Roman vowel diacritics are not confused with pitch marks.
