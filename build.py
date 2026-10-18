@@ -49,7 +49,11 @@ def home(ui,collection=None):
  toggle=f'''<nav class="language-switch" aria-label="Landing page language"><a href="{prefix+category_path or './'}" {'aria-current="page"' if not en else ''}>ಕನ್ನಡ</a><a href="{prefix}en/{category_path}" {'aria-current="page"' if en else ''}>English (Roman)</a></nav>'''
  title=('Navaratri prayers' if en else 'ನವರಾತ್ರಿ ಪಾರಾಯಣ') if collection in TAGS else ('Words to return to.' if en else 'ನಿತ್ಯಪಾರಾಯಣದ ಸಂಗಾತಿ.')
  intro='Shlokas and bhajans for daily prayer,<br class="desktop"> quiet moments, and chanting together.' if en else 'ಶ್ಲೋಕಗಳು ಮತ್ತು ಭಜನೆಗಳು — ನಿತ್ಯಪಾರಾಯಣಕ್ಕೆ,<br class="desktop"> ಕುಟುಂಬದೊಂದಿಗೆ ಹಾಡಲು.'
- body=f'''{toggle}{category_links}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>
+ recording=''
+ if collection=='navaratri':
+  from navaratri import render as render_recording
+  recording=render_recording(ui,prefix,songs,render_chapter)
+ body=f'''{toggle}{category_links}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>{recording}
 <section aria-label="Song collection"><div class="collection-heading"><h2>{'The songbook' if en else 'ಭಕ್ತಿ ಸಂಗ್ರಹ'}</h2><span>{len(selected)} {u['count']}</span></div><label class="search-label" for="search">{'Find a shloka or bhajan' if en else 'ಶ್ಲೋಕ ಅಥವಾ ಭಜನೆ ಹುಡುಕಿ'}</label><input id="search" type="search" placeholder="{'Search by Kannada or Roman title…' if en else 'ಕನ್ನಡ ಅಥವಾ ರೋಮನ್ ಹೆಸರಿನಿಂದ ಹುಡುಕಿ…'}" autocomplete="off"><div class="cards">{''.join(cards)}</div>{('<p class="category-empty">'+('No entries in this category yet.' if en else 'ಈ ವಿಭಾಗದಲ್ಲಿ ಇನ್ನೂ ಪಠ್ಯಗಳಿಲ್ಲ.')+'</p>') if not selected else ''}<p id="empty" hidden>{'No matches. Try another title.' if en else 'ಪಠ್ಯ ಸಿಗಲಿಲ್ಲ. ಬೇರೊಂದು ಹೆಸರು ಹುಡುಕಿ.'}</p></section>
 <aside class="collection-note">{'A growing collection. Each entry has its own link to bookmark or share. Choose a script on the new multilingual entries.' if en else 'ಇದು ಬೆಳೆಯುವ ಸಂಗ್ರಹ. ಪ್ರತಿಯೊಂದಕ್ಕೂ ತನ್ನದೇ ಲಿಂಕ್ ಇದೆ. ಬಹುಲಿಪಿಯ ಪಠ್ಯಗಳಲ್ಲಿ ನಿಮಗೆ ಬೇಕಾದ ಲಿಪಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.'}</aside>'''
  p=ROOT/('en' if en else '')/(collection or '')/'index.html';p.parent.mkdir(parents=True,exist_ok=True)

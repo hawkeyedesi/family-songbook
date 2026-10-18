@@ -1,0 +1,520 @@
+{
+  "videoId": "Cjd9t7t7MAA",
+  "sourceUrl": "https://www.youtube.com/watch?v=Cjd9t7t7MAA",
+  "duration": 2475,
+  "year": 1983,
+  "reciter": "Devenhalli Nagaraj Shastrigalu",
+  "recorder": "Late H. G. Narayana",
+  "location": "Jayanagar, Bangalore",
+  "defaultWork": "lalitha-sahasra-namavali",
+  "cues": [
+    {
+      "id": "opening-puja",
+      "start": 0,
+      "label": "ಆರಂಭದ ಪೂಜಾ ಮಂತ್ರಗಳು ಮತ್ತು ಉಪಚಾರಗಳು",
+      "label_en": "Opening puja mantras & offerings",
+      "work": null,
+      "end": 74
+    },
+    {
+      "id": "lalitha-bathing",
+      "start": 74,
+      "work": "navaratri-puja-passages",
+      "anchor": "abhisheka-milk",
+      "label": "ಪಂಚಾಮೃತ — ಹಾಲು",
+      "label_en": "Panchamrita & water bathing",
+      "evidence": "आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑: सोम॒ वृष्णि॑यम् ।\nभवा॒ वाज॑स्य सङ्ग॒थे ॥",
+      "end": 194
+    },
+    {
+      "id": "lalitha-bathing-following",
+      "start": 194,
+      "work": null,
+      "label": "ಮುಂದಿನ ಉಪಚಾರಗಳು",
+      "label_en": "Following ritual offerings",
+      "end": 214
+    },
+    {
+      "id": "lalitha-gandha",
+      "start": 214,
+      "work": "navaratri-puja-passages",
+      "anchor": "gandha",
+      "label": "ಗಂಧದ್ವಾರಾಂ",
+      "label_en": "Gandhadvāram — sandalwood offering",
+      "evidence": "ग॒न्ध॒द्वा॒रां दु॑राध॒र्षां॒ नि॒त्यपु॑ष्टां करी॒षिणी᳚म् ।\nई॒श्वरी॑ग्ं सर्व॑भूता॒नां॒ तामि॒होप॑ह्वये॒ श्रियम् ॥",
+      "end": 244
+    },
+    {
+      "id": "lalitha-gandha-following",
+      "start": 244,
+      "work": null,
+      "label": "ಮುಂದಿನ ಉಪಚಾರಗಳು",
+      "label_en": "Following ritual offerings",
+      "end": 346.2
+    },
+    {
+      "id": "lalitha1000-1",
+      "start": 346.2,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 1",
+      "label_en": "Lalitha Sahasra Namavali — near name 1",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-1",
+      "evidence": "ओं श्रीमात्रे नमः ।",
+      "end": 540
+    },
+    {
+      "id": "lalitha1000-80",
+      "start": 540,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 80",
+      "label_en": "Lalitha Sahasra Namavali — near name 80",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-80",
+      "evidence": "ओं कराङ्गुलिनखोत्पन्ननारायणदशाकृत्यै नमः । ८०",
+      "end": 581.3
+    },
+    {
+      "id": "lalitha1000-99",
+      "start": 581.3,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 99",
+      "label_en": "Lalitha Sahasra Namavali — near name 99",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-99",
+      "evidence": "ओं मूलाधारैकनिलयायै नमः ।",
+      "end": 703.9
+    },
+    {
+      "id": "lalitha1000-197",
+      "start": 703.9,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 197",
+      "label_en": "Lalitha Sahasra Namavali — near name 197",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-197",
+      "evidence": "ओं सान्द्रकरुणायै नमः ।",
+      "end": 763.9
+    },
+    {
+      "id": "lalitha1000-241",
+      "start": 763.9,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 241",
+      "label_en": "Lalitha Sahasra Namavali — near name 241",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-241",
+      "evidence": "ओं चारुरूपायै नमः ।",
+      "end": 853.9
+    },
+    {
+      "id": "lalitha1000-296",
+      "start": 853.9,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 296",
+      "label_en": "Lalitha Sahasra Namavali — near name 296",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-296",
+      "evidence": "ओं अनादिनिधनायै नमः ।",
+      "end": 994
+    },
+    {
+      "id": "lalitha1000-396",
+      "start": 994,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 396",
+      "label_en": "Lalitha Sahasra Namavali — near name 396",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-396",
+      "evidence": "ओं परमेश्वर्यै नमः ।",
+      "end": 1093.5
+    },
+    {
+      "id": "lalitha1000-471",
+      "start": 1093.5,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 471",
+      "label_en": "Lalitha Sahasra Namavali — near name 471",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-471",
+      "evidence": "ओं सिद्धेश्वर्यै नमः ।",
+      "end": 1264.8
+    },
+    {
+      "id": "lalitha1000-578",
+      "start": 1264.8,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 578",
+      "label_en": "Lalitha Sahasra Namavali — near name 578",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-578",
+      "evidence": "ओं महाकैलासनिलयायै नमः ।",
+      "end": 1337.8
+    },
+    {
+      "id": "lalitha1000-626",
+      "start": 1337.8,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 626",
+      "label_en": "Lalitha Sahasra Namavali — near name 626",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-626",
+      "evidence": "ओं त्रिपुरायै नमः ।",
+      "end": 1446.7
+    },
+    {
+      "id": "lalitha1000-704",
+      "start": 1446.7,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 704",
+      "label_en": "Lalitha Sahasra Namavali — near name 704",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-704",
+      "evidence": "ओं सरस्वत्यै नमः ।",
+      "end": 1548.7
+    },
+    {
+      "id": "lalitha1000-780",
+      "start": 1548.7,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 780",
+      "label_en": "Lalitha Sahasra Namavali — near name 780",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-780",
+      "evidence": "ओं विश्वतोमुख्यै नमः । ७८०",
+      "end": 1661.5
+    },
+    {
+      "id": "lalitha1000-868",
+      "start": 1661.5,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 868",
+      "label_en": "Lalitha Sahasra Namavali — near name 868",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-868",
+      "evidence": "ओं मुग्धायै नमः ।",
+      "end": 1811.5
+    },
+    {
+      "id": "lalitha1000-979",
+      "start": 1811.5,
+      "label": "ಸಹಸ್ರನಾಮಾವಳಿ — 979",
+      "label_en": "Lalitha Sahasra Namavali — near name 979",
+      "work": "lalitha-sahasra-namavali",
+      "anchor": "names-name-979",
+      "evidence": "ओं ज्ञानमुद्रायै नमः ।",
+      "end": 1871.5
+    },
+    {
+      "id": "ashtottara-sankalpa",
+      "start": 1871.5,
+      "label": "ಅಷ್ಟೋತ್ತರದ ಸಂಕಲ್ಪ",
+      "label_en": "Sankalpa before the 108 names",
+      "work": null,
+      "end": 1912.6
+    },
+    {
+      "id": "bhurupa108-1",
+      "start": 1912.6,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 1",
+      "label_en": "Bhurupa Ashtottara — near name 1",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-1",
+      "evidence": "ॐ भूरूपसकलाधारायै नमः",
+      "end": 1945.5
+    },
+    {
+      "id": "bhurupa108-16",
+      "start": 1945.5,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 16",
+      "label_en": "Bhurupa Ashtottara — near name 16",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-16",
+      "evidence": "ॐ घ्राणरूपायै नमः ।",
+      "end": 1953.8
+    },
+    {
+      "id": "bhurupa108-22",
+      "start": 1953.8,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 22",
+      "label_en": "Bhurupa Ashtottara — near name 22",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-22",
+      "evidence": "ॐ चक्षुरूपायै नमः ।",
+      "end": 1974.9
+    },
+    {
+      "id": "bhurupa108-36",
+      "start": 1974.9,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 36",
+      "label_en": "Bhurupa Ashtottara — near name 36",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-36",
+      "evidence": "ॐ गतिवृत्तिप्रदायिन्यै नमः ।",
+      "end": 2007.4
+    },
+    {
+      "id": "bhurupa108-51",
+      "start": 2007.4,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 51",
+      "label_en": "Bhurupa Ashtottara — near name 51",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-51",
+      "evidence": "ॐ पञ्चीकृतमहाभूतसूक्ष्मभूतस्वरूपिण्यै नमः ।",
+      "end": 2035.7
+    },
+    {
+      "id": "bhurupa108-68",
+      "start": 2035.7,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 68",
+      "label_en": "Bhurupa Ashtottara — near name 68",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-68",
+      "evidence": "ॐ श्रीवाणीलक्ष्म्युमारूपायै नमः ।",
+      "end": 2077.7
+    },
+    {
+      "id": "bhurupa108-88",
+      "start": 2077.7,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 88",
+      "label_en": "Bhurupa Ashtottara — near name 88",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-88",
+      "evidence": "ॐ गान्धर्वविद्यारूपायै नमः ।",
+      "end": 2107.7
+    },
+    {
+      "id": "bhurupa108-103",
+      "start": 2107.7,
+      "label": "ಭೂರೂಪ ಅಷ್ಟೋತ್ತರ — 103",
+      "label_en": "Bhurupa Ashtottara — near name 103",
+      "work": "lalitha-ashtottara-bhurupa",
+      "anchor": "names-name-103",
+      "evidence": "ॐ अव्याकृतपदानाद्यचिन्त्यशक्त्यै नमः ।",
+      "end": 2137.7
+    },
+    {
+      "id": "closing-puja",
+      "start": 2137.7,
+      "label": "ಮುಕ್ತಾಯದ ಪೂಜೆ, ಆರತಿ ಮತ್ತು ಸಮರ್ಪಣೆ",
+      "label_en": "Closing puja, arati & dedication",
+      "work": null,
+      "end": 2305.5
+    },
+    {
+      "id": "devi-pradakshina",
+      "start": 2305.5,
+      "label": "ದೇವೀ ಪ್ರದಕ್ಷಿಣೆ",
+      "label_en": "Devi pradakshina prayers",
+      "work": "navaratri-puja-passages",
+      "anchor": "devi-pradakshina",
+      "evidence": "यानि कानि च पापानि जन्मान्तरकृतानि च ।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे ॥\nपापोऽहं पापकर्माऽहं पापात्मा पापसम्भव ।\nत्राहि मां कृपया देवी शरणागतवत्सले ॥\nअन्यथा शरणं नास्ति त्वमेव शरणं मम ।\nतस्मात्कारुण्य भावेन रक्ष रक्ष महेश्वरी ॥",
+      "end": 2365.5
+    },
+    {
+      "id": "devi-dedication",
+      "start": 2365.5,
+      "label": "ಪ್ರಸಾದ ಮತ್ತು ಸಮರ್ಪಣೆ",
+      "label_en": "Prasada & dedication",
+      "work": null,
+      "end": 2395.5
+    },
+    {
+      "id": "devi-royal-offerings",
+      "start": 2395.5,
+      "label": "ರಾಜೋಪಚಾರಗಳು",
+      "label_en": "Royal offerings",
+      "work": "navaratri-puja-passages",
+      "anchor": "royal-offerings",
+      "evidence": "ओं श्री ललिता देव्यै नमः छत्रं आच्छादयामि ।\nओं श्री ललिता देव्यै नमः चामरैर्वीजयामि ।\nओं श्री ललिता देव्यै नमः नृत्यं दर्शयामि ।\nओं श्री ललिता देव्यै नमः गीतं श्रावयामि ।\nओं श्री ललिता देव्यै नमः आन्दोलिकान्नारोहयामि ।\nओं श्री ललिता देव्यै नमः अश्वानारोहयामि ।\nओं श्री ललिता देव्यै नमः गजानारोहयामि ।\nओं श्री ललिता देव्यै नमः समस्त राज्ञीयोपचारान् देव्योपचारान् समर्पयामि ।",
+      "end": 2425.5
+    },
+    {
+      "id": "devi-conclusion",
+      "start": 2425.5,
+      "label": "ಮುಕ್ತಾಯದ ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಧ್ವನಿಮುದ್ರಿಕೆಯ ವಿವರಗಳು",
+      "label_en": "Closing prayers & recording credits",
+      "work": null,
+      "end": 2475
+    }
+  ],
+  "label": "ಲಲಿತಾ ಪೂಜೆ",
+  "label_en": "Lalitha puja",
+  "start": 0,
+  "preludes": [
+    {
+      "videoId": "tw9uOA5d7-A",
+      "sourceUrl": "https://www.youtube.com/watch?v=tw9uOA5d7-A&t=2106s",
+      "duration": 2749,
+      "start": 2106,
+      "label": "ಗಣಪತಿ ಪೂಜೆ — ೩೫:೦೬ ರಿಂದ",
+      "label_en": "Ganapathy puja — from 35:06",
+      "defaultWork": "navaratri-puja-passages",
+      "cues": [
+        {
+          "id": "ganapathy-introduction",
+          "start": 2106,
+          "label": "ಗಣಪತಿ ಪೂಜೆ — ಸಿದ್ಧತೆ",
+          "label_en": "Ganapathy puja — preparation",
+          "work": null,
+          "end": 2111
+        },
+        {
+          "id": "ganapathy-opening",
+          "start": 2111,
+          "label": "ಆರಂಭದ ಪ್ರಾರ್ಥನೆ",
+          "label_en": "Opening prayer",
+          "work": "navaratri-puja-passages",
+          "anchor": "opening",
+          "evidence": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥",
+          "end": 2125.8
+        },
+        {
+          "id": "ganapathy-bell",
+          "start": 2125.8,
+          "label": "ಘಂಟಾನಾದ",
+          "label_en": "Bell prayer",
+          "work": "navaratri-puja-passages",
+          "anchor": "bell",
+          "evidence": "आगमार्थं तु देवानां गमनार्थं तु राक्षसाम् ।\nघण्टारवं करोम्यादौ देवताह्वान लाञ्छनम् ॥",
+          "end": 2134.8
+        },
+        {
+          "id": "ganapathy-bhuta",
+          "start": 2134.8,
+          "label": "ಭೂತೋಚ್ಚಾಟನ",
+          "label_en": "Bhuta-ucchatana",
+          "work": "navaratri-puja-passages",
+          "anchor": "bhuta",
+          "evidence": "उत्तिष्ठन्तु भूतपिशाचाः य एते भूमि भारकाः ।\nएतेषामविरोधेन ब्रह्मकर्म समारभे ॥\nअपसर्पन्तु ते भूता ये भूता भूमिसंस्थिताः ।\nये भूता विघ्नकर्तारस्ते गच्छन्तु शिवाऽज्ञया ॥",
+          "end": 2150
+        },
+        {
+          "id": "ganapathy-sankalpa",
+          "start": 2150,
+          "label": "ಸಂಕಲ್ಪ ಮತ್ತು ಕಲಶ ಸಿದ್ಧತೆ",
+          "label_en": "Sankalpa & kalasha preparation",
+          "work": null,
+          "end": 2243.9
+        },
+        {
+          "id": "ganapathy-waters",
+          "start": 2243.9,
+          "label": "ಕಲಶ — ನದಿ ಪ್ರಾರ್ಥನೆ",
+          "label_en": "Kalasha — river invocation",
+          "work": "navaratri-puja-passages",
+          "anchor": "waters",
+          "evidence": "गङ्गे च यमुने चैव गोदावरी सरस्वती ।\nनर्मदे सिन्धु कावेरी जलेऽस्मिन् सन्निधिं कुरु ॥",
+          "end": 2273.9
+        },
+        {
+          "id": "ganapathy-invocation",
+          "start": 2273.9,
+          "label": "ಗಣಾನಾಂ ತ್ವಾ",
+          "label_en": "Gananam tva — invocation",
+          "work": "navaratri-puja-passages",
+          "anchor": "gananam",
+          "evidence": "ओं ग॒णानां᳚ त्वा ग॒णप॑तिग्ं हवामहे\nक॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।\nज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णां ब्रह्मणस्पत॒\nआ न॑: शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ॥",
+          "end": 2303.9
+        },
+        {
+          "id": "ganapathy-offerings",
+          "start": 2303.9,
+          "label": "ಉಪಚಾರಗಳು, ಪಂಚಾಮೃತ ಮತ್ತು ಅಲಂಕಾರ",
+          "label_en": "Offerings, panchamrita & adornment",
+          "work": null,
+          "end": 2320.9
+        },
+        {
+          "id": "ganapathy-bathing",
+          "start": 2320.9,
+          "work": "navaratri-puja-passages",
+          "anchor": "abhisheka-milk",
+          "label": "ಪಂಚಾಮೃತ — ಹಾಲು",
+          "label_en": "Panchamrita & water bathing",
+          "evidence": "आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑: सोम॒ वृष्णि॑यम् ।\nभवा॒ वाज॑स्य सङ्ग॒थे ॥",
+          "end": 2394.4
+        },
+        {
+          "id": "ganapathy-bathing-following",
+          "start": 2394.4,
+          "work": null,
+          "label": "ಮುಂದಿನ ಉಪಚಾರಗಳು",
+          "label_en": "Following ritual offerings",
+          "end": 2436.4
+        },
+        {
+          "id": "ganapathy-gandha",
+          "start": 2436.4,
+          "work": "navaratri-puja-passages",
+          "anchor": "gandha",
+          "label": "ಗಂಧದ್ವಾರಾಂ",
+          "label_en": "Gandhadvāram — sandalwood offering",
+          "evidence": "ग॒न्ध॒द्वा॒रां दु॑राध॒र्षां॒ नि॒त्यपु॑ष्टां करी॒षिणी᳚म् ।\nई॒श्वरी॑ग्ं सर्व॑भूता॒नां॒ तामि॒होप॑ह्वये॒ श्रियम् ॥",
+          "end": 2466.4
+        },
+        {
+          "id": "ganapathy-gandha-following",
+          "start": 2466.4,
+          "work": null,
+          "label": "ಮುಂದಿನ ಉಪಚಾರಗಳು",
+          "label_en": "Following ritual offerings",
+          "end": 2509.4
+        },
+        {
+          "id": "ganapathy-names",
+          "start": 2509.4,
+          "label": "ಗಣಪತಿ ನಾಮಪೂಜೆ",
+          "label_en": "Ganapathy nama puja",
+          "work": "navaratri-puja-passages",
+          "anchor": "ganesha-names",
+          "evidence": "ओं सुमुखाय नमः । ओं एकदन्ताय नमः ।\nओं कपिलायनमः । ओं गजकर्णकाय नमः ।\nओं लम्बोदरायनमः । ओं विकटाय नमः ।\nओं विघ्नराजाय नमः । ओं गणाधिपायनमः ।\nओं धूमकेतवे नमः । ओं गणाध्यक्षाय नमः ।\nओं फालचन्द्राय नमः । ओं गजाननाय नमः ।\nओं वक्रतुण्डाय नमः । ओं शूर्पकर्णाय नमः ।\nओं हेरम्बाय नमः । ओं स्कन्दपूर्वजाय नमः ।\nओं सर्वसिद्धिप्रदाय नमः ।",
+          "end": 2539.4
+        },
+        {
+          "id": "ganapathy-dhupa-dipa",
+          "start": 2539.4,
+          "label": "ಧೂಪ, ದೀಪ ಮತ್ತು ನೈವೇದ್ಯ ಸಿದ್ಧತೆ",
+          "label_en": "Dhupa, dipa & naivedya preparation",
+          "work": null,
+          "end": 2599.4
+        },
+        {
+          "id": "ganapathy-naivedya",
+          "start": 2599.4,
+          "label": "ನೈವೇದ್ಯ ಮಂತ್ರಗಳು",
+          "label_en": "Naivedya — prana offerings",
+          "work": "navaratri-puja-passages",
+          "anchor": "naivedya",
+          "evidence": "ओं भूर्भुव॒स्सुव॑: । तत्स॑वि॒तुर्वरे᳚ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।\nधियो॒ यो न॑: प्रचो॒दया᳚त् ॥\nसत्यं त्वा ऋतेन परिषिञ्चामि ।\n(सायङ्काले – ऋतं त्वा सत्येन परिषिञ्चामि)\nअमृतमस्तु । अ॒मृ॒तो॒प॒स्तर॑णमसि ।\nश्री महागणपतये नमः __________ समर्पयामि ।\nओं प्रा॒णाय॒ स्वाहा᳚ । ओं अ॒पा॒नाय॒ स्वाहा᳚ ।\nओं व्या॒नाय॒ स्वाहा᳚ । ओं उ॒दा॒नाय॒ स्वाहा᳚ ।\nओं स॒मा॒नाय॒ स्वाहा᳚ ।\nमध्ये मध्ये पानीयं समर्पयामि ।\nअ॒मृ॒ता॒पि॒धा॒नम॑सि । उत्तरापोशनं समर्पयामि ।\nहस्तौ प्रक्षालयामि । पादौ प्रक्षालयामि ।\nशुद्धाचमनीयं समर्पयामि ।",
+          "end": 2629.4
+        },
+        {
+          "id": "ganapathy-arati",
+          "start": 2629.4,
+          "label": "ದಕ್ಷಿಣೆ, ಆರತಿ ಮತ್ತು ಮಂತ್ರಪುಷ್ಪ",
+          "label_en": "Dakshina, arati & mantra pushpa",
+          "work": null,
+          "end": 2698.9
+        },
+        {
+          "id": "ganapathy-pradakshina",
+          "start": 2698.9,
+          "label": "ಗಣಪತಿ ಪ್ರದಕ್ಷಿಣೆ",
+          "label_en": "Pradakshina prayers",
+          "work": "navaratri-puja-passages",
+          "anchor": "ganesha-pradakshina",
+          "evidence": "यानिकानि च पापानि जन्मान्तरकृतानि च ।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे ॥\nपापोऽहं पापकर्माऽहं पापात्मा पापसम्भवः ।\nत्राहि मां कृपया देव शरणागतवत्सल ॥\nअन्यधा शरणं नास्ति त्वमेव शरणं मम ।\nतस्मात्कारुण्य भावेन रक्ष रक्ष गणाधिप ॥",
+          "end": 2717.3
+        },
+        {
+          "id": "ganapathy-vakratunda",
+          "start": 2717.3,
+          "label": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ",
+          "label_en": "Vakratunda mahakaya",
+          "work": "navaratri-puja-passages",
+          "anchor": "vakratunda",
+          "evidence": "ओं वक्रतुण्ड महाकाय सूर्य कोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्व कार्येषु सर्वदा ॥",
+          "end": 2731.8
+        },
+        {
+          "id": "ganapathy-conclusion",
+          "start": 2731.8,
+          "label": "ಗಣಪತಿ ಪೂಜಾ ಸಮಾಪ್ತಿ",
+          "label_en": "Ganapathy puja — conclusion",
+          "work": null,
+          "end": 2749
+        }
+      ],
+      "timingReview": "User supplied start35:06; source-matched approximate checkpoints. The marked excerpts are a published reading edition, not a verbatim family-ritual transcript."
+    }
+  ],
+  "timingReview": "Approximate source-matched section checkpoints, not word-level alignment. Published prayer wording is independent of machine identification. Opening/closing ritual passages remain explicitly unmatched."
+}

@@ -1,0 +1,508 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ನವರಾತ್ರಿ ಪೂಜೆಯ ಆಯ್ದ ಮಂತ್ರಗಳು",
+      "chapters": [
+        {
+          "id": "opening",
+          "title": "ಆರಂಭದ ಪ್ರಾರ್ಥನೆ",
+          "paragraphs": [
+            "ಶುಕ್ಲಾಮ್ಬರಧರಂ ವಿಷ್ಣುಂ ಶಶಿವರ್ಣಂ ಚತುರ್ಭುಜಮ್ ।\nಪ್ರಸನ್ನವದನಂ ಧ್ಯಾಯೇತ್ ಸರ್ವವಿಘ್ನೋಪಶಾನ್ತಯೇ ॥"
+          ]
+        },
+        {
+          "id": "bell",
+          "title": "ಘಂಟಾನಾದ",
+          "paragraphs": [
+            "ಆಗಮಾರ್ಥಂ ತು ದೇವಾನಾಂ ಗಮನಾರ್ಥಂ ತು ರಾಕ್ಷಸಾಮ್ ।\nಘಣ್ಟಾರವಂ ಕರೋಮ್ಯಾದೌ ದೇವತಾಹ್ವಾನ ಲಾಞ್ಛನಮ್ ॥"
+          ]
+        },
+        {
+          "id": "bhuta",
+          "title": "ಭೂತೋಚ್ಚಾಟನ",
+          "paragraphs": [
+            "ಉತ್ತಿಷ್ಠನ್ತು ಭೂತಪಿಶಾಚಾಃ ಯ ಏತೇ ಭೂಮಿ ಭಾರಕಾಃ ।\nಏತೇಷಾಮವಿರೋಧೇನ ಬ್ರಹ್ಮಕರ್ಮ ಸಮಾರಭೇ ॥\nಅಪಸರ್ಪನ್ತು ತೇ ಭೂತಾ ಯೇ ಭೂತಾ ಭೂಮಿಸಂಸ್ಥಿತಾಃ ।\nಯೇ ಭೂತಾ ವಿಘ್ನಕರ್ತಾರಸ್ತೇ ಗಚ್ಛನ್ತು ಶಿವಾಽಜ್ಞಯಾ ॥"
+          ]
+        },
+        {
+          "id": "waters",
+          "title": "ಕಲಶ — ನದಿ ಪ್ರಾರ್ಥನೆ",
+          "paragraphs": [
+            "ಗಙ್ಗೇ ಚ ಯಮುನೇ ಚೈವ ಗೋದಾವರೀ ಸರಸ್ವತೀ ।\nನರ್ಮದೇ ಸಿನ್ಧು ಕಾವೇರೀ ಜಲೇಽಸ್ಮಿನ್ ಸನ್ನಿಧಿಂ ಕುರು ॥"
+          ]
+        },
+        {
+          "id": "gananam",
+          "title": "ಗಣಾನಾಂ ತ್ವಾ",
+          "paragraphs": [
+            "ಓಂ ಗ॒ಣಾನಾಂ᳚ ತ್ವಾ ಗ॒ಣಪ॑ತಿಗ್ಂ ಹವಾಮಹೇ\nಕ॒ವಿಂ ಕ॑ವೀ॒ನಾಮು॑ಪ॒ಮಶ್ರ॑ವಸ್ತಮಮ್ ।\nಜ್ಯೇ॒ಷ್ಠ॒ರಾಜಂ॒ ಬ್ರಹ್ಮ॑ಣಾಂ ಬ್ರಹ್ಮಣಸ್ಪತ॒\nಆ ನ॑: ಶೃ॒ಣ್ವನ್ನೂ॒ತಿಭಿ॑ಸ್ಸೀದ॒ ಸಾದ॑ನಮ್ ॥"
+          ]
+        },
+        {
+          "id": "ganesha-names",
+          "title": "ಗಣಪತಿ ನಾಮಪೂಜೆ",
+          "paragraphs": [
+            "ಓಂ ಸುಮುಖಾಯ ನಮಃ । ಓಂ ಏಕದನ್ತಾಯ ನಮಃ ।\nಓಂ ಕಪಿಲಾಯನಮಃ । ಓಂ ಗಜಕರ್ಣಕಾಯ ನಮಃ ।\nಓಂ ಲಮ್ಬೋದರಾಯನಮಃ । ಓಂ ವಿಕಟಾಯ ನಮಃ ।\nಓಂ ವಿಘ್ನರಾಜಾಯ ನಮಃ । ಓಂ ಗಣಾಧಿಪಾಯನಮಃ ।\nಓಂ ಧೂಮಕೇತವೇ ನಮಃ । ಓಂ ಗಣಾಧ್ಯಕ್ಷಾಯ ನಮಃ ।\nಓಂ ಫಾಲಚನ್ದ್ರಾಯ ನಮಃ । ಓಂ ಗಜಾನನಾಯ ನಮಃ ।\nಓಂ ವಕ್ರತುಣ್ಡಾಯ ನಮಃ । ಓಂ ಶೂರ್ಪಕರ್ಣಾಯ ನಮಃ ।\nಓಂ ಹೇರಮ್ಬಾಯ ನಮಃ । ಓಂ ಸ್ಕನ್ದಪೂರ್ವಜಾಯ ನಮಃ ।\nಓಂ ಸರ್ವಸಿದ್ಧಿಪ್ರದಾಯ ನಮಃ ।"
+          ]
+        },
+        {
+          "id": "naivedya",
+          "title": "ನೈವೇದ್ಯ ಮಂತ್ರಗಳು",
+          "paragraphs": [
+            "ಓಂ ಭೂರ್ಭುವ॒ಸ್ಸುವ॑: । ತತ್ಸ॑ವಿ॒ತುರ್ವರೇ᳚ಣ್ಯಂ॒ ಭರ್ಗೋ॑ ದೇ॒ವಸ್ಯ॑ ಧೀಮಹಿ ।\nಧಿಯೋ॒ ಯೋ ನ॑: ಪ್ರಚೋ॒ದಯಾ᳚ತ್ ॥\nಸತ್ಯಂ ತ್ವಾ ಋತೇನ ಪರಿಷಿಞ್ಚಾಮಿ ।\n(ಸಾಯಙ್ಕಾಲೇ – ಋತಂ ತ್ವಾ ಸತ್ಯೇನ ಪರಿಷಿಞ್ಚಾಮಿ)\nಅಮೃತಮಸ್ತು । ಅ॒ಮೃ॒ತೋ॒ಪ॒ಸ್ತರ॑ಣಮಸಿ ।\nಶ್ರೀ ಮಹಾಗಣಪತಯೇ ನಮಃ __________ ಸಮರ್ಪಯಾಮಿ ।\nಓಂ ಪ್ರಾ॒ಣಾಯ॒ ಸ್ವಾಹಾ᳚ । ಓಂ ಅ॒ಪಾ॒ನಾಯ॒ ಸ್ವಾಹಾ᳚ ।\nಓಂ ವ್ಯಾ॒ನಾಯ॒ ಸ್ವಾಹಾ᳚ । ಓಂ ಉ॒ದಾ॒ನಾಯ॒ ಸ್ವಾಹಾ᳚ ।\nಓಂ ಸ॒ಮಾ॒ನಾಯ॒ ಸ್ವಾಹಾ᳚ ।\nಮಧ್ಯೇ ಮಧ್ಯೇ ಪಾನೀಯಂ ಸಮರ್ಪಯಾಮಿ ।\nಅ॒ಮೃ॒ತಾ॒ಪಿ॒ಧಾ॒ನಮ॑ಸಿ । ಉತ್ತರಾಪೋಶನಂ ಸಮರ್ಪಯಾಮಿ ।\nಹಸ್ತೌ ಪ್ರಕ್ಷಾಲಯಾಮಿ । ಪಾದೌ ಪ್ರಕ್ಷಾಲಯಾಮಿ ।\nಶುದ್ಧಾಚಮನೀಯಂ ಸಮರ್ಪಯಾಮಿ ।"
+          ]
+        },
+        {
+          "id": "ganesha-pradakshina",
+          "title": "ಗಣಪತಿ ಪ್ರದಕ್ಷಿಣೆ",
+          "paragraphs": [
+            "ಯಾನಿಕಾನಿ ಚ ಪಾಪಾನಿ ಜನ್ಮಾನ್ತರಕೃತಾನಿ ಚ ।\nತಾನಿ ತಾನಿ ಪ್ರಣಶ್ಯನ್ತಿ ಪ್ರದಕ್ಷಿಣ ಪದೇ ಪದೇ ॥\nಪಾಪೋಽಹಂ ಪಾಪಕರ್ಮಾಽಹಂ ಪಾಪಾತ್ಮಾ ಪಾಪಸಮ್ಭವಃ ।\nತ್ರಾಹಿ ಮಾಂ ಕೃಪಯಾ ದೇವ ಶರಣಾಗತವತ್ಸಲ ॥\nಅನ್ಯಧಾ ಶರಣಂ ನಾಸ್ತಿ ತ್ವಮೇವ ಶರಣಂ ಮಮ ।\nತಸ್ಮಾತ್ಕಾರುಣ್ಯ ಭಾವೇನ ರಕ್ಷ ರಕ್ಷ ಗಣಾಧಿಪ ॥"
+          ]
+        },
+        {
+          "id": "vakratunda",
+          "title": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ",
+          "paragraphs": [
+            "ಓಂ ವಕ್ರತುಣ್ಡ ಮಹಾಕಾಯ ಸೂರ್ಯ ಕೋಟಿ ಸಮಪ್ರಭ ।\nನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವ ಸರ್ವ ಕಾರ್ಯೇಷು ಸರ್ವದಾ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-milk",
+          "title": "ಪಂಚಾಮೃತ — ಹಾಲು",
+          "paragraphs": [
+            "ಆ ಪ್ಯಾ॑ಯಸ್ವ॒ ಸಮೇ॑ತು ತೇ ವಿ॒ಶ್ವತ॑: ಸೋಮ॒ ವೃಷ್ಣಿ॑ಯಮ್ ।\nಭವಾ॒ ವಾಜ॑ಸ್ಯ ಸಙ್ಗ॒ಥೇ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-curd",
+          "title": "ಪಂಚಾಮೃತ — ಮೊಸರು",
+          "paragraphs": [
+            "ದ॒ಧಿ॒ಕ್ರಾವ್ಣ್ಣೋ॑ ಅಕಾರಿಷಂ ಜಿ॒ಷ್ಣೋರಶ್ವ॑ಸ್ಯ ವಾ॒ಜಿನ॑: ।\nಸು॒ರ॒ಭಿ ನೋ॒ ಮುಖಾ॑ ಕರ॒ತ್ಪ್ರಣ॒ ಆಯೂಗ್ಂ॑ಷಿ ತಾರಿಷತ್ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-ghee",
+          "title": "ಪಂಚಾಮೃತ — ತುಪ್ಪ",
+          "paragraphs": [
+            "ಶು॒ಕ್ರಮ॑ಸಿ॒ ಜ್ಯೋತಿ॑ರಸಿ॒ ತೇಜೋ॑ಸಿ ದೇ॒ವೋವ॑: ಸವಿ॒ತೋತ್ಪು॑ನಾ॒ತ್ವಚ್ಛಿ॑ದ್ರೇಣ ಪ॒ವಿತ್ರೇ॑ಣ॒ ವಸೋ॒: ಸೂರ್ಯ॑ಸ್ಯ ರ॒ಶ್ಮಿಭಿ॑: ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-honey",
+          "title": "ಪಂಚಾಮೃತ — ಜೇನು",
+          "paragraphs": [
+            "ಮಧು॒ ವಾತಾ॑ ಋತಾಯ॒ತೇ ಮಧು॑ ಕ್ಷರನ್ತಿ॒ ಸಿನ್ಧ॑ವಃ ।\nಮಾಧ್ವೀ᳚ರ್ನಃ ಸ॒ನ್ತ್ವೋಷ॑ಧೀಃ ॥\nಮಧು॒ ನಕ್ತ॑ಮು॒ತೋಷ॑ಸಿ॒ ಮಧು॑ಮ॒ತ್ಪಾರ್ಥಿ॑ವ॒ಗ್ಂ॒ ರಜ॑: ।\nಮಧು॒ ದ್ಯೌರ॑ಸ್ತು ನಃ ಪಿ॒ತಾ ॥\nಮಧು॑ಮಾನ್ನೋ॒ ವನ॒ಸ್ಪತಿ॒ರ್ಮಧು॑ಮಾಗ್ಂ ಅಸ್ತು॒ ಸೂರ್ಯ॑: ।\nಮಾಧ್ವೀ॒ರ್ಗಾವೋ॑ ಭವನ್ತು ನಃ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-sugar",
+          "title": "ಪಂಚಾಮೃತ — ಸಕ್ಕರೆ",
+          "paragraphs": [
+            "ಸ್ವಾ॒ದುಃ ಪ॑ವಸ್ವ ದಿ॒ವ್ಯಾಯ॒ ಜನ್ಮ॑ನೇ ।\nಸ್ವಾ॒ದುರಿನ್ದ್ರಾ॑ಯ ಸು॒ಹವೀ॑ತು॒ ನಾಮ್ನೇ᳚ ।\nಸ್ವಾ॒ದುರ್ಮಿ॒ತ್ರಾಯ॒ ವರು॑ಣಾಯ ವಾ॒ಯವೇ॒ ।\nಬೃಹ॒ಸ್ಪತ॑ಯೇ॒ ಮಧು॑ಮಾ॒ಗ್ಂ ಅದಾ᳚ಭ್ಯಃ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-fruit",
+          "title": "ಫಲೋದಕ",
+          "paragraphs": [
+            "ಯಾಃ ಫ॒ಲಿನೀ॒ರ್ಯಾ ಅ॑ಫ॒ಲಾ ಅ॑ಪು॒ಷ್ಪಾಯಾಶ್ಚ॑ ಪು॒ಷ್ಪಿಣೀ᳚: ।\nಬೃಹ॒ಸ್ಪತಿ॑ ಪ್ರಸೂತಾ॒ಸ್ತಾ ನೋ॑ ಮುಞ್ಚ॒ನ್ತ್ವಗ್ಂಹ॑ಸಃ ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-water",
+          "title": "ಶುದ್ಧೋದಕ ಸ್ನಾನ",
+          "paragraphs": [
+            "ಆಪೋ॒ ಹಿಷ್ಠಾ ಮ॑ಯೋ॒ ಭುವ॒ಸ್ತಾ ನ॑ ಊ॒ರ್ಜೇ ದ॑ಧಾತನ ।\nಮ॒ಹೇ ರಣಾ॑ಯ॒ ಚಕ್ಷ॑ಸೇ ॥\nಯೋ ವ॑: ಶಿ॒ವತ॑ಮೋ ರಸ॒ಸ್ತಸ್ಯ॑ ಭಾಜಯತೇ॒ಹ ನ॑: ।\nಉ॒ಶ॒ತೀರಿ॑ವ ಮಾ॒ತ॑ರಃ ॥\nತಸ್ಮಾ॒ ಅರಂ॑ ಗಮಾಮ ವೋ॒ ಯಸ್ಯ॒ ಕ್ಷಯಾ॑ಯ॒ ಜಿನ್ವ॑ಥ ।\nಆಪೋ॑ ಜ॒ನಯ॑ಥಾ ಚ ನಃ ॥"
+          ]
+        },
+        {
+          "id": "gandha",
+          "title": "ಗಂಧದ್ವಾರಾಂ",
+          "paragraphs": [
+            "ಗ॒ನ್ಧ॒ದ್ವಾ॒ರಾಂ ದು॑ರಾಧ॒ರ್ಷಾಂ॒ ನಿ॒ತ್ಯಪು॑ಷ್ಟಾಂ ಕರೀ॒ಷಿಣೀ᳚ಮ್ ।\nಈ॒ಶ್ವರೀ॑ಗ್ಂ ಸರ್ವ॑ಭೂತಾ॒ನಾಂ॒ ತಾಮಿ॒ಹೋಪ॑ಹ್ವಯೇ॒ ಶ್ರಿಯಮ್ ॥"
+          ]
+        },
+        {
+          "id": "devi-pradakshina",
+          "title": "ದೇವೀ ಪ್ರದಕ್ಷಿಣೆ",
+          "paragraphs": [
+            "ಯಾನಿ ಕಾನಿ ಚ ಪಾಪಾನಿ ಜನ್ಮಾನ್ತರಕೃತಾನಿ ಚ ।\nತಾನಿ ತಾನಿ ಪ್ರಣಶ್ಯನ್ತಿ ಪ್ರದಕ್ಷಿಣ ಪದೇ ಪದೇ ॥\nಪಾಪೋಽಹಂ ಪಾಪಕರ್ಮಾಽಹಂ ಪಾಪಾತ್ಮಾ ಪಾಪಸಮ್ಭವ ।\nತ್ರಾಹಿ ಮಾಂ ಕೃಪಯಾ ದೇವೀ ಶರಣಾಗತವತ್ಸಲೇ ॥\nಅನ್ಯಥಾ ಶರಣಂ ನಾಸ್ತಿ ತ್ವಮೇವ ಶರಣಂ ಮಮ ।\nತಸ್ಮಾತ್ಕಾರುಣ್ಯ ಭಾವೇನ ರಕ್ಷ ರಕ್ಷ ಮಹೇಶ್ವರೀ ॥"
+          ]
+        },
+        {
+          "id": "royal-offerings",
+          "title": "ರಾಜೋಪಚಾರಗಳು",
+          "paragraphs": [
+            "ಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಛತ್ರಂ ಆಚ್ಛಾದಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಚಾಮರೈರ್ವೀಜಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ನೃತ್ಯಂ ದರ್ಶಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಗೀತಂ ಶ್ರಾವಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಆನ್ದೋಲಿಕಾನ್ನಾರೋಹಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಅಶ್ವಾನಾರೋಹಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಗಜಾನಾರೋಹಯಾಮಿ ।\nಓಂ ಶ್ರೀ ಲಲಿತಾ ದೇವ್ಯೈ ನಮಃ ಸಮಸ್ತ ರಾಜ್ಞೀಯೋಪಚಾರಾನ್ ದೇವ್ಯೋಪಚಾರಾನ್ ಸಮರ್ಪಯಾಮಿ ।"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Stotra Nidhi — purvanga",
+          "url": "https://stotranidhi.com/kn/puja-vidhanam-poorvangam-in-kannada/"
+        },
+        {
+          "label": "Stotra Nidhi — haridra",
+          "url": "https://stotranidhi.com/kn/sri-haridra-ganapati-puja-in-kannada/"
+        },
+        {
+          "label": "Stotra Nidhi — abhisheka",
+          "url": "https://stotranidhi.com/kn/panchamrutha-abhishekam-mantras-in-kannada/"
+        },
+        {
+          "label": "Stotra Nidhi — lalitha",
+          "url": "https://stotranidhi.com/kn/sri-lalitha-shodasopachara-puja-vidhanam-in-kannada/"
+        }
+      ],
+      "source_sha256": "03706c7434e7e174c15f6858fea954c70df74a67b47a77f13ecbc67de76c836a",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 82,
+          "U+0952": 132,
+          "U+1CDA": 13
+        },
+        "sequence_sha256": "030999169f81da1d7719cafcc23ec603b9eff723efe2c891c9474bfda9df6604"
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "नवरात्रिपूजायाः चयनितमन्त्राः",
+      "chapters": [
+        {
+          "id": "opening",
+          "title": "प्रार्थना",
+          "paragraphs": [
+            "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥"
+          ]
+        },
+        {
+          "id": "bell",
+          "title": "घण्टानादः",
+          "paragraphs": [
+            "आगमार्थं तु देवानां गमनार्थं तु राक्षसाम् ।\nघण्टारवं करोम्यादौ देवताह्वान लाञ्छनम् ॥"
+          ]
+        },
+        {
+          "id": "bhuta",
+          "title": "भूतोच्चाटनम्",
+          "paragraphs": [
+            "उत्तिष्ठन्तु भूतपिशाचाः य एते भूमि भारकाः ।\nएतेषामविरोधेन ब्रह्मकर्म समारभे ॥\nअपसर्पन्तु ते भूता ये भूता भूमिसंस्थिताः ।\nये भूता विघ्नकर्तारस्ते गच्छन्तु शिवाऽज्ञया ॥"
+          ]
+        },
+        {
+          "id": "waters",
+          "title": "कलशोदकप्रार्थना",
+          "paragraphs": [
+            "गङ्गे च यमुने चैव गोदावरी सरस्वती ।\nनर्मदे सिन्धु कावेरी जलेऽस्मिन् सन्निधिं कुरु ॥"
+          ]
+        },
+        {
+          "id": "gananam",
+          "title": "गणपतिमन्त्रः",
+          "paragraphs": [
+            "ओं ग॒णानां᳚ त्वा ग॒णप॑तिग्ं हवामहे\nक॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमम् ।\nज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णां ब्रह्मणस्पत॒\nआ न॑: शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ॥"
+          ]
+        },
+        {
+          "id": "ganesha-names",
+          "title": "गणपतिनामपूजा",
+          "paragraphs": [
+            "ओं सुमुखाय नमः । ओं एकदन्ताय नमः ।\nओं कपिलायनमः । ओं गजकर्णकाय नमः ।\nओं लम्बोदरायनमः । ओं विकटाय नमः ।\nओं विघ्नराजाय नमः । ओं गणाधिपायनमः ।\nओं धूमकेतवे नमः । ओं गणाध्यक्षाय नमः ।\nओं फालचन्द्राय नमः । ओं गजाननाय नमः ।\nओं वक्रतुण्डाय नमः । ओं शूर्पकर्णाय नमः ।\nओं हेरम्बाय नमः । ओं स्कन्दपूर्वजाय नमः ।\nओं सर्वसिद्धिप्रदाय नमः ।"
+          ]
+        },
+        {
+          "id": "naivedya",
+          "title": "नैवेद्यमन्त्राः",
+          "paragraphs": [
+            "ओं भूर्भुव॒स्सुव॑: । तत्स॑वि॒तुर्वरे᳚ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।\nधियो॒ यो न॑: प्रचो॒दया᳚त् ॥\nसत्यं त्वा ऋतेन परिषिञ्चामि ।\n(सायङ्काले – ऋतं त्वा सत्येन परिषिञ्चामि)\nअमृतमस्तु । अ॒मृ॒तो॒प॒स्तर॑णमसि ।\nश्री महागणपतये नमः __________ समर्पयामि ।\nओं प्रा॒णाय॒ स्वाहा᳚ । ओं अ॒पा॒नाय॒ स्वाहा᳚ ।\nओं व्या॒नाय॒ स्वाहा᳚ । ओं उ॒दा॒नाय॒ स्वाहा᳚ ।\nओं स॒मा॒नाय॒ स्वाहा᳚ ।\nमध्ये मध्ये पानीयं समर्पयामि ।\nअ॒मृ॒ता॒पि॒धा॒नम॑सि । उत्तरापोशनं समर्पयामि ।\nहस्तौ प्रक्षालयामि । पादौ प्रक्षालयामि ।\nशुद्धाचमनीयं समर्पयामि ।"
+          ]
+        },
+        {
+          "id": "ganesha-pradakshina",
+          "title": "गणपतिप्रदक्षिणम्",
+          "paragraphs": [
+            "यानिकानि च पापानि जन्मान्तरकृतानि च ।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे ॥\nपापोऽहं पापकर्माऽहं पापात्मा पापसम्भवः ।\nत्राहि मां कृपया देव शरणागतवत्सल ॥\nअन्यधा शरणं नास्ति त्वमेव शरणं मम ।\nतस्मात्कारुण्य भावेन रक्ष रक्ष गणाधिप ॥"
+          ]
+        },
+        {
+          "id": "vakratunda",
+          "title": "वक्रतुण्डप्रार्थना",
+          "paragraphs": [
+            "ओं वक्रतुण्ड महाकाय सूर्य कोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्व कार्येषु सर्वदा ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-milk",
+          "title": "क्षीराभिषेकः",
+          "paragraphs": [
+            "आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑: सोम॒ वृष्णि॑यम् ।\nभवा॒ वाज॑स्य सङ्ग॒थे ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-curd",
+          "title": "दध्यभिषेकः",
+          "paragraphs": [
+            "द॒धि॒क्राव्ण्णो॑ अकारिषं जि॒ष्णोरश्व॑स्य वा॒जिन॑: ।\nसु॒र॒भि नो॒ मुखा॑ कर॒त्प्रण॒ आयूग्ं॑षि तारिषत् ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-ghee",
+          "title": "आज्याभिषेकः",
+          "paragraphs": [
+            "शु॒क्रम॑सि॒ ज्योति॑रसि॒ तेजो॑सि दे॒वोव॑: सवि॒तोत्पु॑ना॒त्वच्छि॑द्रेण प॒वित्रे॑ण॒ वसो॒: सूर्य॑स्य र॒श्मिभि॑: ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-honey",
+          "title": "मध्वभिषेकः",
+          "paragraphs": [
+            "मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।\nमाध्वी᳚र्नः स॒न्त्वोष॑धीः ॥\nमधु॒ नक्त॑मु॒तोष॑सि॒ मधु॑म॒त्पार्थि॑व॒ग्ं॒ रज॑: ।\nमधु॒ द्यौर॑स्तु नः पि॒ता ॥\nमधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माग्ं अस्तु॒ सूर्य॑: ।\nमाध्वी॒र्गावो॑ भवन्तु नः ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-sugar",
+          "title": "शर्कराभिषेकः",
+          "paragraphs": [
+            "स्वा॒दुः प॑वस्व दि॒व्याय॒ जन्म॑ने ।\nस्वा॒दुरिन्द्रा॑य सु॒हवी॑तु॒ नाम्ने᳚ ।\nस्वा॒दुर्मि॒त्राय॒ वरु॑णाय वा॒यवे॒ ।\nबृह॒स्पत॑ये॒ मधु॑मा॒ग्ं अदा᳚भ्यः ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-fruit",
+          "title": "फलोदकाभिषेकः",
+          "paragraphs": [
+            "याः फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पायाश्च॑ पु॒ष्पिणी᳚: ।\nबृह॒स्पति॑ प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वग्ंह॑सः ॥"
+          ]
+        },
+        {
+          "id": "abhisheka-water",
+          "title": "शुद्धोदकस्नानम्",
+          "paragraphs": [
+            "आपो॒ हिष्ठा म॑यो॒ भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।\nम॒हे रणा॑य॒ चक्ष॑से ॥\nयो व॑: शि॒वत॑मो रस॒स्तस्य॑ भाजयते॒ह न॑: ।\nउ॒श॒तीरि॑व मा॒त॑रः ॥\nतस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।\nआपो॑ ज॒नय॑था च नः ॥"
+          ]
+        },
+        {
+          "id": "gandha",
+          "title": "गन्धसमर्पणम्",
+          "paragraphs": [
+            "ग॒न्ध॒द्वा॒रां दु॑राध॒र्षां॒ नि॒त्यपु॑ष्टां करी॒षिणी᳚म् ।\nई॒श्वरी॑ग्ं सर्व॑भूता॒नां॒ तामि॒होप॑ह्वये॒ श्रियम् ॥"
+          ]
+        },
+        {
+          "id": "devi-pradakshina",
+          "title": "देवीप्रदक्षिणप्रार्थना",
+          "paragraphs": [
+            "यानि कानि च पापानि जन्मान्तरकृतानि च ।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे ॥\nपापोऽहं पापकर्माऽहं पापात्मा पापसम्भव ।\nत्राहि मां कृपया देवी शरणागतवत्सले ॥\nअन्यथा शरणं नास्ति त्वमेव शरणं मम ।\nतस्मात्कारुण्य भावेन रक्ष रक्ष महेश्वरी ॥"
+          ]
+        },
+        {
+          "id": "royal-offerings",
+          "title": "राजोपचाराः",
+          "paragraphs": [
+            "ओं श्री ललिता देव्यै नमः छत्रं आच्छादयामि ।\nओं श्री ललिता देव्यै नमः चामरैर्वीजयामि ।\nओं श्री ललिता देव्यै नमः नृत्यं दर्शयामि ।\nओं श्री ललिता देव्यै नमः गीतं श्रावयामि ।\nओं श्री ललिता देव्यै नमः आन्दोलिकान्नारोहयामि ।\nओं श्री ललिता देव्यै नमः अश्वानारोहयामि ।\nओं श्री ललिता देव्यै नमः गजानारोहयामि ।\nओं श्री ललिता देव्यै नमः समस्त राज्ञीयोपचारान् देव्योपचारान् समर्पयामि ।"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Stotra Nidhi — purvanga",
+          "url": "https://stotranidhi.com/hi/puja-vidhanam-poorvangam-in-sanskrit/"
+        },
+        {
+          "label": "Stotra Nidhi — haridra",
+          "url": "https://stotranidhi.com/hi/sri-haridra-ganapati-puja-in-sanskrit/"
+        },
+        {
+          "label": "Stotra Nidhi — abhisheka",
+          "url": "https://stotranidhi.com/hi/panchamrutha-abhishekam-mantras-in-sanskrit/"
+        },
+        {
+          "label": "Stotra Nidhi — lalitha",
+          "url": "https://stotranidhi.com/hi/sri-lalitha-shodasopachara-puja-vidhanam-in-sanskrit/"
+        }
+      ],
+      "source_sha256": "4ed5618c6253d94e983803455a0162773e5d53f69b1138ef105c8c563ca001bd",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 82,
+          "U+0952": 132,
+          "U+1CDA": 13
+        },
+        "sequence_sha256": "030999169f81da1d7719cafcc23ec603b9eff723efe2c891c9474bfda9df6604"
+      }
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Navaratri puja — sourced passages",
+      "chapters": [
+        {
+          "id": "opening",
+          "title": "Opening prayer",
+          "paragraphs": [
+            "śuklāmbaradharaṃ viṣṇuṃ śaśivarṇaṃ caturbhujam |\nprasannavadanaṃ dhyāyet sarvavighnopaśāntaye ||"
+          ]
+        },
+        {
+          "id": "bell",
+          "title": "Bell prayer",
+          "paragraphs": [
+            "āgamārthaṃ tu devānāṃ gamanārthaṃ tu rākṣasām |\nghaṇṭāravaṃ karomyādau devatāhvāna lāñchanam ||"
+          ]
+        },
+        {
+          "id": "bhuta",
+          "title": "Bhuta-ucchatana",
+          "paragraphs": [
+            "uttiṣṭhantu bhūtapiśācāḥ ya ete bhūmi bhārakāḥ |\neteṣāmavirodhena brahmakarma samārabhe ||\napasarpantu te bhūtā ye bhūtā bhūmisaṃsthitāḥ |\nye bhūtā vighnakartāraste gacchantu śivā’jñayā ||"
+          ]
+        },
+        {
+          "id": "waters",
+          "title": "Kalasha — river invocation",
+          "paragraphs": [
+            "gaṅge ca yamune caiva godāvarī sarasvatī |\nnarmade sindhu kāverī jale’smin sannidhiṃ kuru ||"
+          ]
+        },
+        {
+          "id": "gananam",
+          "title": "Gananam tva",
+          "paragraphs": [
+            "oṃ ga̱ṇānā̎ṃ tvā ga̱ṇapa̍tigṃ havāmahe\nka̱viṃ ka̍vī̱nāmu̍pa̱maśra̍vastamam |\njye̱ṣṭha̱rāja̱ṃ brahma̍ṇāṃ brahmaṇaspata̱\nā na̍: śṛ̱ṇvannū̱tibhi̍ssīda̱ sāda̍nam ||"
+          ]
+        },
+        {
+          "id": "ganesha-names",
+          "title": "Ganapathy nama puja",
+          "paragraphs": [
+            "oṃ sumukhāya namaḥ | oṃ ekadantāya namaḥ |\noṃ kapilāyanamaḥ | oṃ gajakarṇakāya namaḥ |\noṃ lambodarāyanamaḥ | oṃ vikaṭāya namaḥ |\noṃ vighnarājāya namaḥ | oṃ gaṇādhipāyanamaḥ |\noṃ dhūmaketave namaḥ | oṃ gaṇādhyakṣāya namaḥ |\noṃ phālacandrāya namaḥ | oṃ gajānanāya namaḥ |\noṃ vakratuṇḍāya namaḥ | oṃ śūrpakarṇāya namaḥ |\noṃ herambāya namaḥ | oṃ skandapūrvajāya namaḥ |\noṃ sarvasiddhipradāya namaḥ |"
+          ]
+        },
+        {
+          "id": "naivedya",
+          "title": "Naivedya mantras",
+          "paragraphs": [
+            "oṃ bhūrbhuva̱ssuva̍: | tatsa̍vi̱turvare̎ṇya̱ṃ bhargo̍ de̱vasya̍ dhīmahi |\ndhiyo̱ yo na̍: praco̱dayā̎t ||\nsatyaṃ tvā ṛtena pariṣiñcāmi |\n(sāyaṅkāle – ṛtaṃ tvā satyena pariṣiñcāmi)\namṛtamastu | a̱mṛ̱to̱pa̱stara̍ṇamasi |\nśrī mahāgaṇapataye namaḥ __________ samarpayāmi |\noṃ prā̱ṇāya̱ svāhā̎ | oṃ a̱pā̱nāya̱ svāhā̎ |\noṃ vyā̱nāya̱ svāhā̎ | oṃ u̱dā̱nāya̱ svāhā̎ |\noṃ sa̱mā̱nāya̱ svāhā̎ |\nmadhye madhye pānīyaṃ samarpayāmi |\na̱mṛ̱tā̱pi̱dhā̱nama̍si | uttarāpośanaṃ samarpayāmi |\nhastau prakṣālayāmi | pādau prakṣālayāmi |\nśuddhācamanīyaṃ samarpayāmi |"
+          ]
+        },
+        {
+          "id": "ganesha-pradakshina",
+          "title": "Ganapathy pradakshina",
+          "paragraphs": [
+            "yānikāni ca pāpāni janmāntarakṛtāni ca |\ntāni tāni praṇaśyanti pradakṣiṇa pade pade ||\npāpo’haṃ pāpakarmā’haṃ pāpātmā pāpasambhavaḥ |\ntrāhi māṃ kṛpayā deva śaraṇāgatavatsala ||\nanyadhā śaraṇaṃ nāsti tvameva śaraṇaṃ mama |\ntasmātkāruṇya bhāvena rakṣa rakṣa gaṇādhipa ||"
+          ]
+        },
+        {
+          "id": "vakratunda",
+          "title": "Vakratunda mahakaya",
+          "paragraphs": [
+            "oṃ vakratuṇḍa mahākāya sūrya koṭi samaprabha |\nnirvighnaṃ kuru me deva sarva kāryeṣu sarvadā ||"
+          ]
+        },
+        {
+          "id": "abhisheka-milk",
+          "title": "Panchamrita — milk",
+          "paragraphs": [
+            "ā pyā̍yasva̱ same̍tu te vi̱śvata̍: soma̱ vṛṣṇi̍yam |\nbhavā̱ vāja̍sya saṅga̱the ||"
+          ]
+        },
+        {
+          "id": "abhisheka-curd",
+          "title": "Panchamrita — curd",
+          "paragraphs": [
+            "da̱dhi̱krāvṇṇo̍ akāriṣaṃ ji̱ṣṇoraśva̍sya vā̱jina̍: |\nsu̱ra̱bhi no̱ mukhā̍ kara̱tpraṇa̱ āyūg̍ṃṣi tāriṣat ||"
+          ]
+        },
+        {
+          "id": "abhisheka-ghee",
+          "title": "Panchamrita — ghee",
+          "paragraphs": [
+            "śu̱krama̍si̱ jyoti̍rasi̱ tejo̍si de̱vova̍: savi̱totpu̍nā̱tvacchi̍dreṇa pa̱vitre̍ṇa̱ vaso̱: sūrya̍sya ra̱śmibhi̍: ||"
+          ]
+        },
+        {
+          "id": "abhisheka-honey",
+          "title": "Panchamrita — honey",
+          "paragraphs": [
+            "madhu̱ vātā̍ ṛtāya̱te madhu̍ kṣaranti̱ sindha̍vaḥ |\nmādhvī̎rnaḥ sa̱ntvoṣa̍dhīḥ ||\nmadhu̱ nakta̍mu̱toṣa̍si̱ madhu̍ma̱tpārthi̍va̱g̱ṃ raja̍: |\nmadhu̱ dyaura̍stu naḥ pi̱tā ||\nmadhu̍mānno̱ vana̱spati̱rmadhu̍māgṃ astu̱ sūrya̍: |\nmādhvī̱rgāvo̍ bhavantu naḥ ||"
+          ]
+        },
+        {
+          "id": "abhisheka-sugar",
+          "title": "Panchamrita — sugar",
+          "paragraphs": [
+            "svā̱duḥ pa̍vasva di̱vyāya̱ janma̍ne |\nsvā̱durindrā̍ya su̱havī̍tu̱ nāmne̎ |\nsvā̱durmi̱trāya̱ varu̍ṇāya vā̱yave̱ |\nbṛha̱spata̍ye̱ madhu̍mā̱gṃ adā̎bhyaḥ ||"
+          ]
+        },
+        {
+          "id": "abhisheka-fruit",
+          "title": "Fruit water",
+          "paragraphs": [
+            "yāḥ pha̱linī̱ryā a̍pha̱lā a̍pu̱ṣpāyāśca̍ pu̱ṣpiṇī̎: |\nbṛha̱spati̍ prasūtā̱stā no̍ muñca̱ntvagṃha̍saḥ ||"
+          ]
+        },
+        {
+          "id": "abhisheka-water",
+          "title": "Pure-water bathing",
+          "paragraphs": [
+            "āpo̱ hiṣṭhā ma̍yo̱ bhuva̱stā na̍ ū̱rje da̍dhātana |\nma̱he raṇā̍ya̱ cakṣa̍se ||\nyo va̍: śi̱vata̍mo rasa̱stasya̍ bhājayate̱ha na̍: |\nu̱śa̱tīri̍va mā̱ta̍raḥ ||\ntasmā̱ ara̍ṃ gamāma vo̱ yasya̱ kṣayā̍ya̱ jinva̍tha |\nāpo̍ ja̱naya̍thā ca naḥ ||"
+          ]
+        },
+        {
+          "id": "gandha",
+          "title": "Gandhadvāram",
+          "paragraphs": [
+            "ga̱ndha̱dvā̱rāṃ du̍rādha̱rṣā̱ṃ ni̱tyapu̍ṣṭāṃ karī̱ṣiṇī̎m |\nī̱śvarī̍gṃ sarva̍bhūtā̱nā̱ṃ tāmi̱hopa̍hvaye̱ śriyam ||"
+          ]
+        },
+        {
+          "id": "devi-pradakshina",
+          "title": "Devi pradakshina",
+          "paragraphs": [
+            "yāni kāni ca pāpāni janmāntarakṛtāni ca |\ntāni tāni praṇaśyanti pradakṣiṇa pade pade ||\npāpo’haṃ pāpakarmā’haṃ pāpātmā pāpasambhava |\ntrāhi māṃ kṛpayā devī śaraṇāgatavatsale ||\nanyathā śaraṇaṃ nāsti tvameva śaraṇaṃ mama |\ntasmātkāruṇya bhāvena rakṣa rakṣa maheśvarī ||"
+          ]
+        },
+        {
+          "id": "royal-offerings",
+          "title": "Royal offerings",
+          "paragraphs": [
+            "oṃ śrī lalitā devyai namaḥ chatraṃ ācchādayāmi |\noṃ śrī lalitā devyai namaḥ cāmarairvījayāmi |\noṃ śrī lalitā devyai namaḥ nṛtyaṃ darśayāmi |\noṃ śrī lalitā devyai namaḥ gītaṃ śrāvayāmi |\noṃ śrī lalitā devyai namaḥ āndolikānnārohayāmi |\noṃ śrī lalitā devyai namaḥ aśvānārohayāmi |\noṃ śrī lalitā devyai namaḥ gajānārohayāmi |\noṃ śrī lalitā devyai namaḥ samasta rājñīyopacārān devyopacārān samarpayāmi |"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Stotra Nidhi — purvanga",
+          "url": "https://stotranidhi.com/en/puja-vidhanam-poorvangam-in-english/"
+        },
+        {
+          "label": "Stotra Nidhi — haridra",
+          "url": "https://stotranidhi.com/en/sri-haridra-ganapati-puja-in-english/"
+        },
+        {
+          "label": "Stotra Nidhi — abhisheka",
+          "url": "https://stotranidhi.com/en/panchamrutha-abhishekam-mantras-in-english/"
+        },
+        {
+          "label": "Stotra Nidhi — lalitha",
+          "url": "https://stotranidhi.com/en/sri-lalitha-shodasopachara-puja-vidhanam-in-english/"
+        }
+      ],
+      "source_sha256": "a76ae6b24ce74af6c734bc645b319e7f4222e3d05c2389398f941dc504a3e64b",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 82,
+          "U+030E": 13,
+          "U+0331": 132
+        },
+        "sequence_sha256": "664a732a775398e5349431fda4be28604ad18a5fe2b5280dc0c98997006129f5"
+      }
+    }
+  ]
+}

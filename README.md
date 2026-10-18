@@ -57,3 +57,19 @@ Devanagari uses a bundled Noto Serif Devanagari font because the system fallback
 Run `python3 scripts/import_vedic.py /path/to/reviewed-extracts` **after** any import that refreshes these texts. It stores mark counts and a mark-sequence hash per script. Validation checks exact source-mark preservation through generated HTML, stable counts and normalized cross-script pitch sequences; it does not invent marks or claim a critical recension. Rudram's source-specific nasal expansion is an explicit, bounded exception, not silently normalized.
 
 **Remaining limitation:** the seven selected daily-puja passages have an accent-marked original photo but not a completely accent-verified digital edition. All three digital views clearly say so and prominently link the original marked scan for svara chanting. Do not remove that status or mark the plain transcription verified without checking every mark against a reliable source. This is separate from ordinary non-Vedic stotras, which should not have Vedic accents mechanically added.
+
+## Navaratri family recording
+
+`data/navaratri-recording.json` holds the original YouTube ID, separate chanter/recorder credits, and half-open time cues `[start,end)` in seconds. `navaratri.py` renders a static full-text fallback; `assets/navaratri.js` progressively adds the YouTube IFrame player, source-backed script switching, seek buttons and section following. YouTube loads only after an explicit click. No audio is rehosted and there is no backend. A missing text match is displayed explicitly, never silently filled with a different prayer. Timing is section-level, not phoneme alignment. The recording is a family archive, not generated audio.
+
+There are two separate Lalitha 108-name editions: `lalitha-ashtottara-bhurupa` matches the distinctive names in the family recording; `lalitha-ashtottara-shatanamavali` is the separately requested Rajatachala edition. Neither is a substitute for the 1,000-name Namavali. These festival-only entries have `collections: []` and `tags: ["navaratri"]`. Source extract hashes and transliteration provenance are retained; automatic audio transcripts are identification aids only, never public prayer text.
+
+Browser integration checks (with a server on 8769 and Playwright installed):
+```
+node tests/recording-browser.cjs
+```
+`PLAYWRIGHT_MODULE` may point to an existing local Playwright installation. The simulated player verifies interface/seek behavior; it does not prove real YouTube playback. Check the actual embed separately.
+
+The Navaratri page now sequences the Ganapathy prelude from35:06 in `tw9uOA5d7-A`, then the41:15Lalitha recording. `preludes` in the recording config are ordered before the main source; YouTube's ended event advances to the next part. The initial Start button begins at the specified Ganapathy offset. Section buttons, manual text selection and script changes do not require an account.
+
+Current collection:26unique works,76reading pages. The3festival-only additions are the2distinct108-name editions and19bounded ritual excerpts (`navaratri-puja-passages`). The excerpts preserve227source Vedic marks in matching cross-script order. Unmatched family-specific passages are intentionally labelled; this is not advertised as a complete word-for-word transcript. See `TEXT-REVIEW.md` for the exact scope and remaining limitation.

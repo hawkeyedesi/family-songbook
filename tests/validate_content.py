@@ -3,10 +3,10 @@ from pathlib import Path
 import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
-assert len(a)==23 and len(by_slug)==23
+assert len(a)==26 and len(by_slug)==26
 groups={g:[s['slug'] for s in a if g in s.get('collections',[s.get('collection','daily')])] for g in ['daily','weekly','friday','paduka-puja-bhajans']}
 assert {g:len(ls) for g,ls in groups.items()}=={'daily':7,'weekly':4,'friday':12,'paduka-puja-bhajans':1}
-assert all(s.get('collections') and set(s['collections']) <= set(groups) for s in a)
+assert all((s.get('collections') or s.get('tags')) and set(s['collections']) <= set(groups) for s in a)
 assert groups['paduka-puja-bhajans']==['amma-baaramma']
 assert 'amma-baaramma' not in groups['daily']
 assert 'lakshmi-nrisimha-karavalamba' in groups['weekly'] and 'lakshmi-nrisimha-karavalamba' in groups['friday']
@@ -15,9 +15,9 @@ assert sorted(groups['friday'],key=lambda slug:by_slug[slug]['collection_order']
 assert all('versions_file' in s for s in a if s['slug']!='amma-baaramma'),'Incomplete script coverage'
 old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],cwd=ROOT))
 vedic_totals={'sri-suktam':[279]*3,'durga-suktam':[156]*3,'ganesha-atharvashirsham':[391]*3,'rudra-namakam-chamakam':[2317,2318,2318],'mantra-pushpam':[403]*3}
-assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras'}
+assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras','navaratri-puja-passages'}
 assert by_slug['daily-puja-mantras']['svara_status']=='scan-only'
-assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali']
+assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali','lalitha-ashtottara-shatanamavali','lalitha-ashtottara-bhurupa','navaratri-puja-passages']
 assert 'weekly' in by_slug['lalitha-sahasra-namavali']['collections'],'Tagging must not replace schedule'
 for s in old:
  assert by_slug[s['slug']]['verses']==s['verses'],f'Changed existing prayer: {s["slug"]}'
@@ -45,7 +45,7 @@ for s in a:
   chapter={c['id']:'\n\n'.join(c['paragraphs']) for c in v['chapters']}
   if s.get('vedic') and s['svara_status']=='marked':
    marks=''.join(c for c in text if c in '\u0951\u0952\u1cda\u030d\u030e\u0320\u0331')
-   assert len(marks)>150
+   assert len(marks)>=(227 if s['slug']=='navaratri-puja-passages' else 150)
    assert v['svara_profile']['sequence_sha256']==hashlib.sha256(marks.encode()).hexdigest(),'Lost/reordered Vedic marks'
    assert v['svara_profile']['counts']=={f'U+{ord(c):04X}':marks.count(c) for c in set(marks)}
    suffix='' if v['id']=='kannada' else v['id']
@@ -67,6 +67,8 @@ for s in a:
   if s['slug']=='lakshmi-ashtottara-shatanamavali':
    assert len(v['chapters'])==1 and len(v['chapters'][0]['paragraphs'])==108
    assert v['chapters'][0]['layout']=='names'
+  if s['slug'] in ['lalitha-ashtottara-bhurupa','lalitha-ashtottara-shatanamavali']:
+   ns=next(c for c in v['chapters'] if c['id']=='names');assert len(ns['paragraphs'])==108 and ns['layout']=='names'
   if s['slug']=='lalitha-sahasra-namavali':
    ns=next(c for c in v['chapters'] if c['id']=='names');assert len(ns['paragraphs'])==1000 and ns['layout']=='names'
    for n,p in enumerate(ns['paragraphs'],1):
@@ -103,7 +105,7 @@ for s in a:
   for suffix in ['', 'devanagari','roman']:
    html=(ROOT/'songs'/s['slug']/suffix/'index.html').read_text();assert 'svara-notice scan-only' in html and 'marked-scan-link' in html and 'daily-mantras-p65.jpg' in html
  print('PASS',s['slug'],'complete source text + matching verse sequence in three scripts')
-print('PASS: all nine original transcriptions preserved; 23 entries; Friday order and overlapping schedules verified.')
+print('PASS: all nine original transcriptions preserved; 26 entries; Friday order and overlapping schedules verified.')
 for ui in ['', 'en']:
  for group in [None,*groups,'navaratri']:
   path=ROOT/ui/(group or '')/'index.html';html=path.read_text()
@@ -115,3 +117,34 @@ for ui in ['', 'en']:
    target=(path.parent/href).resolve()
    assert target.is_file() or (target/'index.html').is_file(),(path,href)
 print('PASS: all twelve generated landing/tag pages, list order, category links and static destinations.')
+
+recording=json.loads((ROOT/'data/navaratri-recording.json').read_text())
+assert recording['videoId']=='Cjd9t7t7MAA' and recording['duration']==2475
+assert recording['reciter']=='Devenhalli Nagaraj Shastrigalu' and 'Narayana' in recording['recorder']
+cues=recording['cues'];assert cues and cues[0]['start']==0 and cues[-1]['end']==2475
+assert len({c['id'] for c in cues})==len(cues)
+for i,c in enumerate(cues):
+ assert 0<=c['start']<c['end']<=2475
+ if i:assert cues[i-1]['end']==c['start'],'Timeline gaps must be explicitly labelled'
+ if c.get('work'):
+  assert c['work'] in by_slug and c['evidence']
+  for v in json.loads((ROOT/'data'/by_slug[c['work']]['versions_file']).read_text())['versions']:
+   anchor=c.get('anchor');chapters=v['chapters']
+   if anchor and anchor.startswith('names-name-'):
+    count=int(anchor.removeprefix('names-name-'));assert 0<count<=len(next(ch for ch in chapters if ch['id']=='names')['paragraphs'])
+   elif anchor:assert anchor in [ch['id'] for ch in chapters]
+print('PASS recording credits, complete explicit timeline and valid sourced reading anchors')
+
+extra=json.loads((ROOT/'data/texts/navaratri-puja-passages.json').read_text())['versions']
+code={'\u0951':'S','\u0952':'A','\u1cda':'D','\u030d':'S','\u030e':'D','\u0320':'A','\u0331':'A'}
+pitches=[''.join(code[c] for ch in v['chapters'] for p in ch['paragraphs'] for c in p if c in code) for v in extra]
+assert pitches[0]==pitches[1]==pitches[2] and len(pitches[0])==227
+prelude=recording['preludes'][0];assert prelude['videoId']=='tw9uOA5d7-A' and prelude['start']==2106 and prelude['duration']==2749
+assert prelude['cues'][0]['start']==2106 and prelude['cues'][-1]['end']==2749
+for i,c in enumerate(prelude['cues']):
+ assert c['start']<c['end']
+ if i:assert prelude['cues'][i-1]['end']==c['start']
+ if c.get('work'):
+  assert c['work']=='navaratri-puja-passages' and c['evidence']
+  assert all(c['anchor'] in [ch['id'] for ch in v['chapters']] for v in extra)
+print('PASS Ganapathy offset/timeline and227exact cross-script Vedic marks in sourced ritual excerpts')

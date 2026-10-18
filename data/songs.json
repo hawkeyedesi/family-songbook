@@ -1472,5 +1472,64 @@
     "tags": [
       "navaratri"
     ]
+  },
+  {
+    "slug": "lalitha-ashtottara-shatanamavali",
+    "collections": [],
+    "tags": [
+      "navaratri"
+    ],
+    "title": "ಲಲಿತಾ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ — ರಜತಾಚಲ ಪಾಠ",
+    "title_en": "Lalitha Ashtottara — Rajatachala version",
+    "category": "ನಾಮಾವಳಿ",
+    "category_en": "Namavali",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "versions_file": "texts/lalitha-ashtottara-shatanamavali.json",
+    "description": "“ರಜತಾಚಲಶೃಂಗಾಗ್ರ” ಎಂದು ಆರಂಭವಾಗುವ ಪ್ರತ್ಯೇಕ ೧೦೮ ನಾಮಗಳ ಪಾಠ.",
+    "description_en": "The separate 108-name text beginning “Rajatachala-shringagra”.",
+    "note": "ಹಂಚಿದ ಸ್ತೋತ್ರನಿಧಿಯ ಪ್ರತ್ಯೇಕ ಪಾಠವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಕುಟುಂಬದ ಧ್ವನಿಮುದ್ರಿಕೆಯ ನಾಮಾವಳಿಗೆ ಬದಲಿಯಾಗಿ ಇದನ್ನು ಬಳಸಿಲ್ಲ. ರೋಮನ್ ಪಾಠವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
+    "note_en": "The separately supplied Stotra Nidhi edition, preserved in its three published scripts. It is not substituted for the family recording’s different namavali. Roman is pronunciation text, not an English translation."
+  },
+  {
+    "slug": "lalitha-ashtottara-bhurupa",
+    "collections": [],
+    "tags": [
+      "navaratri"
+    ],
+    "title": "ಲಲಿತಾ ಅಷ್ಟೋತ್ತರ — ಭೂರೂಪ ಪಾಠ",
+    "title_en": "Lalitha Ashtottara — Bhurupa recording version",
+    "category": "ನಾಮಾವಳಿ",
+    "category_en": "Namavali",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "versions_file": "texts/lalitha-ashtottara-bhurupa.json",
+    "description": "“ಭೂರೂಪಸಕಲಾಧಾರಾಯೈ” ಎಂದು ಆರಂಭವಾಗುವ ೧೦೮ ನಾಮಗಳು — ಕುಟುಂಬದ ಧ್ವನಿಮುದ್ರಿಕೆಯಲ್ಲಿ ಪಠಿಸಿದ ಪಾಠ.",
+    "description_en": "The 108 names beginning “Bhurupa-sakaladharāyai”, matched to the family recording.",
+    "note": "ಪ್ರಕಟಿತ ಸಂಸ್ಕೃತ ಮೂಲದ ೧೦೮ ನಾಮಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ರೋಮನ್ ಲಿಪ್ಯಂತರಗಳನ್ನು ಹಿಮ್ಮುಖ ಲಿಪ್ಯಂತರದಿಂದ ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ರಜತಾಚಲ ಪಾಠವು ಪ್ರತ್ಯೇಕವಾಗಿದೆ; ಇಲ್ಲಿ ಧ್ವನಿಮುದ್ರಿಕೆಯ ಪಾಠದ ಬದಲಿಗೆ ಬಳಸಿಲ್ಲ.",
+    "note_en": "The published Sanskrit Bhurupa version matches the recording’s distinctive name sequence, including ghranarūpa, gandharūpa and gandhagrahanakarinī. All 108 names, the source’s three dhyana verses and closing are included. Kannada and Roman are deterministic, round-trip-checked script renderings, not translations or ASR guesses. Discretionary line-break hyphens are joined. The separately supplied Rajatachala version remains a separate entry."
+  },
+  {
+    "slug": "navaratri-puja-passages",
+    "collections": [],
+    "tags": [
+      "navaratri"
+    ],
+    "title": "ನವರಾತ್ರಿ ಪೂಜೆಯ ಆಯ್ದ ಮಂತ್ರಗಳು",
+    "title_en": "Navaratri puja — sourced passages",
+    "category": "ಪೂಜಾ ಮಂತ್ರಗಳು",
+    "category_en": "Puja passages",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "script": "kannada",
+    "versions_file": "texts/navaratri-puja-passages.json",
+    "vedic": true,
+    "svara_status": "marked",
+    "description": "ಧ್ವನಿಮುದ್ರಿಕೆಗಳಲ್ಲಿನ ಆಯ್ದ ಪೂಜಾ ಭಾಗಗಳಿಗೆ ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯ.",
+    "description_en": "Published-source excerpts for matched passages in the two family recordings.",
+    "note": "ಪ್ರಕಟಿತ ಮೂಲದ ಆಯ್ದ ಭಾಗಗಳು ಮಾತ್ರ; ಧ್ವನಿಮುದ್ರಿಕೆಯ ಸಂಪೂರ್ಣ ಪದಶಃ ಲಿಪ್ಯಂತರವಲ್ಲ. ಕುಟುಂಬದ ಪಠಣದಲ್ಲಿ ಪದ ಅಥವಾ ಕ್ರಮಭೇದಗಳಿರಬಹುದು. ಮೂಲದ ಸ್ವರಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗುರುತುಗಳನ್ನು ಊಹಿಸಿ ಸೇರಿಸಿಲ್ಲ.",
+    "note_en": "Selected published passages, not a complete verbatim transcript of the family ritual. The recording can differ in wording, deity invocations, extra names and order. The 16-name sequence includes the source’s additional Sarvasiddhiprada closing name. Source Vedic marks are retained exactly, not reconstructed. Unmatched ritual passages remain explicitly labelled in the player."
   }
 ]
