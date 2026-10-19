@@ -3,10 +3,10 @@
     "slug": "amma-baaramma",
     "title": "ಅಮ್ಮ ಬಾರಮ್ಮ",
     "category": "ಭಜನೆ",
-    "language": "ಮೂಲ ರೋಮನ್ ಲಿಪಿ",
+    "language": "ಕನ್ನಡ ಭಜನೆ · ಮೂರು ಲಿಪಿಗಳು",
     "description": "ತಾಯಿಯ ಹಲವು ರೂಪಗಳನ್ನು ಸ್ಮರಿಸುವ ದೇವೀ ಭಜನೆ.",
     "scan": "amma-baaramma-original.jpg",
-    "note": "ಮೊದಲ ಚಿತ್ರವು ರೋಮನ್ ಲಿಪಿಯಲ್ಲಿದೆ; ಆ ಮೂಲ ಪಾಠವನ್ನು ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ. ಹೊಸ ಸ್ತೋತ್ರಗಳು ಮತ್ತು ಮಂತ್ರಗಳು ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿವೆ.",
+    "note": "ಮೂಲ ರೋಮನ್ ಪಾಠ ಮತ್ತು ಚಿತ್ರವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಹೊಸ ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಪಾಠಗಳು ಅದೇ ಕನ್ನಡ ಹಾಡಿನ ಲಿಪಿರೂಪಗಳು; ಸಂಸ್ಕೃತ ಅನುವಾದವಲ್ಲ. ಮೂಲದ “Moonu”, “Moodala”, “phalagata” ಮೊದಲಾದ ಅಸ್ಪಷ್ಟ ರೋಮನ್ ಪದಗಳ ಕನ್ನಡ ರೂಪಗಳಿಗೆ ಇನ್ನೂ ಕುಟುಂಬದ ಪರಿಶೀಲನೆ ಬೇಕಿದೆ.",
     "chorus": [
       "Amma baaramma namma Tayi baaramma",
       "Taayi baaramma namma Deviye baaramma"
@@ -56,13 +56,18 @@
     "title_en": "Amma Baaramma",
     "category_en": "Bhajan",
     "description_en": "A devotional invitation to the Divine Mother.",
-    "language_en": "Original Roman script",
+    "language_en": "Kannada bhajan · three scripts",
     "collections": [
       "paduka-puja-bhajans"
     ],
     "collection_order": {
-      "paduka-puja-bhajans": 0
-    }
+      "paduka-puja-bhajans": 5
+    },
+    "scans": [
+      "paduka-family-06.jpg"
+    ],
+    "versions_file": "texts/amma-baaramma.json",
+    "note_en": "The original Roman text is preserved verbatim. Kannada and Devanagari are phonetic script renderings of the same Kannada song, not Sanskrit translations. Ambiguous book spellings such as Moonu, Moodala and phalagata are retained phonetically, not silently corrected; their Kannada readings still need family confirmation. The source photo remains available."
   },
   {
     "slug": "aditya-hridayam",
@@ -1279,11 +1284,17 @@
       }
     ],
     "collections": [
-      "friday"
+      "friday",
+      "paduka-puja-bhajans"
     ],
     "collection_order": {
-      "friday": 9
-    }
+      "friday": 9,
+      "paduka-puja-bhajans": 3
+    },
+    "scans": [
+      "paduka-family-04.jpg",
+      "paduka-family-03.jpg"
+    ]
   },
   {
     "slug": "mahalakshmi-ashtakam",
@@ -1306,11 +1317,16 @@
       }
     ],
     "collections": [
-      "friday"
+      "friday",
+      "paduka-puja-bhajans"
     ],
     "collection_order": {
-      "friday": 10
-    }
+      "friday": 10,
+      "paduka-puja-bhajans": 4
+    },
+    "scans": [
+      "paduka-family-05.jpg"
+    ]
   },
   {
     "slug": "ya-devi-sarva-bhuteshu",
@@ -1531,5 +1547,172 @@
     "description_en": "Published-source excerpts for matched passages in the two family recordings.",
     "note": "ಪ್ರಕಟಿತ ಮೂಲದ ಆಯ್ದ ಭಾಗಗಳು ಮಾತ್ರ; ಧ್ವನಿಮುದ್ರಿಕೆಯ ಸಂಪೂರ್ಣ ಪದಶಃ ಲಿಪ್ಯಂತರವಲ್ಲ. ಕುಟುಂಬದ ಪಠಣದಲ್ಲಿ ಪದ ಅಥವಾ ಕ್ರಮಭೇದಗಳಿರಬಹುದು. ಮೂಲದ ಸ್ವರಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗುರುತುಗಳನ್ನು ಊಹಿಸಿ ಸೇರಿಸಿಲ್ಲ.",
     "note_en": "Selected published passages, not a complete verbatim transcript of the family ritual. The recording can differ in wording, deity invocations, extra names and order. The 16-name sequence includes the source’s additional Sarvasiddhiprada closing name. Source Vedic marks are retained exactly, not reconstructed. Unmatched ritual passages remain explicitly labelled in the player."
+  },
+  {
+    "slug": "durga-saptashloki",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕೀ",
+    "title_en": "Durga Saptashloki",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/durga-saptashloki.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-01.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. ",
+    "collection_order": {
+      "paduka-puja-bhajans": 1
+    }
+  },
+  {
+    "slug": "om-jai-jagdish-hare",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ಓಂ ಜಯ ಜಗದೀಶ ಹರೇ",
+    "title_en": "Om Jai Jagdish Hare",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/om-jai-jagdish-hare.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-02.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರತಿ ಚರಣದ ನಂತರ ಆರಂಭದ ಪಲ್ಲವಿಯನ್ನು ಪುನರಾವರ್ತಿಸಿ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation.  Return to the opening chorus after each stanza, as marked in the book. This is a Hindi arati, not a Sanskrit translation. The supplied Roman lines resolve the damaged Devanagari printing; the family Roman singing expansions are retained.",
+    "collection_order": {
+      "paduka-puja-bhajans": 2
+    }
+  },
+  {
+    "slug": "sharade-sharade",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ಶಾರದೇ ಶಾರದೇ",
+    "title_en": "Sharade Sharade",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/sharade-sharade.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-07.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರತಿ ಚರಣದ ನಂತರ ಆರಂಭದ ಪಲ್ಲವಿಯನ್ನು ಪುನರಾವರ್ತಿಸಿ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation.  Return to the opening chorus after each stanza, as marked in the book.",
+    "collection_order": {
+      "paduka-puja-bhajans": 6
+    }
+  },
+  {
+    "slug": "dehi-dehi-sharada",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ದೇಹಿ ದೇಹಿ ಶಾರದಾ",
+    "title_en": "Dehi Dehi Sharada",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/dehi-dehi-sharada.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-07.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರತಿ ಚರಣದ ನಂತರ ಆರಂಭದ ಪಲ್ಲವಿಯನ್ನು ಪುನರಾವರ್ತಿಸಿ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation.  Return to the opening chorus after each stanza, as marked in the book.",
+    "collection_order": {
+      "paduka-puja-bhajans": 7
+    }
+  },
+  {
+    "slug": "guru-bhakti-gurvashtakam",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ಗುರುಭಕ್ತಿ — ಗುರ್ವಷ್ಟಕಮ್",
+    "title_en": "Guru Bhakti — Gurvashtakam",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/guru-bhakti-gurvashtakam.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-09.jpg",
+      "paduka-family-08.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. The family book includes an additional Anarghyani verse as stanza9, then the phalashruti as10; this extended family order is preserved. The refrain is the book’s sung order, not silently replaced by the alternate published order.",
+    "collection_order": {
+      "paduka-puja-bhajans": 8
+    }
+  },
+  {
+    "slug": "jagadguru-pancharatnamala",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ಶ್ರೀ ಜಗದ್ಗುರು ಪಂಚರತ್ನಮಾಲಾ",
+    "title_en": "Sri Jagadguru Pancharatnamala",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/jagadguru-pancharatnamala.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [
+      "paduka-family-10.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. The family page’s five verses and closing verse are retained. Roman spellings are rendered into Sanskrit orthography; Sharadacakam is read as Sharadarcakam (worshipper of Sharada). The original page remains available for comparison.",
+    "collection_order": {
+      "paduka-puja-bhajans": 9
+    }
+  },
+  {
+    "slug": "shankara-guru",
+    "collections": [
+      "paduka-puja-bhajans"
+    ],
+    "title": "ಶಂಕರ ಗುರು",
+    "title_en": "Shankara Guru",
+    "category": "ಭಜನೆ / ಸ್ತೋತ್ರ",
+    "category_en": "Bhajan / Stotra",
+    "language": "ಕನ್ನಡ · देवनागरी · Roman",
+    "language_en": "Kannada · Devanagari · Roman",
+    "script": "kannada",
+    "versions_file": "texts/shankara-guru.json",
+    "description": "ಪಾದುಕಾ ಪೂಜೆಯ ಕುಟುಂಬದ ಭಜನೆ ಪುಸ್ತಕದಿಂದ.",
+    "description_en": "From the family Paduka Puja bhajan book.",
+    "scans": [],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
+    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. Devotional text transcribed from the supplied family page. The source photograph is not published because its handwritten margin contains contact information.",
+    "collection_order": {
+      "paduka-puja-bhajans": 10
+    }
   }
 ]

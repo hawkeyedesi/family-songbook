@@ -73,3 +73,18 @@ node tests/recording-browser.cjs
 The Navaratri page now sequences the Ganapathy prelude from35:06 in `tw9uOA5d7-A`, then the41:15Lalitha recording. `preludes` in the recording config are ordered before the main source; YouTube's ended event advances to the next part. The initial Start button begins at the specified Ganapathy offset. Section buttons, manual text selection and script changes do not require an account.
 
 Current collection:26unique works,76reading pages. The3festival-only additions are the2distinct108-name editions and19bounded ritual excerpts (`navaratri-puja-passages`). The excerpts preserve227source Vedic marks in matching cross-script order. Unmatched family-specific passages are intentionally labelled; this is not advertised as a complete word-for-word transcript. See `TEXT-REVIEW.md` for the exact scope and remaining limitation.
+
+## Paduka Puja scan batch (2026-10-19)
+
+The collection now has10distinct works in the supplied batch order: Durga Saptashloki, Om Jai Jagdish Hare, Hanuman Chalisa, Mahalakshmi Ashtakam, Amma Baaramma, Sharade Sharade, Dehi Dehi Sharada, Guru Bhakti/Gurvashtakam, Jagadguru Pancharatnamala and Shankara Guru. Existing Hanuman/Mahalakshmi/Amma pages are reused; Friday membership is retained and these bhajans are not added to Daily. Previous/next links retain the selected script and return to the Paduka list.
+
+There are33unique works and99reading pages. All33have Kannada/Devanagari/Roman views. Vernacular bhajans remain their original language in different scripts, not Sanskrit translations. The family Roman Amma text remains byte-for-byte unchanged; its new script views prominently identify uncertain Roman spellings that still need family confirmation. The contact-bearing Shankara Guru photograph is deliberately not published; its devotional text is transcribed. Ten safe source photos are retained, joining the split Hanuman/Guru Bhakti pages in reading order.
+
+Import/update:
+```
+python scripts/import_paduka_batch.py
+python scripts/add_amma_script_views.py
+python3 build.py
+python3 tests/validate_content.py
+```
+The import scripts require the pinned package in `requirements-import.txt`; the builder itself remains standard-library only. Browser verification (local server8769, Playwright installed): `node tests/paduka-browser.cjs`.

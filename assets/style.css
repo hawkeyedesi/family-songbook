@@ -21,3 +21,5 @@ html[lang="kn"] body{overflow-wrap:anywhere}.verse p{min-width:0}.source a{overf
 .recording-parts{display:flex;gap:.6rem;flex-wrap:wrap;margin:1.3rem 0}.recording-parts button{padding:.7rem 1rem;border:1px solid var(--line);border-radius:12px;background:transparent;color:inherit;cursor:pointer}.recording-parts [aria-current=true]{background:#efe3ca;border-color:#b4873c}
 
 .recording-sequence{max-height:20rem;overflow-y:auto;padding-right:.3rem}.recording-jump{margin:1rem 0}.recording-jump summary{cursor:pointer;font-weight:600}.recording-layout{align-items:start}.recording-originals{margin-bottom:1.4rem}
+.paduka-sequence{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:1rem;margin:2rem 0;padding:1rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:.9rem}.paduka-sequence a{overflow-wrap:anywhere;max-width:100%}
+.reading-notice{margin:1.2rem 0;padding:1rem 1.2rem;border-left:3px solid #b77d32;background:#f1e8d7;font-size:.9rem;line-height:1.6}

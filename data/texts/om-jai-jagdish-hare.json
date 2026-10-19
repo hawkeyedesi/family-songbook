@@ -1,0 +1,105 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಓಂ ಜಯ ಜಗದೀಶ ಹರೇ",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಓಂ ಜಯ ಜಗದೀಶ ಹರೇ",
+          "paragraphs": [
+            "ಓಂ ಜಯ ಜಗದೀಶ ಹರೇ, ಸ್ವಾಮೀ ಜಯ ಜಗದೀಶ ಹರೇ ।\nಭಕ್ತ ಜನೋಂ ಕೇ ಸಂಕಟ, ಕ್ಷಣ ಮೇಂ ದೂರ ಕರೇ ॥",
+            "ಜೋ ಧ್ಯಾವೇ ಫಲ ಪಾವೇ, ದುಖ ವಿನಸೇ ಮನ ಕಾ ।\nಸುಖ ಸಮ್ಪತಿ ಘರ ಆವೇ, ಕಷ್ಟ ಮಿಟೇ ತನ ಕಾ ॥",
+            "ಮಾತ ಪಿತಾ ತುಮ ಮೇರೇ, ಶರಣ ಗಹೂಁ ಮೈಂ ಕಿಸಕೇ ।\nತುಮ ಬಿನ ಔರ ನ ದೂಜಾ, ಆಸ ಕರೂಁ ಜಿಸಕೀ ॥",
+            "ತುಮ ಪೂರಣ ಪರಮಾತ್ಮಾ, ತುಮ ಅನ್ತರ್ಯಾಮೀ ।\nಪಾರಬ್ರಹ್ಮ ಪರಮೇಶ್ವರ, ತುಮ ಸಬಕೇ ಸ್ವಾಮೀ ॥",
+            "ತುಮ ಕರುಣಾ ಕೇ ಸಾಗರ, ತುಮ ಪಾಲನಕರ್ತಾ ।\nಮೈಂ ಮೂರಖ ಖಲ ಕಾಮೀ, ಮೈಂ ಸೇವಕ ತುಮ ಸ್ವಾಮೀ, ಕೃಪಾ ಕರೋ ಭರ್ತಾ ॥",
+            "ತುಮ ಹೋ ಏಕ ಅಗೋಚರ, ಸಬಕೇ ಪ್ರಾಣಪತಿ ।\nಕಿಸ ವಿಧಿ ಮಿಲೂಁ ದಯಾಮಯ, ತುಮಕೋ ಮೈಂ ಕುಮತಿ ॥",
+            "ದೀನಬನ್ಧು ದುಖ ಹರ್ತಾ, ತುಮ ರಕ್ಷಕ ಮೇರೇ ।\nಅಪನೇ ಹಾಥ ಉಠಾಓ, ಅಪನೀ ಶರಣ ಲಗಾಓ, ದ್ವಾರ ಪಡ಼ಾ ತೇರೇ ॥",
+            "ವಿಷಯ ವಿಕಾರ ಮಿಟಾಓ, ಪಾಪ ಹರೋ ದೇವಾ ।\nಶ್ರದ್ಧಾ ಭಕ್ತಿ ಬಢ಼ಾಓ, ಸನ್ತನ ಕೀ ಸೇವಾ ॥",
+            "ತನ ಮನ ಧನ ಜೋ ಕುಛ ಹೈ, ಸಬ ಹೀ ಹೈ ತೇರಾ ।\nತೇರಾ ತುಝಕೋ ಅರ್ಪಣ, ಕ್ಯಾ ಲಾಗೇ ಮೇರಾ ॥",
+            "ಓಂ ಜಯ ಜಗದೀಶ ಹರೇ, ಸ್ವಾಮೀ ಜಯ ಜಗದೀಶ ಹರೇ ।\nಭಕ್ತ ಜನೋಂ ಕೇ ಸಂಕಟ, ಕ್ಷಣ ಮೇಂ ದೂರ ಕರೇ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-02.jpg"
+        }
+      ],
+      "source_sha256": "2e96fa0e15a00b82be013bb15952c0beb2160a3fa3edb8c5be3ce9c324b307ea",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "16e5bc9dd4d708c7c9efd473f5979f25f72e08910ed64e5a4089b94a75ef19ed",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "hi",
+      "label": "देवनागरी",
+      "title": "ॐ जय जगदीश हरे",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ॐ जय जगदीश हरे",
+          "paragraphs": [
+            "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे ।\nभक्त जनों के संकट, क्षण में दूर करे ॥",
+            "जो ध्यावे फल पावे, दुख विनसे मन का ।\nसुख सम्पति घर आवे, कष्ट मिटे तन का ॥",
+            "मात पिता तुम मेरे, शरण गहूँ मैं किसके ।\nतुम बिन और न दूजा, आस करूँ जिसकी ॥",
+            "तुम पूरण परमात्मा, तुम अन्तर्यामी ।\nपारब्रह्म परमेश्वर, तुम सबके स्वामी ॥",
+            "तुम करुणा के सागर, तुम पालनकर्ता ।\nमैं मूरख खल कामी, मैं सेवक तुम स्वामी, कृपा करो भर्ता ॥",
+            "तुम हो एक अगोचर, सबके प्राणपति ।\nकिस विधि मिलूँ दयामय, तुमको मैं कुमति ॥",
+            "दीनबन्धु दुख हर्ता, तुम रक्षक मेरे ।\nअपने हाथ उठाओ, अपनी शरण लगाओ, द्वार पड़ा तेरे ॥",
+            "विषय विकार मिटाओ, पाप हरो देवा ।\nश्रद्धा भक्ति बढ़ाओ, सन्तन की सेवा ॥",
+            "तन मन धन जो कुछ है, सब ही है तेरा ।\nतेरा तुझको अर्पण, क्या लागे मेरा ॥",
+            "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे ।\nभक्त जनों के संकट, क्षण में दूर करे ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-02.jpg"
+        }
+      ],
+      "source_sha256": "16e5bc9dd4d708c7c9efd473f5979f25f72e08910ed64e5a4089b94a75ef19ed"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Om Jai Jagdish Hare",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "oṃ jaya jagadīśa hare",
+          "paragraphs": [
+            "Om Jai Jagdeesh Hare, Swami Jai Jagdeesh Hare\nBhakta Janon Ke Sankat (rep.), Kshan Men Door Kare",
+            "Jo Dhyaaye Phal Paave, Dukh Vinashe Man Ka, Swami (rep.)\nSukh Sampati Ghar Aave (rep.), Kasht Mite Tan Ka",
+            "Maat Pitaa Tum Mere, Sharan Gahoon Main Kiskee, Swami (rep.)\nTum Bin Aur Na Dooja (rep.), Aas Karoon Main Jiskee",
+            "Tum Pooran Paramaatmaa, Tum Antaryaamee, Swami (rep.)\nPaara Brahma Parameshwar (rep.), Tum Sabke Swaami",
+            "Tum Karuna Ke Saagar, Tum Paalan Karta, Swami (rep.)\nMain Moorakh Khal Kaami, Main Sevak Tum Swami, Kripa Karo Bharta",
+            "Tum Ho Ek Agochar, Sabke Praanapati, Swami (rep.)\nKis Vidhi Miloon Dayaamaye (rep.), Tumko Main Kumati",
+            "Deen Bandhu Dukh Harta, Tum Rakshak Mere, Swami (rep.)\nApne Haath Uthaao, Apne Sharan Lagao, Dwaar Padaa Mein Tere",
+            "Vishay Vikaar Mitaao, Paap Haro Deva, Swami (rep.)\nShraddha Bhakti Badaao (rep.), Santan Ki Seva",
+            "Tan, Man, Dhan, Sab Kuchh Hai Tera, Swami Sab Kuchh Hai Tera\nTera Tujh Ko Arpan (rep.), Kya Lage Mera",
+            "Om Jai Jagdeesh Hare, Swami Jai Jagdeesh Hare\nBhakta Janon Ke Sankat (rep.), Kshan Men Door Kare"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-02.jpg"
+        }
+      ],
+      "source_sha256": "fc503e7334cdb63935b3f1662613480047c273f2f3c07c5b50956e4a56d7d957"
+    }
+  ]
+}

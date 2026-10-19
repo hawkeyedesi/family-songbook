@@ -1,0 +1,116 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ದೇಹಿ ದೇಹಿ ಶಾರದಾ",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ದೇಹಿ ದೇಹಿ ಶಾರದಾ",
+          "paragraphs": [
+            "ದೇಹಿ ದೇಹಿ ಶಾರದಾ ।\nಜ್ಞಾನಂ ದೇಹಿ ಸರ್ವದಾ ॥",
+            "ಪ್ರೇಮರೂಪಿಣಿ ಶಾರದಾ ।\nಭಕ್ತಿಂ ದೇಹಿ ಸರ್ವದಾ ॥",
+            "ಯೋಗರೂಪಿಣಿ ಶಾರದಾ ।\nಯೋಗಂ ದೇಹಿ ಸರ್ವದಾ ॥",
+            "ಮುಕ್ತಿರೂಪಿಣಿ ಶಾರದಾ ।\nಮೋಕ್ಷಂ ದೇಹಿ ಸರ್ವದಾ ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "ಪುನರಾವರ್ತನಮ್",
+          "paragraphs": [
+            "ದೇಹಿ ದೇಹಿ ಶಾರದಾ ।\nಜ್ಞಾನಂ ದೇಹಿ ಸರ್ವದಾ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "055fd6a0a37b6fc07465d09eb0c84845a0ce20522a164bcce856e6cfaca48524",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "0938faa7e3cf953c802ec0f033f084527cf64dfc2739b9982f07c71d66ceeb81",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "देहि देहि शारदा",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "देहि देहि शारदा",
+          "paragraphs": [
+            "देहि देहि शारदा ।\nज्ञानं देहि सर्वदा ॥",
+            "प्रेमरूपिणि शारदा ।\nभक्तिं देहि सर्वदा ॥",
+            "योगरूपिणि शारदा ।\nयोगं देहि सर्वदा ॥",
+            "मुक्तिरूपिणि शारदा ।\nमोक्षं देहि सर्वदा ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "पुनरावर्तनम्",
+          "paragraphs": [
+            "देहि देहि शारदा ।\nज्ञानं देहि सर्वदा ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "0938faa7e3cf953c802ec0f033f084527cf64dfc2739b9982f07c71d66ceeb81"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Dehi Dehi Sharada",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "dehi dehi śāradā",
+          "paragraphs": [
+            "dehi dehi śāradā ।\njñānaṃ dehi sarvadā ॥",
+            "premarūpiṇi śāradā ।\nbhaktiṃ dehi sarvadā ॥",
+            "yogarūpiṇi śāradā ।\nyogaṃ dehi sarvadā ॥",
+            "muktirūpiṇi śāradā ।\nmokṣaṃ dehi sarvadā ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "punarāvartanam",
+          "paragraphs": [
+            "dehi dehi śāradā ।\njñānaṃ dehi sarvadā ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "55e03d6bc80ab613416c5034c783d82c7c633952e5e77ef95f326f39084a2f69",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "0938faa7e3cf953c802ec0f033f084527cf64dfc2739b9982f07c71d66ceeb81",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    }
+  ]
+}

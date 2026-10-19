@@ -3,11 +3,12 @@ from pathlib import Path
 import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
-assert len(a)==26 and len(by_slug)==26
+assert len(a)==33 and len(by_slug)==33
 groups={g:[s['slug'] for s in a if g in s.get('collections',[s.get('collection','daily')])] for g in ['daily','weekly','friday','paduka-puja-bhajans']}
-assert {g:len(ls) for g,ls in groups.items()}=={'daily':7,'weekly':4,'friday':12,'paduka-puja-bhajans':1}
+assert {g:len(ls) for g,ls in groups.items()}=={'daily':7,'weekly':4,'friday':12,'paduka-puja-bhajans':10}
 assert all((s.get('collections') or s.get('tags')) and set(s['collections']) <= set(groups) for s in a)
-assert groups['paduka-puja-bhajans']==['amma-baaramma']
+expected_paduka=['durga-saptashloki','om-jai-jagdish-hare','hanuman-chalisa','mahalakshmi-ashtakam','amma-baaramma','sharade-sharade','dehi-dehi-sharada','guru-bhakti-gurvashtakam','jagadguru-pancharatnamala','shankara-guru']
+assert sorted(groups['paduka-puja-bhajans'],key=lambda slug:by_slug[slug]['collection_order']['paduka-puja-bhajans'])==expected_paduka
 assert 'amma-baaramma' not in groups['daily']
 assert 'lakshmi-nrisimha-karavalamba' in groups['weekly'] and 'lakshmi-nrisimha-karavalamba' in groups['friday']
 expected_friday=['lakshmi-nrisimha-karavalamba','lakshmi-ashtottara-shatanamavali','durga-suktam','sri-suktam','ya-devi-sarva-bhuteshu','sharada-bhujanga-ashtakam','mahishasura-mardini','bhagyada-lakshmi-baramma','mantra-pushpam','hanuman-chalisa','mahalakshmi-ashtakam','kalabhairava-ashtakam']
@@ -105,7 +106,7 @@ for s in a:
   for suffix in ['', 'devanagari','roman']:
    html=(ROOT/'songs'/s['slug']/suffix/'index.html').read_text();assert 'svara-notice scan-only' in html and 'marked-scan-link' in html and 'daily-mantras-p65.jpg' in html
  print('PASS',s['slug'],'complete source text + matching verse sequence in three scripts')
-print('PASS: all nine original transcriptions preserved; 26 entries; Friday order and overlapping schedules verified.')
+print('PASS: all nine original transcriptions preserved; 33 entries; Friday order and overlapping schedules verified.')
 for ui in ['', 'en']:
  for group in [None,*groups,'navaratri']:
   path=ROOT/ui/(group or '')/'index.html';html=path.read_text()
@@ -148,3 +149,19 @@ for i,c in enumerate(prelude['cues']):
   assert c['work']=='navaratri-puja-passages' and c['evidence']
   assert all(c['anchor'] in [ch['id'] for ch in v['chapters']] for v in extra)
 print('PASS Ganapathy offset/timeline and227exact cross-script Vedic marks in sourced ritual excerpts')
+
+counts={'durga-saptashloki':[7],'om-jai-jagdish-hare':[10],'sharade-sharade':[3,1],'dehi-dehi-sharada':[4,1],'guru-bhakti-gurvashtakam':[8,1,1],'jagadguru-pancharatnamala':[6],'shankara-guru':[3],'amma-baaramma':[1,10]}
+for slug,want in counts.items():
+ vs=json.loads((ROOT/'data'/by_slug[slug]['versions_file']).read_text())['versions']
+ assert all([len(c['paragraphs']) for c in v['chapters']]==want for v in vs),slug
+ if slug=='amma-baaramma':
+  assert vs[2]['chapters'][0]['paragraphs']==['\n'.join(by_slug[slug]['chorus'])]
+  assert vs[2]['chapters'][1]['paragraphs']==['\n'.join(v) for v in by_slug[slug]['verses']]
+ if slug=='guru-bhakti-gurvashtakam':
+  assert 'अनर्घ्याणि' in vs[1]['chapters'][1]['paragraphs'][0]
+  assert 'गुरोरुक्तवाक्ये' in vs[1]['chapters'][2]['paragraphs'][0]
+assert by_slug['hanuman-chalisa']['scans']==['paduka-family-04.jpg','paduka-family-03.jpg']
+assert by_slug['shankara-guru']['scans']==[],'Contact-bearing scan must stay private'
+assert len(list((ROOT/'assets').glob('paduka-family-*.jpg')))==10
+assert all('daily' not in by_slug[slug]['collections'] for slug in expected_paduka)
+print('PASS Paduka10works,33total,all3scripts,split-pagecompleteness,unchangedAmmaRoman,private-scanexclusion')

@@ -1,0 +1,113 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಶಾರದೇ ಶಾರದೇ",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಶಾರದೇ ಶಾರದೇ",
+          "paragraphs": [
+            "ಶಾರದೇ ಶಾರದೇ ಜ್ಞಾನದಾಯಿಕೇ ।\nಶಾರದೇ ಶಾರದೇ ಶಾರದಾಮ್ಬಿಕೇ ॥",
+            "ಪಾರ್ವತಿ ಭಗವತಿ ಭಕ್ತಿದಾಯಿಕೇ ।\nತುಙ್ಗಾತೀರೇ ಶೃಙ್ಗಗಿರಿ ಶಾರದಾಮ್ಬಿಕೇ ॥",
+            "ಭಕ್ತಿದಾಯಿಕೇ ಜ್ಞಾನದಾಯಿಕೇ ಮೋಕ್ಷದಾಯಿಕೇ ।\nಶಾರದಾಮ್ಬಿಕೇ ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "ಪುನರಾವರ್ತನಮ್",
+          "paragraphs": [
+            "ಶಾರದೇ ಶಾರದೇ ಜ್ಞಾನದಾಯಿಕೇ ।\nಶಾರದೇ ಶಾರದೇ ಶಾರದಾಮ್ಬಿಕೇ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "1e72101ea8efc3459edc52b010df3a2cf7bb788bf439cf28cb5c3eb2c722d858",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "d857d11b3479b7ecabf07e167ae7c5bda6a736f6cd1d5eb7eb1c84c2f9c485f8",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "शारदे शारदे",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "शारदे शारदे",
+          "paragraphs": [
+            "शारदे शारदे ज्ञानदायिके ।\nशारदे शारदे शारदाम्बिके ॥",
+            "पार्वति भगवति भक्तिदायिके ।\nतुङ्गातीरे शृङ्गगिरि शारदाम्बिके ॥",
+            "भक्तिदायिके ज्ञानदायिके मोक्षदायिके ।\nशारदाम्बिके ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "पुनरावर्तनम्",
+          "paragraphs": [
+            "शारदे शारदे ज्ञानदायिके ।\nशारदे शारदे शारदाम्बिके ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "d857d11b3479b7ecabf07e167ae7c5bda6a736f6cd1d5eb7eb1c84c2f9c485f8"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Sharade Sharade",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "śārade śārade",
+          "paragraphs": [
+            "śārade śārade jñānadāyike ।\nśārade śārade śāradāmbike ॥",
+            "pārvati bhagavati bhaktidāyike ।\ntuṅgātīre śṛṅgagiri śāradāmbike ॥",
+            "bhaktidāyike jñānadāyike mokṣadāyike ।\nśāradāmbike ॥"
+          ]
+        },
+        {
+          "id": "refrain",
+          "title": "punarāvartanam",
+          "paragraphs": [
+            "śārade śārade jñānadāyike ।\nśārade śārade śāradāmbike ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-07.jpg"
+        }
+      ],
+      "source_sha256": "772ef08bacb74c195bcc5efdae886ca8e760a140a4051ae6d6495e193408ac9b",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "d857d11b3479b7ecabf07e167ae7c5bda6a736f6cd1d5eb7eb1c84c2f9c485f8",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    }
+  ]
+}

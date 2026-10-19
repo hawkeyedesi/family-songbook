@@ -1,0 +1,123 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಅಮ್ಮ ಬಾರಮ್ಮ",
+      "chapters": [
+        {
+          "id": "chorus",
+          "title": "ಪಲ್ಲವಿ",
+          "paragraphs": [
+            "ಅಮ್ಮ ಬಾರಮ್ಮ ನಮ್ಮ ತಾಯಿ ಬಾರಮ್ಮ ।\nತಾಯಿ ಬಾರಮ್ಮ ನಮ್ಮ ದೇವಿಯೇ ಬಾರಮ್ಮ ॥"
+          ]
+        },
+        {
+          "id": "main",
+          "title": "ಚರಣಗಳು",
+          "paragraphs": [
+            "ಮೂನು ಲೋಕದೊಡೆಯ ಶಿವನ ರಾಣಿಯೇ ಬಾರಮ್ಮ ।\nನಿನ್ನಯ ಗೆಜ್ಜೆಯ ನಾದ ಗಲುಗಲು ಎನ್ನುತ ತಾಯಿ ಬಾರಮ್ಮ ॥",
+            "ಗಜಮುಖ ಜನನಿಯೇ ಧೀರ ಗಂಭೀರಳೆ ಗಾಯತ್ರಿ ದೇವಿಯೇ ಬಾರಮ್ಮ ।\nಅಂಬಾ ಭವಾನಿಯೇ ಗಂಗಾ ಭವಾನಿಯೇ ತುಳಸಿಯ ಭವಾನಿಯೇ ಬಾರಮ್ಮ ॥",
+            "ಶಂಕರ ಸ್ಥಾಪಿತೆ ಶ್ರೀಚಕ್ರ ಪೂಜಿತೆ ಶಾರದಾ ದೇವಿಯೇ ಬಾರಮ್ಮ ।\nಶೃಂಗೇರಿಯಲ್ಲಿ ನಗುನಗುತಿರುವ ಭಾರತಿ ದೇವಿಯೇ ಬಾರಮ್ಮ ॥",
+            "ಖಡ್ಗಧಾರಿಣಿ ತ್ರಿಶೂಲಪಾಣಿ ಚಾಮುಂಡೇಶ್ವರಿ ಬಾರಮ್ಮ ।\nರಾಜಾಧಿರಾಜರಿಂದ ಪೂಜಿಸಲ್ಪಡುವಂಥ ರಾಜರಾಜೇಶ್ವರಿ ಬಾರಮ್ಮ ॥",
+            "ಜಪವನ ಅರಿಯೆನು ತಪವನ ಅರಿಯೆನು ಮೂದಲ ಕರುಣಿಸು ಬಾರಮ್ಮ ।\nಮೂಜಗ ವಂದಿತೆ ಮುರಹರನೊಲ್ಲಭೆ ಮೂಕಾಂಬಿಕೆ ಮಾತೆ ಬಾರಮ್ಮ ॥",
+            "ಕಾಂಚಿ ಕಾಮಾಕ್ಷಿ ಮಧುರೈ ಮೀನಾಕ್ಷಿ ಕಾಶಿ ವಿಶಾಲಾಕ್ಷಿ ಬಾರಮ್ಮ ।\nಕಾಮಿತ ಫಲಗತ ನೀಡುವಂಥ ಕರುಣಾಸಾಗರಿ ಬಾರಮ್ಮ ॥",
+            "ಶ್ರೀ ಜಯಲಕ್ಷ್ಮಿ ಜಯಜಯ ಲಕ್ಷ್ಮಿ ಪ್ರಸನ್ನ ಲಕ್ಷ್ಮಿಯೇ ಬಾರಮ್ಮ ।\nಶ್ರಾವಣ ಮಾಸದಿ ಪೂಜಿಸಲ್ಪಡುವಂಥ ವರಮಹಾಲಕ್ಷ್ಮಿಯೇ ಬಾರಮ್ಮ ॥",
+            "ಶ್ರೀ ಜಯಗೌರಿ ಸಿರಿವರ ಗೌರಿ ಮಂಗಳ ಗೌರಿಯೇ ಬಾರಮ್ಮ ।\nಭಾದ್ರಪದ ಮಾಸದಿ ಪೂಜಿಸಲ್ಪಡುವಂಥ ಸ್ವರ್ಣಗೌರಿಯೇ ಬಾರಮ್ಮ ॥",
+            "ನವರಾತ್ರಿ ದೇವಿ ಮೂಲ ಸರಸ್ವತಿ ಅಷ್ಟಮಿ ದುರ್ಗಿಯೇ ಬಾರಮ್ಮ ।\nದಶಮಿಯ ದಿನದೊಳು ವಿಜಯಂಗೈಯಲು ವಿಜಯಲಕ್ಷ್ಮಿಯೇ ಬಾರಮ್ಮ ॥",
+            "ಆದಿಶಕ್ತಿ ಅಖಿಲಾಂಡೇಶ್ವರಿ ಅನ್ನಪೂರ್ಣೇಶ್ವರಿ ಬಾರಮ್ಮ ।\nಆಶ್ರಿತ ಜನರಿಗೆ ಅಭಯ ನೀಡಲು ಸಂತೋಷಿ ಮಾತೆಯೇ ಬಾರಮ್ಮ ॥"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "source_sha256": "e9ee5cfd9f454be8799e8fc2884248cd364932fa1a9a073c3830dc4811d2b765",
+      "references": [
+        {
+          "label": "Family book — original Roman-script Kannada song",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-06.jpg"
+        }
+      ],
+      "reading_notice": "ಇದು ಕುಟುಂಬದ ಮೂಲ ರೋಮನ್ ಪಾಠದ ಕನ್ನಡ ಲಿಪಿರೂಪ. ಕೆಲವು ಅಸ್ಪಷ್ಟ ಪದಗಳಿಗೆ ಕುಟುಂಬದ ಪರಿಶೀಲನೆ ಬಾಕಿ. ಮೂಲ ಪಾಠವನ್ನು Roman ಆಯ್ಕೆಯಲ್ಲಿ ಓದಬಹುದು."
+    },
+    {
+      "id": "devanagari",
+      "lang": "kn-Deva",
+      "label": "देवनागरी",
+      "title": "अम्म बारम्म",
+      "chapters": [
+        {
+          "id": "chorus",
+          "title": "पल्लवि",
+          "paragraphs": [
+            "अम्म बारम्म नम्म तायि बारम्म ।\nतायि बारम्म नम्म देविये बारम्म ॥"
+          ]
+        },
+        {
+          "id": "main",
+          "title": "चरणाः",
+          "paragraphs": [
+            "मूनु लोकदॊडॆय शिवन राणिये बारम्म ।\nनिन्नय गॆज्जॆय नाद गलुगलु ऎन्नुत तायि बारम्म ॥",
+            "गजमुख जननिये धीर गंभीरळॆ गायत्रि देविये बारम्म ।\nअंबा भवानिये गंगा भवानिये तुळसिय भवानिये बारम्म ॥",
+            "शंकर स्थापितॆ श्रीचक्र पूजितॆ शारदा देविये बारम्म ।\nशृंगेरियल्लि नगुनगुतिरुव भारति देविये बारम्म ॥",
+            "खड्गधारिणि त्रिशूलपाणि चामुंडेश्वरि बारम्म ।\nराजाधिराजरिंद पूजिसल्पडुवंथ राजराजेश्वरि बारम्म ॥",
+            "जपवन अरियॆनु तपवन अरियॆनु मूदल करुणिसु बारम्म ।\nमूजग वंदितॆ मुरहरनॊल्लभॆ मूकांबिकॆ मातॆ बारम्म ॥",
+            "कांचि कामाक्षि मधुरै मीनाक्षि काशि विशालाक्षि बारम्म ।\nकामित फलगत नीडुवंथ करुणासागरि बारम्म ॥",
+            "श्री जयलक्ष्मि जयजय लक्ष्मि प्रसन्न लक्ष्मिये बारम्म ।\nश्रावण मासदि पूजिसल्पडुवंथ वरमहालक्ष्मिये बारम्म ॥",
+            "श्री जयगौरि सिरिवर गौरि मंगळ गौरिये बारम्म ।\nभाद्रपद मासदि पूजिसल्पडुवंथ स्वर्णगौरिये बारम्म ॥",
+            "नवरात्रि देवि मूल सरस्वति अष्टमि दुर्गिये बारम्म ।\nदशमिय दिनदॊळु विजयंगैयलु विजयलक्ष्मिये बारम्म ॥",
+            "आदिशक्ति अखिलांडेश्वरि अन्नपूर्णेश्वरि बारम्म ।\nआश्रित जनरिगॆ अभय नीडलु संतोषि मातॆये बारम्म ॥"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "source_sha256": "264587e47b8aa6677e71bec8ec7150c6990bcc874ced67fb5332dec92de96633",
+      "references": [
+        {
+          "label": "Family book — original Roman-script Kannada song",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-06.jpg"
+        }
+      ],
+      "reading_notice": "This is a script rendering of the Kannada song, not a Sanskrit translation. A few ambiguous Roman spellings still need family confirmation; the original Roman text is unchanged."
+    },
+    {
+      "id": "roman",
+      "lang": "kn-Latn",
+      "label": "English (Roman)",
+      "title": "Amma Baaramma",
+      "chapters": [
+        {
+          "id": "chorus",
+          "title": "Chorus",
+          "paragraphs": [
+            "Amma baaramma namma Tayi baaramma\nTaayi baaramma namma Deviye baaramma"
+          ]
+        },
+        {
+          "id": "main",
+          "title": "Verses",
+          "paragraphs": [
+            "Moonu loka dodeya Sivanaa raaniye baaramma\nNinnaya Gejjeya Nada galu-galu-yennuta Tayi baaramma",
+            "Gajamukha jananiye dheera gambhirale, Gayatri deviye baaramma\nAmba bhavaniye Ganga bhavaniye, Tulasiya bhavaniye Baaramma",
+            "Shankara stapithe Sri Chakra poojithe, Sharada Deviye baaramma\nSringeri-yalli nagu-nagutiruvaa Bharati Deviye baaramma",
+            "Khadga dhaarini trishula paanee, Chamundeshwari baaramma\nRajaadhi-rajaarinda poojisalpaduvantha, Rajarajeshwari baaramma",
+            "Japavanaa ariyenu Tapavanaa ariyenu, Moodala karunisu baaramma\nMoojaga vandite murahara nollabhe, Mookambike mate baaramma",
+            "Kanchi Kamakshi, Madhurai Meenakshi, Kasi Vishalakshi baaramma\nKamitha phalagata needuvantaa karunaa sagari baaramma",
+            "Sri Jayalakshmi Jaya Jaya Laksmi, Prasanna Laksmiye baaramma\nSravana masadi poojisalpaduvantha, Varamaha-Laksmiye baaramma",
+            "Sri Jaya Gowri, Sirivara Gowri, Mangala Gowriye baaramma\nBhadrapada maasadi poojisalpaduvantha Swarna Gowriye baaramma",
+            "Navrathri Devi moola Saraswathi, Ashtami Durgiye baaramma\nDasamiya dinadolu, bijayaangaiyalu vijaya Laksmiye baaramma",
+            "Adi Shakti Akhilandeshwari, Annapoorneshwari baaramma\nAshrita janarige abhaya needalu, Santhoshi Mateye baaramma"
+          ],
+          "layout": "verses"
+        }
+      ],
+      "source_sha256": "e3a84e9ca5406cc7f9669a67d3e4aac0ab9641e74d32dba41ffc87e156b5fc8d",
+      "references": [
+        {
+          "label": "Family book — original Roman-script Kannada song",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-06.jpg"
+        }
+      ]
+    }
+  ]
+}

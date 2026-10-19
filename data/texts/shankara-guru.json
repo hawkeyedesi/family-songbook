@@ -1,0 +1,92 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಶಂಕರ ಗುರು",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಶಙ್ಕರ ಗುರು",
+          "paragraphs": [
+            "ಶಙ್ಕರ ಗುರು ಜಯ ಶಙ್ಕರ ಗುರು ।\nಶಙ್ಕರ ಭಗವತ್ಪಾದ ಶಙ್ಕರ ಗುರು ॥",
+            "ದೀನದಯಾಲ ಗುರುನಾಥ ।\nಪೂರ್ಣಕೃಪಾಲ ಗುರುನಾಥ ।\nಗುರುನಾಥ ಜಯ ಗುರುನಾಥ ।\nಸದ್ಗುರುನಾಥ ಗುರುನಾಥ ॥",
+            "ಅಪಾರಮಹಿಮಾ ಗುರುನಾಥ ।\nಕೃಪಾಸಾಗರ ಗುರುನಾಥ ।\nಗುರುನಾಥ ಜಯ ಗುರುನಾಥ ।\nಸದ್ಗುರುನಾಥ ಗುರುನಾಥ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family scan — text transcribed; contact-bearing photograph kept private",
+          "url": "https://hawkeyedesi.github.io/family-songbook/en/paduka-puja-bhajans/"
+        }
+      ],
+      "source_sha256": "45d475a5e0b41c387bbbb7f5f96c3ea9a949a828fbbaa1c73c4c79e076a12b80",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "841e613aa13b0a648e0cb1eabe8207ceaea654921749bff59e451a01901df21f",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "hi",
+      "label": "देवनागरी",
+      "title": "शङ्कर गुरु",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "शङ्कर गुरु",
+          "paragraphs": [
+            "शङ्कर गुरु जय शङ्कर गुरु ।\nशङ्कर भगवत्पाद शङ्कर गुरु ॥",
+            "दीनदयाल गुरुनाथ ।\nपूर्णकृपाल गुरुनाथ ।\nगुरुनाथ जय गुरुनाथ ।\nसद्गुरुनाथ गुरुनाथ ॥",
+            "अपारमहिमा गुरुनाथ ।\nकृपासागर गुरुनाथ ।\nगुरुनाथ जय गुरुनाथ ।\nसद्गुरुनाथ गुरुनाथ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family scan — text transcribed; contact-bearing photograph kept private",
+          "url": "https://hawkeyedesi.github.io/family-songbook/en/paduka-puja-bhajans/"
+        }
+      ],
+      "source_sha256": "841e613aa13b0a648e0cb1eabe8207ceaea654921749bff59e451a01901df21f"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Shankara Guru",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "śaṅkara guru",
+          "paragraphs": [
+            "śaṅkara guru jaya śaṅkara guru ।\nśaṅkara bhagavatpāda śaṅkara guru ॥",
+            "dīnadayāla gurunātha ।\npūrṇakṛpāla gurunātha ।\ngurunātha jaya gurunātha ।\nsadgurunātha gurunātha ॥",
+            "apāramahimā gurunātha ।\nkṛpāsāgara gurunātha ।\ngurunātha jaya gurunātha ।\nsadgurunātha gurunātha ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family scan — text transcribed; contact-bearing photograph kept private",
+          "url": "https://hawkeyedesi.github.io/family-songbook/en/paduka-puja-bhajans/"
+        }
+      ],
+      "source_sha256": "1b2b88a5dfa4c62ac1c65d5cd0c6e86603d3c3850ef976419818d2907b6cbf49",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "841e613aa13b0a648e0cb1eabe8207ceaea654921749bff59e451a01901df21f",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    }
+  ]
+}

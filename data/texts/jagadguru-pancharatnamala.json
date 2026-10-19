@@ -1,0 +1,101 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಶ್ರೀ ಜಗದ್ಗುರು ಪಂಚರತ್ನಮಾಲಾ",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಶ್ರೀಜಗದ್ಗುರುಪಞ್ಚರತ್ನಮಾಲಾಸ್ತೋತ್ರಮ್",
+          "paragraphs": [
+            "ಚನ್ದ್ರಮೌಲಿಪೂಜಕಂ ಸಮಸ್ತಪಾಪನಾಶಕಂ\nಭಕ್ತಚಿತ್ತವಶಕಂ ಸದಾತ್ಮನಿಷ್ಠಮಾನಸಮ್ ।\nಭಸ್ಮನಾ ವಿಭೂಷಿತಂ ಕರಾತ್ತದಣ್ಡಶೋಭಿತಂ\nಶೃಙ್ಗಶೈಲಭೂಷಣಂ ನಮಾಮಿ ತಂ ಜಗದ್ಗುರುಮ್ ॥ 1 ॥",
+            "ಚನ್ದ್ರಚೂಡಸದ್ಗುರೋಃ ಕರಾಬ್ಜಸಮ್ಭವಂ ವಿಭುಂ\nಜ್ಞಾನಮುಕ್ತಿದಾಯಿನಂ ನತೋತ್ತಮಾಕೃತಿಂ ಪ್ರಭುಮ್ ।\nಮನ್ತ್ರಶಾಸ್ತ್ರವಾರಿಧಿಂ ಕ್ಷಮಾನಿಧಿಂ ತಪೋನಿಧಿಂ\nಶೃಙ್ಗಶೈಲಭೂಷಣಂ ನಮಾಮಿ ತಂ ಜಗದ್ಗುರುಮ್ ॥ 2 ॥",
+            "ವೇದತತ್ತ್ವಬೋಧಕಂ ಸ್ವಧರ್ಮಮಾರ್ಗದರ್ಶಕಂ\nಭಕ್ತವತ್ಸಲಂ ಶುಭಂ ಸುತೀಕ್ಷ್ಣಬುದ್ಧಿದಾಯಕಮ್ ।\nಹಾಸಪೂರ್ವಭಾಷಿಣಂ ಸ್ಮಿತಾನನಂ ಪರಾತ್ಪರಂ\nಶೃಙ್ಗಶೈಲಭೂಷಣಂ ನಮಾಮಿ ತಂ ಜಗದ್ಗುರುಮ್ ॥ 3 ॥",
+            "ದೀನಲೋಕರಕ್ಷಕಂ ಹಿ ಪಾಪಲೋಕದುರ್ಲಭಂ\nಆದರೇಣ ಶಿಷ್ಯಕೋಟಿಸೇವಿತಾಙ್ಘ್ರಿಪಙ್ಕಜಮ್ ।\nಭಕ್ತತಾಪಹಾರಿಣಂ ಯತೀಶ್ವರಂ ಮಹೇಶ್ವರಂ\nಶೃಙ್ಗಶೈಲಭೂಷಣಂ ನಮಾಮಿ ತಂ ಜಗದ್ಗುರುಮ್ ॥ 4 ॥",
+            "ಚನ್ದ್ರಶೇಖರಾಖ್ಯಸದ್ಗುರೋಃ ಪದಾಬ್ಜಸೇವಕಂ\nಮೋಹನಾಶಕಂ ಶಿವಂ ಗಣೇಶಶಾರದಾರ್ಚಕಮ್ ।\nದ್ವೈತಭೀತಿವಾರಣಂ ದಯಾನಿಧಿಂ ಗುರೋರ್ಗುರುಂ\nಶೃಙ್ಗಶೈಲಭೂಷಣಂ ನಮಾಮಿ ತಂ ಜಗದ್ಗುರುಮ್ ॥ 5 ॥",
+            "ಪಞ್ಚಕಂ ಸದ್ಗುರೋರ್ನಿತ್ಯಂ ಭಕ್ತ್ಯಾ ಪ್ರಪಠತಾಂ ನೃಣಾಮ್ ।\nಆಯುರಾರೋಗ್ಯಮೈಶ್ವರ್ಯಂ ಭವಿಷ್ಯತಿ ನ ಸಂಶಯಃ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-10.jpg"
+        }
+      ],
+      "source_sha256": "3c9ec39d0d8cdad195e824183d4c3ae1a0109b2fae8b16ec7f22053287ec4e08",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "f4a3722aa04765249c576b548dfe1021336c77d3ec8da37948165267611fe8df",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "श्रीजगद्गुरुपञ्चरत्नमालास्तोत्रम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "श्रीजगद्गुरुपञ्चरत्नमालास्तोत्रम्",
+          "paragraphs": [
+            "चन्द्रमौलिपूजकं समस्तपापनाशकं\nभक्तचित्तवशकं सदात्मनिष्ठमानसम् ।\nभस्मना विभूषितं करात्तदण्डशोभितं\nशृङ्गशैलभूषणं नमामि तं जगद्गुरुम् ॥ 1 ॥",
+            "चन्द्रचूडसद्गुरोः कराब्जसम्भवं विभुं\nज्ञानमुक्तिदायिनं नतोत्तमाकृतिं प्रभुम् ।\nमन्त्रशास्त्रवारिधिं क्षमानिधिं तपोनिधिं\nशृङ्गशैलभूषणं नमामि तं जगद्गुरुम् ॥ 2 ॥",
+            "वेदतत्त्वबोधकं स्वधर्ममार्गदर्शकं\nभक्तवत्सलं शुभं सुतीक्ष्णबुद्धिदायकम् ।\nहासपूर्वभाषिणं स्मिताननं परात्परं\nशृङ्गशैलभूषणं नमामि तं जगद्गुरुम् ॥ 3 ॥",
+            "दीनलोकरक्षकं हि पापलोकदुर्लभं\nआदरेण शिष्यकोटिसेविताङ्घ्रिपङ्कजम् ।\nभक्ततापहारिणं यतीश्वरं महेश्वरं\nशृङ्गशैलभूषणं नमामि तं जगद्गुरुम् ॥ 4 ॥",
+            "चन्द्रशेखराख्यसद्गुरोः पदाब्जसेवकं\nमोहनाशकं शिवं गणेशशारदार्चकम् ।\nद्वैतभीतिवारणं दयानिधिं गुरोर्गुरुं\nशृङ्गशैलभूषणं नमामि तं जगद्गुरुम् ॥ 5 ॥",
+            "पञ्चकं सद्गुरोर्नित्यं भक्त्या प्रपठतां नृणाम् ।\nआयुरारोग्यमैश्वर्यं भविष्यति न संशयः ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-10.jpg"
+        }
+      ],
+      "source_sha256": "f4a3722aa04765249c576b548dfe1021336c77d3ec8da37948165267611fe8df"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Sri Jagadguru Pancharatnamala",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "śrījagadgurupañcaratnamālāstotram",
+          "paragraphs": [
+            "candramaulipūjakaṃ samastapāpanāśakaṃ\nbhaktacittavaśakaṃ sadātmaniṣṭhamānasam ।\nbhasmanā vibhūṣitaṃ karāttadaṇḍaśobhitaṃ\nśṛṅgaśailabhūṣaṇaṃ namāmi taṃ jagadgurum ॥ 1 ॥",
+            "candracūḍasadguroḥ karābjasambhavaṃ vibhuṃ\njñānamuktidāyinaṃ natottamākṛtiṃ prabhum ।\nmantraśāstravāridhiṃ kṣamānidhiṃ taponidhiṃ\nśṛṅgaśailabhūṣaṇaṃ namāmi taṃ jagadgurum ॥ 2 ॥",
+            "vedatattvabodhakaṃ svadharmamārgadarśakaṃ\nbhaktavatsalaṃ śubhaṃ sutīkṣṇabuddhidāyakam ।\nhāsapūrvabhāṣiṇaṃ smitānanaṃ parātparaṃ\nśṛṅgaśailabhūṣaṇaṃ namāmi taṃ jagadgurum ॥ 3 ॥",
+            "dīnalokarakṣakaṃ hi pāpalokadurlabhaṃ\nādareṇa śiṣyakoṭisevitāṅghripaṅkajam ।\nbhaktatāpahāriṇaṃ yatīśvaraṃ maheśvaraṃ\nśṛṅgaśailabhūṣaṇaṃ namāmi taṃ jagadgurum ॥ 4 ॥",
+            "candraśekharākhyasadguroḥ padābjasevakaṃ\nmohanāśakaṃ śivaṃ gaṇeśaśāradārcakam ।\ndvaitabhītivāraṇaṃ dayānidhiṃ gurorguruṃ\nśṛṅgaśailabhūṣaṇaṃ namāmi taṃ jagadgurum ॥ 5 ॥",
+            "pañcakaṃ sadgurornityaṃ bhaktyā prapaṭhatāṃ nṛṇām ।\nāyurārogyamaiśvaryaṃ bhaviṣyati na saṃśayaḥ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Family book — supplied page",
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-10.jpg"
+        }
+      ],
+      "source_sha256": "d62b757483751d30683ec8546f3a06bd3e517526c873550bf7fd299399004c31",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "devanagari",
+        "from_sha256": "f4a3722aa04765249c576b548dfe1021336c77d3ec8da37948165267611fe8df",
+        "roundtrip_verified": true,
+        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+      }
+    }
+  ]
+}
