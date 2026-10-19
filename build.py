@@ -5,6 +5,8 @@ from html import escape as e
 ROOT=Path(__file__).resolve().parent
 songs=json.loads((ROOT/'data/songs.json').read_text())
 assert len({s['slug'] for s in songs})==len(songs),'Duplicate slug'
+from source_audit import badge as audit_badge, render as render_audit, validate as validate_audit
+validate_audit(songs)
 UI={
 'kn':dict(brand='ಭಕ್ತಿ',family='ಕುಟುಂಬದ ಭಕ್ತಿ ಸಂಗ್ರಹ',footer='ನಮ್ಮ ಸಂಗ್ರಹ. ನಮ್ಮ ಸಂಪ್ರದಾಯ.',footer_note='ಶ್ಲೋಕಗಳು ಮತ್ತು ಭಜನೆಗಳು — ಓದಿ, ಪಠಿಸಿ, ಹಂಚಿಕೊಳ್ಳಿ.',back='← ಸಂಗ್ರಹಕ್ಕೆ ಹಿಂತಿರುಗಿ',smaller='ಅ−',larger='ಅ+',print='ಮುದ್ರಿಸಿ / ಉಳಿಸಿ',share='ಹಂಚಿಕೊಳ್ಳಿ ↗',source='ಮೂಲ ಮತ್ತು ಪರಿಶೀಲನೆ',scan='ಮೂಲ ಪುಟ',fullsize='ಪೂರ್ಣ ಗಾತ್ರಕ್ಕೆ ಚಿತ್ರವನ್ನು ತಟ್ಟಿ.',download='ಈ ಪುಟವನ್ನು ಇಳಿಸಿ ↓',references='ಪಠ್ಯ ಪರಿಶೀಲನೆಗೆ ಆಧಾರಗಳು',choose='ಲಿಪಿ ಆಯ್ಕೆ / Choose script',sections='ಭಾಗಕ್ಕೆ ಹೋಗಿ',count='ಪಠ್ಯಗಳು'),
 'en':dict(brand='Bhakti',family='A family songbook',footer='A little collection. A lasting tradition.',footer_note='Shlokas & bhajans — read, chant, and share.',back='← Back to the collection',smaller='A−',larger='A+',print='Print / Save PDF',share='Share link ↗',source='Sources & text notes',scan='Original page',fullsize='Tap the image to open it at full size.',download='Download this page ↓',references='Text comparison sources',choose='Choose script / ಲಿಪಿ ಆಯ್ಕೆ',sections='Jump to a section',count='entries')}
@@ -52,10 +54,10 @@ def home(ui,collection=None):
  recording=''
  if collection=='navaratri':
   from navaratri import render as render_recording
-  recording=render_recording(ui,prefix,songs,render_chapter)
+  recording=render_recording(ui,prefix,songs,render_chapter)+'<p class="chant-link"><a href="'+prefix+('en/' if en else '')+'durga-saptashloki/">'+('▶ Durga Saptashloki — Guruji chant-along' if en else '▶ ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕಿ — ಗುರುಗಳ ಪಠಣ')+'</a></p>'
  body=f'''{toggle}{category_links}<section class="intro"><span class="eyebrow">{'OUR COLLECTION' if en else 'ನಮ್ಮ ಸಂಗ್ರಹ'}</span><h1>{title}</h1><p>{intro}</p></section>{recording}
 <section aria-label="Song collection"><div class="collection-heading"><h2>{'The songbook' if en else 'ಭಕ್ತಿ ಸಂಗ್ರಹ'}</h2><span>{len(selected)} {u['count']}</span></div><label class="search-label" for="search">{'Find a shloka or bhajan' if en else 'ಶ್ಲೋಕ ಅಥವಾ ಭಜನೆ ಹುಡುಕಿ'}</label><input id="search" type="search" placeholder="{'Search by Kannada or Roman title…' if en else 'ಕನ್ನಡ ಅಥವಾ ರೋಮನ್ ಹೆಸರಿನಿಂದ ಹುಡುಕಿ…'}" autocomplete="off"><div class="cards">{''.join(cards)}</div>{('<p class="category-empty">'+('No entries in this category yet.' if en else 'ಈ ವಿಭಾಗದಲ್ಲಿ ಇನ್ನೂ ಪಠ್ಯಗಳಿಲ್ಲ.')+'</p>') if not selected else ''}<p id="empty" hidden>{'No matches. Try another title.' if en else 'ಪಠ್ಯ ಸಿಗಲಿಲ್ಲ. ಬೇರೊಂದು ಹೆಸರು ಹುಡುಕಿ.'}</p></section>
-<aside class="collection-note">{'A growing collection. Each entry has its own link to bookmark or share. Choose a script on the new multilingual entries.' if en else 'ಇದು ಬೆಳೆಯುವ ಸಂಗ್ರಹ. ಪ್ರತಿಯೊಂದಕ್ಕೂ ತನ್ನದೇ ಲಿಂಕ್ ಇದೆ. ಬಹುಲಿಪಿಯ ಪಠ್ಯಗಳಲ್ಲಿ ನಿಮಗೆ ಬೇಕಾದ ಲಿಪಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.'}</aside>'''
+<p class="source-check"><a href="{prefix}{'en/' if en else ''}source-checks/">{'Sringeri source checks — results & differences' if en else 'ಶೃಂಗೇರಿ ಮೂಲಪಾಠ ಪರಿಶೀಲನೆಯ ಫಲಿತಾಂಶಗಳು'} ↗</a></p><aside class="collection-note">{'A growing collection. Each entry has its own link to bookmark or share. Choose a script on the new multilingual entries.' if en else 'ಇದು ಬೆಳೆಯುವ ಸಂಗ್ರಹ. ಪ್ರತಿಯೊಂದಕ್ಕೂ ತನ್ನದೇ ಲಿಂಕ್ ಇದೆ. ಬಹುಲಿಪಿಯ ಪಠ್ಯಗಳಲ್ಲಿ ನಿಮಗೆ ಬೇಕಾದ ಲಿಪಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.'}</aside>'''
  p=ROOT/('en' if en else '')/(collection or '')/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
  p.write_text(shell('A family songbook' if en else 'ಕುಟುಂಬದ ಭಕ್ತಿ ಸಂಗ್ರಹ','Shlokas and bhajans in one growing family collection.' if en else 'ಶ್ಲೋಕ ಮತ್ತು ಭಜನೆಗಳ ಕುಟುಂಬ ಸಂಗ್ರಹ.',body,prefix,'en' if en else 'kn',ui))
 
@@ -159,12 +161,30 @@ def render_multiscript(s):
   notation=svara_html(s,v,prefix)
   sequence=paduka_sequence(s,ui,prefix,vid)
   reading_notice=('<aside class="reading-notice" role="note">'+e(v['reading_notice'])+'</aside>') if v.get('reading_notice') else ''
+  source_check=audit_badge(s,ui,prefix)
+  chant_link=('<p class="chant-link"><a href="'+prefix+('en/' if ui=='en' else '')+'durga-saptashloki/">'+('▶ Chant along with Guruji — synchronized reading' if ui=='en' else '▶ ಗುರುಗಳ ಪಠಣದೊಂದಿಗೆ ಶ್ಲೋಕಗಳನ್ನು ಅನುಸರಿಸಿ')+'</a></p>') if s['slug']=='durga-saptashloki' else ''
   original=''
   if s.get('preserve_original_transcription'):
    original='<details class="original-transcription"><summary>'+('ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ' if ui=='kn' else 'Original family-book Kannada transcription')+'</summary><div class="lyrics kn" lang="kn">'+''.join(f'<div class="source-name"><span class="verse-number">{i:02}</span><p>{"<br>".join(e(x) for x in lines)}</p></div>' for i,lines in enumerate(s['verses'],1))+'</div></details>'
-  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav>{work_tags(s,ui,prefix)}<section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{reading_notice}{notation}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article>{sequence}<section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
+  if v.get('family_archive'):
+   archived=json.loads((ROOT/v['family_archive']).read_text())
+   previous=next(w for w in archived['versions'] if w['id']==vid)
+   archive_html=''.join(render_chapter(c) for c in previous['chapters'])
+   archive_html=re.sub(r'id="([^"]+)"',r'id="family-\1"',archive_html)
+   original+='<details class="previous-edition"><summary>'+('ಹಿಂದಿನ ಕುಟುಂಬದ / ಪ್ರಕಟಿತ ಪಾಠ — ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ' if ui=='kn' else 'Previous family / published edition — preserved separately')+'</summary><p>'+('ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಪಾಠವಾಗಿದೆ.' if ui=='kn' else 'The main chanting text above follows Sringeri. This is the previous edition, not merged into that text.')+'</p><div class="lyrics multilingual '+vid+'" lang="'+v['lang']+'">'+archive_html+'</div></details>'
+  body=f'''<nav class="back"><a href="{prefix}{'en/' if ui=='en' else ''}">{u['back']}</a></nav>{work_tags(s,ui,prefix)}<section class="song-heading"><span class="eyebrow">{e(localized(s,'category',ui))} / {e(v['label'])}</span><h1>{e(v['title'])}</h1><p>{e(localized(s,'description',ui))}</p></section><div class="script-label">{u['choose']}</div>{nav}{source_check}{chant_link}{reading_notice}{notation}{toc}{toolbar(ui)}<article class="lyrics multilingual {vid}" lang="{v['lang']}" aria-label="Prayer text">{''.join(render_chapter(c) for c in v['chapters'])}</article>{sequence}<section class="source"><h2>{u['source']}</h2><p>{e(localized(s,'note',ui))}</p>{refs_html(v['references']+s.get('references',[]),ui)}{original}{scan_html(s,ui,prefix)}</section>'''
   p=ROOT/'songs'/s['slug']/('' if not deep else vid)/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(shell(v['title'],localized(s,'description',ui),body,prefix,v['lang'],ui))
 
+for ui in ['kn','en']:
+ prefix='../../' if ui=='en' else '../'
+ title,body=render_audit(ui,prefix)
+ p=ROOT/('en' if ui=='en' else '')/'source-checks'/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
+ p.write_text(shell(title,title,body,prefix,ui,ui))
+ from navaratri import render as render_recording
+ r=json.loads((ROOT/'data/durga-recording.json').read_text())
+ body='<nav class="back"><a href="'+prefix+('en/' if ui=='en' else '')+'navaratri/">← Navaratri</a></nav>'+render_recording(ui,prefix,songs,render_chapter,recording=r)
+ p=ROOT/('en' if ui=='en' else '')/'durga-saptashloki'/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
+ p.write_text(shell(r['heading_en'] if ui=='en' else r['heading'],'Durga Saptashloki — official Sringeri recording with synchronized reading.',body,prefix,ui,ui))
 home('kn');home('en')
 for collection in FILTERS:
  home('kn',collection);home('en',collection)

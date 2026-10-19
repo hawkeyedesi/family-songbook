@@ -109,5 +109,7 @@ for slug,nums in [('hanuman-chalisa',[4,3]),('mahalakshmi-ashtakam',[5]),('amma-
  s['scans']=list(dict.fromkeys(s.get('scans',[])+[f'paduka-family-{n:02}.jpg' for n in nums]))
 order=['durga-saptashloki','om-jai-jagdish-hare','hanuman-chalisa','mahalakshmi-ashtakam','amma-baaramma','sharade-sharade','dehi-dehi-sharada','guru-bhakti-gurvashtakam','jagadguru-pancharatnamala','shankara-guru']
 for i,slug in enumerate(order,1):by[slug].setdefault('collection_order',{})['paduka-puja-bhajans']=i
+by['durga-saptashloki']['collections']=list(dict.fromkeys(by['durga-saptashloki']['collections']+['daily']))
+by['durga-saptashloki']['tags']=list(dict.fromkeys(by['durga-saptashloki'].get('tags',[])+['navaratri']))
 (ROOT/'data/songs.json').write_text(json.dumps(songs,ensure_ascii=False,indent=2)+'\n')
 print('Imported7new works; reused3existing works; PadukaPuja10distinct entries in supplied batch order.')

@@ -311,7 +311,7 @@
         "ಯೇ ತತ್ಪಠಂತಿ ಮನುಜಾ ಹರಿಭಕ್ತಿಯುಕ್ತಾ-ಸ್ತೇ ಯಾಂತಿ ತತ್ಪದಸರೋಜಮಖಂಡರೂಪಮ್"
       ]
     ],
-    "note": "ಹಂಚಿದ ಸ್ತೋತ್ರನಿಧಿ ಮೂಲದ ೨೫ ಶ್ಲೋಕಗಳ ಪೂರ್ಣ ಪಾಠವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಕುಟುಂಬದ ಪುಸ್ತಕದ ೧೭ ಶ್ಲೋಕಗಳ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ವೈದಿಕ ವಿಜ್ಞಾನ — ಕನ್ನಡ ಪಠ್ಯ",
@@ -329,7 +329,7 @@
     "versions_file": "texts/lakshmi-nrisimha-karavalamba.json",
     "family_note_original": "ಪುಸ್ತಕದಲ್ಲಿರುವ ೧೭ ಶ್ಲೋಕಗಳ ಪಾಠ. ಕೊನೆಯ ಎರಡು ಶ್ಲೋಕಗಳು ೧೪೮ನೇ ಪುಟದ ಎಡಭಾಗದಲ್ಲಿವೆ. ಪುಸ್ತಕದ ಕನ್ನಡ ಭಾವಾರ್ಥವನ್ನು ಇಲ್ಲಿ ಮರುಬರೆದಿಲ್ಲ; ಮೂಲ ಚಿತ್ರದಲ್ಲಿ ಓದಬಹುದು. ಎಂಟನೇ ಶ್ಲೋಕದಲ್ಲಿ ಪುಸ್ತಕದಲ್ಲಿರುವ “ಪತತೋ ದಯಾಳೋ” ಪಾಠವನ್ನೇ ಉಳಿಸಲಾಗಿದೆ.",
     "family_note_original_en": "",
-    "note_en": "The shared Stotra Nidhi link has a 25-verse edition, provided here in all three scripts. Dad’s original 17-verse Kannada book reading and scans are preserved separately below; the editions are not silently blended. Source pipe punctuation is displayed as danda marks.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "collections": [
       "weekly",
       "friday"
@@ -338,7 +338,7 @@
       "weekly": 0,
       "friday": 0
     },
-    "published_edition": "stotra-nidhi-25",
+    "published_edition": true,
     "preserve_original_transcription": true
   },
   {
@@ -584,7 +584,7 @@
         "ಶರಣ್ಯೋ ಲೋಕೇಶೋ ಮಮ ಭವತು ಕೃಷ್ಣೋಽಕ್ಷಿವಿಷಯಃ"
       ]
     ],
-    "note": "ಕಳುಹಿಸಿದ ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿ ಮೊದಲ ಎರಡು ಶ್ಲೋಕಗಳು ಮಾತ್ರ ಇವೆ. ಅವುಗಳನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಪೂರ್ಣ ಪಾರಾಯಣಕ್ಕಾಗಿ ಉಳಿದ ಆರು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಇದೇ ಕೃಷ್ಣಾಷ್ಟಕದ ಕನ್ನಡ ಪಠ್ಯದಿಂದ ಸೇರಿಸಲಾಗಿದೆ. ಕನ್ನಡದ ಕುಟುಂಬದ ಪಾಠವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದೇ ಪಾಠವನ್ನು ದೇವನಾಗರಿ ಮತ್ತು ರೋಮನ್ ಲಿಪಿಗಳಲ್ಲೂ ನೀಡಲಾಗಿದೆ; ಇವು ಅರ್ಥಾನುವಾದಗಳಲ್ಲ. ಹೊಸ ಲಿಪಿಗಳಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಕೃತ ವರ್ಣರೂಪಗಳನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಶಂಕರಾಚಾರ್ಯರ ಕೃಷ್ಣಾಷ್ಟಕ",
@@ -598,11 +598,13 @@
     "versions_file": "texts/krishna-ashtakam.json",
     "family_note_original": "ಕಳುಹಿಸಿದ ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿ ಮೊದಲ ಎರಡು ಶ್ಲೋಕಗಳು ಮಾತ್ರ ಇವೆ. ಅವುಗಳನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ. ಪೂರ್ಣ ಪಾರಾಯಣಕ್ಕಾಗಿ ಉಳಿದ ಆರು ಶ್ಲೋಕಗಳನ್ನು ಸ್ತೋತ್ರನಿಧಿಯ ಇದೇ ಕೃಷ್ಣಾಷ್ಟಕದ ಕನ್ನಡ ಪಠ್ಯದಿಂದ ಸೇರಿಸಲಾಗಿದೆ.",
     "family_note_original_en": "",
-    "note_en": "The family Kannada reading is preserved exactly. Devanagari and Roman are script renderings of that same reading, not translations or substituted editions. Standard Sanskrit letter forms are used where regional Kannada spelling differs. Original scans and comparison sources remain below.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "collections": [
       "daily"
     ],
-    "collection_order": {}
+    "collection_order": {},
+    "published_edition": true,
+    "preserve_original_transcription": true
   },
   {
     "slug": "surya-kavacham",
@@ -1001,7 +1003,7 @@
         "ಓಂ ಭುವನೇಶ್ವರ್ಯೈ ನಮಃ ।"
       ]
     ],
-    "note": "ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಒಂದೇ ಪ್ರಕಟಿತ ೧೦೮ ನಾಮಗಳ ಪಾಠವನ್ನು ನೀಡಲಾಗಿದೆ. ಪುಸ್ತಕದ ಕೆಲವು ಹೆಸರುಗಳಿಗೆ ಪಾಠಭೇದಗಳಿವೆ. ಕುಟುಂಬದ ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಎರಡೂ ಚಿತ್ರಗಳನ್ನು ಕೆಳಗೆ ಉಳಿಸಲಾಗಿದೆ.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
     "references": [
       {
         "label": "ಸ್ತೋತ್ರನಿಧಿ — ಲಕ್ಷ್ಮೀ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
@@ -1017,14 +1019,15 @@
     "description_en": "The 108 names of Lakshmi, in three scripts.",
     "language_en": "Kannada · Sanskrit · Roman",
     "versions_file": "texts/lakshmi-ashtottara-shatanamavali.json",
-    "note_en": "The three scripts use one matched published 108-name edition. A few names differ from the family book. Its original Kannada transcription and both scans are preserved below.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "preserve_original_transcription": true,
     "collections": [
       "friday"
     ],
     "collection_order": {
       "friday": 1
-    }
+    },
+    "published_edition": true
   },
   {
     "slug": "daily-puja-mantras",
@@ -1147,7 +1150,8 @@
     "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
     "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.",
     "collections": [
-      "daily"
+      "daily",
+      "weekly"
     ],
     "collection_order": {}
   },
@@ -1172,7 +1176,8 @@
     "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
     "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.",
     "collections": [
-      "daily"
+      "daily",
+      "weekly"
     ],
     "collection_order": {},
     "vedic": true,
@@ -1199,7 +1204,8 @@
     "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
     "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.",
     "collections": [
-      "daily"
+      "daily",
+      "weekly"
     ],
     "collection_order": {},
     "vedic": true,
@@ -1227,14 +1233,15 @@
     "description": "ಆನಂದಲಹರೀ ಮತ್ತು ಸೌಂದರ್ಯಲಹರಿಯ ನೂರು ಮುಖ್ಯ ಶ್ಲೋಕಗಳು; ಅನುಬಂಧ ಪ್ರತ್ಯೇಕವಾಗಿ.",
     "description_en": "The 100 principal verses, with Ananda Lahari and clearly separated supplementary verses.",
     "versions_file": "texts/soundarya-lahari.json",
-    "note": "ಒಂದೇ ಸಂಸ್ಕೃತ ಪಠ್ಯದ ಮೂರು ಲಿಪಿಗಳು. ರೋಮನ್ ಪಠ್ಯವು ಉಚ್ಚಾರಣೆಗಾಗಿ; ಇಂಗ್ಲಿಷ್ ಅರ್ಥಾನುವಾದವಲ್ಲ. ಪ್ರಕಟಿತ ಮೂಲದಲ್ಲಿರುವ ಪಾಠಭೇದಗಳು ಮತ್ತು ವೇದಸ್ವರ ಗುರುತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
-    "note_en": "Three scripts of the same Sanskrit text. Roman text is for pronunciation, not an English translation. Published variants and Vedic accent marks are retained.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "collections": [
       "weekly"
     ],
     "collection_order": {
       "weekly": 1
-    }
+    },
+    "published_edition": true
   },
   {
     "slug": "kalabhairava-ashtakam",
@@ -1248,8 +1255,8 @@
     "description": "ಕಾಲಭೈರವನ ಎಂಟು ಶ್ಲೋಕಗಳು ಮತ್ತು ಫಲಶ್ರುತಿ.",
     "description_en": "The eight verses to Kalabhairava, with phalashruti.",
     "versions_file": "texts/kalabhairava-ashtakam.json",
-    "note": "ಒಂದೇ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ. ಮೂಲದ ಪಾಠಭೇದಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ.",
-    "note_en": "The same published text in three scripts. Roman text is pronunciation transliteration, not translated meaning. Source variants are retained.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "references": [
       {
         "label": "Stotra Nidhi — comparison edition (Kannada)",
@@ -1261,7 +1268,8 @@
     ],
     "collection_order": {
       "friday": 11
-    }
+    },
+    "published_edition": true
   },
   {
     "slug": "hanuman-chalisa",
@@ -1367,8 +1375,8 @@
     "description": "ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತ ಅಷ್ಟಕಮ್ — ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ.",
     "description_en": "Sharada Bhujanga Prayata Ashtakam — in three scripts.",
     "versions_file": "texts/sharada-bhujanga-ashtakam.json",
-    "note": "ಪ್ರಕಟಿತ ಮೂಲದ ಪಠ್ಯವನ್ನು ಮೂರು ಲಿಪಿಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯು ಪಠಣಕ್ಕಾಗಿ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
-    "note_en": "One published edition in three scripts. Roman text is for pronunciation, not an English translation. Textual variants are retained. The comparison edition has variants in verses 3 and 5; the reading follows Vaidika Vignanam consistently.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "references": [
       {
         "label": "Sanskrit Documents — comparison edition",
@@ -1380,7 +1388,8 @@
     ],
     "collection_order": {
       "friday": 5
-    }
+    },
+    "published_edition": true
   },
   {
     "slug": "mahishasura-mardini",
@@ -1551,7 +1560,8 @@
   {
     "slug": "durga-saptashloki",
     "collections": [
-      "paduka-puja-bhajans"
+      "paduka-puja-bhajans",
+      "daily"
     ],
     "title": "ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕೀ",
     "title_en": "Durga Saptashloki",
@@ -1566,11 +1576,15 @@
     "scans": [
       "paduka-family-01.jpg"
     ],
-    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
-    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. ",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "collection_order": {
       "paduka-puja-bhajans": 1
-    }
+    },
+    "tags": [
+      "navaratri"
+    ],
+    "published_edition": true
   },
   {
     "slug": "om-jai-jagdish-hare",
@@ -1663,11 +1677,12 @@
       "paduka-family-09.jpg",
       "paduka-family-08.jpg"
     ],
-    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪಾಠ ಮತ್ತು ಕ್ರಮವನ್ನು ಉಳಿಸಲಾಗಿದೆ. ಕನ್ನಡ ಮತ್ತು ದೇವನಾಗರಿ ಲಿಪಿಗಳು ಹಾಗೂ ರೋಮನ್ ಉಚ್ಚಾರಣಾ ಪಾಠ; ಅರ್ಥಾನುವಾದವಲ್ಲ.",
-    "note_en": "Family-book reading and song order. Kannada/Devanagari are script renderings; Roman is pronunciation text, not an English meaning translation. The family book includes an additional Anarghyani verse as stanza9, then the phalashruti as10; this extended family order is preserved. The refrain is the book’s sung order, not silently replaced by the alternate published order.",
+    "note": "ಮುಖ್ಯ ಪಾರಾಯಣ ಪಾಠವು ಶೃಂಗೇರಿ ಶಾರದಾಪೀಠದ ಪ್ರಕಟಿತ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಕುಟುಂಬದ ಹಿಂದಿನ ಪಾಠ ಮತ್ತು ಮೂಲ ಚಿತ್ರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ.",
+    "note_en": "Primary chanting text follows the reading displayed by Sringeri Sharada Peetham, the family’s chosen authority. Kannada, Devanagari and Roman show the same source edition; the previous reading and family scans are retained below. Source-page inconsistencies are documented in the source check.",
     "collection_order": {
       "paduka-puja-bhajans": 8
-    }
+    },
+    "published_edition": true
   },
   {
     "slug": "jagadguru-pancharatnamala",

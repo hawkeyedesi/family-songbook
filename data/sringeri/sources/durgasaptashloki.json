@@ -1,0 +1,279 @@
+{
+  "url": "https://www.sringeri.net/stotras/devistotrani/durgasaptashloki",
+  "retrieved": "2026-10-19",
+  "stotra": {
+    "id": "wGNFjMwZyn6qIV518AWy",
+    "url": "durgasaptashloki",
+    "audioPath": "https://audiomack.com//embed/sringeri/song/durga-saptashloki-37jg",
+    "title": [
+      {
+        "value": "दुर्गासप्तश्लोकी",
+        "lang": "sa"
+      },
+      {
+        "lang": "ta",
+        "value": ""
+      },
+      {
+        "value": "",
+        "lang": "kn"
+      },
+      {
+        "lang": "te",
+        "value": ""
+      },
+      {
+        "value": "",
+        "lang": "gj"
+      },
+      {
+        "value": "durgāsaptaślokī",
+        "lang": "en"
+      }
+    ],
+    "orderId": 18,
+    "totalShlokas": 7
+  },
+  "shlokas": [
+    {
+      "id": "YdD0qLdGNzIXzBmxVEUL",
+      "orderId": 0,
+      "title": [
+        {
+          "lang": "sa",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": ""
+        },
+        {
+          "lang": "te",
+          "value": ""
+        },
+        {
+          "lang": "gj",
+          "value": ""
+        },
+        {
+          "lang": "en",
+          "value": "mama śrīdurgāparameśvarīprasādena cintitasakalamanorathasiddhyartham, āyurvidyāyaśobalavṛddhyartham, sarvāriṣṭaparihāradvārā samastamaṅgalāvāptyartham, viśeṣataḥ asmin bhāratadeśe paridṛśyamānaparasparavidveṣa–hiṃsā–nindādīnāṃ nivṛttidvārā dharmaśraddhālūnāṃ sakalaśreyo'bhivṛddhyartham, etaddeśarājyaparipālakānāṃ dharme śraddhābhivṛddhyartham, dhanadhānyādisakalasampatsamṛddhyartham śrīdurgāsaptaślokīpārāyaṇaṃ kariṣye ।"
+        }
+      ]
+    },
+    {
+      "id": "AjYskP1vUwHCjX3Ud5aU",
+      "orderId": 1,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "ज्ञानिनामपि चेतांसि देवी भगवती हि सा ।\nबलादाकृष्य मोहाय महामाया प्रयच्छति ॥१॥"
+        },
+        {
+          "lang": "ta",
+          "value": ""
+        },
+        {
+          "lang": "kn",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "te"
+        },
+        {
+          "value": "",
+          "lang": "gj"
+        },
+        {
+          "value": "jñānināmapi cetāṃsi devī bhagavatī hi sā ।\nbalādākṛṣya mohāya mahāmāyā prayacchati ॥ 1 ॥",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "LFKVMytgzuwoNHKYQ4o4",
+      "title": [
+        {
+          "value": "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः\nस्वस्थैः स्मृता मतिमतीव शुभां ददासि ।\nदारिद्रयदुःख-भयहारिणि का त्वदन्या\nसर्वोपकार-करणाय सदार्द्रचित्ता ॥२॥",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "durge smṛtā harasi bhītimaśeṣajantoḥ\nsvasthaiḥ smṛtā matimatīva śubhāṃ dadāsi ।\ndāridryaduḥkhabhayahāriṇi kā tvadanyā\nsarvopakārakaraṇāya sadārdracittā ॥ 2 ॥"
+        }
+      ],
+      "orderId": 2
+    },
+    {
+      "id": "QlITZIdLgJrEJX1k5V5N",
+      "orderId": 3,
+      "title": [
+        {
+          "value": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥३॥",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": ""
+        },
+        {
+          "lang": "gj",
+          "value": ""
+        },
+        {
+          "value": "sarvamaṅgalamāṅgalye śive sarvārthasādhike ।\nśaraṇye tryambake gauri nārāyaṇi namo'stu te ॥ 3 ॥",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "ykty72zcp86Td9JNY4pM",
+      "title": [
+        {
+          "value": "शरणागतदीनार्तपरित्राणपरायणे ।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते ॥४॥",
+          "lang": "sa"
+        },
+        {
+          "value": "",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "te"
+        },
+        {
+          "value": "",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "śaraṇāgatadīnārtaparitrāṇaparāyaṇe ।\nsarvasyārtihare devi nārāyaṇi namo'stu te ॥ 4 ॥"
+        }
+      ],
+      "orderId": 4
+    },
+    {
+      "id": "NO1oEsUcJMCh6SbyL4c0",
+      "title": [
+        {
+          "value": "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते ।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते ॥५॥",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": ""
+        },
+        {
+          "lang": "kn",
+          "value": ""
+        },
+        {
+          "lang": "te",
+          "value": ""
+        },
+        {
+          "lang": "gj",
+          "value": ""
+        },
+        {
+          "lang": "en",
+          "value": "sarvasvarūpe sarveśe sarvaśaktisamanvite ।\nbhayebhyastrāhi no devi durge devi namo'stu te ॥ 5 ॥"
+        }
+      ],
+      "orderId": 5
+    },
+    {
+      "id": "Of28Qk6r4AhyQ6UF3B8B",
+      "title": [
+        {
+          "value": "रोगानशेषान्-अपहंसि तुष्टा रुष्टा तु कामान् सकलानभीष्टान् ।\nत्वामाश्रितानां न विपन्नराणां त्वामाश्रिता हि आश्रयतां प्रयान्ति ॥६॥",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": ""
+        },
+        {
+          "lang": "kn",
+          "value": ""
+        },
+        {
+          "lang": "te",
+          "value": ""
+        },
+        {
+          "value": "",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "rogānaśeṣānapahaṃsi tuṣṭā\nruṣṭā tu kāmān sakalānabhīṣṭān ।\ntvāmāśritānāṃ na vipannarāṇāṃ\ntvāmāśritā hyāśrayatāṃ prayānti ॥ 6 ॥"
+        }
+      ],
+      "orderId": 6
+    },
+    {
+      "id": "JFbHDbhBtG1DVK2pemp2",
+      "title": [
+        {
+          "value": "सर्वाबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि ।\nएवमेव त्वया कार्यम् अस्मद्वैरि-विनाशनम् ॥७॥",
+          "lang": "sa"
+        },
+        {
+          "value": "",
+          "lang": "ta"
+        },
+        {
+          "value": "",
+          "lang": "kn"
+        },
+        {
+          "value": "",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": ""
+        },
+        {
+          "lang": "en",
+          "value": "sarvābādhāpraśamanaṃ trailokyasyākhileśvari ।\nevameva tvayā kāryamasmadvairivināśanam ॥ 7 ॥"
+        }
+      ],
+      "orderId": 7
+    }
+  ]
+}

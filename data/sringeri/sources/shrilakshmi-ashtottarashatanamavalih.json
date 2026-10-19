@@ -1,0 +1,3338 @@
+{
+  "url": "https://www.sringeri.net/stotras/devistotrani/shrilakshmi-ashtottarashatanamavalih",
+  "retrieved": "2026-10-19",
+  "stotra": {
+    "id": "yBW9RLYcSTrzmvQOi2n4",
+    "orderId": 17,
+    "url": "shrilakshmi-ashtottarashatanamavalih",
+    "title": [
+      {
+        "value": "श्रीलक्ष्मी-अष्टोत्तरशतनामावलिः",
+        "lang": "sa"
+      },
+      {
+        "lang": "ta",
+        "value": "ஶ்ரீலக்ஷ்மீ-அஷ்டோத்தரஶதநாமாவலி"
+      },
+      {
+        "value": "ಶ್ರೀಲಕ್ಷ್ಮೀ-ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಲಿಃ",
+        "lang": "kn"
+      },
+      {
+        "lang": "te",
+        "value": "శ్రీలక్ష్మీ-అష్టోత్తరశతనామావలిః"
+      },
+      {
+        "lang": "gj",
+        "value": "શ્રીલક્ષ્મી-અષ્ટોત્તરશતનામાવલિઃ"
+      },
+      {
+        "value": "śrīlakṣmī-aṣṭottaraśatanāmāvaliḥ",
+        "lang": "en"
+      }
+    ],
+    "totalShlokas": 109
+  },
+  "shlokas": [
+    {
+      "id": "3Ct9Qb5MviORaD6S5uAw",
+      "title": [
+        {
+          "value": "प्रकृत्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ப்ரக்ரு₁த்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪ್ರಕೃತ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "ప్రకృత్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "પ્રકૃત્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "prakṛtyai namaḥ"
+        }
+      ],
+      "orderId": 1
+    },
+    {
+      "id": "u5f74TePvyQrSPYDyhmo",
+      "orderId": 2,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विकृत्यै नमः"
+        },
+        {
+          "value": "விக்ரு₁த்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಿಕೃತ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "వికృత్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "વિકૃત્યૈ નમઃ"
+        },
+        {
+          "value": "vikṛtyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "u0Pnugt81op4U7WS5UH8",
+      "orderId": 3,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विद्यायै नमः"
+        },
+        {
+          "value": "வித்₃யாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಿದ್ಯಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "విద్యాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "વિદ્યાયૈ નમઃ"
+        },
+        {
+          "value": "vidyāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "gPG3ybL4hTGKViSuStSu",
+      "orderId": 4,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "सर्वभूतहितप्रदायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஸர்வபூ₄தஹிதப்ரதா₃யை நம:"
+        },
+        {
+          "value": "ಸರ್ವಭೂತಹಿತಪ್ರದಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "సర్వభూతహితప్రదాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "સર્વભૂતહિતપ્રદાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "sarvabhūtahitapradāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "wtm3ufc3qQswEDZHndix",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "श्रद्धायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஶ்ரத்₃தா₄யை நம:"
+        },
+        {
+          "value": "ಶ್ರದ್ಧಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "శ్రద్ధాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "શ્રદ્ધાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "śraddhāyai namaḥ"
+        }
+      ],
+      "orderId": 5
+    },
+    {
+      "id": "2t3AZr3GFwr1m9gJnf0m",
+      "orderId": 6,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विभूत्यै नमः"
+        },
+        {
+          "value": "விபூ₄த்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ವಿಭೂತ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "విభూత్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "વિભૂત્યૈ નમઃ"
+        },
+        {
+          "value": "vibhūtyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "LoKAhEHlF1Q9qnmhkZtc",
+      "orderId": 7,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "सुरभ्यै नमः"
+        },
+        {
+          "value": "ஸுரப்₄யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಸುರಭ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "సురభ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "સુરભ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "surabhyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "C4NLmhMQyCeeg2dgomER",
+      "orderId": 8,
+      "title": [
+        {
+          "value": "परमात्मिकायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பரமாத்மிகாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಪರಮಾತ್ಮಿಕಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "పరమాత్మికాయై నమః"
+        },
+        {
+          "value": "પરમાત્મિકાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "paramātmikāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "5iR3MRwyNUzJH4oCcyee",
+      "title": [
+        {
+          "value": "वाचे नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "வாசே நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ವಾಚೇ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "వాచే నమః"
+        },
+        {
+          "value": "વાચે નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "vāce namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 9
+    },
+    {
+      "id": "5jMZ6dbv7Fgq28DGj3Zb",
+      "orderId": 10,
+      "title": [
+        {
+          "value": "पद्मालयायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மாலயாயை நம:"
+        },
+        {
+          "value": "ಪದ್ಮಾಲಯಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మాలయాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્માલયાયૈ નમઃ"
+        },
+        {
+          "value": "padmālayāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "maScWSnUByaBTZDm0zar",
+      "orderId": 11,
+      "title": [
+        {
+          "value": "पद्मायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மாயை நம:"
+        },
+        {
+          "value": "ಪದ್ಮಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્માયૈ નમઃ"
+        },
+        {
+          "value": "padmāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "3fKUKfwLERPjQxyuowrI",
+      "title": [
+        {
+          "value": "शुचये नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ஶுசயே நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಶುಚಯೇ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "శుచయే నమః"
+        },
+        {
+          "value": "શુચયે નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "śucaye namaḥ"
+        }
+      ],
+      "orderId": 12
+    },
+    {
+      "id": "NyMuYnwVmJYGcfO34h4g",
+      "title": [
+        {
+          "value": "स्वाहायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ஸ்வாஹாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಸ್ವಾಹಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "స్వాహాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "સ્વાહાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "svāhāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 13
+    },
+    {
+      "id": "hLizW8a97j0wkTiFmdXX",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "स्वधायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஸ்வதா₄யை நம:\n"
+        },
+        {
+          "value": "ಸ್ವಧಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "స్వధాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "સ્વધાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "svadhāyai namaḥ"
+        }
+      ],
+      "orderId": 14
+    },
+    {
+      "id": "aRrAAlNu1RZD52i3tJgb",
+      "title": [
+        {
+          "value": "सुधायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ஸுதா₄யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಸುಧಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "సుధాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "સુધાયૈ નમઃ"
+        },
+        {
+          "value": "sudhāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 15
+    },
+    {
+      "id": "ogH5lme8Hdmcz4nAxpXM",
+      "title": [
+        {
+          "value": "धन्यायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "த₄ந்யாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಧನ್ಯಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "ధన్యాయై నమః"
+        },
+        {
+          "value": "ધન્યાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "dhanyāyai namaḥ"
+        }
+      ],
+      "orderId": 16
+    },
+    {
+      "id": "2NlhW2ehoJOJiXd8c1TX",
+      "orderId": 17,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "हिरण्मय्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஹிரண்மய்யை நம:"
+        },
+        {
+          "value": "ಹಿರಣ್ಮಯ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "హిరణ్మయ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "હિરણ્મય્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "hiraṇmayyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "MI0FP13dFEStoEeG2tF6",
+      "orderId": 18,
+      "title": [
+        {
+          "value": "लक्ष्म्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "லக்ஷ்ம்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಲಕ್ಷ್ಮ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "లక్ష్మ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "લક્ષ્મ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "lakṣmyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "z57bbLSTlmnXEN07cTRB",
+      "title": [
+        {
+          "value": "नित्यपुष्टायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "நித்யபுஷ்டாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ನಿತ್ಯಪುಷ್ಟಾಯೈ ನಮಃ\n"
+        },
+        {
+          "value": "నిత్యపుష్టాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "નિત્યપુષ્ટાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "nityapuṣṭāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 19
+    },
+    {
+      "id": "DuWyZVLTUBEqIF39xhNp",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विभावर्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "விபா₄வர்யை நம:"
+        },
+        {
+          "value": "ವಿಭಾವರ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "విభావర్యై నమః\n"
+        },
+        {
+          "value": "વિભાવર્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "vibhāvaryai namaḥ"
+        }
+      ],
+      "orderId": 20
+    },
+    {
+      "id": "8bFDQd5G4CMcmwG84JDD",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "अदित्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "அதி₃த்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಅದಿತ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "అదిత్యై నమః"
+        },
+        {
+          "value": "અદિત્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "adityai namaḥ"
+        }
+      ],
+      "orderId": 21
+    },
+    {
+      "id": "Dnmg8TIAugqYWRzAOMha",
+      "title": [
+        {
+          "value": "दित्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "தி₃த்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ದಿತ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "దిత్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "દિત્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "dityai namaḥ"
+        }
+      ],
+      "orderId": 22
+    },
+    {
+      "id": "FVXZ6tj3RSSGLQGd1WZ1",
+      "orderId": 23,
+      "title": [
+        {
+          "value": "दीप्तायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "தீ₃ப்தாயை நம:"
+        },
+        {
+          "value": "ದೀಪ್ತಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "దీప్తాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "દીપ્તાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "dīptāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "mmIuxDkVrgvSOD2ftZYp",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "वसुधायै नमः"
+        },
+        {
+          "value": "வஸுதா₄யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಸುಧಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "వసుధాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "વસુધાયૈ નમઃ"
+        },
+        {
+          "value": "vasudhāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 24
+    },
+    {
+      "id": "GLemOXpaQSkS3ZlDJtBW",
+      "orderId": 25,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "वसुधारिण्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "வஸுதா₄ரிண்யை நம:"
+        },
+        {
+          "value": "ವಸುಧಾರಿಣ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "వసుధారిణ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "વસુધારિણ્યૈ નમઃ"
+        },
+        {
+          "value": "vasudhāriṇyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "fCCQhHAjfgd06vtjwI6x",
+      "orderId": 26,
+      "title": [
+        {
+          "value": "कमलायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "கமலாயை நம:"
+        },
+        {
+          "value": "ಕಮಲಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "కమలాయై నమః"
+        },
+        {
+          "value": "કમલાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "कमलायै नमः"
+        }
+      ]
+    },
+    {
+      "id": "dsWe3NpuckD9QNdHId25",
+      "title": [
+        {
+          "value": "कान्तायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "காந்தாயை நம:"
+        },
+        {
+          "value": "ಕಾಂತಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "కాంతాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "કાન્તાયૈ નમઃ"
+        },
+        {
+          "value": "kāntāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 27
+    },
+    {
+      "id": "jyewvqWzy3bNJF3Ya6Lk",
+      "orderId": 28,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "कामाक्ष्यै नमः"
+        },
+        {
+          "value": "காமாக்ஷ்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಕಾಮಾಕ್ಷ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "కామాక్ష్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "કામાક્ષ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "kāmākṣyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "2s9awMXLGIJWQwx8Ih4C",
+      "title": [
+        {
+          "value": "क्रोधसम्भवायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "க்ரோத₄ஸம்ப₄வாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಕ್ರೋಧಸಂಭವಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "క్రోధసంభవాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "ક્રોધસમ્ભવાયૈ નમઃ"
+        },
+        {
+          "value": "krodhasambhavāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 29
+    },
+    {
+      "id": "S0AHwmpzA4Ti7hMNM70W",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "अनुग्रहप्रदायै नमः"
+        },
+        {
+          "value": "அநுக்₃ரஹப்ரதா₃யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಅನುಗ್ರಹಪ್ರದಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "అనుగ్రహప్రదాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "અનુગ્રહપ્રદાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "anugrahapradāyai namaḥ"
+        }
+      ],
+      "orderId": 30
+    },
+    {
+      "id": "T5R2xHfQDHB50K8n7jnA",
+      "orderId": 31,
+      "title": [
+        {
+          "value": "बुद्ध्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பு₃த்₃த்₄யை நம:"
+        },
+        {
+          "value": "ಬುದ್ಧ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "బుద్ధ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "બુદ્ધ્યૈ નમઃ"
+        },
+        {
+          "value": "buddhyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "0cGBDn8fVhIwKmnmUXd3",
+      "orderId": 32,
+      "title": [
+        {
+          "value": "अनघायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "அநகா₄யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಅನಘಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "అనఘాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "અનઘાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "anaghāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "GzQdsK2TIXPLQUWYQQkT",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "हरिवल्लभायै नमः"
+        },
+        {
+          "value": "ஹரிவல்லபா₄யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಹರಿವಲ್ಲಭಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "హరివల్లభాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "હરિવલ્લભાયૈ નમઃ"
+        },
+        {
+          "value": "harivallabhāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 33
+    },
+    {
+      "id": "PdoOmvwBuWZfBNZ794Ou",
+      "orderId": 34,
+      "title": [
+        {
+          "value": "अशोकायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "அஶோகாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಅಶೋಕಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "అశోకాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "અશોકાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "aśokāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "hem5qnaCvYXozwTdMkx1",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "अमृतायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "அம்ரு₁தாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಅಮೃತಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "అమృతాయై నమః"
+        },
+        {
+          "value": "અમૃતાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "amṛtāyai namaḥ"
+        }
+      ],
+      "orderId": 35
+    },
+    {
+      "id": "0ASjcLTMnOZpYrfpWrrW",
+      "orderId": 36,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "दीप्तायै नमः"
+        },
+        {
+          "value": "தீ₃ப்தாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ದೀಪ್ತಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "దీప్తాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "દીપ્તાયૈ નમઃ"
+        },
+        {
+          "value": "dīptāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "9PNOHUTGYuMljWKGDnEM",
+      "orderId": 37,
+      "title": [
+        {
+          "value": "लोकशोकविनाशिन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "லோகஶோகவிநாஶிந்யை நம:"
+        },
+        {
+          "value": "ಲೋಕಶೋಕವಿನಾಶಿನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "లోకశోకవినాశిన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "લોકશોકવિનાશિન્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "lokaśokavināśinyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "q1x5ciTMiPvFXccDoK6C",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "धर्मनिलयायै नमः"
+        },
+        {
+          "value": "த₄ர்மநிலயாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಧರ್ಮನಿಲಯಾಯೈ ನಮಃ\n"
+        },
+        {
+          "lang": "te",
+          "value": "ధర్మనిలయాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "ધર્મનિલયાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "dharmanilayāyai namaḥ"
+        }
+      ],
+      "orderId": 38
+    },
+    {
+      "id": "m0BqY3dWH9LhUSdx2l9i",
+      "title": [
+        {
+          "value": "करुणायै नमः\n",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "கருணாயை நம:"
+        },
+        {
+          "value": "ಕರುಣಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "కరుణాయై నమః\n",
+          "lang": "te"
+        },
+        {
+          "value": "કરુણાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "karuṇāyai namaḥ"
+        }
+      ],
+      "orderId": 39
+    },
+    {
+      "id": "pN7hqlGRcmllEVgUR80f",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "लोकमात्रे नमः"
+        },
+        {
+          "value": "லோகமாத்ரே நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಲೋಕಮಾತ್ರೇ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "లోకమాత్రే నమః\n",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "લોકમાત્રે નમઃ\n"
+        },
+        {
+          "value": "lokamātre namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 40
+    },
+    {
+      "id": "JsbGUzT5zyceYcLHeyaq",
+      "orderId": 41,
+      "title": [
+        {
+          "value": "पद्मप्रियायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மப்ரியாயை நம:"
+        },
+        {
+          "value": "ಪದ್ಮಪ್ರಿಯಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పద్మప్రియాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્મપ્રિયાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "padmapriyāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "3i7nmSYHbBstaXINpFy3",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "पद्महस्तायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மஹஸ்தாயை நம:\n"
+        },
+        {
+          "value": "ಪದ್ಮಹಸ್ತಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మహస్తాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્મહસ્તાયૈ નમઃ"
+        },
+        {
+          "value": "padmahastāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 42
+    },
+    {
+      "id": "aopuSlLiYjXmvA74Ufjn",
+      "orderId": 43,
+      "title": [
+        {
+          "value": "पद्माक्ष्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "பத்₃மாக்ஷ்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪದ್ಮಾಕ್ಷ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పద్మాక్ష్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "પદ્માક્ષ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "padmākṣyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "mIWItpMV8CsA8coiyS9i",
+      "orderId": 44,
+      "title": [
+        {
+          "value": "पद्मसुन्दर्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "பத்₃மஸுந்த₃ர்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಪದ್ಮಸುಂದರ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మసుందర్యై నమః"
+        },
+        {
+          "value": "પદ્મસુન્દર્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "padmasundaryai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "HliJrVIeYXRT35StYkzc",
+      "title": [
+        {
+          "value": "पद्मोद्भवायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மோத்₃ப₄வாயை நம:"
+        },
+        {
+          "value": "ಪದ್ಮೋದ್ಭವಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పద్మోద్భవాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્મોદ્ભવાયૈ નમઃ"
+        },
+        {
+          "value": "padmodbhavāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 45
+    },
+    {
+      "id": "kopPfZHiwpdQBe5XBdp8",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "पद्ममुख्यै नमः"
+        },
+        {
+          "value": "பத்₃மமுக்₂யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪದ್ಮಮುಖ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మముఖ్యై నమః"
+        },
+        {
+          "value": "પદ્મમુખ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "padmamukhyai namaḥ"
+        }
+      ],
+      "orderId": 46
+    },
+    {
+      "id": "EpsuvkUV2ItSdnTKxlwL",
+      "orderId": 47,
+      "title": [
+        {
+          "value": "पद्मनाभप्रियायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "பத்₃மநாப₄ப்ரியாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಪದ್ಮನಾಭಪ್ರಿಯಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "పద్మనాభప్రియాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "પદ્મનાભપ્રિયાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "padmanābhapriyāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "St1zBrX51OZWlSON3lPc",
+      "orderId": 48,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "रमायै नमः"
+        },
+        {
+          "value": "ரமாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ರಮಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "రమాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "રમાયૈ નમઃ"
+        },
+        {
+          "value": "ramāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "pRa2IF8zyH754aQIsdAB",
+      "title": [
+        {
+          "value": "पद्ममालाधरायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மமாலாத₄ராயை நம:"
+        },
+        {
+          "value": "ಪದ್ಮಮಾಲಾಧರಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "పద్మమాలాధరాయై నమః"
+        },
+        {
+          "value": "પદ્મમાલાધરાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "padmamālādharāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 49
+    },
+    {
+      "id": "QMIaMNWQY6NeAqFOZksK",
+      "title": [
+        {
+          "value": "देव्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "தே₃வ்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ದೇವ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "దేవ్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "દેવ્યૈ નમઃ"
+        },
+        {
+          "value": "devyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 50
+    },
+    {
+      "id": "INVqN4kVrUpURLCJWdbJ",
+      "title": [
+        {
+          "value": "पद्मिन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பத்₃மிந்யை நம:"
+        },
+        {
+          "value": "ಪದ್ಮಿನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పద్మిన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્મિન્યૈ નમઃ"
+        },
+        {
+          "value": "padminyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 51
+    },
+    {
+      "id": "zuCybB7xd6hFUjKSP9bM",
+      "title": [
+        {
+          "value": "पद्मगन्धिन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "பத்₃மக₃ந்தி₄ந்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪದ್ಮಗಂಧಿನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పద్మగంధిన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પદ્મગન્ધિન્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "padmagandhinyai namaḥ"
+        }
+      ],
+      "orderId": 52
+    },
+    {
+      "id": "H8ehBQ4BXzNUbHzFX8Ct",
+      "title": [
+        {
+          "value": "पुण्यगन्धायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "புண்யக₃ந்தா₄யை நம:"
+        },
+        {
+          "value": "ಪುಣ್ಯಗಂಧಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పుణ్యగంధాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "પુણ્યગન્ધાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "puṇyagandhāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 53
+    },
+    {
+      "id": "4YSJokuRz229MlEz0MM1",
+      "orderId": 54,
+      "title": [
+        {
+          "value": "सुप्रसन्नायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஸுப்ரஸந்நாயை நம:"
+        },
+        {
+          "value": "ಸುಪ್ರಸನ್ನಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "సుప్రసన్నాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "સુપ્રસન્નાયૈ નમઃ"
+        },
+        {
+          "value": "suprasannāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "FTTMbpe59pX9JeAndW8m",
+      "orderId": 55,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "प्रसादाभिमुख्यै नमः"
+        },
+        {
+          "value": "ப்ரஸாதா₃பி₄முக்₂யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪ್ರಸಾದಾಭಿಮುಖ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "ప్రసాదాభిముఖ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પ્રસાદાભિમુખ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "prasādābhimukhyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "uNgVu0afFtmQcdO3BU1f",
+      "title": [
+        {
+          "value": "प्रभायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ப்ரபா₄யை நம:\n"
+        },
+        {
+          "lang": "kn",
+          "value": "ಪ್ರಭಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "ప్రభాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "પ્રભાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "prabhāyai namaḥ"
+        }
+      ],
+      "orderId": 56
+    },
+    {
+      "id": "Tbs5ZqyHkOVNXZVHWe5G",
+      "orderId": 57,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "चन्द्रवदनायै नमः"
+        },
+        {
+          "value": "சந்த்₃ரவத₃நாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಚಂದ್ರವದನಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "చంద్రవదనాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "ચન્દ્રવદનાયૈ નમઃ"
+        },
+        {
+          "value": "candravadanāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "tdrhuQHeV6FSpiPO08Ps",
+      "orderId": 58,
+      "title": [
+        {
+          "value": "चन्द्रायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "சந்த்₃ராயை நம:"
+        },
+        {
+          "value": "ಚಂದ್ರಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "చంద్రాయై నమః"
+        },
+        {
+          "value": "ચન્દ્રાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "candrāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "h95RbeEZ5hThf0kn0qh6",
+      "orderId": 59,
+      "title": [
+        {
+          "value": "चन्द्रसहोदर्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "சந்த்₃ரஸஹோத₃ர்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಚಂದ್ರಸಹೋದರ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "చంద్రసహోదర్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "ચન્દ્રસહોદર્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "candrasahodaryai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "EVyzsVwXby6oyR2gbEhW",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "चतुर्भुजायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "சதுர்பு₄ஜாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಚತುರ್ಭುಜಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "చతుర్భుజాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "ચતુર્ભુજાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "caturbhujāyai namaḥ"
+        }
+      ],
+      "orderId": 60
+    },
+    {
+      "id": "8OvBDQeScnI4uWbxMADh",
+      "orderId": 61,
+      "title": [
+        {
+          "value": "चन्द्ररूपायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "சந்த்₃ரரூபாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಚಂದ್ರರೂಪಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "చంద్రరూపాయై నమః\n",
+          "lang": "te"
+        },
+        {
+          "value": "ચન્દ્રરૂપાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "candrarūpāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "PVwMvvKkIwU9UhDPnxl8",
+      "title": [
+        {
+          "value": "इन्दिरायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "இந்தி₃ராயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಇಂದಿರಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "ఇందిరాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ઇન્દિરાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "indirāyai namaḥ"
+        }
+      ],
+      "orderId": 62
+    },
+    {
+      "id": "pdlKfmAG4cTRiLFN3b1n",
+      "title": [
+        {
+          "value": "इन्दुशीतलायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "இந்து₃ஶீதலாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಇಂದುಶೀತಲಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "ఇందుశీతలాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ઇન્દુશીતલાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "induśītalāyai namaḥ"
+        }
+      ],
+      "orderId": 63
+    },
+    {
+      "id": "Y47HYyw6cV07gPHwWuaF",
+      "title": [
+        {
+          "value": "आह्लादजनन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஆஹ்லாத₃ஜநந்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಆಹ್ಲಾದಜನನ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "ఆహ్లాదజనన్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "આહ્લાદજનન્યૈ નમઃ"
+        },
+        {
+          "value": "āhlādajananyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 64
+    },
+    {
+      "id": "HF8mT0Uuh5N34QSm4lXz",
+      "orderId": 65,
+      "title": [
+        {
+          "value": "पुष्ट्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "புஷ்ட்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪುಷ್ಟ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "పుష్ట్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "પુષ્ટ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "puṣṭyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "68prklwg2qmsNBshY3KG",
+      "orderId": 66,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "शिवायै नमः"
+        },
+        {
+          "value": "ஶிவாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಶಿವಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "శివాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "શિવાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "śivāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "0zFkRe3cz934kCYD9lpX",
+      "orderId": 67,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "शिवकर्यै नमः"
+        },
+        {
+          "value": "ஶிவகர்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಶಿವಕರ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "శివకర్యై నమః"
+        },
+        {
+          "value": "શિવકર્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "śivakaryai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "kqG8CewcBZpdJHLQZPMZ",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "सत्यै नमः"
+        },
+        {
+          "value": "ஸத்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಸತ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "సత్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "સત્યૈ નમઃ"
+        },
+        {
+          "value": "satyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 68
+    },
+    {
+      "id": "1SLs8hwdVoCpcIVm054x",
+      "orderId": 69,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विमलायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "விமலாயை நம:"
+        },
+        {
+          "value": "ವಿಮಲಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "విమలాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "વિમલાયૈ નમઃ"
+        },
+        {
+          "value": "vimalāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "HPNd2cpNemRIEAPhZR1R",
+      "title": [
+        {
+          "value": "विश्वजनन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "விஶ்வஜநந்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಿಶ್ವಜನನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "విశ్వజనన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "વિશ્વજનન્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "viśvajananyai namaḥ"
+        }
+      ],
+      "orderId": 70
+    },
+    {
+      "id": "n0Ti9TRrgTmqPjhu1YDg",
+      "orderId": 71,
+      "title": [
+        {
+          "value": "तुष्ट्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "துஷ்ட்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ತುಷ್ಟ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "తుష్ట్యై నమః"
+        },
+        {
+          "value": "તુષ્ટ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "tuṣṭyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "GKB7CygbHUqNTP35qJBl",
+      "orderId": 72,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "दारिद्र्यनाशिन्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "தா₃ரித்₃ர்யநாஶிந்யை நம:"
+        },
+        {
+          "value": "ದಾರಿದ್ರ್ಯನಾಶಿನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "దారిద్ర్యనాశిన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "દારિદ્ર્યનાશિન્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "dāridryanāśinyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "dhYOe1iXQhCV7L0hQVnM",
+      "orderId": 73,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "प्रीतिपुष्करिण्यै नमः"
+        },
+        {
+          "value": "ப்ரீதிபுஷ்கரிண்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಪ್ರೀತಿಪುಷ್ಕರಿಣ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "ప్రీతిపుష్కరిణ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પ્રીતિપુષ્કરિણ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "prītipuṣkariṇyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "A65Sz7LAP6bPe4O9XSbm",
+      "title": [
+        {
+          "value": "शान्तायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ஶாந்தாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಶಾಂತಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "శాంతాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "શાન્તાયૈ નમઃ\n"
+        },
+        {
+          "value": "śāntāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 74
+    },
+    {
+      "id": "3hciMjzgRHQ9w9kUH63L",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "शुक्लमाल्याम्बरायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஶுக்லமால்யாம்ப₃ராயை நம:"
+        },
+        {
+          "value": "ಶುಕ್ಲಮಾಲ್ಯಾಂಬರಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "శుక్లమాల్యాంబరాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "શુક્લમાલ્યામ્બરાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "śuklamālyāmbarāyai namaḥ"
+        }
+      ],
+      "orderId": 75
+    },
+    {
+      "id": "4shfgtAzkVKswyIaU73b",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "श्रियै नमः"
+        },
+        {
+          "value": "ஶ்ரியை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಶ್ರಿಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "శ్రియై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "શ્રિયૈ નમઃ"
+        },
+        {
+          "value": "śriyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 76
+    },
+    {
+      "id": "FvcZQXiLDzRbmxi9oxZu",
+      "orderId": 77,
+      "title": [
+        {
+          "value": "भास्कर्यै नमः\n",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "பா₄ஸ்கர்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಭಾಸ್ಕರ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "భాస్కర్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ભાસ્કર્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "bhāskaryai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "3ViczPHlaUrSzfjJHCur",
+      "orderId": 78,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "बिल्वनिलयायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "பி₃ல்வநிலயாயை நம:"
+        },
+        {
+          "value": "ಬಿಲ್ವನಿಲಯಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "బిల్వనిలయాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "બિલ્વનિલયાયૈ નમઃ"
+        },
+        {
+          "value": "bilvanilayāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "xtcmsxjvLXbeFEHdLLYT",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "वरारोहायै नमः"
+        },
+        {
+          "value": "வராரோஹாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವರಾರೋಹಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "వరారోహాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "વરારોહાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "varārohāyai namaḥ"
+        }
+      ],
+      "orderId": 79
+    },
+    {
+      "id": "6dPw9PNrIsS39DlimsOb",
+      "title": [
+        {
+          "value": "यशस्विन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "யஶஸ்விந்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಯಶಸ್ವಿನ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "యశస్విన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "યશસ્વિન્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "yaśasvinyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 80
+    },
+    {
+      "id": "yFXwoNf7A6XVrpmPC1rA",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "वसुन्धरायै नमः"
+        },
+        {
+          "value": "வஸுந்த₄ராயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ವಸುಂಧರಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "వసుంధరాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "વસુન્ધરાયૈ નમઃ"
+        },
+        {
+          "value": "vasundharāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 81
+    },
+    {
+      "id": "OK5N97UrbozZ2wIifvMu",
+      "title": [
+        {
+          "value": "उदाराङ्गायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "உதா₃ராங்கா₃யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಉದಾರಾಂಗಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "ఉదారాంగాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ઉદારાઙ્ગાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "udārāṅgāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 82
+    },
+    {
+      "id": "1zsrSLjPB541C8DwhHGa",
+      "orderId": 83,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "हरिण्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஹரிண்யை நம:"
+        },
+        {
+          "value": "ಹರಿಣ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "హరిణ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "હરિણ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "hariṇyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "xrZqxWcydWPkirKuzLJW",
+      "orderId": 84,
+      "title": [
+        {
+          "value": "हेममालिन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஹேமமாலிந்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಹೇಮಮಾಲಿನ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "హేమమాలిన్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "હેમમાલિન્યૈ નમઃ"
+        },
+        {
+          "value": "hemamālinyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "IMlUYytRb0n3772fXoMF",
+      "orderId": 85,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "धनधान्यकर्यै नमः"
+        },
+        {
+          "value": "த₄நதா₄ந்யகர்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಧನಧಾನ್ಯಕರ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "ధనధాన్యకర్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ધનધાન્યકર્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "dhanadhānyakaryai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "FqGimnBJ6ujSCJNIKjsU",
+      "orderId": 86,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "सिद्ध्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஸித்₃த்₄யை நம:"
+        },
+        {
+          "value": "ಸಿದ್ಧ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "సిద్ధ్యై నమః"
+        },
+        {
+          "value": "સિદ્ધ્યૈ નમઃ\n",
+          "lang": "gj"
+        },
+        {
+          "value": "siddhyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "wIAc6N1qfINJYCKlX9bx",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "स्त्रैणसौम्यायै नमः"
+        },
+        {
+          "value": "ஸ்த்ரைணஸௌம்யாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಸ್ತ್ರೈಣಸೌಮ್ಯಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "స్త్రైణసౌమ్యాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "સ્ત્રૈણસૌમ્યાયૈ નમઃ"
+        },
+        {
+          "value": "straiṇasaumyāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 87
+    },
+    {
+      "id": "82LpYLeG9GLE8UGisE6l",
+      "title": [
+        {
+          "value": "शुभप्रदायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஶுப₄ப்ரதா₃யை நம:"
+        },
+        {
+          "value": "ಶುಭಪ್ರದಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "శుభప్రదాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "શુભપ્રદાયૈ નમઃ"
+        },
+        {
+          "value": "śubhapradāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 88
+    },
+    {
+      "id": "MMrp6wPBOlmjyWvf6Mkz",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "नृपवेश्मगतानन्दायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ந்ரு₁பவேஶ்மக₃தாநந்தா₃யை நம:"
+        },
+        {
+          "value": "ನೃಪವೇಶ್ಮಗತಾನಂದಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "నృపవేశ్మగతానందాయై నమః"
+        },
+        {
+          "value": "નૃપવેશ્મગતાનન્દાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "nṛpaveśmagatānandāyai namaḥ"
+        }
+      ],
+      "orderId": 89
+    },
+    {
+      "id": "X85512w5ieWcXg6QDjeQ",
+      "title": [
+        {
+          "value": "वरलक्ष्म्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "வரலக்ஷ்ம்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವರಲಕ್ಷ್ಮ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "వరలక్ష్మ్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "વરલક્ષ્મ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "varalakṣmyai namaḥ"
+        }
+      ],
+      "orderId": 90
+    },
+    {
+      "id": "JNrF350M59tgBemAf1YE",
+      "orderId": 91,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "वसुप्रदायै नमः"
+        },
+        {
+          "value": "வஸுப்ரதா₃யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ವಸುಪ್ರದಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "వసుప్రదాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "વસુપ્રદાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "vasupradāyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "9scPV5bUbsigWhZZ2fMe",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "शुभायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ஶுபா₄யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಶುಭಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "శుభాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "શુભાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "śubhāyai namaḥ"
+        }
+      ],
+      "orderId": 92
+    },
+    {
+      "id": "RfapW4T4Jg5Y8n96wLLk",
+      "orderId": 93,
+      "title": [
+        {
+          "value": "हिरण्यप्राकारायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஹிரண்யப்ராகாராயை நம:"
+        },
+        {
+          "value": "ಹಿರಣ್ಯಪ್ರಾಕಾರಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "హిరణ్యప్రాకారాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "હિરણ્યપ્રાકારાયૈ નમઃ"
+        },
+        {
+          "value": "hiraṇyaprākārāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "myYPMQ8h4PEovgmuQcqr",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "समुद्रतनयायै नमः"
+        },
+        {
+          "value": "ஸமுத்₃ரதநயாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಸಮುದ್ರತನಯಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "సముద్రతనయాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "સમુદ્રતનયાયૈ નમઃ\n"
+        },
+        {
+          "lang": "en",
+          "value": "samudratanayāyai namaḥ"
+        }
+      ],
+      "orderId": 94
+    },
+    {
+      "id": "o0dNuwWaGfOC0jewgpol",
+      "title": [
+        {
+          "value": "जयायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ஜயாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಜಯಾಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "జయాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "જયાયૈ નમઃ"
+        },
+        {
+          "value": "jayāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 95
+    },
+    {
+      "id": "LIvtQv0XulnMWjC4vYUH",
+      "orderId": 96,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "मङ्गलायै देव्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "மங்க₃லாயை தே₃வ்யை நம:"
+        },
+        {
+          "value": "ಮಂಗಲಾಯೈ ದೇವ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "మంగలాయై దేవ్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "મઙ્ગલાયૈ દેવ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "maṅgalāyai devyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "TraklGn2U9SekgJY71ry",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विष्णुवक्षःस्थलस्थितायै नमः"
+        },
+        {
+          "value": "விஷ்ணுவக்ஷ:ஸ்த₂லஸ்தி₂தாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಿಷ್ಣುವಕ್ಷಃಸ್ಥಲಸ್ಥಿತಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "విష్ణువక్షఃస్థలస్థితాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "વિષ્ણુવક્ષઃસ્થલસ્થિતાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "viṣṇuvakṣaḥsthalasthitāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 97
+    },
+    {
+      "id": "2mGTXpRiO9H21ofneIQC",
+      "orderId": 98,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "विष्णुपत्न्यै नमः"
+        },
+        {
+          "value": "விஷ்ணுபத்ந்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ವಿಷ್ಣುಪತ್ನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "విష్ణుపత్న్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "વિષ્ણુપત્ન્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "viṣṇupatnyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "HkG5djSNbJsh2onl3Na1",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "प्रसन्नाक्ष्यै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "ப்ரஸந்நாக்ஷ்யை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ಪ್ರಸನ್ನಾಕ್ಷ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "પ્રસન્નાક્ષ્યૈ નમઃ",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "પ્રસન્નાક્ષ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "prasannākṣyai namaḥ"
+        }
+      ],
+      "orderId": 99
+    },
+    {
+      "id": "UsJD0QIz7ZzJeawJczHb",
+      "orderId": 100,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "नारायणसमाश्रितायै नमः"
+        },
+        {
+          "lang": "ta",
+          "value": "நாராயணஸமாஶ்ரிதாயை நம:"
+        },
+        {
+          "lang": "kn",
+          "value": "ನಾರಾಯಣಸಮಾಶ್ರಿತಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "నారాయణసమాశ్రితాయై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "નારાયણસમાશ્રિતાયૈ નમઃ"
+        },
+        {
+          "value": "nārāyaṇasamāśritāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "C7bH4YP699DDFv7otOVo",
+      "title": [
+        {
+          "value": "दारिद्र्यध्वंसिन्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "தா₃ரித்₃ர்யத்₄வம்ஸிந்யை நம:"
+        },
+        {
+          "value": "ದಾರಿದ್ರ್ಯಧ್ವಂಸಿನ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "దారిద్ర్యధ్వంసిన్యై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "દારિદ્ર્યધ્વંસિન્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "dāridryadhvaṃsinyai namaḥ"
+        }
+      ],
+      "orderId": 101
+    },
+    {
+      "id": "rChWqYa3onrw2TWhANnB",
+      "orderId": 102,
+      "title": [
+        {
+          "value": "देव्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "தே₃வ்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ದೇವ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "value": "దేవ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "દેવ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "devyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "oTNF8NWGOFajjbl97kFO",
+      "orderId": 103,
+      "title": [
+        {
+          "value": "सर्वोपद्रववारिण्यै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "ஸர்வோபத்₃ரவவாரிண்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಸರ್ವೋಪದ್ರವವಾರಿಣ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "సర్వోపద్రవవారిణ్యై నమః"
+        },
+        {
+          "value": "સર્વોપદ્રવવારિણ્યૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "sarvopadravavāriṇyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "E0Mb4RPsgEjijpcgatf1",
+      "title": [
+        {
+          "value": "नवदुर्गायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "நவது₃ர்கா₃யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ನವದುರ್ಗಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "నవదుర్గాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "નવદુર્ગાયૈ નમઃ"
+        },
+        {
+          "value": "navadurgāyai namaḥ",
+          "lang": "en"
+        }
+      ],
+      "orderId": 104
+    },
+    {
+      "id": "yX7EGJp2BD6l9PS2hN7R",
+      "orderId": 105,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "महाकाल्यै नमः"
+        },
+        {
+          "value": "மஹாகால்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "value": "ಮಹಾಕಾಲ್ಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "మహాకాల్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "મહાકાલ્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "mahākālyai namaḥ"
+        }
+      ]
+    },
+    {
+      "id": "5dCfx56l3H0TgpvTMbNJ",
+      "title": [
+        {
+          "value": "ब्रह्मविष्णुशिवात्मिकायै नमः",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "ப்₃ரஹ்மவிஷ்ணுஶிவாத்மிகாயை நம:"
+        },
+        {
+          "value": "ಬ್ರಹ್ಮವಿಷ್ಣುಶಿವಾತ್ಮಿಕಾಯೈ ನಮಃ",
+          "lang": "kn"
+        },
+        {
+          "lang": "te",
+          "value": "బ్రహ్మవిష్ణుశివాత్మికాయై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "બ્રહ્મવિષ્ણુશિવાત્મિકાયૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "brahmaviṣṇuśivātmikāyai namaḥ"
+        }
+      ],
+      "orderId": 106
+    },
+    {
+      "id": "M7bt5zlK5coLgm9xorEx",
+      "orderId": 107,
+      "title": [
+        {
+          "value": "त्रिकालज्ञानसम्पन्नायै नमः",
+          "lang": "sa"
+        },
+        {
+          "value": "த்ரிகாலஜ்ஞாநஸம்பந்நாயை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ತ್ರಿಕಾಲಜ್ಞಾನಸಂಪನ್ನಾಯೈ ನಮಃ"
+        },
+        {
+          "value": "త్రికాలజ్ఞానసంపన్నాయై నమః",
+          "lang": "te"
+        },
+        {
+          "value": "ત્રિકાલજ્ઞાનસમ્પન્નાયૈ નમઃ",
+          "lang": "gj"
+        },
+        {
+          "value": "trikālajñānasampannāyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "GuZoabK6pbx9AsR5mhbd",
+      "title": [
+        {
+          "lang": "sa",
+          "value": "भुवनेश्वर्यै नमः"
+        },
+        {
+          "value": "பு₄வநேஶ்வர்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಭುವನೇಶ್ವರ್ಯೈ ನಮಃ"
+        },
+        {
+          "lang": "te",
+          "value": "భువనేశ్వర్యై నమః"
+        },
+        {
+          "lang": "gj",
+          "value": "ભુવનેશ્વર્યૈ નમઃ"
+        },
+        {
+          "lang": "en",
+          "value": "bhuvaneśvaryai namaḥ"
+        }
+      ],
+      "orderId": 108
+    },
+    {
+      "id": "MNtz56xxySRx3mKEjdZT",
+      "orderId": 109,
+      "title": [
+        {
+          "lang": "sa",
+          "value": "श्रीमहालक्ष्म्यै नमः"
+        },
+        {
+          "value": "ஶ்ரீமஹாலக்ஷ்ம்யை நம:",
+          "lang": "ta"
+        },
+        {
+          "lang": "kn",
+          "value": "ಶ್ರೀಮಹಾಲಕ್ಷ್ಮ್ಯೈ ನಮಃ"
+        },
+        {
+          "value": "శ్రీమహాలక్ష్మ్యై నమః",
+          "lang": "te"
+        },
+        {
+          "lang": "gj",
+          "value": "શ્રીમહાલક્ષ્મ્યૈ નમઃ"
+        },
+        {
+          "value": "śrīmahālakṣmyai namaḥ",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "p3Mb6uCL3l5vpalCMQqG",
+      "orderId": 110,
+      "title": [
+        {
+          "value": "इति श्रीलक्ष्मी-अष्टोत्तरशतनामावलिः समाप्ता",
+          "lang": "sa"
+        },
+        {
+          "lang": "ta",
+          "value": "இதி ஶ்ரீலக்ஷ்மீ-அஷ்டோத்தரஶதநாமாவலி: ஸமாப்தா"
+        },
+        {
+          "value": "ಇತಿ ಶ್ರೀಲಕ್ಷ್ಮೀ-ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಲಿಃ ಸಮಾಪ್ತಾ",
+          "lang": "kn"
+        },
+        {
+          "value": "ఇతి శ్రీలక్ష్మీ-అష్టోత్తరశతనామావలిః సమాప్తా",
+          "lang": "te"
+        },
+        {
+          "value": "ઇતિ શ્રીલક્ષ્મી-અષ્ટોત્તરશતનામાવલિઃ સમાપ્તા",
+          "lang": "gj"
+        },
+        {
+          "lang": "en",
+          "value": "iti śrīlakṣmī-aṣṭottaraśatanāmāvaliḥ samāptā"
+        }
+      ]
+    }
+  ]
+}

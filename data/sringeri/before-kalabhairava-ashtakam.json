@@ -1,0 +1,205 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "lang": "kn",
+      "label": "ಕನ್ನಡ",
+      "title": "ಕಾಲಭೈರವ ಅಷ್ಟಕಮ್",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "ಅಷ್ಟಕ — ಎಂಟು ಶ್ಲೋಕಗಳು",
+          "paragraphs": [
+            "ದೇವರಾಜ-ಸೇವ್ಯಮಾನ-ಪಾವನಾಂಘ್ರಿ-ಪಂಕಜಂ",
+            "ವ್ಯಾಳಯಜ್ಞ-ಸೂತ್ರಮಿಂದು-ಶೇಖರಂ ಕೃಪಾಕರಮ್ ।",
+            "ನಾರದಾದಿ-ಯೋಗಿಬೃಂದ-ವಂದಿತಂ ದಿಗಂಬರಂ",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 1 ॥",
+            "ಭಾನುಕೋಟಿ-ಭಾಸ್ವರಂ ಭವಬ್ಧಿತಾರಕಂ ಪರಂ",
+            "ನೀಲಕಂಠ-ಮೀಪ್ಸಿತಾರ್ಥ-ದಾಯಕಂ ತ್ರಿಲೋಚನಮ್ ।",
+            "ಕಾಲಕಾಲ-ಮಂಬುಜಾಕ್ಷ-ಮಕ್ಷಶೂಲ-ಮಕ್ಷರಂ",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 2 ॥",
+            "ಶೂಲಟಂಕ-ಪಾಶದಂಡ-ಪಾಣಿಮಾದಿ-ಕಾರಣಂ",
+            "ಶ್ಯಾಮಕಾಯ-ಮಾದಿದೇವ-ಮಕ್ಷರಂ ನಿರಾಮಯಮ್ ।",
+            "ಭೀಮವಿಕ್ರಮಂ ಪ್ರಭುಂ ವಿಚಿತ್ರ ತಾಂಡವ ಪ್ರಿಯಂ",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 3 ॥",
+            "ಭುಕ್ತಿ-ಮುಕ್ತಿ-ದಾಯಕಂ ಪ್ರಶಸ್ತಚಾರು-ವಿಗ್ರಹಂ",
+            "ಭಕ್ತವತ್ಸಲಂ ಸ್ಥಿರಂ ಸಮಸ್ತಲೋಕ-ವಿಗ್ರಹಮ್ । [ಸ್ಥಿತಂ]",
+            "ನಿಕ್ವಣನ್-ಮನೋಜ್ಞ-ಹೇಮ-ಕಿಂಕಿಣೀ-ಲಸತ್ಕಟಿಂ [ವಿನಿಕ್ವಣನ್]",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 4 ॥",
+            "ಧರ್ಮಸೇತು-ಪಾಲಕಂ ತ್ವಧರ್ಮಮಾರ್ಗ ನಾಶಕಂ [ನಾಶನಂ]",
+            "ಕರ್ಮಪಾಶ-ಮೋಚಕಂ ಸುಶರ್ಮ-ದಾಯಕಂ ವಿಭುಮ್ ।",
+            "ಸ್ವರ್ಣವರ್ಣ-ಕೇಶಪಾಶ-ಶೋಭಿತಾಂಗ-ಮಂಡಲಂ [ಶೆಷಪಾಶ, ನಿರ್ಮಲಂ]",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 5 ॥",
+            "ರತ್ನ-ಪಾದುಕಾ-ಪ್ರಭಾಭಿರಾಮ-ಪಾದಯುಗ್ಮಕಂ",
+            "ನಿತ್ಯ-ಮದ್ವಿತೀಯ-ಮಿಷ್ಟ-ದೈವತಂ ನಿರಂಜನಮ್ ।",
+            "ಮೃತ್ಯುದರ್ಪ-ನಾಶನಂ ಕರಾಳದಂಷ್ಟ್ರ-ಮೋಕ್ಷದಂ [ಭೂಷಣಂ]",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 6 ॥",
+            "ಅಟ್ಟಹಾಸ-ಭಿನ್ನ-ಪದ್ಮಜಾಂಡಕೋಶ-ಸಂತತಿಂ",
+            "ದೃಷ್ಟಿಪಾತ-ನಷ್ಟಪಾಪ-ಜಾಲಮುಗ್ರ-ಶಾಸನಮ್ ।",
+            "ಅಷ್ಟಸಿದ್ಧಿ-ದಾಯಕಂ ಕಪಾಲಮಾಲಿಕಾ-ಧರಂ",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 7 ॥",
+            "ಭೂತಸಂಘ-ನಾಯಕಂ ವಿಶಾಲಕೀರ್ತಿ-ದಾಯಕಂ",
+            "ಕಾಶಿವಾಸಿ-ಲೋಕ-ಪುಣ್ಯಪಾಪ-ಶೋಧಕಂ ವಿಭುಮ್ । [ಕಶಿವಾಸ]",
+            "ನೀತಿಮಾರ್ಗ-ಕೋವಿದಂ ಪುರಾತನಂ ಜಗತ್ಪತಿಂ",
+            "ಕಾಶಿಕಾಪುರಾಧಿನಾಥ ಕಾಲಭೈರವಂ ಭಜೇ ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "ಫಲಶ್ರುತಿ ಮತ್ತು ಸಮಾಪ್ತಿ",
+          "paragraphs": [
+            "ಕಾಲಭೈರವಾಷ್ಟಕಂ ಪಠಂತಿ ಯೇ ಮನೋಹರಂ",
+            "ಜ್ಞಾನಮುಕ್ತಿ-ಸಾಧನಂ ವಿಚಿತ್ರ-ಪುಣ್ಯ-ವರ್ಧನಮ್ ।",
+            "ಶೋಕಮೋಹ-ಲೋಭದೈನ್ಯ-ಕೋಪತಾಪ-ನಾಶನಂ [ದೈನ್ಯಲೋಭ]",
+            "ತೇ ಪ್ರಯಾಂತಿ ಕಾಲಭೈರವಾಂಘ್ರಿ-ಸನ್ನಿಧಿಂ ಧ್ರುವಮ್ ॥",
+            "ಇತಿ ಶ್ರೀಮತ್ಪರಮಹಂಸಪರಿವ್ರಾಜಕಾಚರ್ಯಸ್ಯ",
+            "ಶ್ರೀಗೋವಿಂದಭಗವತ್ಪೂಜ್ಯಪಾದಶಿಷ್ಯಸ್ಯ",
+            "ಶ್ರೀಮಚ್ಛಂಕರಭಗವತಃ ಕೃತೌ",
+            "ಶ್ರೀ ಕಾಲಭೈರವಾಷ್ಟಕಂ ಸಂಪೂರ್ಣಮ್ ।"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — ಕನ್ನಡ",
+          "url": "https://vignanam.org/kannada/kalabhairava-ashtakam.html"
+        }
+      ],
+      "source_sha256": "9283cd1959acc649375bc328cf199a26ffa5a0c46d24e55170157631c2ce8192"
+    },
+    {
+      "id": "devanagari",
+      "lang": "sa",
+      "label": "संस्कृतम्",
+      "title": "कालभैरवाष्टकम्",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "अष्टकम् — अष्टश्लोकाः",
+          "paragraphs": [
+            "देवराज-सेव्यमान-पावनाङ्घ्रि-पङ्कजं",
+            "व्यालयज्ञ-सूत्रमिन्दु-शेखरं कृपाकरम् ।",
+            "नारदादि-योगिबृन्द-वन्दितं दिगम्बरं",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 1 ॥",
+            "भानुकोटि-भास्वरं भवब्धितारकं परं",
+            "नीलकण्ठ-मीप्सितार्थ-दायकं त्रिलोचनम् ।",
+            "कालकाल-मम्बुजाक्ष-मक्षशूल-मक्षरं",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 2 ॥",
+            "शूलटङ्क-पाशदण्ड-पाणिमादि-कारणं",
+            "श्यामकाय-मादिदेव-मक्षरं निरामयम् ।",
+            "भीमविक्रमं प्रभुं विचित्र ताण्डव प्रियं",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 3 ॥",
+            "भुक्ति-मुक्ति-दायकं प्रशस्तचारु-विग्रहं",
+            "भक्तवत्सलं स्थिरं समस्तलोक-विग्रहम् । [स्थितं]",
+            "निक्वणन्-मनोज्ञ-हेम-किङ्किणी-लसत्कटिं [विनिक्वणन्]",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 4 ॥",
+            "धर्मसेतु-पालकं त्वधर्ममार्ग नाशकं [नाशनं]",
+            "कर्मपाश-मोचकं सुशर्म-दायकं विभुम् ।",
+            "स्वर्णवर्ण-केशपाश-शोभिताङ्ग-मण्डलं [शॆषपाश, निर्मलं]",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 5 ॥",
+            "रत्न-पादुका-प्रभाभिराम-पादयुग्मकं",
+            "नित्य-मद्वितीय-मिष्ट-दैवतं निरञ्जनम् ।",
+            "मृत्युदर्प-नाशनं करालदंष्ट्र-मोक्षदं [भूषणं]",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 6 ॥",
+            "अट्टहास-भिन्न-पद्मजाण्डकोश-सन्ततिं",
+            "दृष्टिपात-नष्टपाप-जालमुग्र-शासनम् ।",
+            "अष्टसिद्धि-दायकं कपालमालिका-धरं",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 7 ॥",
+            "भूतसङ्घ-नायकं विशालकीर्ति-दायकं",
+            "काशिवासि-लोक-पुण्यपाप-शोधकं विभुम् । [कशिवास]",
+            "नीतिमार्ग-कोविदं पुरातनं जगत्पतिं",
+            "काशिकापुराधिनाथ कालभैरवं भजे ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "फलश्रुतिः समाप्तिश्च",
+          "paragraphs": [
+            "कालभैरवाष्टकं पठन्ति ये मनोहरं",
+            "ज्ञानमुक्ति-साधनं विचित्र-पुण्य-वर्धनम् ।",
+            "शोकमोह-लोभदैन्य-कोपताप-नाशनं [दैन्यलोभ]",
+            "ते प्रयान्ति कालभैरवाङ्घ्रि-सन्निधिं ध्रुवम् ॥",
+            "इति श्रीमत्परमहंसपरिव्राजकाचर्यस्य",
+            "श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य",
+            "श्रीमच्छङ्करभगवतः कृतौ",
+            "श्री कालभैरवाष्टकं सम्पूर्णम् ।"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — संस्कृतम्",
+          "url": "https://vignanam.org/devanagari/kalabhairava-ashtakam.html"
+        }
+      ],
+      "source_sha256": "4b81dced24cf8254bb022f7f6fed74a167b334cb4e319171ce71db297f5b08d4"
+    },
+    {
+      "id": "roman",
+      "lang": "en",
+      "label": "English (Roman)",
+      "title": "Kalabhairava Ashtakam",
+      "chapters": [
+        {
+          "id": "main",
+          "title": "Ashtakam — eight verses",
+          "paragraphs": [
+            "dēvarāja-sēvyamāna-pāvanāṅghri-paṅkajaṃ",
+            "vyāḻayajña-sūtramindu-śēkharaṃ kṛpākaram ।",
+            "nāradādi-yōgibṛnda-vanditaṃ digambaraṃ",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 1 ॥",
+            "bhānukōṭi-bhāsvaraṃ bhavabdhitārakaṃ paraṃ",
+            "nīlakaṇṭha-mīpsitārtha-dāyakaṃ trilōchanam ।",
+            "kālakāla-mambujākṣa-makṣaśūla-makṣaraṃ",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 2 ॥",
+            "śūlaṭaṅka-pāśadaṇḍa-pāṇimādi-kāraṇaṃ",
+            "śyāmakāya-mādidēva-makṣaraṃ nirāmayam ।",
+            "bhīmavikramaṃ prabhuṃ vichitra tāṇḍava priyaṃ",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 3 ॥",
+            "bhukti-mukti-dāyakaṃ praśastachāru-vigrahaṃ",
+            "bhaktavatsalaṃ sthiraṃ samastalōka-vigraham । [sthitaṃ]",
+            "nikvaṇan-manōjña-hēma-kiṅkiṇī-lasatkaṭiṃ [vinikvaṇan]",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 4 ॥",
+            "dharmasētu-pālakaṃ tvadharmamārga nāśakaṃ [nāśanaṃ]",
+            "karmapāśa-mōchakaṃ suśarma-dāyakaṃ vibhum ।",
+            "svarṇavarṇa-kēśapāśa-śōbhitāṅga-maṇḍalaṃ [śeṣapāśa, nirmalaṃ]",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 5 ॥",
+            "ratna-pādukā-prabhābhirāma-pādayugmakaṃ",
+            "nitya-madvitīya-miṣṭa-daivataṃ nirañjanam ।",
+            "mṛtyudarpa-nāśanaṃ karāḻadaṃṣṭra-mōkṣadaṃ [bhūṣaṇaṃ]",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 6 ॥",
+            "aṭṭahāsa-bhinna-padmajāṇḍakōśa-santatiṃ",
+            "dṛṣṭipāta-naṣṭapāpa-jālamugra-śāsanam ।",
+            "aṣṭasiddhi-dāyakaṃ kapālamālikā-dharaṃ",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 7 ॥",
+            "bhūtasaṅgha-nāyakaṃ viśālakīrti-dāyakaṃ",
+            "kāśivāsi-lōka-puṇyapāpa-śōdhakaṃ vibhum । [kaśivāsa]",
+            "nītimārga-kōvidaṃ purātanaṃ jagatpatiṃ",
+            "kāśikāpurādhinātha kālabhairavaṃ bhajē ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "closing",
+          "title": "Phalashruti & closing",
+          "paragraphs": [
+            "kālabhairavāṣṭakaṃ paṭhanti yē manōharaṃ",
+            "jñānamukti-sādhanaṃ vichitra-puṇya-vardhanam ।",
+            "śōkamōha-lōbhadainya-kōpatāpa-nāśanaṃ [dainyalōbha]",
+            "tē prayānti kālabhairavāṅghri-sannidhiṃ dhruvam ॥",
+            "iti śrīmatparamahaṃsaparivrājakācharyasya",
+            "śrīgōvindabhagavatpūjyapādaśiṣyasya",
+            "śrīmachChaṅkarabhagavataḥ kṛtau",
+            "śrī kālabhairavāṣṭakaṃ sampūrṇam ।"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Vaidika Vignanam — English (Roman)",
+          "url": "https://vignanam.org/english/kalabhairava-ashtakam.html"
+        }
+      ],
+      "source_sha256": "c1b88833e459f023127583d272a4b94b950cbfd5f048e1a751b50ffddd58f0d5"
+    }
+  ]
+}

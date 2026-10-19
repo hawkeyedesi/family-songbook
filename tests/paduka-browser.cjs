@@ -14,7 +14,7 @@ for(const [index,s]of songs.entries())for(const script of['kannada','devanagari'
  assert((await seq.innerText()).includes(`${index+1}/10`));
  for(const [direction,offset]of[['prev',-1],['next',1]]){const a=seq.locator(`[rel="${direction}"]`),target=songs[index+offset];assert.equal(await a.count(),target?1:0);if(target)assert((await a.getAttribute('href')).endsWith(`songs/${target.slug}/${suffix}`));}
  const bundle=JSON.parse(fs.readFileSync(path.join(root,'data',s.versions_file))),v=bundle.versions.find(v=>v.id===script);
- assert.equal(await p.locator('.text-chapter').count(),v.chapters.length);
+ assert.equal(await p.locator('article.lyrics .text-chapter').count(),v.chapters.length);
  for(const c of v.chapters){const display=await p.locator('article.lyrics #'+c.id).innerText();assert(display.length>c.title.length);const expectedBreaks=c.paragraphs.reduce((n,t)=>n+(t.match(/\n/g)||[]).length,0);assert((await p.locator('article.lyrics #'+c.id+' br').count())>=expectedBreaks,'Lost printed line breaks');}
  checked++;
 }

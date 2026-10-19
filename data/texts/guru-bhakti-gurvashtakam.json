@@ -8,55 +8,34 @@
       "chapters": [
         {
           "id": "main",
-          "title": "ಗುರುಭಕ್ತಿಃ",
+          "title": "ಗುರುಭಕ್ತಿ — ಗುರ್ವಷ್ಟಕಮ್",
           "paragraphs": [
-            "ಶರೀರಂ ಸುರೂಪಂ ತಥಾ ವಾ ಕಲತ್ರಂ\nಯಶಶ್ಚಾರುಚಿತ್ರಂ ಧನಂ ಮೇರುತುಲ್ಯಮ್ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 1 ॥",
-            "ಕಲತ್ರಂ ಧನಂ ಪುತ್ರಪೌತ್ರಾದಿ ಸರ್ವಂ\nಗೃಹಂ ಬಾನ್ಧವಾಃ ಸರ್ವಮೇತದ್ಧಿ ಜಾತಮ್ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 2 ॥",
-            "ಷಡಙ್ಗಾದಿವೇದೋ ಮುಖೇ ಶಾಸ್ತ್ರವಿದ್ಯಾ\nಕವಿತ್ವಾದಿಗದ್ಯಂ ಸುಪದ್ಯಂ ಕರೋತಿ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 3 ॥",
-            "ವಿದೇಶೇಷು ಮಾನ್ಯಃ ಸ್ವದೇಶೇಷು ಧನ್ಯಃ\nಸದಾಚಾರವೃತ್ತೇಷು ಮತ್ತೋ ನ ಚಾನ್ಯಃ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 4 ॥",
-            "ಕ್ಷಮಾಮಣ್ಡಲೇ ಭೂಪಭೂಪಾಲವೃನ್ದೈಃ\nಸದಾ ಸೇವಿತಂ ಯಸ್ಯ ಪಾದಾರವಿನ್ದಮ್ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 5 ॥",
-            "ಯಶೋ ಮೇ ಗತಂ ದಿಕ್ಷು ದಾನಪ್ರತಾಪಾ-\nಜ್ಜಗದ್ವಸ್ತು ಸರ್ವಂ ಕರೇ ಯತ್ಪ್ರಸಾದಾತ್ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 6 ॥",
-            "ನ ಭೋಗೇ ನ ಯೋಗೇ ನ ವಾ ವಾಜಿರಾಜೌ\nನ ಕಾನ್ತಾಮುಖೇ ನೈವ ವಿತ್ತೇಷು ಚಿತ್ತಮ್ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 7 ॥",
-            "ಅರಣ್ಯೇ ನ ವಾ ಸ್ವಸ್ಯ ಗೇಹೇ ನ ಕಾರ್ಯೇ\nನ ದೇಹೇ ಮನೋ ವರ್ತತೇ ಮೇ ತ್ವನರ್ಘ್ಯೇ ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 8 ॥"
-          ]
-        },
-        {
-          "id": "family-extra",
-          "title": "ಪರಿವಾರಪಾಠಸ್ಯ ಅಧಿಕಶ್ಲೋಕಃ",
-          "paragraphs": [
-            "ಅನರ್ಘ್ಯಾಣಿ ರತ್ನಾನಿ ಮುಕ್ತಾನಿ ಸಮ್ಯಕ್\nಸಮಾಲಿಙ್ಗಿತಾ ಕಾಮಿನೀ ಯಾಮಿನೀಷು ।\nಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ ಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ 9 ॥"
-          ]
-        },
-        {
-          "id": "closing",
-          "title": "ಫಲಶ್ರುತಿಃ",
-          "paragraphs": [
-            "ಗುರೋರಷ್ಟಕಂ ಯಃ ಪಠೇತ್ಪುಣ್ಯದೇಹೀ\nಯತಿರ್ಭೂಪತಿರ್ಬ್ರಹ್ಮಚಾರೀ ಚ ಗೇಹೀ ।\nಲಭೇದ್ವಾಞ್ಛಿತಾರ್ಥಂ ಪದಂ ಬ್ರಹ್ಮಸಂಜ್ಞಂ\nಗುರೋರುಕ್ತವಾಕ್ಯೇ ಮನೋ ಯಸ್ಯ ಲಗ್ನಮ್ ॥"
+            "ಶರೀರಂ ಸುರೂಪಂ ತಥಾ ವಾ ಕಲತ್ರಂ\nಯಶಶ್ಚಾರು ಚಿತ್ರಂ ಧನಂ ಮೇರುತುಲ್ಯಮ್ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೧ ॥",
+            "ಕಲತ್ರಂ ಧನಂ ಪುತ್ರಪೌತ್ರಾದಿ ಸರ್ವಂ\nಗೃಹಂ ಬಾನ್ಧವಾಃ ಸರ್ವಮೇತದ್ಧಿ ಜಾತಮ್ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೨ ॥",
+            "ಷಡಙ್ಗಾದಿವೇದೋ ಮುಖೇ ಶಾಸ್ತ್ರವಿದ್ಯಾ\nಕವಿತ್ವಾದಿ ಗದ್ಯಂ ಸುಪದ್ಯಂ ಕರೋತಿ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೩ ॥",
+            "ವಿದೇಶೇಷು ಮಾನ್ಯಃ ಸ್ವದೇಶೇಷು ಧನ್ಯಃ\nಸದಾಚಾರವೃತ್ತೇಷು ಮತ್ತೋ ನ ಚಾನ್ಯಃ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೪ ॥",
+            "ಕ್ಷಮಾಮಣ್ಡಲೇ ಭೂಪಭೂಪಾಲಬೃನ್ದೈಃ\nಸದಾ ಸೇವಿತಂ ಯಸ್ಯ ಪಾದಾರವಿನ್ದಮ್ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೫ ॥",
+            "ಯಶೋ ಮೇ ಗತಂ ದಿಕ್ಷು ದಾನಪ್ರತಾಪಾತ್\nಜಗದ್ವಸ್ತು ಸರ್ವಂ ಕರೇ ಯತ್ಪ್ರಸಾದಾತ್ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೬ ॥",
+            "ನ ಭೋಗೇ ನ ಯೋಗೇ ನ ವಾ ವಾಜಿರಾಜೌ\nನ ಕಾನ್ತಾಮುಖೇ ನೈವ ವಿತ್ತೇಷು ಚಿತ್ತಮ್ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೭ ॥",
+            "ಅರಣ್ಯೇ ನ ವಾ ಸ್ವಸ್ಯ ಗೇಹೇ ನ ಕಾರ್ಯೇ\nನ ದೇಹೇ ಮನೋ ವರ್ತತೇ ಮೇ ತ್ವನರ್ಘ್ಯೇ ।\nಮನಶ್ಚೇನ್ನ ಲಗ್ನಂ ಗುರೋರಙ್ಘ್ರಿಪದ್ಮೇ\nತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಂ ತತಃ ಕಿಮ್ ॥ ೮ ॥"
           ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-09.jpg"
-        },
-        {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-08.jpg"
-        },
-        {
-          "label": "Sanskrit Documents — comparison for the eight core verses",
-          "url": "https://sanskritdocuments.org/doc_deities_misc/gurvashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/gurustotrani/gurvashtakam"
         }
       ],
-      "source_sha256": "6a738e0ffef7eb1c9778b4f37d994fffddd8b003ab9cf678da0b0d33bc104884",
+      "source_sha256": "629227ee2023fe6f723010607f5eb512afc2b383bff6dc6f97b4cdc3f10ff74f",
+      "family_archive": "data/sringeri/before-guru-bhakti-gurvashtakam.json",
+      "primary_edition": "sringeri",
       "derivation": {
         "tool": "indic-transliteration",
         "version": "2.3.82",
-        "from_script": "devanagari",
-        "from_sha256": "0a8d3648d36375e0827d5508eb1024ec18cae06202d36fd0e94986832cab8900",
-        "roundtrip_verified": true,
-        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+        "from_script": "IAST",
+        "from_sha256": "c5791528e8c31ff86dbc2acd0a9d0507b0534788ff8cff2aed9bcdd0669ffaab",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
       }
     },
     {
@@ -67,48 +46,35 @@
       "chapters": [
         {
           "id": "main",
-          "title": "गुरुभक्तिः",
+          "title": "गुरुभक्तिः — गुर्वष्टकम्",
           "paragraphs": [
-            "शरीरं सुरूपं तथा वा कलत्रं\nयशश्चारुचित्रं धनं मेरुतुल्यम् ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 1 ॥",
-            "कलत्रं धनं पुत्रपौत्रादि सर्वं\nगृहं बान्धवाः सर्वमेतद्धि जातम् ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 2 ॥",
-            "षडङ्गादिवेदो मुखे शास्त्रविद्या\nकवित्वादिगद्यं सुपद्यं करोति ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 3 ॥",
-            "विदेशेषु मान्यः स्वदेशेषु धन्यः\nसदाचारवृत्तेषु मत्तो न चान्यः ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 4 ॥",
-            "क्षमामण्डले भूपभूपालवृन्दैः\nसदा सेवितं यस्य पादारविन्दम् ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 5 ॥",
-            "यशो मे गतं दिक्षु दानप्रतापा-\nज्जगद्वस्तु सर्वं करे यत्प्रसादात् ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 6 ॥",
-            "न भोगे न योगे न वा वाजिराजौ\nन कान्तामुखे नैव वित्तेषु चित्तम् ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 7 ॥",
-            "अरण्ये न वा स्वस्य गेहे न कार्ये\nन देहे मनो वर्तते मे त्वनर्घ्ये ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 8 ॥"
-          ]
-        },
-        {
-          "id": "family-extra",
-          "title": "परिवारपाठस्य अधिकश्लोकः",
-          "paragraphs": [
-            "अनर्घ्याणि रत्नानि मुक्तानि सम्यक्\nसमालिङ्गिता कामिनी यामिनीषु ।\nगुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं\nततः किं ततः किं ततः किं ततः किम् ॥ 9 ॥"
-          ]
-        },
-        {
-          "id": "closing",
-          "title": "फलश्रुतिः",
-          "paragraphs": [
-            "गुरोरष्टकं यः पठेत्पुण्यदेही\nयतिर्भूपतिर्ब्रह्मचारी च गेही ।\nलभेद्वाञ्छितार्थं पदं ब्रह्मसंज्ञं\nगुरोरुक्तवाक्ये मनो यस्य लग्नम् ॥"
+            "शरीरं सुरूपं तथा वा कलत्रं\nयशश्चारु चित्रं धनं मेरुतुल्यम् ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ १ ॥",
+            "कलत्रं धनं पुत्रपौत्रादि सर्वं\nगृहं बान्धवाः सर्वमेतद्धि जातम् ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ २ ॥",
+            "षडङ्गादिवेदो मुखे शास्त्रविद्या\nकवित्वादि गद्यं सुपद्यं करोति ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ३ ॥",
+            "विदेशेषु मान्यः स्वदेशेषु धन्यः\nसदाचारवृत्तेषु मत्तो न चान्यः ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ४ ॥",
+            "क्षमामण्डले भूपभूपालबृन्दैः\nसदा सेवितं यस्य पादारविन्दम् ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ५ ॥",
+            "यशो मे गतं दिक्षु दानप्रतापात्\nजगद्वस्तु सर्वं करे यत्प्रसादात् ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ६ ॥",
+            "न भोगे न योगे न वा वाजिराजौ\nन कान्तामुखे नैव वित्तेषु चित्तम् ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ७ ॥",
+            "अरण्ये न वा स्वस्य गेहे न कार्ये\nन देहे मनो वर्तते मे त्वनर्घ्ये ।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम् ॥ ८ ॥"
           ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-09.jpg"
-        },
-        {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-08.jpg"
-        },
-        {
-          "label": "Sanskrit Documents — comparison for the eight core verses",
-          "url": "https://sanskritdocuments.org/doc_deities_misc/gurvashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/gurustotrani/gurvashtakam"
         }
       ],
-      "source_sha256": "0a8d3648d36375e0827d5508eb1024ec18cae06202d36fd0e94986832cab8900"
+      "source_sha256": "d35c107851f673b8632d1f485bc78d76fd2b3ea0a833d6ef74c8d7c5dffa10cb",
+      "family_archive": "data/sringeri/before-guru-bhakti-gurvashtakam.json",
+      "primary_edition": "sringeri",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "IAST",
+        "from_sha256": "c5791528e8c31ff86dbc2acd0a9d0507b0534788ff8cff2aed9bcdd0669ffaab",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
+      }
     },
     {
       "id": "roman",
@@ -118,55 +84,34 @@
       "chapters": [
         {
           "id": "main",
-          "title": "gurubhaktiḥ",
+          "title": "Guru Bhakti — Gurvashtakam",
           "paragraphs": [
-            "śarīraṃ surūpaṃ tathā vā kalatraṃ\nyaśaścārucitraṃ dhanaṃ merutulyam ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 1 ॥",
-            "kalatraṃ dhanaṃ putrapautrādi sarvaṃ\ngṛhaṃ bāndhavāḥ sarvametaddhi jātam ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 2 ॥",
-            "ṣaḍaṅgādivedo mukhe śāstravidyā\nkavitvādigadyaṃ supadyaṃ karoti ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 3 ॥",
-            "videśeṣu mānyaḥ svadeśeṣu dhanyaḥ\nsadācāravṛtteṣu matto na cānyaḥ ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 4 ॥",
-            "kṣamāmaṇḍale bhūpabhūpālavṛndaiḥ\nsadā sevitaṃ yasya pādāravindam ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 5 ॥",
-            "yaśo me gataṃ dikṣu dānapratāpā-\njjagadvastu sarvaṃ kare yatprasādāt ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 6 ॥",
-            "na bhoge na yoge na vā vājirājau\nna kāntāmukhe naiva vitteṣu cittam ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 7 ॥",
-            "araṇye na vā svasya gehe na kārye\nna dehe mano vartate me tvanarghye ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 8 ॥"
-          ]
-        },
-        {
-          "id": "family-extra",
-          "title": "parivārapāṭhasya adhikaślokaḥ",
-          "paragraphs": [
-            "anarghyāṇi ratnāni muktāni samyak\nsamāliṅgitā kāminī yāminīṣu ।\nguroraṅghripadme manaścenna lagnaṃ\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 9 ॥"
-          ]
-        },
-        {
-          "id": "closing",
-          "title": "phalaśrutiḥ",
-          "paragraphs": [
-            "guroraṣṭakaṃ yaḥ paṭhetpuṇyadehī\nyatirbhūpatirbrahmacārī ca gehī ।\nlabhedvāñchitārthaṃ padaṃ brahmasaṃjñaṃ\nguroruktavākye mano yasya lagnam ॥"
+            "śarīraṃ surūpaṃ tathā vā kalatraṃ\nyaśaścāru citraṃ dhanaṃ merutulyam ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 1 ॥",
+            "kalatraṃ dhanaṃ putrapautrādi sarvaṃ\ngṛhaṃ bāndhavāḥ sarvametaddhi jātam ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 2 ॥",
+            "ṣaḍaṅgādivedo mukhe śāstravidyā\nkavitvādi gadyaṃ supadyaṃ karoti ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 3 ॥",
+            "videśeṣu mānyaḥ svadeśeṣu dhanyaḥ\nsadācāravṛtteṣu matto na cānyaḥ ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 4 ॥",
+            "kṣamāmaṇḍale bhūpabhūpālabṛndaiḥ\nsadā sevitaṃ yasya pādāravindam ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 5 ॥",
+            "yaśo me gataṃ dikṣu dānapratāpāt\njagadvastu sarvaṃ kare yatprasādāt ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 6 ॥",
+            "na bhoge na yoge na vā vājirājau\nna kāntāmukhe naiva vitteṣu cittam ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 7 ॥",
+            "araṇye na vā svasya gehe na kārye\nna dehe mano vartate me tvanarghye ।\nmanaścenna lagnaṃ guroraṅghripadme\ntataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ॥ 8 ॥"
           ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-09.jpg"
-        },
-        {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-08.jpg"
-        },
-        {
-          "label": "Sanskrit Documents — comparison for the eight core verses",
-          "url": "https://sanskritdocuments.org/doc_deities_misc/gurvashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/gurustotrani/gurvashtakam"
         }
       ],
-      "source_sha256": "36b3e66adeb5ec9fc8adfd2982f45da96967535d812898c0463900e9c3e7bd52",
+      "source_sha256": "c5791528e8c31ff86dbc2acd0a9d0507b0534788ff8cff2aed9bcdd0669ffaab",
+      "family_archive": "data/sringeri/before-guru-bhakti-gurvashtakam.json",
+      "primary_edition": "sringeri",
       "derivation": {
         "tool": "indic-transliteration",
         "version": "2.3.82",
-        "from_script": "devanagari",
-        "from_sha256": "0a8d3648d36375e0827d5508eb1024ec18cae06202d36fd0e94986832cab8900",
-        "roundtrip_verified": true,
-        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+        "from_script": "IAST",
+        "from_sha256": "c5791528e8c31ff86dbc2acd0a9d0507b0534788ff8cff2aed9bcdd0669ffaab",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
       }
     }
   ]

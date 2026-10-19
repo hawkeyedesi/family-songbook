@@ -8,32 +8,40 @@
       "chapters": [
         {
           "id": "main",
-          "title": "ದುರ್ಗಾಸಪ್ತಶ್ಲೋಕೀ",
+          "title": "ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕೀ",
           "paragraphs": [
-            "ಜ್ಞಾನಿನಾಮಪಿ ಚೇತಾಂಸಿ ದೇವೀ ಭಗವತೀ ಹಿ ಸಾ ।\nಬಲಾದಾಕೃಷ್ಯ ಮೋಹಾಯ ಮಹಾಮಾಯಾ ಪ್ರಯಚ್ಛತಿ ॥ 1 ॥",
-            "ದುರ್ಗೇ ಸ್ಮೃತಾ ಹರಸಿ ಭೀತಿಮಶೇಷಜನ್ತೋಃ\nಸ್ವಸ್ಥೈಃ ಸ್ಮೃತಾ ಮತಿಮತೀವ ಶುಭಾಂ ದದಾಸಿ ।\nದಾರಿದ್ರ್ಯದುಃಖಭಯಹಾರಿಣಿ ಕಾ ತ್ವದನ್ಯಾ\nಸರ್ವೋಪಕಾರಕರಣಾಯ ಸದಾರ್ದ್ರಚಿತ್ತಾ ॥ 2 ॥",
-            "ಸರ್ವಮಙ್ಗಲಮಾಙ್ಗಲ್ಯೇ ಶಿವೇ ಸರ್ವಾರ್ಥಸಾಧಿಕೇ ।\nಶರಣ್ಯೇ ತ್ರ್ಯಮ್ಬಕೇ ಗೌರಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತು ತೇ ॥ 3 ॥",
-            "ಶರಣಾಗತದೀನಾರ್ತಪರಿತ್ರಾಣಪರಾಯಣೇ ।\nಸರ್ವಸ್ಯಾರ್ತಿಹರೇ ದೇವಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತು ತೇ ॥ 4 ॥",
-            "ಸರ್ವಸ್ವರೂಪೇ ಸರ್ವೇಶೇ ಸರ್ವಶಕ್ತಿಸಮನ್ವಿತೇ ।\nಭಯೇಭ್ಯಸ್ತ್ರಾಹಿ ನೋ ದೇವಿ ದುರ್ಗೇ ದೇವಿ ನಮೋಽಸ್ತು ತೇ ॥ 5 ॥",
-            "ರೋಗಾನಶೇಷಾನಪಹಂಸಿ ತುಷ್ಟಾ\nರುಷ್ಟಾ ತು ಕಾಮಾನ್ ಸಕಲಾನಭೀಷ್ಟಾನ್ ।\nತ್ವಾಮಾಶ್ರಿತಾನಾಂ ನ ವಿಪನ್ನರಾಣಾಂ\nತ್ವಾಮಾಶ್ರಿತಾ ಹ್ಯಾಶ್ರಯತಾಂ ಪ್ರಯಾನ್ತಿ ॥ 6 ॥",
-            "ಸರ್ವಾಬಾಧಾಪ್ರಶಮನಂ ತ್ರೈಲೋಕ್ಯಸ್ಯಾಖಿಲೇಶ್ವರಿ ।\nಏವಮೇವ ತ್ವಯಾ ಕಾರ್ಯಮಸ್ಮದ್ವೈರಿವಿನಾಶನಮ್ ॥ 7 ॥"
+            "ಜ್ಞಾನಿನಾಮಪಿ ಚೇತಾಂಸಿ ದೇವೀ ಭಗವತೀ ಹಿ ಸಾ ।\nಬಲಾದಾಕೃಷ್ಯ ಮೋಹಾಯ ಮಹಾಮಾಯಾ ಪ್ರಯಚ್ಛತಿ ॥ ೧ ॥",
+            "ದುರ್ಗೇ ಸ್ಮೃತಾ ಹರಸಿ ಭೀತಿಮಶೇಷಜನ್ತೋಃ\nಸ್ವಸ್ಥೈಃ ಸ್ಮೃತಾ ಮತಿಮತೀವ ಶುಭಾಂ ದದಾಸಿ ।\nದಾರಿದ್ರ್ಯದುಃಖಭಯಹಾರಿಣಿ ಕಾ ತ್ವದನ್ಯಾ\nಸರ್ವೋಪಕಾರಕರಣಾಯ ಸದಾರ್ದ್ರಚಿತ್ತಾ ॥ ೨ ॥",
+            "ಸರ್ವಮಙ್ಗಲಮಾಙ್ಗಲ್ಯೇ ಶಿವೇ ಸರ್ವಾರ್ಥಸಾಧಿಕೇ ।\nಶರಣ್ಯೇ ತ್ರ್ಯಮ್ಬಕೇ ಗೌರಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತು ತೇ ॥ ೩ ॥",
+            "ಶರಣಾಗತದೀನಾರ್ತಪರಿತ್ರಾಣಪರಾಯಣೇ ।\nಸರ್ವಸ್ಯಾರ್ತಿಹರೇ ದೇವಿ ನಾರಾಯಣಿ ನಮೋಽಸ್ತು ತೇ ॥ ೪ ॥",
+            "ಸರ್ವಸ್ವರೂಪೇ ಸರ್ವೇಶೇ ಸರ್ವಶಕ್ತಿಸಮನ್ವಿತೇ ।\nಭಯೇಭ್ಯಸ್ತ್ರಾಹಿ ನೋ ದೇವಿ ದುರ್ಗೇ ದೇವಿ ನಮೋಽಸ್ತು ತೇ ॥ ೫ ॥",
+            "ರೋಗಾನಶೇಷಾನಪಹಂಸಿ ತುಷ್ಟಾ\nರುಷ್ಟಾ ತು ಕಾಮಾನ್ ಸಕಲಾನಭೀಷ್ಟಾನ್ ।\nತ್ವಾಮಾಶ್ರಿತಾನಾಂ ನ ವಿಪನ್ನರಾಣಾಂ\nತ್ವಾಮಾಶ್ರಿತಾ ಹ್ಯಾಶ್ರಯತಾಂ ಪ್ರಯಾನ್ತಿ ॥ ೬ ॥",
+            "ಸರ್ವಾಬಾಧಾಪ್ರಶಮನಂ ತ್ರೈಲೋಕ್ಯಸ್ಯಾಖಿಲೇಶ್ವರಿ ।\nಏವಮೇವ ತ್ವಯಾ ಕಾರ್ಯಮಸ್ಮದ್ವೈರಿವಿನಾಶನಮ್ ॥ ೭ ॥"
+          ]
+        },
+        {
+          "id": "sankalpa",
+          "title": "ಐಚ್ಛಿಕ ಸಂಕಲ್ಪ — ಧ್ವನಿಮುದ್ರಿಕೆಯಲ್ಲಿಲ್ಲ",
+          "paragraphs": [
+            "ಮಮ ಶ್ರೀದುರ್ಗಾಪರಮೇಶ್ವರೀಪ್ರಸಾದೇನ ಚಿನ್ತಿತಸಕಲಮನೋರಥಸಿದ್ಧ್ಯರ್ಥಮ್, ಆಯುರ್ವಿದ್ಯಾಯಶೋಬಲವೃದ್ಧ್ಯರ್ಥಮ್, ಸರ್ವಾರಿಷ್ಟಪರಿಹಾರದ್ವಾರಾ ಸಮಸ್ತಮಙ್ಗಲಾವಾಪ್ತ್ಯರ್ಥಮ್, ವಿಶೇಷತಃ ಅಸ್ಮಿನ್ ಭಾರತದೇಶೇ ಪರಿದೃಶ್ಯಮಾನಪರಸ್ಪರವಿದ್ವೇಷ–ಹಿಂಸಾ–ನಿನ್ದಾದೀನಾಂ ನಿವೃತ್ತಿದ್ವಾರಾ ಧರ್ಮಶ್ರದ್ಧಾಲೂನಾಂ ಸಕಲಶ್ರೇಯೋಽಭಿವೃದ್ಧ್ಯರ್ಥಮ್, ಏತದ್ದೇಶರಾಜ್ಯಪರಿಪಾಲಕಾನಾಂ ಧರ್ಮೇ ಶ್ರದ್ಧಾಭಿವೃದ್ಧ್ಯರ್ಥಮ್, ಧನಧಾನ್ಯಾದಿಸಕಲಸಮ್ಪತ್ಸಮೃದ್ಧ್ಯರ್ಥಮ್ ಶ್ರೀದುರ್ಗಾಸಪ್ತಶ್ಲೋಕೀಪಾರಾಯಣಂ ಕರಿಷ್ಯೇ ।"
           ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-01.jpg"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/devistotrani/durgasaptashloki"
         }
       ],
-      "source_sha256": "ea0e1d67400011fd7f6e3df978d1dd004764643ebf2fb0f91ac4fd6b5f2d05f1",
+      "source_sha256": "b3413b93e0548f07be91db05827d69644841ddd2a7fa555c5e1bee7d8176973b",
+      "family_archive": "data/sringeri/before-durga-saptashloki.json",
+      "primary_edition": "sringeri",
       "derivation": {
         "tool": "indic-transliteration",
         "version": "2.3.82",
-        "from_script": "devanagari",
-        "from_sha256": "65b523b1f8bc6166d8425ddacc49e72e87203a32831d30563d57b0d9cc9205b9",
-        "roundtrip_verified": true,
-        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+        "from_script": "IAST",
+        "from_sha256": "335b21b752b1889bd7cceb868bda91673ada044c18342a9f72ad63d702d07f6e",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
       }
     },
     {
@@ -46,23 +54,39 @@
           "id": "main",
           "title": "दुर्गासप्तश्लोकी",
           "paragraphs": [
-            "ज्ञानिनामपि चेतांसि देवी भगवती हि सा ।\nबलादाकृष्य मोहाय महामाया प्रयच्छति ॥ 1 ॥",
-            "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः\nस्वस्थैः स्मृता मतिमतीव शुभां ददासि ।\nदारिद्र्यदुःखभयहारिणि का त्वदन्या\nसर्वोपकारकरणाय सदार्द्रचित्ता ॥ 2 ॥",
-            "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥ 3 ॥",
-            "शरणागतदीनार्तपरित्राणपरायणे ।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते ॥ 4 ॥",
-            "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते ।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते ॥ 5 ॥",
-            "रोगानशेषानपहंसि तुष्टा\nरुष्टा तु कामान् सकलानभीष्टान् ।\nत्वामाश्रितानां न विपन्नराणां\nत्वामाश्रिता ह्याश्रयतां प्रयान्ति ॥ 6 ॥",
-            "सर्वाबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि ।\nएवमेव त्वया कार्यमस्मद्वैरिविनाशनम् ॥ 7 ॥"
+            "ज्ञानिनामपि चेतांसि देवी भगवती हि सा ।\nबलादाकृष्य मोहाय महामाया प्रयच्छति ॥ १ ॥",
+            "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः\nस्वस्थैः स्मृता मतिमतीव शुभां ददासि ।\nदारिद्र्यदुःखभयहारिणि का त्वदन्या\nसर्वोपकारकरणाय सदार्द्रचित्ता ॥ २ ॥",
+            "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥ ३ ॥",
+            "शरणागतदीनार्तपरित्राणपरायणे ।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते ॥ ४ ॥",
+            "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते ।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते ॥ ५ ॥",
+            "रोगानशेषानपहंसि तुष्टा\nरुष्टा तु कामान् सकलानभीष्टान् ।\nत्वामाश्रितानां न विपन्नराणां\nत्वामाश्रिता ह्याश्रयतां प्रयान्ति ॥ ६ ॥",
+            "सर्वाबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि ।\nएवमेव त्वया कार्यमस्मद्वैरिविनाशनम् ॥ ७ ॥"
+          ]
+        },
+        {
+          "id": "sankalpa",
+          "title": "ऐच्छिकसङ्कल्पः — ध्वनिमुद्रणात् पृथक्",
+          "paragraphs": [
+            "मम श्रीदुर्गापरमेश्वरीप्रसादेन चिन्तितसकलमनोरथसिद्ध्यर्थम्, आयुर्विद्यायशोबलवृद्ध्यर्थम्, सर्वारिष्टपरिहारद्वारा समस्तमङ्गलावाप्त्यर्थम्, विशेषतः अस्मिन् भारतदेशे परिदृश्यमानपरस्परविद्वेष–हिंसा–निन्दादीनां निवृत्तिद्वारा धर्मश्रद्धालूनां सकलश्रेयोऽभिवृद्ध्यर्थम्, एतद्देशराज्यपरिपालकानां धर्मे श्रद्धाभिवृद्ध्यर्थम्, धनधान्यादिसकलसम्पत्समृद्ध्यर्थम् श्रीदुर्गासप्तश्लोकीपारायणं करिष्ये ।"
           ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-01.jpg"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/devistotrani/durgasaptashloki"
         }
       ],
-      "source_sha256": "65b523b1f8bc6166d8425ddacc49e72e87203a32831d30563d57b0d9cc9205b9"
+      "source_sha256": "d6eaac59892c84072db7585c5aff87741bcb79ba4450eac45044688f305f6070",
+      "family_archive": "data/sringeri/before-durga-saptashloki.json",
+      "primary_edition": "sringeri",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "IAST",
+        "from_sha256": "335b21b752b1889bd7cceb868bda91673ada044c18342a9f72ad63d702d07f6e",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
+      }
     },
     {
       "id": "roman",
@@ -72,7 +96,7 @@
       "chapters": [
         {
           "id": "main",
-          "title": "durgāsaptaślokī",
+          "title": "Durga Saptashloki",
           "paragraphs": [
             "jñānināmapi cetāṃsi devī bhagavatī hi sā ।\nbalādākṛṣya mohāya mahāmāyā prayacchati ॥ 1 ॥",
             "durge smṛtā harasi bhītimaśeṣajantoḥ\nsvasthaiḥ smṛtā matimatīva śubhāṃ dadāsi ।\ndāridryaduḥkhabhayahāriṇi kā tvadanyā\nsarvopakārakaraṇāya sadārdracittā ॥ 2 ॥",
@@ -82,22 +106,30 @@
             "rogānaśeṣānapahaṃsi tuṣṭā\nruṣṭā tu kāmān sakalānabhīṣṭān ।\ntvāmāśritānāṃ na vipannarāṇāṃ\ntvāmāśritā hyāśrayatāṃ prayānti ॥ 6 ॥",
             "sarvābādhāpraśamanaṃ trailokyasyākhileśvari ।\nevameva tvayā kāryamasmadvairivināśanam ॥ 7 ॥"
           ]
+        },
+        {
+          "id": "sankalpa",
+          "title": "Optional sankalpa — separate from the recording",
+          "paragraphs": [
+            "mama śrīdurgāparameśvarīprasādena cintitasakalamanorathasiddhyartham, āyurvidyāyaśobalavṛddhyartham, sarvāriṣṭaparihāradvārā samastamaṅgalāvāptyartham, viśeṣataḥ asmin bhāratadeśe paridṛśyamānaparasparavidveṣa–hiṃsā–nindādīnāṃ nivṛttidvārā dharmaśraddhālūnāṃ sakalaśreyo'bhivṛddhyartham, etaddeśarājyaparipālakānāṃ dharme śraddhābhivṛddhyartham, dhanadhānyādisakalasampatsamṛddhyartham śrīdurgāsaptaślokīpārāyaṇaṃ kariṣye ।"
+          ]
         }
       ],
       "references": [
         {
-          "label": "Family book — supplied page",
-          "url": "https://hawkeyedesi.github.io/family-songbook/assets/paduka-family-01.jpg"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/devistotrani/durgasaptashloki"
         }
       ],
-      "source_sha256": "435d4d1a032a702f71e885355c2cc490d9489de04d4249280715553a3c08d9d4",
+      "source_sha256": "335b21b752b1889bd7cceb868bda91673ada044c18342a9f72ad63d702d07f6e",
+      "family_archive": "data/sringeri/before-durga-saptashloki.json",
+      "primary_edition": "sringeri",
       "derivation": {
         "tool": "indic-transliteration",
         "version": "2.3.82",
-        "from_script": "devanagari",
-        "from_sha256": "65b523b1f8bc6166d8425ddacc49e72e87203a32831d30563d57b0d9cc9205b9",
-        "roundtrip_verified": true,
-        "normalization": "Canonical Unicode equivalence and decimal digit values; lexical characters preserved."
+        "from_script": "IAST",
+        "from_sha256": "335b21b752b1889bd7cceb868bda91673ada044c18342a9f72ad63d702d07f6e",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
       }
     }
   ]

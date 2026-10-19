@@ -88,3 +88,22 @@ python3 build.py
 python3 tests/validate_content.py
 ```
 The import scripts require the pinned package in `requirements-import.txt`; the builder itself remains standard-library only. Browser verification (local server8769, Playwright installed): `node tests/paduka-browser.cjs`.
+
+## Sringeri primary editions and source checks (2026-10-19)
+
+Family decision: keep scans and earlier editions, but use Sringeri as the main chanting text wherever available. Eight matching works now have source-faithful Sringeri primary editions in all three scripts. Previous bundles remain under `data/sringeri/before-*.json` and as expandable reading-page sections. Twenty-five works were not located in the complete17-category official Stotras catalog; their badges explicitly do not claim Sringeri verification. See `/en/source-checks/` for source hashes, scope, variant comparisons and apparent website transcription inconsistencies. The authoritative input is the IAST field used by Sringeri's frontend to display every script; one misfiled Devanagari name is converted as script, without changing its words.
+
+After refreshing any original source importer, reapply the chosen primary editions before building:
+```
+python scripts/import_sringeri_editions.py
+python scripts/audit_sringeri.py
+python3 build.py
+python3 tests/validate_content.py
+python tests/sringeri-checks.py
+node tests/durga-browser.cjs
+```
+The three `python` commands involving source transliteration need the pinned importer environment. The builder fails if the audit's text hashes are stale. Source snapshots are public official text, with retrieval date; build/test never needs Sringeri online.
+
+Durga Saptashloki now belongs to Daily, Navaratri and Paduka. Its separate `/en/durga-saptashloki/` follow-along reuses the Navaratri player with the official sharadapeetham `_DP9lHAvGBU` video. Seven approximate verse onsets are aligned from incipits plus waveform pauses; no ASR wording is published. Introductory silence is explicitly unmapped. The optional source-page sankalpa is a separate reading section, not claimed to occur in this clip. Script switching does not seek or restart playback; verse buttons do seek. Original YouTube link and full text remain usable without JavaScript.
+
+Weekly includes Rudram–Chamakam, Ganesha Atharvashirsha, Vishnu Sahasranama, Lalitha Sahasranama and Soundarya Lahari, alongside the previously selected Karavalamba and Lalitha Sahasra Namavali. Membership overlaps do not duplicate a work or remove its other categories.

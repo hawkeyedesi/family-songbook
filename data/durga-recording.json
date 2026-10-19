@@ -1,0 +1,93 @@
+{
+  "videoId": "_DP9lHAvGBU",
+  "sourceUrl": "https://www.youtube.com/watch?v=_DP9lHAvGBU",
+  "duration": 118.42,
+  "start": 0,
+  "defaultWork": "durga-saptashloki",
+  "label": "ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕಿ",
+  "label_en": "Durga Saptashloki",
+  "heading": "ದುರ್ಗಾ ಸಪ್ತಶ್ಲೋಕಿ — ಗುರುಗಳ ಪಠಣ",
+  "heading_en": "Durga Saptashloki — chant along with Guruji",
+  "credit": "ಶಾರದಾಪೀಠದ ಅಧಿಕೃತ ಧ್ವನಿಮುದ್ರಿಕೆ. ಏಳು ಶ್ಲೋಕಗಳ ಪಠಣ.",
+  "credit_en": "Official sharadapeetham recording: Durga Saptashloki in the divine voice of Jagadguru Mahaswamiji. Published by Sringeri’s official YouTube channel.",
+  "timing_method": "Local ASR identifies seven verse incipits; waveform silence boundaries refine approximate starts. Text comes from checked source, never ASR. Timing is approximate, not a scholarly phonetic alignment.",
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0,
+      "end": 2.3,
+      "label": "ಆರಂಭ",
+      "label_en": "Opening silence"
+    },
+    {
+      "id": "verse-1",
+      "start": 2.3,
+      "end": 18.25,
+      "label": "ಶ್ಲೋಕ 1",
+      "label_en": "Verse 1",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-1-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-2",
+      "start": 18.25,
+      "end": 43.45,
+      "label": "ಶ್ಲೋಕ 2",
+      "label_en": "Verse 2",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-2-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-3",
+      "start": 43.45,
+      "end": 57.96,
+      "label": "ಶ್ಲೋಕ 3",
+      "label_en": "Verse 3",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-3-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-4",
+      "start": 57.96,
+      "end": 71.42,
+      "label": "ಶ್ಲೋಕ 4",
+      "label_en": "Verse 4",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-4-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-5",
+      "start": 71.42,
+      "end": 85.54,
+      "label": "ಶ್ಲೋಕ 5",
+      "label_en": "Verse 5",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-5-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-6",
+      "start": 85.54,
+      "end": 105.55,
+      "label": "ಶ್ಲೋಕ 6",
+      "label_en": "Verse 6",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-6-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    },
+    {
+      "id": "verse-7",
+      "start": 105.55,
+      "end": 118.42,
+      "label": "ಶ್ಲೋಕ 7",
+      "label_en": "Verse 7",
+      "work": "durga-saptashloki",
+      "anchor": "main-verse-7-1",
+      "evidence": "Official recording incipit identified by local ASR; nearest preceding speech-onset silence boundary. Approximate."
+    }
+  ]
+}

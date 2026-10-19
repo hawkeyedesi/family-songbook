@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
 assert len(a)==33 and len(by_slug)==33
 groups={g:[s['slug'] for s in a if g in s.get('collections',[s.get('collection','daily')])] for g in ['daily','weekly','friday','paduka-puja-bhajans']}
-assert {g:len(ls) for g,ls in groups.items()}=={'daily':7,'weekly':4,'friday':12,'paduka-puja-bhajans':10}
+assert {g:len(ls) for g,ls in groups.items()}=={'daily':8,'weekly':7,'friday':12,'paduka-puja-bhajans':10}
 assert all((s.get('collections') or s.get('tags')) and set(s['collections']) <= set(groups) for s in a)
 expected_paduka=['durga-saptashloki','om-jai-jagdish-hare','hanuman-chalisa','mahalakshmi-ashtakam','amma-baaramma','sharade-sharade','dehi-dehi-sharada','guru-bhakti-gurvashtakam','jagadguru-pancharatnamala','shankara-guru']
 assert sorted(groups['paduka-puja-bhajans'],key=lambda slug:by_slug[slug]['collection_order']['paduka-puja-bhajans'])==expected_paduka
@@ -18,7 +18,7 @@ old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],
 vedic_totals={'sri-suktam':[279]*3,'durga-suktam':[156]*3,'ganesha-atharvashirsham':[391]*3,'rudra-namakam-chamakam':[2317,2318,2318],'mantra-pushpam':[403]*3}
 assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras','navaratri-puja-passages'}
 assert by_slug['daily-puja-mantras']['svara_status']=='scan-only'
-assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali','lalitha-ashtottara-shatanamavali','lalitha-ashtottara-bhurupa','navaratri-puja-passages']
+assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali','lalitha-ashtottara-shatanamavali','lalitha-ashtottara-bhurupa','navaratri-puja-passages','durga-saptashloki']
 assert 'weekly' in by_slug['lalitha-sahasra-namavali']['collections'],'Tagging must not replace schedule'
 for s in old:
  assert by_slug[s['slug']]['verses']==s['verses'],f'Changed existing prayer: {s["slug"]}'
@@ -64,9 +64,10 @@ for s in a:
    assert numbers(chapter['namakam'])==list(range(1,12));assert numbers(chapter['chamakam'])==list(range(1,12))
   if s['slug']=='ganesha-atharvashirsham':assert numbers(text)==list(range(1,15))
   if s['slug']=='soundarya-lahari':
-   assert numbers(chapter['ananda'])==list(range(1,42));assert numbers(chapter['soundarya'])==list(range(42,101));assert numbers(chapter['appendix'])==[101,102,103]
+   assert numbers(chapter['ananda'])==list(range(1,42));assert numbers(chapter['soundarya'])==list(range(42,101));assert 'appendix' not in chapter
   if s['slug']=='lakshmi-ashtottara-shatanamavali':
-   assert len(v['chapters'])==1 and len(v['chapters'][0]['paragraphs'])==108
+   assert len(v['chapters'])==2 and len(v['chapters'][0]['paragraphs'])==108
+   assert len(v['chapters'][1]['paragraphs'])==2
    assert v['chapters'][0]['layout']=='names'
   if s['slug'] in ['lalitha-ashtottara-bhurupa','lalitha-ashtottara-shatanamavali']:
    ns=next(c for c in v['chapters'] if c['id']=='names');assert len(ns['paragraphs'])==108 and ns['layout']=='names'
@@ -85,8 +86,8 @@ for s in a:
    assert [c['id'] for c in v['chapters']]==['opening','main','closing']
    assert all(c['paragraphs'] for c in v['chapters'])
   if s['slug']=='lakshmi-nrisimha-karavalamba':
-   ps=v['chapters'][0]['paragraphs'];assert len(ps)==25
-   assert [int(re.search(r'(?:॥|\|\|)\s*(\d+)\s*(?:॥|\|\|)',p)[1]) for p in ps]==list(range(1,26))
+   ps=v['chapters'][0]['paragraphs'];assert len(ps)==17
+   assert [int(re.search(r'(?:॥|\|\|)\s*(\d+)\s*(?:॥|\|\|)',p)[1]) for p in ps]==list(range(1,18))
    assert s['preserve_original_transcription'] and len(s['verses'])==17
   if s['slug']=='hanuman-chalisa':
    assert numbers(chapter['chalisa'])==list(range(1,41));assert chapter['opening'] and chapter['closing'] and chapter['dhyana']
@@ -150,7 +151,7 @@ for i,c in enumerate(prelude['cues']):
   assert all(c['anchor'] in [ch['id'] for ch in v['chapters']] for v in extra)
 print('PASS Ganapathy offset/timeline and227exact cross-script Vedic marks in sourced ritual excerpts')
 
-counts={'durga-saptashloki':[7],'om-jai-jagdish-hare':[10],'sharade-sharade':[3,1],'dehi-dehi-sharada':[4,1],'guru-bhakti-gurvashtakam':[8,1,1],'jagadguru-pancharatnamala':[6],'shankara-guru':[3],'amma-baaramma':[1,10]}
+counts={'durga-saptashloki':[7,1],'om-jai-jagdish-hare':[10],'sharade-sharade':[3,1],'dehi-dehi-sharada':[4,1],'guru-bhakti-gurvashtakam':[8],'jagadguru-pancharatnamala':[6],'shankara-guru':[3],'amma-baaramma':[1,10]}
 for slug,want in counts.items():
  vs=json.loads((ROOT/'data'/by_slug[slug]['versions_file']).read_text())['versions']
  assert all([len(c['paragraphs']) for c in v['chapters']]==want for v in vs),slug
@@ -158,10 +159,13 @@ for slug,want in counts.items():
   assert vs[2]['chapters'][0]['paragraphs']==['\n'.join(by_slug[slug]['chorus'])]
   assert vs[2]['chapters'][1]['paragraphs']==['\n'.join(v) for v in by_slug[slug]['verses']]
  if slug=='guru-bhakti-gurvashtakam':
-  assert 'अनर्घ्याणि' in vs[1]['chapters'][1]['paragraphs'][0]
-  assert 'गुरोरुक्तवाक्ये' in vs[1]['chapters'][2]['paragraphs'][0]
+  assert len(vs[1]['chapters'][0]['paragraphs'])==8
+  archived=json.loads((ROOT/vs[1]['family_archive']).read_text())
+  assert 'अनर्घ्याणि' in archived['versions'][1]['chapters'][1]['paragraphs'][0]
+  assert 'गुरोरुक्तवाक्ये' in archived['versions'][1]['chapters'][2]['paragraphs'][0]
 assert by_slug['hanuman-chalisa']['scans']==['paduka-family-04.jpg','paduka-family-03.jpg']
 assert by_slug['shankara-guru']['scans']==[],'Contact-bearing scan must stay private'
 assert len(list((ROOT/'assets').glob('paduka-family-*.jpg')))==10
-assert all('daily' not in by_slug[slug]['collections'] for slug in expected_paduka)
+assert all('daily' not in by_slug[slug]['collections'] for slug in expected_paduka if slug!='durga-saptashloki')
+assert 'daily' in by_slug['durga-saptashloki']['collections'] and 'navaratri' in by_slug['durga-saptashloki']['tags']
 print('PASS Paduka10works,33total,all3scripts,split-pagecompleteness,unchangedAmmaRoman,private-scanexclusion')

@@ -8,51 +8,43 @@
       "chapters": [
         {
           "id": "main",
-          "title": "ಸ್ತೋತ್ರಮ್",
+          "title": "ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತ ಅಷ್ಟಕಮ್",
           "paragraphs": [
-            "ಸುವಕ್ಷೋಜಕುಂಭಾಂ ಸುಧಾಪೂರ್ಣಕುಂಭಾಂ",
-            "ಪ್ರಸಾದಾವಲಂಬಾಂ ಪ್ರಪುಣ್ಯಾವಲಂಬಾಮ್ ।",
-            "ಸದಾಸ್ಯೇಂದುಬಿಂಬಾಂ ಸದಾನೋಷ್ಠಬಿಂಬಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 1 ॥",
-            "ಕಟಾಕ್ಷೇ ದಯಾರ್ದ್ರಾಂ ಕರೇ ಜ್ಞಾನಮುದ್ರಾಂ",
-            "ಕಲಾಭಿರ್ವಿನಿದ್ರಾಂ ಕಲಾಪೈಃ ಸುಭದ್ರಾಮ್ ।",
-            "ಪುರಸ್ತ್ರೀಂ ವಿನಿದ್ರಾಂ ಪುರಸ್ತುಂಗಭದ್ರಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 2 ॥",
-            "ಲಲಾಮಾಂಕಫಾಲಾಂ ಲಸದ್ಗಾನಲೋಲಾಂ",
-            "ಸ್ವಭಕ್ತೈಕಪಾಲಾಂ ಯಶಃಶ್ರೀಕಪೋಲಾಮ್ ।",
-            "ಕರೇ ತ್ವಕ್ಷಮಾಲಾಂ ಕನತ್ಪತ್ರಲೋಲಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 3 ॥",
-            "ಸುಸೀಮಂತವೇಣೀಂ ದೃಶಾ ನಿರ್ಜಿತೈಣೀಂ",
-            "ರಮತ್ಕೀರವಾಣೀಂ ನಮದ್ವಜ್ರಪಾಣೀಮ್ ।",
-            "ಸುಧಾಮಂಥರಾಸ್ಯಾಂ ಮುದಾ ಚಿಂತ್ಯವೇಣೀಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 4 ॥",
-            "ಸುಶಾಂತಾಂ ಸುದೇಹಾಂ ದೃಗಂತೇ ಕಚಾಂತಾಂ",
-            "ಲಸತ್ಸಲ್ಲತಾಂಗೀಮನಂತಾಮಚಿಂತ್ಯಾಮ್ ।",
-            "ಸ್ಮರೇತ್ತಾಪಸೈಃ ಸರ್ಗಪೂರ್ವಸ್ಥಿತಾಂ ತಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 5 ॥",
-            "ಕುರಂಗೇ ತುರಂಗೇ ಮೃಗೇಂದ್ರೇ ಖಗೇಂದ್ರೇ",
-            "ಮರಾಲೇ ಮದೇಭೇ ಮಹೋಕ್ಷೇಽಧಿರೂಢಾಮ್ ।",
-            "ಮಹತ್ಯಾಂ ನವಮ್ಯಾಂ ಸದಾ ಸಾಮರೂಪಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 6 ॥",
-            "ಜ್ವಲತ್ಕಾಂತಿವಹ್ನಿಂ ಜಗನ್ಮೋಹನಾಂಗೀಂ",
-            "ಭಜೇ ಮಾನಸಾಂಭೋಜ ಸುಭ್ರಾಂತಭೃಂಗೀಮ್ ।",
-            "ನಿಜಸ್ತೋತ್ರಸಂಗೀತನೃತ್ಯಪ್ರಭಾಂಗೀಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 7 ॥",
-            "ಭವಾಂಭೋಜನೇತ್ರಾಜಸಂಪೂಜ್ಯಮಾನಾಂ",
-            "ಲಸನ್ಮಂದಹಾಸಪ್ರಭಾವಕ್ತ್ರಚಿಹ್ನಾಮ್ ।",
-            "ಚಲಚ್ಚಂಚಲಾಚಾರುತಾಟಂಕಕರ್ಣಾಂ",
-            "ಭಜೇ ಶಾರದಾಂಬಾಮಜಸ್ರಂ ಮದಂಬಾಮ್ ॥ 8 ॥",
-            "ಇತಿ ಶ್ರೀ ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತಾಷ್ಟಕಮ್ ।"
+            "ಸುವಕ್ಷೋಜಕುಮ್ಭಾಂ ಸುಧಾಪೂರ್ಣಕುಮ್ಭಾಂ\nಪ್ರಸಾದಾವಲಮ್ಬಾಂ ಪ್ರಪುಣ್ಯಾವಲಮ್ಬಾಮ್ ।\nಸದಾಸ್ಯೇನ್ದುಬಿಮ್ಬಾಂ ಸದಾನೋಷ್ಠಬಿಮ್ಬಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೧ ॥",
+            "ಕಟಾಕ್ಷೇ ದಯಾರ್ದ್ರಾಂ ಕರೇ ಜ್ಞಾನಮುದ್ರಾಂ\nಕಲಾಭಿರ್ವಿನಿದ್ರಾಂ ಕಲಾಪೈಃ ಸುಭದ್ರಾಮ್ ।\nಪುರಸ್ತ್ರೀಂ ವಿನಿದ್ರಾಂ ಪುರಸ್ತುಙ್ಗಭದ್ರಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೨ ॥",
+            "ಲಲಾಮಾಙ್ಕಫಾಲಾಂ ಲಸದ್ನಾನಲೋಲಾಂ\nಸ್ವಭಕ್ತೈಕಪಾಲಾಂ ಯಶಃಶ್ರೀಕಪೋಲಾಮ್ ।\nಕರೇ ತ್ವಕ್ಷಮಾಲಾಂ ಕನತ್ಪ್ರತ್ನಲೋಲಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೩ ॥",
+            "ಸುಸೀಮನ್ತವೇಣೀಂ ದೃಶಾ ನಿರ್ಜಿತೈಣೀಂ\nರಮತ್ಕೀರವಾಣೀಂ ನಮದ್ವಜ್ರಪಾಣೀಮ್ ।\nಸುಧಾಮನ್ಥರಾಸ್ಯಾಂ ಮುದಾ ಚಿನ್ತ್ಯವೇಣೀಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೪ ॥",
+            "ಸುಶಾನ್ತಾಂ ಸುದೇಹಾಂ ದೃಗನ್ತೇ ಕಚಾನ್ತಾಂ\nಲಸತ್ಸಲ್ಲತಾಙ್ಗೀಮನನ್ತಾಮಚಿನ್ತ್ಯಾಮ್ ।\nಸ್ಮೃತಾಂ ತಾಪಸೈಃ ಸರ್ಗಪೂರ್ವಸ್ಥಿತಾಂ ತಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೫ ॥",
+            "ಕುರಙ್ಗೇ ತುರಙ್ಗೇ ಮೃಗೇನ್ದ್ರೇ ಖಗೇನ್ದ್ರೇ\nಮರಾಲೇ ಮದೇಭೇ ಮಹೋಕ್ಷೇಽಧಿರೂಢಾಮ್ ।\nಮಹತ್ಯಾಂ ನವಮ್ಯಾಂ ಸದಾ ಸಾಮರೂಪಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೬ ॥",
+            "ಜ್ವಲತ್ಕಾನ್ತಿವಹ್ನಿಂ ಜಗನ್ಮೋಹನಾಙ್ಗೀಂ\nಭಜನ್ಮಾನಸಾಮ್ಭೋಜಸುಭ್ರಾನ್ತಭೃಙ್ಗೀಮ್ ।\nನಿಜಸ್ತೋತ್ರಸಙ್ಗೀತನೃತ್ಯಪ್ರಭಾಙ್ಗೀಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೭ ॥",
+            "ಭವಾಮ್ಭೋಜನೇತ್ರಾಜಸಮ್ಪೂಜ್ಯಮಾನಾಂ\nಲಸನ್ಮನ್ದಹಾಸಪ್ರಭಾವಕ್ತ್ರಚಿಹ್ನಾಮ್ ।\nಚಲಚ್ಚಞ್ಚಲಾಚಾರುತಾಟಙ್ಕಕರ್ಣಾಂ\nಭಜೇ ಶಾರದಾಮ್ಬಾಮಜಸ್ರಂ ಮದಮ್ಬಾಮ್ ॥ ೮ ॥"
+          ]
+        },
+        {
+          "id": "colophon",
+          "title": "ಸಮಾಪನ",
+          "paragraphs": [
+            ". ಶಾರದಾಭುಜಙ್ಗಪ್ರಯಾತಾಷ್ಟಕಂ ಸಮ್ಪೂರ್ಣಮ್ ."
           ]
         }
       ],
       "references": [
         {
-          "label": "Vaidika Vignanam — ಕನ್ನಡ",
-          "url": "https://vignanam.org/kannada/sharada-bhujanga-prayata-ashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/sharadastotrani/sharada-bhujanga-prayatashtakam"
         }
       ],
-      "source_sha256": "d991ea4ffb5a24650d45a0379d0a95080c6863daa7def3e40ac3113d73587891"
+      "source_sha256": "5f829d33e14d8df855146db8d8b9da8618a7d118abc7684899fd93eb38f77508",
+      "family_archive": "data/sringeri/before-sharada-bhujanga-ashtakam.json",
+      "primary_edition": "sringeri",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "IAST",
+        "from_sha256": "a486c871bca32f5bde4a64e4dc1dc96293273ed2ec65339a7b1f461c104f0022",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
+      },
+      "reading_notice": "Primary reading follows Sringeri as requested, including its printed spellings. Apparent source transcription issues and the previous family/published reading are documented under Sources; nothing has been silently corrected."
     },
     {
       "id": "devanagari",
@@ -62,51 +54,43 @@
       "chapters": [
         {
           "id": "main",
-          "title": "स्तोत्रम्",
+          "title": "शारदाभुजङ्गप्रयाताष्टकम्",
           "paragraphs": [
-            "सुवक्षोजकुम्भां सुधापूर्णकुम्भां",
-            "प्रसादावलम्बां प्रपुण्यावलम्बाम् ।",
-            "सदास्येन्दुबिम्बां सदानोष्ठबिम्बां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 1 ॥",
-            "कटाक्षे दयार्द्रां करे ज्ञानमुद्रां",
-            "कलाभिर्विनिद्रां कलापैः सुभद्राम् ।",
-            "पुरस्त्रीं विनिद्रां पुरस्तुङ्गभद्रां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 2 ॥",
-            "ललामाङ्कफालां लसद्गानलोलां",
-            "स्वभक्तैकपालां यशःश्रीकपोलाम् ।",
-            "करे त्वक्षमालां कनत्पत्रलोलां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 3 ॥",
-            "सुसीमन्तवेणीं दृशा निर्जितैणीं",
-            "रमत्कीरवाणीं नमद्वज्रपाणीम् ।",
-            "सुधामन्थरास्यां मुदा चिन्त्यवेणीं",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 4 ॥",
-            "सुशान्तां सुदेहां दृगन्ते कचान्तां",
-            "लसत्सल्लताङ्गीमनन्तामचिन्त्याम् ।",
-            "स्मरेत्तापसैः सर्गपूर्वस्थितां तां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 5 ॥",
-            "कुरङ्गे तुरङ्गे मृगेन्द्रे खगेन्द्रे",
-            "मराले मदेभे महोक्षेऽधिरूढाम् ।",
-            "महत्यां नवम्यां सदा सामरूपां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 6 ॥",
-            "ज्वलत्कान्तिवह्निं जगन्मोहनाङ्गीं",
-            "भजे मानसाम्भोज सुभ्रान्तभृङ्गीम् ।",
-            "निजस्तोत्रसङ्गीतनृत्यप्रभाङ्गीं",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 7 ॥",
-            "भवाम्भोजनेत्राजसम्पूज्यमानां",
-            "लसन्मन्दहासप्रभावक्त्रचिह्नाम् ।",
-            "चलच्चञ्चलाचारुताटङ्ककर्णां",
-            "भजे शारदाम्बामजस्रं मदम्बाम् ॥ 8 ॥",
-            "इति श्री शारदा भुजङ्ग प्रयाताष्टकम् ।"
+            "सुवक्षोजकुम्भां सुधापूर्णकुम्भां\nप्रसादावलम्बां प्रपुण्यावलम्बाम् ।\nसदास्येन्दुबिम्बां सदानोष्ठबिम्बां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ १ ॥",
+            "कटाक्षे दयार्द्रां करे ज्ञानमुद्रां\nकलाभिर्विनिद्रां कलापैः सुभद्राम् ।\nपुरस्त्रीं विनिद्रां पुरस्तुङ्गभद्रां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ २ ॥",
+            "ललामाङ्कफालां लसद्नानलोलां\nस्वभक्तैकपालां यशःश्रीकपोलाम् ।\nकरे त्वक्षमालां कनत्प्रत्नलोलां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ३ ॥",
+            "सुसीमन्तवेणीं दृशा निर्जितैणीं\nरमत्कीरवाणीं नमद्वज्रपाणीम् ।\nसुधामन्थरास्यां मुदा चिन्त्यवेणीं\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ४ ॥",
+            "सुशान्तां सुदेहां दृगन्ते कचान्तां\nलसत्सल्लताङ्गीमनन्तामचिन्त्याम् ।\nस्मृतां तापसैः सर्गपूर्वस्थितां तां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ५ ॥",
+            "कुरङ्गे तुरङ्गे मृगेन्द्रे खगेन्द्रे\nमराले मदेभे महोक्षेऽधिरूढाम् ।\nमहत्यां नवम्यां सदा सामरूपां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ६ ॥",
+            "ज्वलत्कान्तिवह्निं जगन्मोहनाङ्गीं\nभजन्मानसाम्भोजसुभ्रान्तभृङ्गीम् ।\nनिजस्तोत्रसङ्गीतनृत्यप्रभाङ्गीं\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ७ ॥",
+            "भवाम्भोजनेत्राजसम्पूज्यमानां\nलसन्मन्दहासप्रभावक्त्रचिह्नाम् ।\nचलच्चञ्चलाचारुताटङ्ककर्णां\nभजे शारदाम्बामजस्रं मदम्बाम् ॥ ८ ॥"
+          ]
+        },
+        {
+          "id": "colophon",
+          "title": "समापनम्",
+          "paragraphs": [
+            ". शारदाभुजङ्गप्रयाताष्टकं सम्पूर्णम् ."
           ]
         }
       ],
       "references": [
         {
-          "label": "Vaidika Vignanam — संस्कृतम्",
-          "url": "https://vignanam.org/devanagari/sharada-bhujanga-prayata-ashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/sharadastotrani/sharada-bhujanga-prayatashtakam"
         }
       ],
-      "source_sha256": "7a469a443b7476d6addb81c4d311b8fac988949a4e4d5f2324930afdfb9c477a"
+      "source_sha256": "bbc1883448af68aa2572e61b27bf033170c0829ed7e11d83233df111677e3677",
+      "family_archive": "data/sringeri/before-sharada-bhujanga-ashtakam.json",
+      "primary_edition": "sringeri",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "IAST",
+        "from_sha256": "a486c871bca32f5bde4a64e4dc1dc96293273ed2ec65339a7b1f461c104f0022",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
+      },
+      "reading_notice": "Primary reading follows Sringeri as requested, including its printed spellings. Apparent source transcription issues and the previous family/published reading are documented under Sources; nothing has been silently corrected."
     },
     {
       "id": "roman",
@@ -116,51 +100,43 @@
       "chapters": [
         {
           "id": "main",
-          "title": "Hymn",
+          "title": "Sharada Bhujanga Prayata Ashtakam",
           "paragraphs": [
-            "suvakṣōjakumbhāṃ sudhāpūrṇakumbhāṃ",
-            "prasādāvalambāṃ prapuṇyāvalambām ।",
-            "sadāsyēndubimbāṃ sadānōṣṭhabimbāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 1 ॥",
-            "kaṭākṣē dayārdrāṃ karē jñānamudrāṃ",
-            "kalābhirvinidrāṃ kalāpaiḥ subhadrām ।",
-            "purastrīṃ vinidrāṃ purastuṅgabhadrāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 2 ॥",
-            "lalāmāṅkaphālāṃ lasadgānalōlāṃ",
-            "svabhaktaikapālāṃ yaśaḥśrīkapōlām ।",
-            "karē tvakṣamālāṃ kanatpatralōlāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 3 ॥",
-            "susīmantavēṇīṃ dṛśā nirjitaiṇīṃ",
-            "ramatkīravāṇīṃ namadvajrapāṇīm ।",
-            "sudhāmantharāsyāṃ mudā chintyavēṇīṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 4 ॥",
-            "suśāntāṃ sudēhāṃ dṛgantē kachāntāṃ",
-            "lasatsallatāṅgīmanantāmachintyām ।",
-            "smarēttāpasaiḥ sargapūrvasthitāṃ tāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 5 ॥",
-            "kuraṅgē turaṅgē mṛgēndrē khagēndrē",
-            "marālē madēbhē mahōkṣē'dhirūḍhām ।",
-            "mahatyāṃ navamyāṃ sadā sāmarūpāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 6 ॥",
-            "jvalatkāntivahniṃ jaganmōhanāṅgīṃ",
-            "bhajē mānasāmbhōja subhrāntabhṛṅgīm ।",
-            "nijastōtrasaṅgītanṛtyaprabhāṅgīṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 7 ॥",
-            "bhavāmbhōjanētrājasampūjyamānāṃ",
-            "lasanmandahāsaprabhāvaktrachihnām ।",
-            "chalachchañchalāchārutāṭaṅkakarṇāṃ",
-            "bhajē śāradāmbāmajasraṃ madambām ॥ 8 ॥",
-            "iti śrī śāradā bhujaṅga prayātāṣṭakam ।"
+            "suvakṣojakumbhāṃ sudhāpūrṇakumbhāṃ\nprasādāvalambāṃ prapuṇyāvalambām ।\nsadāsyendubimbāṃ sadānoṣṭhabimbāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 1 ॥",
+            "kaṭākṣe dayārdrāṃ kare jñānamudrāṃ\nkalābhirvinidrāṃ kalāpaiḥ subhadrām ।\npurastrīṃ vinidrāṃ purastuṅgabhadrāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 2 ॥",
+            "lalāmāṅkaphālāṃ lasadnānalolāṃ\nsvabhaktaikapālāṃ yaśaḥśrīkapolām ।\nkare tvakṣamālāṃ kanatpratnalolāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 3 ॥",
+            "susīmantaveṇīṃ dṛśā nirjitaiṇīṃ\nramatkīravāṇīṃ namadvajrapāṇīm ।\nsudhāmantharāsyāṃ mudā cintyaveṇīṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 4 ॥",
+            "suśāntāṃ sudehāṃ dṛgante kacāntāṃ\nlasatsallatāṅgīmanantāmacintyām ।\nsmṛtāṃ tāpasaiḥ sargapūrvasthitāṃ tāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 5 ॥",
+            "kuraṅge turaṅge mṛgendre khagendre\nmarāle madebhe mahokṣe'dhirūḍhām ।\nmahatyāṃ navamyāṃ sadā sāmarūpāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 6 ॥",
+            "jvalatkāntivahniṃ jaganmohanāṅgīṃ\nbhajanmānasāmbhojasubhrāntabhṛṅgīm ।\nnijastotrasaṅgītanṛtyaprabhāṅgīṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 7 ॥",
+            "bhavāmbhojanetrājasampūjyamānāṃ\nlasanmandahāsaprabhāvaktracihnām ।\ncalaccañcalācārutāṭaṅkakarṇāṃ\nbhaje śāradāmbāmajasraṃ madambām ॥ 8 ॥"
+          ]
+        },
+        {
+          "id": "colophon",
+          "title": "Conclusion",
+          "paragraphs": [
+            ". śāradābhujaṅgaprayātāṣṭakaṃ sampūrṇam ."
           ]
         }
       ],
       "references": [
         {
-          "label": "Vaidika Vignanam — English (Roman)",
-          "url": "https://vignanam.org/english/sharada-bhujanga-prayata-ashtakam.html"
+          "label": "Sringeri Sharada Peetham — primary chanting edition",
+          "url": "https://www.sringeri.net/stotras/sharadastotrani/sharada-bhujanga-prayatashtakam"
         }
       ],
-      "source_sha256": "9f85f85af6f92b3f79eeb2f307076b7b4091a9a6d10a5360d8ef1dd26d09693c"
+      "source_sha256": "a486c871bca32f5bde4a64e4dc1dc96293273ed2ec65339a7b1f461c104f0022",
+      "family_archive": "data/sringeri/before-sharada-bhujanga-ashtakam.json",
+      "primary_edition": "sringeri",
+      "derivation": {
+        "tool": "indic-transliteration",
+        "version": "2.3.82",
+        "from_script": "IAST",
+        "from_sha256": "a486c871bca32f5bde4a64e4dc1dc96293273ed2ec65339a7b1f461c104f0022",
+        "note": "IAST text actually displayed by Sringeri; no lexical corrections, family variants or ASR inserted."
+      },
+      "reading_notice": "Primary reading follows Sringeri as requested, including its printed spellings. Apparent source transcription issues and the previous family/published reading are documented under Sources; nothing has been silently corrected."
     }
   ]
 }
