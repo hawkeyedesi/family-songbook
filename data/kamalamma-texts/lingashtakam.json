@@ -1,0 +1,94 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ಲಿಂಗಾಷ್ಟಕಮ್",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ಲಿಂಗಾಷ್ಟಕಮ್",
+          "layout": "verses",
+          "paragraphs": [
+            "ಬ್ರಹ್ಮಮುರಾರಿ ಸುರಾರ್ಚಿತ ಲಿಙ್ಗಂ\nನಿರ್ಮಲಭಾಸಿತ ಶೋಭಿತ ಲಿಙ್ಗಮ್ ।\nಜನ್ಮಜ ದುಃಖ ವಿನಾಶಕ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ದೇವಮುನಿ ಪ್ರವರಾರ್ಚಿತ ಲಿಙ್ಗಂ\nಕಾಮದಹನ ಕರುಣಾಕರ ಲಿಙ್ಗಮ್ ।\nರಾವಣ ದರ್ಪ ವಿನಾಶನ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ಸರ್ವ ಸುಗನ್ಧ ಸುಲೇಪಿತ ಲಿಙ್ಗಂ\nಬುದ್ಧಿ ವಿವರ್ಧನ ಕಾರಣ ಲಿಙ್ಗಮ್ ।\nಸಿದ್ಧ ಸುರಾಸುರ ವನ್ದಿತ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ಕನಕ ಮಹಾಮಣಿ ಭೂಷಿತ ಲಿಙ್ಗಂ\nಫಣಿಪತಿ ವೇಷ್ಟಿತ ಶೋಭಿತ ಲಿಙ್ಗಮ್ ।\nದಕ್ಷಸುಯಜ್ಞ ವಿನಾಶನ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ಕುಙ್ಕುಮ ಚನ್ದನ ಲೇಪಿತ ಲಿಙ್ಗಂ\nಪಙ್ಕಜ ಹಾರ ಸುಶೋಭಿತ ಲಿಙ್ಗಮ್ ।\nಸಞ್ಚಿತ ಪಾಪ ವಿನಾಶನ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ದೇವಗಣಾರ್ಚಿತ ಸೇವಿತ ಲಿಙ್ಗಂ\nಭಾವೈ-ರ್ಭಕ್ತಿಭಿರೇವ ಚ ಲಿಙ್ಗಮ್ ।\nದಿನಕರ ಕೋಟಿ ಪ್ರಭಾಕರ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ಅಷ್ಟದಲೋಪರಿವೇಷ್ಟಿತ ಲಿಙ್ಗಂ\nಸರ್ವಸಮುದ್ಭವ ಕಾರಣ ಲಿಙ್ಗಮ್ ।\nಅಷ್ಟದರಿದ್ರ ವಿನಾಶನ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್",
+            "ಸುರಗುರು ಸುರವರ ಪೂಜಿತ ಲಿಙ್ಗಂ\nಸುರವನ ಪುಷ್ಪ ಸದಾರ್ಚಿತ ಲಿಙ್ಗಮ್ ।\nಪರಾತ್ಪರಂ ಪರಮಾತ್ಮಕ ಲಿಙ್ಗಂ\nತತ್ಪ್ರಣಮಾಮಿ ಸದಾಶಿವ ಲಿಙ್ಗಮ್"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://vignanam.org/devanagari/lingashtakam.html",
+          "label": "Vaidika Vignanam — eight-verse text"
+        }
+      ],
+      "source_sha256": "05cff9e68063934ebe4dddffb5f69becf6fa1660b8a5664d8f1cfdeec131d82b"
+    },
+    {
+      "id": "devanagari",
+      "title": "Lingashtakam",
+      "label": "देवनागरी",
+      "lang": "sa",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Lingashtakam",
+          "layout": "verses",
+          "paragraphs": [
+            "ब्रह्ममुरारि सुरार्चित लिङ्गं\nनिर्मलभासित शोभित लिङ्गम् ।\nजन्मज दुःख विनाशक लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "देवमुनि प्रवरार्चित लिङ्गं\nकामदहन करुणाकर लिङ्गम् ।\nरावण दर्प विनाशन लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "सर्व सुगन्ध सुलेपित लिङ्गं\nबुद्धि विवर्धन कारण लिङ्गम् ।\nसिद्ध सुरासुर वन्दित लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "कनक महामणि भूषित लिङ्गं\nफणिपति वेष्टित शोभित लिङ्गम् ।\nदक्षसुयज्ञ विनाशन लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "कुङ्कुम चन्दन लेपित लिङ्गं\nपङ्कज हार सुशोभित लिङ्गम् ।\nसञ्चित पाप विनाशन लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "देवगणार्चित सेवित लिङ्गं\nभावै-र्भक्तिभिरेव च लिङ्गम् ।\nदिनकर कोटि प्रभाकर लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "अष्टदलोपरिवेष्टित लिङ्गं\nसर्वसमुद्भव कारण लिङ्गम् ।\nअष्टदरिद्र विनाशन लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्",
+            "सुरगुरु सुरवर पूजित लिङ्गं\nसुरवन पुष्प सदार्चित लिङ्गम् ।\nपरात्परं परमात्मक लिङ्गं\nतत्प्रणमामि सदाशिव लिङ्गम्"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://vignanam.org/devanagari/lingashtakam.html",
+          "label": "Vaidika Vignanam — eight-verse text"
+        }
+      ],
+      "source_sha256": "e62be42209c1510703c83fac01a7a4414d52f8c7b9c600eb080690844302056b"
+    },
+    {
+      "id": "roman",
+      "title": "Lingashtakam",
+      "label": "English (Roman)",
+      "lang": "sa-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Lingashtakam",
+          "layout": "verses",
+          "paragraphs": [
+            "brahmamurāri surārcita liṅgaṃ\nnirmalabhāsita śobhita liṅgam |\njanmaja duḥkha vināśaka liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "devamuni pravarārcita liṅgaṃ\nkāmadahana karuṇākara liṅgam |\nrāvaṇa darpa vināśana liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "sarva sugandha sulepita liṅgaṃ\nbuddhi vivardhana kāraṇa liṅgam |\nsiddha surāsura vandita liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "kanaka mahāmaṇi bhūṣita liṅgaṃ\nphaṇipati veṣṭita śobhita liṅgam |\ndakṣasuyajña vināśana liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "kuṅkuma candana lepita liṅgaṃ\npaṅkaja hāra suśobhita liṅgam |\nsañcita pāpa vināśana liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "devagaṇārcita sevita liṅgaṃ\nbhāvai-rbhaktibhireva ca liṅgam |\ndinakara koṭi prabhākara liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "aṣṭadalopariveṣṭita liṅgaṃ\nsarvasamudbhava kāraṇa liṅgam |\naṣṭadaridra vināśana liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam",
+            "suraguru suravara pūjita liṅgaṃ\nsuravana puṣpa sadārcita liṅgam |\nparātparaṃ paramātmaka liṅgaṃ\ntatpraṇamāmi sadāśiva liṅgam"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://vignanam.org/devanagari/lingashtakam.html",
+          "label": "Vaidika Vignanam — eight-verse text"
+        }
+      ],
+      "source_sha256": "31ced2650685ff12ace6b76bc88088a850b727059b176134efc50c34b2909fc9"
+    }
+  ]
+}

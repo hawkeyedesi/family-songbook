@@ -1,0 +1,88 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ಗಣೇಶ ಪಂಚರತ್ನಮ್",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ಗಣೇಶ ಪಂಚರತ್ನಮ್",
+          "layout": "verses",
+          "paragraphs": [
+            "ಮುದಾ ಕರಾತ್ತಮೋದಕಂ ಸದಾ ವಿಮುಕ್ತಿಸಾಧಕಂ\nಕಲಾಧರಾವತಂಸಕಂ ವಿಲಾಸಲೋಕರಕ್ಷಕಂ |\nಅನಾಯಕೈಕನಾಯಕಂ ವಿನಾಶಿತೇಭದೈತ್ಯಕಂ\nನತಾಶುಭಾಶುನಾಶಕಂ ನಮಾಮಿ ತಂ ವಿನಾಯಕಂ ||೧||",
+            "ನತೇತರಾತಿಭೀಕರಂ ನವೋದಿತಾರ್ಕಭಾಸ್ವರಂ\nನಮತ್ಸುರಾರಿನಿರ್ಜರಂ ನತಾಧಿಕಾಪದುದ್ಧರಂ |\nಸುರೇಶ್ವರಂ ನಿಧೀಶ್ವರಂ ಗಜೇಶ್ವರಂ ಗಣೇಶ್ವರಂ\nಮಹೇಶ್ವರಂ ತಮಾಶ್ರಯೇ ಪರಾತ್ಪರಂ ನಿರಂತರಂ ||೨||",
+            "ಸಮಸ್ತಲೋಕಶಂಕರಂ ನಿರಸ್ತದೈತ್ಯಕುಂಜರಂ\nದರೇತರೋದರಂ ವರಂ ವರೇಭವಕ್ತ್ರಮಕ್ಷರಂ |\nಕೃಪಾಕರಂ ಕ್ಷಮಾಕರಂ ಮುದಾಕರಂ ಯಶಸ್ಕರಂ\nಮನಸ್ಕರಂ ನಮಸ್ಕೃತಾಂ ನಮಸ್ಕರೋಮಿ ಭಾಸ್ವರಂ ||೩||",
+            "ಅಕಿಂಚನಾರ್ತಿಮಾರ್ಜನಂ ಚಿರಂತನೋಕ್ತಿಭಾಜನಂ\nಪುರಾರಿಪೂರ್ವನಂದನಂ ಸುರಾರಿಗರ್ವಚರ್ವಣಂ |\nಪ್ರಪಂಚನಾಶಭೀಷಣಂ ಧನಂಜಯಾದಿಭೂಷಣಂ\nಕಪೋಲದಾನವಾರಣಂ ಭಜೇ ಪುರಾಣವಾರಣಂ ||೪||",
+            "ನಿತಾಂತಕಾಂತದಂತಕಾಂತಿಮಂತಕಾಂತಕಾತ್ಮಜಂ\nಅಚಿಂತ್ಯರೂಪಮಂತಹೀನಮಂತರಾಯಕೃಂತನಂ |\nಹೃದಂತರೇ ನಿರಂತರಂ ವಸಂತಮೇವ ಯೋಗಿನಾಂ\nತಮೇಕದಂತಮೇವ ತಂ ವಿಚಿಂತಯಾಮಿ ಸಂತತಂ ||೫||",
+            "ಮಹಾಗಣೇಶಪಂಚರತ್ನಮಾದರೇಣ ಯೋಽನ್ವಹಂ\nಪ್ರಜಲ್ಪತಿ ಪ್ರಭಾತಕೇ ಹೃದಿ ಸ್ಮರನ್ ಗಣೇಶ್ವರಂ |\nಅರೋಗತಾಂ ಅದೋಷತಾಂ ಸುಸಾಹಿತೀಂ ಸುಪುತ್ರತಾಂ\nಸಮೀಹಿತಾಯುರಷ್ಟಭೂತಿಮಭ್ಯುಪೈತಿ ಸೋಽಚಿರಾತ್ ||೬||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sringeri.net/stotras/ganeshastotrani/ganesha-pancharatnam",
+          "label": "Sringeri Sharada Peetham — official text"
+        }
+      ],
+      "source_sha256": "ec1901a225220d5aad86d5f1e4a319e5ebcb708ad4143c15a1b522a48b997778"
+    },
+    {
+      "id": "devanagari",
+      "title": "Ganesha Pancharatnam",
+      "label": "देवनागरी",
+      "lang": "sa",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Ganesha Pancharatnam",
+          "layout": "verses",
+          "paragraphs": [
+            "मुदा करात्तमोदकं सदा विमुक्तिसाधकं\nकलाधरावतंसकं विलासलोकरक्षकम्।\nअनायकैकनायकं विनाशितेभदैत्यकं\nनताशुभाशुनाशकं नमामि तं विनायकम्॥१॥",
+            "नतेतरातिभीकरं नवोदितार्कभास्वरं\nनमत्सुरारिनिर्जरं नताधिकापदुद्धरम्।\nसुरेश्वरं निधीश्वरं गजेश्वरं गणेश्वरं\nमहेश्वरं तमाश्रये परात्परं निरन्तरम्॥२॥",
+            "समस्तलोकशङ्करं निरस्तदैत्यकुञ्जरं\nदरेतरोदरं वरं वरेभवक्त्रमक्षरम्।\nकृपाकरं क्षमाकरं मुदाकरं यशस्करं\nमनस्करं नमस्कृतां नमस्करोमि भास्वरम्॥३॥",
+            "अकिञ्चनार्तिमार्जनं चिरन्तनोक्तिभाजनं\nपुरारिपूर्वनन्दनं सुरारिगर्वचर्वणम्।\nप्रपञ्चनाशभीषणं धनञ्जयादिभूषणं\nकपोलदानवारणं भजे पुराणवारणम्॥४॥",
+            "नितान्तकान्तदन्तकान्तिमन्तकान्तकात्मजं\nअचिन्त्यरूपमन्तहीनमन्तरायकृन्तनम्।\nहृदन्तरे निरन्तरं वसन्तमेव योगिनां\nतमेकदन्तमेव तं विचिन्तयामि सन्ततम्॥५॥",
+            "महागणेशपञ्चरत्नमादरेण योऽन्वहं\nप्रजल्पति प्रभातके हृदि स्मरन् गणेश्वरम्।\nअरोगतां अदोषतां सुसाहितीं सुपुत्रतां\nसमीहितायुरष्टभूतिमभ्युपैति सोऽचिरात्॥६॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sringeri.net/stotras/ganeshastotrani/ganesha-pancharatnam",
+          "label": "Sringeri Sharada Peetham — official text"
+        }
+      ],
+      "source_sha256": "5e1950408a94fedd637e220233d778e8c947810b20635f420813fab14240b369"
+    },
+    {
+      "id": "roman",
+      "title": "Ganesha Pancharatnam",
+      "label": "English (Roman)",
+      "lang": "sa-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Ganesha Pancharatnam",
+          "layout": "verses",
+          "paragraphs": [
+            "mudā karāttamodakaṃ sadā vimuktisādhakaṃ\nkalādharāvataṃsakaṃ vilāsalokarakṣakam;\nanāyakaikanāyakaṃ vināśitebhadaityakaṃ\nnatāśubhāśunāśakaṃ namāmi taṃ vināyakam.1.",
+            "natetarātibhīkaraṃ navoditārkabhāsvaraṃ\nnamatsurārinirjaraṃ natādhikāpaduddharam;\nsureśvaraṃ nidhīśvaraṃ gajeśvaraṃ gaṇeśvaraṃ\nmaheśvaraṃ tamāśraye parātparaṃ nirantaram.2.",
+            "samastalokaśaṅkaraṃ nirastadaityakuñjaraṃ\ndaretarodaraṃ varaṃ varebhavaktramakṣaram;\nkṛpākaraṃ kṣamākaraṃ mudākaraṃ yaśaskaraṃ\nmanaskaraṃ namaskṛtāṃ namaskaromi bhāsvaram.3.",
+            "akiñcanārtimārjanaṃ cirantanoktibhājanaṃ\npurāripūrvanandanaṃ surārigarvacarvaṇam;\nprapañcanāśabhīṣaṇaṃ dhanañjayādibhūṣaṇaṃ\nkapoladānavāraṇaṃ bhaje purāṇavāraṇam.4.",
+            "nitāntakāntadantakāntimantakāntakātmajaṃ\nacintyarūpamantahīnamantarāyakṛntanam;\nhṛdantare nirantaraṃ vasantameva yogināṃ\ntamekadantamekameva cintayāmi santatam .5.",
+            "mahāgaṇeśapañcaratnamādareṇa yo’nvahaṃ\nprajalpati prabhātake hṛdi smaran gaṇeśvaram;\narogatāṃ adoṣatāṃ susāhitīṃ suputratāṃ\nsamīhitāyuraṣṭabhūtimabhyupaiti so’cirāt.6."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sringeri.net/stotras/ganeshastotrani/ganesha-pancharatnam",
+          "label": "Sringeri Sharada Peetham — official text"
+        }
+      ],
+      "source_sha256": "4903923ff4ffddc6ca497dd6f696f5ed6e29c9215d9f46c9aa176ab2357f6fc1"
+    }
+  ]
+}

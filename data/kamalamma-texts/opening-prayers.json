@@ -1,0 +1,85 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ಆರಂಭದ ಪ್ರಾರ್ಥನೆಗಳು",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ಆರಂಭದ ಪ್ರಾರ್ಥನೆಗಳು",
+          "layout": "verses",
+          "paragraphs": [
+            "ಶುಕ್ಲಾಮ್ಬರಧರಂ ವಿಷ್ಣುಂ ಶಶಿವರ್ಣಂ ಚತುರ್ಭುಜಮ್ ।\nಪ್ರಸನ್ನವದನಂ ಧ್ಯಾಯೇತ್ ಸರ್ವವಿಘ್ನೋಪಶಾನ್ತಯೇ ॥",
+            "ಗುರುರ್ಬ್ರಹ್ಮಾ ಗುರುರ್ವಿಷ್ಣುರ್ಗುರುರ್ದೇವೋ ಮಹೇಶ್ವರಃ ।\nಗುರುಃ ಸಾಕ್ಷಾತ್ ಪರಂ ಬ್ರಹ್ಮ ತಸ್ಮೈ ಶ್ರೀಗುರವೇ ನಮಃ ॥",
+            "ಯಾ ಕುನ್ದೇನ್ದುತುಷಾರಹಾರಧವಲಾ ಯಾ ಶುಭ್ರವಸ್ತ್ರಾವೃತಾ\nಯಾ ವೀಣಾವರದಣ್ಡಮಣ್ಡಿತಕರಾ ಯಾ ಶ್ವೇತಪದ್ಮಾಸನಾ ।\nಯಾ ಬ್ರಹ್ಮಾಚ್ಯುತಶಙ್ಕರಪ್ರಭೃತಿಭಿರ್ದೇವೈಃ ಸದಾ ಪೂಜಿತಾ\nಸಾ ಮಾಂ ಪಾತು ಸರಸ್ವತೀ ಭಗವತೀ ನಿಃಶೇಷಜಾಡ್ಯಾಪಹಾ ॥",
+            "ಮೃತ್ಯುಞ್ಜಯಾಯ ರುದ್ರಾಯ ನೀಲಕಣ್ಠಾಯ ಶಮ್ಭವೇ ।\nಅಮೃತೇಶಾಯ ಶರ್ವಾಯ ಮಹಾದೇವಾಯ ತೇ ನಮಃ ॥",
+            "ನಮಃ ಸೂರ್ಯಾಯ ಚನ್ದ್ರಾಯ ಮಙ್ಗಲಾಯ ಬುಧಾಯ ಚ ।\nಗುರುಶುಕ್ರಶನಿಭ್ಯಶ್ಚ ರಾಹವೇ ಕೇತವೇ ನಮಃ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "b261f7430bc32508787694257a7cdbecd8da5552f7fd47790c08c4e5b40ed2b0"
+    },
+    {
+      "id": "devanagari",
+      "title": "Opening prayers",
+      "label": "देवनागरी",
+      "lang": "sa",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Opening prayers",
+          "layout": "verses",
+          "paragraphs": [
+            "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥",
+            "गुरुर्ब्रह्मा गुरुर्विष्णुर्गुरुर्देवो महेश्वरः ।\nगुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः ॥",
+            "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।\nया ब्रह्माच्युतशङ्करप्रभृतिभिर्देवैः सदा पूजिता\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥",
+            "मृत्युञ्जयाय रुद्राय नीलकण्ठाय शम्भवे ।\nअमृतेशाय शर्वाय महादेवाय ते नमः ॥",
+            "नमः सूर्याय चन्द्राय मङ्गलाय बुधाय च ।\nगुरुशुक्रशनिभ्यश्च राहवे केतवे नमः ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "28bc36c54f23e61a087c723021abd19c16b490331636823dc1a2d6a0ffa2a249"
+    },
+    {
+      "id": "roman",
+      "title": "Opening prayers",
+      "label": "English (Roman)",
+      "lang": "sa-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Opening prayers",
+          "layout": "verses",
+          "paragraphs": [
+            "śuklāmbaradharaṃ viṣṇuṃ śaśivarṇaṃ caturbhujam |\nprasannavadanaṃ dhyāyet sarvavighnopaśāntaye ||",
+            "gururbrahmā gururviṣṇurgururdevo maheśvaraḥ |\nguruḥ sākṣāt paraṃ brahma tasmai śrīgurave namaḥ ||",
+            "yā kundendutuṣārahāradhavalā yā śubhravastrāvṛtā\nyā vīṇāvaradaṇḍamaṇḍitakarā yā śvetapadmāsanā |\nyā brahmācyutaśaṅkaraprabhṛtibhirdevaiḥ sadā pūjitā\nsā māṃ pātu sarasvatī bhagavatī niḥśeṣajāḍyāpahā ||",
+            "mṛtyuñjayāya rudrāya nīlakaṇṭhāya śambhave |\namṛteśāya śarvāya mahādevāya te namaḥ ||",
+            "namaḥ sūryāya candrāya maṅgalāya budhāya ca |\nguruśukraśanibhyaśca rāhave ketave namaḥ ||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "e2ac93946343a9d1df9a4aa0dd8187ba2057a9832496365377b55f86e8d155af"
+    }
+  ]
+}

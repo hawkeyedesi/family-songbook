@@ -1,0 +1,79 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ರಾಮ ಭಜನೆಗಳು ಮತ್ತು ಮಂತ್ರ",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ರಾಮ ಭಜನೆಗಳು ಮತ್ತು ಮಂತ್ರ",
+          "layout": "verses",
+          "paragraphs": [
+            "ರಘುಪತಿ ರಾಘವ ರಾಜಾ ರಾಮ ।\nಪತಿತ ಪಾವನ ಸೀತಾ ರಾಮ ॥\nಈಶ್ವರ ಅಲ್ಲಾಹ ತೇರೇ ನಾಮ ।\nಸಬಕೋ ಸನ್ಮತಿ ದೇ ಭಗವಾನ್ ॥",
+            "ಹರೇ ರಾಮ ಹರೇ ರಾಮ ರಾಮ ರಾಮ ಹರೇ ಹರೇ ।\nಹರೇ ಕೃಷ್ಣ ಹರೇ ಕೃಷ್ಣ ಕೃಷ್ಣ ಕೃಷ್ಣ ಹರೇ ಹರೇ ॥",
+            "ರಾಮಾಯ ರಾಮಭದ್ರಾಯ ರಾಮಚನ್ದ್ರಾಯ ವೇಧಸೇ ।\nರಘುನಾಥಾಯ ನಾಥಾಯ ಸೀತಾಯಾಃ ಪತಯೇ ನಮಃ ॥\nಶ್ರೀ ರಾಮ ಜಯ ರಾಮ ಜಯ ಜಯ ರಾಮ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "03e3bc27d69b04863572b579ff107aced87166fbeb4637fa609439c33dcaf506"
+    },
+    {
+      "id": "devanagari",
+      "title": "Rama bhajans and mantra",
+      "label": "देवनागरी",
+      "lang": "sa",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Rama bhajans and mantra",
+          "layout": "verses",
+          "paragraphs": [
+            "रघुपति राघव राजा राम ।\nपतित पावन सीता राम ॥\nईश्वर अल्लाह तेरे नाम ।\nसबको सन्मति दे भगवान् ॥",
+            "हरे राम हरे राम राम राम हरे हरे ।\nहरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे ॥",
+            "रामाय रामभद्राय रामचन्द्राय वेधसे ।\nरघुनाथाय नाथाय सीतायाः पतये नमः ॥\nश्री राम जय राम जय जय राम ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "8844a5fcd5628c582df7527a71772aedc5eb09315ff1ff912fd33ec4cbd99137"
+    },
+    {
+      "id": "roman",
+      "title": "Rama bhajans and mantra",
+      "label": "English (Roman)",
+      "lang": "sa-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Rama bhajans and mantra",
+          "layout": "verses",
+          "paragraphs": [
+            "raghupati rāghava rājā rāma |\npatita pāvana sītā rāma ||\nīśvara allāha tere nāma |\nsabako sanmati de bhagavān ||",
+            "hare rāma hare rāma rāma rāma hare hare |\nhare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare ||",
+            "rāmāya rāmabhadrāya rāmacandrāya vedhase |\nraghunāthāya nāthāya sītāyāḥ pataye namaḥ ||\nśrī rāma jaya rāma jaya jaya rāma ||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "58921e98fb51633df6158691fa1bff2b1a1c9604c3bab0878f22a38eedc75df3"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ಈಶ ನಿನ್ನ ಚರಣ ಭಜನೆ",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ಈಶ ನಿನ್ನ ಚರಣ ಭಜನೆ",
+          "layout": "verses",
+          "paragraphs": [
+            "ಈಶ ನಿನ್ನ ಚರಣ ಭಜನೆ ಆಶೆಯಿಂದ ಮಾಡುವೆನು\nದೋಷರಾಶಿ ನಾಶಮಾಡು ಶ್ರೀಶ ಕೇಶವ, ಶ್ರೀಶ ಕೇಶವ |",
+            "ಶರಣು ಹೊಕ್ಕೆನಯ್ಯ ಎನ್ನ ಮರಣ ಸಮಯದಲ್ಲಿ ನಿನ್ನ\nಚರಣ ಸ್ಮರಣೆ ಕರುಣಿಸಯ್ಯ ನಾರಾಯಣ ||",
+            "ಶೋಧಿಸೆನ್ನ ಭವದ ಕಲುಷ ಭೋಧಿಸಯ್ಯ ಜ್ಞಾನವೆನಗೆ\nಬಾಧಿಸುವ ಯಮನ ಬಾಧೆ ಬಿಡಿಸು ಮಾಧವ , ಬಿಡಿಸು ಮಾಧವ |",
+            "ಹಿಂದನೇಕ ಯೋನಿಗಳಲಿ ಬಂದು ಬಂದು ನೊಂದೆನಯ್ಯ\nಇಂದು ಭವದ ಬಂಧ ಬಿಡಿಸೋ ತಂದೆ ಗೋವಿಂದ ||",
+            "ಭ್ರಷ್ಟನೆನಿಸಬೇಡ ಕೃಷ್ಣ ಇಷ್ಟು ಮಾತ್ರ ಬೇಡಿಕೊಂಬೆ\nಶಿಷ್ಟರೊಡನೆ ಇಟ್ಟು ಕಷ್ಟ ಬಿಡಿಸು ವಿಷ್ಣುವೇ , ವಿಷ್ಣುವೇ |",
+            "ಮದನನಯ್ಯ ನಿನ್ನ ಮಹಿಮೆ ವದನದಲ್ಲಿ ನುಡಿಯುವಂತೆ\nಹೃದಯದಲ್ಲಿ ಹುದುಗಿಸಯ್ಯ ಮಧುಸೂದನ ||",
+            "ಕವಿದುಕೊಂಡು ಇರುವ ಪಾಪ ಸವೆದು ಪೋಗುವಂತೆ ಮಾಡಿ\nಜವನ ಬಾಧೆಯನ್ನು ಬಿಡಿಸೋ ಶ್ರೀತ್ರಿವಿಕ್ರಮ, ಶ್ರೀತ್ರಿವಿಕ್ರಮ |",
+            "ಕಾಮಜನಕ ನಿನ್ನ ನಾಮ ಪ್ರೇಮದಿಂದ ಪಾಡುವಂಥ\nನೇಮವೆನಗೆ ಪಾಲಿಸಯ್ಯ ಸ್ವಾಮಿ ವಾಮನ ||",
+            "ಮೊದಲು ನಿನ್ನ ಪಾದಪೂಜೆ ಒದಗುವಂತೆ ಮಾಡೋ ಎನ್ನ\nಹೃದಯದೊಳಗೆ ಸದನ ಮಾಡು ಮುದದಿ ಶ್ರೀಧರ , ಮುದದಿ ಶ್ರೀಧರ |",
+            "ಹುಸಿಯನಾಡಿ ಹೊಟ್ಟೆ ಹೊರೆವ ವಿಷಯದಲ್ಲಿ ರಸಿಕನೆಂದು\nಹುಸಿಗೆ ಹಾಕದಿರೋ ಎನ್ನ ಹೃಷೀಕೇಶನೇ ||",
+            "ಬಿದ್ದು ಭವದನೇಕ ಜನುಮ ಬದ್ದನಾಗಿ ಕಲುಷದಿಂದ\nಗೆದ್ದು ಪೋಪ ಬುಧ್ಧಿ ತೋರೊ ಪದ್ಮನಾಭನೆ , ಪದ್ಮನಾಭನೆ |",
+            "ಕಾಮಕ್ರೋಧ ಬಿಡಿಸಿ ನಿನ್ನ ನಾಮ ಜಿಹ್ವೆಯೊಳಗೆ ನುಡಿಸು\nಶ್ರೀಮಹಾನುಭಾವನಾದ ದಾಮೋದರ ||",
+            "ಪಂಕಜಾಕ್ಷ ನೀನು ಎನ್ನ ಮಂಕುಬುದ್ಧಿಯನ್ನು ಬಿಡಿಸಿ\nಕಿಂಕರನ್ನ ಮಾಡಿಕೊಳ್ಳೋ ಸಂಕರ್ಷಣ , ಸಂಕರ್ಷಣ |",
+            "ಏಸು ಜನ್ಮ ಬಂದರೇನು ದಾಸನಲ್ಲವೇನು ನಾನು\nಘಾಸಿ ಮಾಡದಿರು ಇನ್ನು ವಾಸುದೇವನೇ ||",
+            "ಬುದ್ಧಿ ಶೂನ್ಯನಾಗಿ ಎನ್ನ ಬದ್ಧಕಾಯ ಕುಹಕ ಮನವ\nತಿದ್ದಿ ಹೃದಯ ಶುದ್ಧಿ ಮಾಡೋ ಪ್ರದ್ಯುಮ್ನನೇ , ಪ್ರದ್ಯುಮ್ನನೇ |",
+            "ಜನನಿ ಜನಕ ನೀನೆಯೆಂದು ನೆನೆವೆನಯ್ಯ ದೀನಬಂಧು\nಎನಗೆ ಮುಕ್ತಿ ಪಾಲಿಸಿನ್ನು ಅನಿರುದ್ಧನೇ ||",
+            "ಹರುಷದಿಂದ ನಿನ್ನ ನಾಮ ಸ್ಮರಿಸುವಂತೆ ಮಾಡು ನೇಮ\nಇರಿಸು ಚರಣದಲ್ಲಿ ಪ್ರೇಮ ಪುರುಷೋತ್ತಮ, ಪುರುಷೋತ್ತಮ\n|",
+            "ಸಾಧುಸಂಗ ಕೊಟ್ಟು ನಿನ್ನ ಪಾದಭಜನೆ ಇತ್ತು ಎನ್ನ\nಭೇದಮಾಡಿ ನೋಡದಿರೊ ಹೇ ಅಧೋಕ್ಷಜ ||",
+            "ಚಾರುಚರಣ ತೋರಿ ಎನಗೆ ಪಾರುಗಾಣಿಸಯ್ಯ ಕೊನೆಗೆ\nಭಾರ ಹಾಕಿರುವೆ ನಿನಗೆ ನಾರಸಿಂಹನೇ , ನಾರಸಿಂಹನೇ\n|",
+            "ಸಂಚಿತಾದಿ ಪಾಪಗಳನು ಕಿಂಚಿತಾದ ಪೀಡೆಗಳನು\nಮುಂಚಿತಾಗಿ ಕಳೆದು ಪೊರೆಯೊ ಸ್ವಾಮಿ ಅಚ್ಯುತ ||",
+            "ಜ್ಞಾನ ಭಕುತಿ ಕೊಟ್ಟು ನಿನ್ನ ಧ್ಯಾನದಲ್ಲಿ ಇಟ್ಟು ಸದಾ\nಹೀನ ಬುದ್ಧಿ ಬಿಡಿಸೊ ಮುನ್ನ ಶ್ರೀ ಜನಾರ್ಧನ , ಶ್ರೀ ಜನಾರ್ಧನ |",
+            "ಜಪತಪಾನುಷ್ಠಾನವಿಲ್ಲ ದೆ ಕುಪಿತಗಾಮಿಯಾದ ಎನ್ನ\nಕೃಪೆಯ ಮಾಡಿ ಕ್ಷಮಿಸಬೇಕು ಹೇ ಉಪೇಂದ್ರನೇ ||",
+            "ಮೊರೆಯ ಇಡುವೆನಯ್ಯ ನಿನಗೆ ಶರಧಿಶಯನ ಶುಭಮತಿಯ\nಇರಿಸೋ ಭಕ್ತರೊಳಗೆ ಪರಮ ಪುರುಷ ಶ್ರೀಹರೇ , ಪುರುಷ ಶ್ರೀಹರೇ |",
+            "ಹುಟ್ಟಿಸಲೇಬೇಡ ಇನ್ನು ಹುಟ್ಟಿಸಿದಕೆ ಪಾಲಿಸಿನ್ನು\nಇಷ್ಟು ಮಾತ್ರ ಬೇಡಿಕೊಂಬೆ ಶ್ರೀ ಕೃಷ್ಣನೇ ||",
+            "ಸತ್ಯವಾದ ನಾಮಗಳನು ನಿತ್ಯದಲ್ಲಿ ಪಠಿಸುವವರ\nಅರ್ಥಿಯಿಂದ ಸಲಹುತಿರುವ ಕರ್ತೃ ಕೇಶವ , ಕೇಶವ |",
+            "ಮರೆಯದಲೆ ಹರಿಯ ನಾಮ ಬರೆದು ಓದಿ ಪೇಳ್ದವರಿಗೆ\nಕರೆದು ಮುಕ್ತಿ ಕೊಡುವ ನೆಲೆಯಾದಿಕೇಶವ , ನೆಲೆಯಾದಿಕೇಶವ || ಈಶ ನಿನ್ನ||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://kannadasavigana.blogspot.com/2025/09/esha-ninna-charana-bhajane-song-lyrics.html",
+          "label": "Kannada Savigana — Kannada text"
+        }
+      ],
+      "source_sha256": "a25be87df019c3ad4468cbdc183aec932dcbd2ba07654055c9f28b7c0325128c"
+    },
+    {
+      "id": "devanagari",
+      "title": "Eesha Ninna Charana Bhajane",
+      "label": "देवनागरी",
+      "lang": "kn-Deva",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Eesha Ninna Charana Bhajane",
+          "layout": "verses",
+          "paragraphs": [
+            "ईश निन्न चरण भजनॆ आशॆयिंद माडुवॆनु\nदोषराशि नाशमाडु श्रीश केशव, श्रीश केशव |",
+            "शरणु हॊक्कॆनय्य ऎन्न मरण समयदल्लि निन्न\nचरण स्मरणॆ करुणिसय्य नारायण ||",
+            "शोधिसॆन्न भवद कलुष भोधिसय्य ज्ञानवॆनगॆ\nबाधिसुव यमन बाधॆ बिडिसु माधव , बिडिसु माधव |",
+            "हिंदनेक योनिगळलि बंदु बंदु नॊंदॆनय्य\nइंदु भवद बंध बिडिसो तंदॆ गोविंद ||",
+            "भ्रष्टनॆनिसबेड कृष्ण इष्टु मात्र बेडिकॊंबॆ\nशिष्टरॊडनॆ इट्टु कष्ट बिडिसु विष्णुवे , विष्णुवे |",
+            "मदननय्य निन्न महिमॆ वदनदल्लि नुडियुवंतॆ\nहृदयदल्लि हुदुगिसय्य मधुसूदन ||",
+            "कविदुकॊंडु इरुव पाप सवॆदु पोगुवंतॆ माडि\nजवन बाधॆयन्नु बिडिसो श्रीत्रिविक्रम, श्रीत्रिविक्रम |",
+            "कामजनक निन्न नाम प्रेमदिंद पाडुवंथ\nनेमवॆनगॆ पालिसय्य स्वामि वामन ||",
+            "मॊदलु निन्न पादपूजॆ ऒदगुवंतॆ माडो ऎन्न\nहृदयदॊळगॆ सदन माडु मुददि श्रीधर , मुददि श्रीधर |",
+            "हुसियनाडि हॊट्टॆ हॊरॆव विषयदल्लि रसिकनॆंदु\nहुसिगॆ हाकदिरो ऎन्न हृषीकेशने ||",
+            "बिद्दु भवदनेक जनुम बद्दनागि कलुषदिंद\nगॆद्दु पोप बुध्धि तोरॊ पद्मनाभनॆ , पद्मनाभनॆ |",
+            "कामक्रोध बिडिसि निन्न नाम जिह्वॆयॊळगॆ नुडिसु\nश्रीमहानुभावनाद दामोदर ||",
+            "पंकजाक्ष नीनु ऎन्न मंकुबुद्धियन्नु बिडिसि\nकिंकरन्न माडिकॊळ्ळो संकर्षण , संकर्षण |",
+            "एसु जन्म बंदरेनु दासनल्लवेनु नानु\nघासि माडदिरु इन्नु वासुदेवने ||",
+            "बुद्धि शून्यनागि ऎन्न बद्धकाय कुहक मनव\nतिद्दि हृदय शुद्धि माडो प्रद्युम्नने , प्रद्युम्नने |",
+            "जननि जनक नीनॆयॆंदु नॆनॆवॆनय्य दीनबंधु\nऎनगॆ मुक्ति पालिसिन्नु अनिरुद्धने ||",
+            "हरुषदिंद निन्न नाम स्मरिसुवंतॆ माडु नेम\nइरिसु चरणदल्लि प्रेम पुरुषोत्तम, पुरुषोत्तम\n|",
+            "साधुसंग कॊट्टु निन्न पादभजनॆ इत्तु ऎन्न\nभेदमाडि नोडदिरॊ हे अधोक्षज ||",
+            "चारुचरण तोरि ऎनगॆ पारुगाणिसय्य कॊनॆगॆ\nभार हाकिरुवॆ निनगॆ नारसिंहने , नारसिंहने\n|",
+            "संचितादि पापगळनु किंचिताद पीडॆगळनु\nमुंचितागि कळॆदु पॊरॆयॊ स्वामि अच्युत ||",
+            "ज्ञान भकुति कॊट्टु निन्न ध्यानदल्लि इट्टु सदा\nहीन बुद्धि बिडिसॊ मुन्न श्री जनार्धन , श्री जनार्धन |",
+            "जपतपानुष्ठानविल्ल दॆ कुपितगामियाद ऎन्न\nकृपॆय माडि क्षमिसबेकु हे उपेंद्रने ||",
+            "मॊरॆय इडुवॆनय्य निनगॆ शरधिशयन शुभमतिय\nइरिसो भक्तरॊळगॆ परम पुरुष श्रीहरे , पुरुष श्रीहरे |",
+            "हुट्टिसलेबेड इन्नु हुट्टिसिदकॆ पालिसिन्नु\nइष्टु मात्र बेडिकॊंबॆ श्री कृष्णने ||",
+            "सत्यवाद नामगळनु नित्यदल्लि पठिसुववर\nअर्थियिंद सलहुतिरुव कर्तृ केशव , केशव |",
+            "मरॆयदलॆ हरिय नाम बरॆदु ओदि पेळ्दवरिगॆ\nकरॆदु मुक्ति कॊडुव नॆलॆयादिकेशव , नॆलॆयादिकेशव || ईश निन्न||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://kannadasavigana.blogspot.com/2025/09/esha-ninna-charana-bhajane-song-lyrics.html",
+          "label": "Kannada Savigana — Kannada text"
+        }
+      ],
+      "source_sha256": "103a610e440a34a52aa82ec4ba53d75fe80920fc84e83c0bd26765c08b4b30b1"
+    },
+    {
+      "id": "roman",
+      "title": "Eesha Ninna Charana Bhajane",
+      "label": "English (Roman)",
+      "lang": "kn-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Eesha Ninna Charana Bhajane",
+          "layout": "verses",
+          "paragraphs": [
+            "īśa ninna caraṇa bhajanè āśèyiṃda māḍuvènu\ndoṣarāśi nāśamāḍu śrīśa keśava, śrīśa keśava |",
+            "śaraṇu hòkkènayya ènna maraṇa samayadalli ninna\ncaraṇa smaraṇè karuṇisayya nārāyaṇa ||",
+            "śodhisènna bhavada kaluṣa bhodhisayya jñānavènagè\nbādhisuva yamana bādhè biḍisu mādhava , biḍisu mādhava |",
+            "hiṃdaneka yonigaḻali baṃdu baṃdu nòṃdènayya\niṃdu bhavada baṃdha biḍiso taṃdè goviṃda ||",
+            "bhraṣṭanènisabeḍa kṛṣṇa iṣṭu mātra beḍikòṃbè\nśiṣṭaròḍanè iṭṭu kaṣṭa biḍisu viṣṇuve , viṣṇuve |",
+            "madananayya ninna mahimè vadanadalli nuḍiyuvaṃtè\nhṛdayadalli hudugisayya madhusūdana ||",
+            "kavidukòṃḍu iruva pāpa savèdu poguvaṃtè māḍi\njavana bādhèyannu biḍiso śrītrivikrama, śrītrivikrama |",
+            "kāmajanaka ninna nāma premadiṃda pāḍuvaṃtha\nnemavènagè pālisayya svāmi vāmana ||",
+            "mòdalu ninna pādapūjè òdaguvaṃtè māḍo ènna\nhṛdayadòḻagè sadana māḍu mudadi śrīdhara , mudadi śrīdhara |",
+            "husiyanāḍi hòṭṭè hòrèva viṣayadalli rasikanèṃdu\nhusigè hākadiro ènna hṛṣīkeśane ||",
+            "biddu bhavadaneka januma baddanāgi kaluṣadiṃda\ngèddu popa budhdhi torò padmanābhanè , padmanābhanè |",
+            "kāmakrodha biḍisi ninna nāma jihvèyòḻagè nuḍisu\nśrīmahānubhāvanāda dāmodara ||",
+            "paṃkajākṣa nīnu ènna maṃkubuddhiyannu biḍisi\nkiṃkaranna māḍikòḻḻo saṃkarṣaṇa , saṃkarṣaṇa |",
+            "esu janma baṃdarenu dāsanallavenu nānu\nghāsi māḍadiru innu vāsudevane ||",
+            "buddhi śūnyanāgi ènna baddhakāya kuhaka manava\ntiddi hṛdaya śuddhi māḍo pradyumnane , pradyumnane |",
+            "janani janaka nīnèyèṃdu nènèvènayya dīnabaṃdhu\nènagè mukti pālisinnu aniruddhane ||",
+            "haruṣadiṃda ninna nāma smarisuvaṃtè māḍu nema\nirisu caraṇadalli prema puruṣottama, puruṣottama\n|",
+            "sādhusaṃga kòṭṭu ninna pādabhajanè ittu ènna\nbhedamāḍi noḍadirò he adhokṣaja ||",
+            "cārucaraṇa tori ènagè pārugāṇisayya kònègè\nbhāra hākiruvè ninagè nārasiṃhane , nārasiṃhane\n|",
+            "saṃcitādi pāpagaḻanu kiṃcitāda pīḍègaḻanu\nmuṃcitāgi kaḻèdu pòrèyò svāmi acyuta ||",
+            "jñāna bhakuti kòṭṭu ninna dhyānadalli iṭṭu sadā\nhīna buddhi biḍisò munna śrī janārdhana , śrī janārdhana |",
+            "japatapānuṣṭhānavilla dè kupitagāmiyāda ènna\nkṛpèya māḍi kṣamisabeku he upeṃdrane ||",
+            "mòrèya iḍuvènayya ninagè śaradhiśayana śubhamatiya\niriso bhaktaròḻagè parama puruṣa śrīhare , puruṣa śrīhare |",
+            "huṭṭisalebeḍa innu huṭṭisidakè pālisinnu\niṣṭu mātra beḍikòṃbè śrī kṛṣṇane ||",
+            "satyavāda nāmagaḻanu nityadalli paṭhisuvavara\narthiyiṃda salahutiruva kartṛ keśava , keśava |",
+            "marèyadalè hariya nāma barèdu odi peḻdavarigè\nkarèdu mukti kòḍuva nèlèyādikeśava , nèlèyādikeśava || īśa ninna||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://kannadasavigana.blogspot.com/2025/09/esha-ninna-charana-bhajane-song-lyrics.html",
+          "label": "Kannada Savigana — Kannada text"
+        }
+      ],
+      "source_sha256": "c020d1809ba75606940ecc0320a3b5c057bfd35d9c6b011e1537cddafd2af2bc"
+    }
+  ]
+}

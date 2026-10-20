@@ -1,0 +1,73 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "title": "ಪೂಜ್ಯಾಯ ರಾಘವೇಂದ್ರಾಯ",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "ಪೂಜ್ಯಾಯ ರಾಘವೇಂದ್ರಾಯ",
+          "layout": "verses",
+          "paragraphs": [
+            "ಪೂಜ್ಯಾಯ ರಾಘವೇನ್ದ್ರಾಯ ಸತ್ಯಧರ್ಮರತಾಯ ಚ ।\nಭಜತಾಂ ಕಲ್ಪವೃಕ್ಷಾಯ ನಮತಾಂ ಕಾಮಧೇನವೇ ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "5073be6606ce5a4f796728e2f1fd4b2751f4922b4f2943699dc582b3d134af13"
+    },
+    {
+      "id": "devanagari",
+      "title": "Pujyaya Raghavendraya",
+      "label": "देवनागरी",
+      "lang": "sa",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Pujyaya Raghavendraya",
+          "layout": "verses",
+          "paragraphs": [
+            "पूज्याय राघवेन्द्राय सत्यधर्मरताय च ।\nभजतां कल्पवृक्षाय नमतां कामधेनवे ॥"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "2bf588234743cd40fae5a85e84a5180e54bead7c78ca7bbbdef97df1d0cc5b3e"
+    },
+    {
+      "id": "roman",
+      "title": "Pujyaya Raghavendraya",
+      "label": "English (Roman)",
+      "lang": "sa-Latn",
+      "chapters": [
+        {
+          "id": "reading",
+          "title": "Pujyaya Raghavendraya",
+          "layout": "verses",
+          "paragraphs": [
+            "pūjyāya rāghavendrāya satyadharmaratāya ca |\nbhajatāṃ kalpavṛkṣāya namatāṃ kāmadhenave ||"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hawkeyedesi.github.io/family-songbook/assets/audio/kamalamma-ajji/amma-01.mp3",
+          "label": "Kamalamma Ajji — original recording 1"
+        }
+      ],
+      "source_sha256": "11465182ce4a5dec3ab1f763514b9ad1cc6c2e858a5e41ddb67d068bc8e99f1a"
+    }
+  ]
+}

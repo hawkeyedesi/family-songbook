@@ -40,7 +40,7 @@ def home(ui,collection=None):
   count=len(songs) if key is None else sum(key in memberships(x) for x in songs)
   target=group_base+(key+'/' if key else '')
   category_links+=f'<a href="{target or './'}" data-collection="{key or 'all'}" '+('aria-current="page"' if key==collection else '')+f'>{label} <span>{count}</span></a>'
- category_links+='</nav>'
+ category_links+=f'<a href="{group_base}kamalamma-ajji/" data-collection="kamalamma-ajji">'+('Kamalamma Ajji' if en else 'ಕಮಲಮ್ಮ ಅಜ್ಜಿ')+'</a></nav>'
  cards=[]
  for s in selected:
   multi='versions_file' in s
@@ -185,6 +185,13 @@ for ui in ['kn','en']:
  body='<nav class="back"><a href="'+prefix+('en/' if ui=='en' else '')+'navaratri/">← Navaratri</a></nav>'+render_recording(ui,prefix,songs,render_chapter,recording=r)
  p=ROOT/('en' if ui=='en' else '')/'durga-saptashloki'/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
  p.write_text(shell(r['heading_en'] if ui=='en' else r['heading'],'Durga Saptashloki — official Sringeri recording with synchronized reading.',body,prefix,ui,ui))
+from kamalamma import render as render_ajji, render_texts as render_ajji_texts
+for ui in ['kn','en']:
+ prefix='../../' if ui=='en' else '../'
+ title,body=render_ajji(ui,prefix)
+ p=ROOT/('en' if ui=='en' else '')/'kamalamma-ajji'/'index.html';p.parent.mkdir(parents=True,exist_ok=True)
+ p.write_text(shell(title,'Kamalamma Ajji — original family recordings and bhajan readings.',body,prefix,ui,ui))
+render_ajji_texts(shell,render_chapter)
 home('kn');home('en')
 for collection in FILTERS:
  home('kn',collection);home('en',collection)

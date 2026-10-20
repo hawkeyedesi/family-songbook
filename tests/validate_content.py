@@ -113,7 +113,7 @@ for ui in ['', 'en']:
   path=ROOT/ui/(group or '')/'index.html';html=path.read_text()
   want=a if group is None else sorted([s for s in a if (group in s.get('tags',[]) if group=='navaratri' else s['slug'] in groups[group])],key=lambda s:s.get('collection_order',{}).get(group,999))
   assert re.findall(r'data-work="([a-z0-9-]+)"',html)==[s['slug'] for s in want],str(path)
-  assert len(re.findall('data-collection=',html))==6
+  assert len(re.findall('data-collection=',html))==7
   for href in re.findall(r'<a href="([^"]+)"',html):
    if href.startswith(('http','#')):continue
    target=(path.parent/href).resolve()
