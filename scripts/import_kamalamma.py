@@ -58,6 +58,13 @@ add('rama-invocations','ರಾಮ ಭಜನೆಗಳು ಮತ್ತು ಮಂ�
 'हरे राम हरे राम राम राम हरे हरे ।\nहरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे ॥',
 'रामाय रामभद्राय रामचन्द्राय वेधसे ।\nरघुनाथाय नाथाय सीतायाः पतये नमः ॥\nश्री राम जय राम जय जय राम ॥'],S.DEVANAGARI,family,'Short bhajans in Ajji’s opening sequence. Family reading checked against the recording; not a Sringeri-verified edition. Repetitions follow the audio.')
 add('pujyaya-raghavendraya','ಪೂಜ್ಯಾಯ ರಾಘವೇಂದ್ರಾಯ','Pujyaya Raghavendraya',['पूज्याय राघवेन्द्राय सत्यधर्मरताय च ।\nभजतां कल्पवृक्षाय नमतां कामधेनवे ॥'],S.DEVANAGARI,family,'Family reading of the short Raghavendra invocation in recording 1, not a Sringeri-verified edition.')
+# User-approved provisional reading: gaps and tentative words stay visible.
+shiva=json.loads((R/'data/kamalamma-sources/shiva-family-transcription.json').read_text())
+add('shiva-aksharamala-family','ಶಿವ ಅಕ್ಷರಮಾಲೆ — ಅಜ್ಜಿಯ ಪಾಠ','Shiva Aksharamala — Ajji’s version',
+ [line['reading'] for line in shiva['lines']],S.DEVANAGARI,family,
+ 'PROVISIONAL FAMILY TRANSCRIPTION — working title, not an identified canonical edition or Sringeri-verified text. [?] marks tentative words; [… ?] marks unrecovered syllables. Unmarked lines are still provisional, not independently certified. Based on the family-supplied phonetic transcript and recording 1 (01:14–03:04). No invented words fill the gaps. Section-level following, not word-by-word alignment.')
+texts[-1]['note']='ತಾತ್ಕಾಲಿಕ ಕುಟುಂಬ ಪಾಠ — ಇದು ಖಚಿತ ಶೀರ್ಷಿಕೆ ಅಥವಾ ಶೃಂಗೇರಿ-ಪರಿಶೀಲಿತ ಪಾಠವಲ್ಲ. [?] ಇರುವ ಪದಗಳು ಇನ್ನೂ ಖಚಿತವಾಗಿಲ್ಲ; [… ?] ಇರುವಲ್ಲಿ ಪದಗಳನ್ನು ತುಂಬಿಲ್ಲ. ಗುರುತಿಲ್ಲದ ಸಾಲುಗಳೂ ತಾತ್ಕಾಲಿಕವೇ. ಅಜ್ಜಿಯ ಮೊದಲ ಧ್ವನಿಮುದ್ರಿಕೆ (01:14–03:04) ಮತ್ತು ಕುಟುಂಬ ನೀಡಿದ ಪಾಠ ಆಧಾರ.'
+texts[-1]['status']='provisional-family-transcription'
 for id,title,en,slug,note in [
 ('mahalakshmi','ಮಹಾಲಕ್ಷ್ಮೀ ಅಷ್ಟಕಮ್','Mahalakshmi Ashtakam','mahalakshmi-ashtakam','Published reading of the eight verses and phalashruti; small sung diction may differ.'),
 ('lalitha-ashtottara','ಲಲಿತಾ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ','Lalitha Ashtottara — Rajatachala','lalitha-ashtottara-shatanamavali','Rajatachala family version, spanning recordings 2 and 3. The start of recording 3 continues at name 99; it is not a new hymn.'),
@@ -69,7 +76,7 @@ tracks=json.loads((R/'data/kamalamma-ajji.json').read_text())['recordings']
 # Boundaries are section-level estimates derived from listening and timestamped
 # transcripts. Never manufacture per-word alignment or timestamps for names.
 rows=[
-[(0,'opening-prayers',None),(44.1,'rama-invocations',None),(74,None,'Shiva bhajan — opening/title awaiting family confirmation'),(184,'lingashtakam',None),(250,None,'Om Shiva Om Shiva Paratpara Shiva'),(259,None,'Jai Jai Vittala Panduranga'),(269.2,'pujyaya-raghavendraya',None),(276.8,None,'Vande Raghava — verse variant awaiting text'),(291.2,None,'Rama Rama Raghu Rama Paratpara'),(334.4,None,'Dattatreya Stotram — family variant'),(425,'eesha-ninna',None),(561,None,'Kangettu Bandenai Narayana Krishna'),(640,None,'Keshava Madhava — continues in recording 2')],
+[(0,'opening-prayers',None),(44.1,'rama-invocations',None),(74,'shiva-aksharamala-family',None),(184,'lingashtakam',None),(250,None,'Om Shiva Om Shiva Paratpara Shiva'),(259,None,'Jai Jai Vittala Panduranga'),(269.2,'pujyaya-raghavendraya',None),(276.8,None,'Vande Raghava — verse variant awaiting text'),(291.2,None,'Rama Rama Raghu Rama Paratpara'),(334.4,None,'Dattatreya Stotram — family variant'),(425,'eesha-ninna',None),(561,None,'Kangettu Bandenai Narayana Krishna'),(640,None,'Keshava Madhava — continues in recording 2')],
 [(0,None,'Keshava Madhava — continued'),(62,'narasimhanembo',None),(180,'mahalakshmi',None),(255.1,'shani-ashtottara',None),(382,'lalitha-ashtottara',None)],
 [(0,'lalitha-ashtottara',None),(32.4,None,'Palisennamma Muddu Sharade — family variant'),(114.8,None,'Mangalam Guru Sri Chandramouleshwarage'),(279.6,None,'Om Mangalam — Namah Shivaya Mangalam'),(344,None,'End of recording / pause')],
 [(0,'nama-ramayanam',None),(299,None,'Atri Tanaya Guru Dattatreya'),(425.3,None,'Taraka Brahma Tanmayada Puje — family variant'),(623.5,None,'Kaliyugadali Harinamava — continues in recording 5')],

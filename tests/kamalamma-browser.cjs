@@ -3,7 +3,7 @@ const assert=require('node:assert/strict'),fs=require('fs'),path=require('path')
 const root=path.resolve(__dirname,'..'),base=process.env.BHAKTI_TEST_URL||'http://127.0.0.1:8769/';
 (async()=>{
  const cfg=JSON.parse(fs.readFileSync(path.join(root,'data/kamalamma-ajji.json')));
- assert.equal(cfg.recordings.length,6);assert.equal(cfg.texts.length,12);
+ assert.equal(cfg.recordings.length,6);assert.equal(cfg.texts.length,13);
  for(const t of cfg.recordings){
   const b=fs.readFileSync(path.join(root,t.path));assert.equal(b.length,t.bytes);assert.equal(crypto.createHash('sha256').update(b).digest('hex'),t.sha256);
   assert.equal(t.cues[0].start,0);assert.equal(t.cues.at(-1).end,t.duration);
@@ -22,6 +22,18 @@ const root=path.resolve(__dirname,'..'),base=process.env.BHAKTI_TEST_URL||'http:
  await page.locator('[data-ajji-script="devanagari"]').click();await page.waitForFunction(()=>document.querySelector('#ajji-text').textContent.includes('ब्रह्ममुरारि'));
  const after=await page.locator('audio').evaluate(a=>a.currentTime);assert(after>=before&&after-before<4,'Script switch restarted/seeks audio');
  await page.evaluate(()=>{const a=document.querySelector('audio');a.pause();a.currentTime=85;window.KamalammaArchive.sync(true)});
+ await page.waitForFunction(()=>document.querySelector('#ajji-text-title').textContent.includes('Shiva Aksharamala')&&!document.querySelector('#ajji-text').hidden);
+ assert((await page.locator('#ajji-text-note').innerText()).includes('PROVISIONAL FAMILY TRANSCRIPTION'));
+ assert.equal(await page.locator('#ajji-text [data-verse]').count(),51);
+ assert((await page.locator('#ajji-text').innerText()).includes('[… ?]'));
+ for(const script of ['kannada','roman','devanagari']){
+  await page.locator(`[data-ajji-script="${script}"]`).click();
+  await page.waitForFunction(s=>!document.querySelector('#ajji-text').hidden&&document.querySelector('#ajji-text').classList.contains(s),script);
+  assert.equal(await page.locator('#ajji-text [data-verse]').count(),51);
+  assert.equal((await page.locator('#ajji-text .text-chapter').innerText()).match(/\[… \?\]/g).length,12,'A gap was silently completed');
+  assert(Math.abs(await page.locator('audio').evaluate(a=>a.currentTime)-85)<1);
+ }
+ await page.evaluate(()=>{const a=document.querySelector('audio');a.pause();a.currentTime=252;window.KamalammaArchive.sync(true)});
  await page.waitForFunction(()=>document.querySelector('#ajji-text').hidden&&document.querySelector('#ajji-reading-status').textContent.includes('no securely matched text'));
  // Native source clock and half-open boundaries, including cross-file continuation.
  await page.evaluate(()=>window.KamalammaArchive.selectTrack(2,0,false));
@@ -38,5 +50,5 @@ const root=path.resolve(__dirname,'..'),base=process.env.BHAKTI_TEST_URL||'http:
  const nojs=await browser.newContext({javaScriptEnabled:false});const staticPage=await nojs.newPage();await staticPage.goto(base+'en/kamalamma-ajji/');assert.equal(await staticPage.locator('a[download]').count(),6);assert(await staticPage.locator('audio[controls]').count());await nojs.close();
  // A failed reading request must not remove audio access or display stale text.
  const bad=await browser.newPage();await bad.route('**/songs/**',r=>r.abort());await bad.goto(base+'en/kamalamma-ajji/');await bad.evaluate(()=>window.KamalammaArchive.selectTrack(2,0,false));await bad.waitForFunction(()=>document.querySelector('#ajji-reading-status').textContent.includes('could not load'));assert(await bad.locator('#ajji-full-text:visible').count());await bad.close();
- assert.deepEqual(errors,[]);await browser.close();console.log('PASS six original checksums, 34 continuous sections, 36 reading routes, real MP3 playback, no-restart script switch, unknown-text clearing, cross-file continuation, fetch failure, mobile and no-JS');
+ assert.deepEqual(errors,[]);await browser.close();console.log('PASS six original checksums, 34 continuous sections, 39 reading routes, real MP3 playback, no-restart script switch, unknown-text clearing, cross-file continuation, fetch failure, mobile and no-JS');
 })().catch(e=>{console.error(e);process.exit(1)});

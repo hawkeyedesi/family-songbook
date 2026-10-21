@@ -1,0 +1,319 @@
+{
+  "id": "shiva-aksharamala-family",
+  "working_title": "Shiva Aksharamala — Ajji’s version",
+  "status": "provisional-family-transcription",
+  "not_canonical": true,
+  "source": "Family-supplied phonetic transcript compared with recording 1, approximately 01:14–03:04. No exact published edition identified.",
+  "markers": {
+    "[?]": "Tentative wording/completion; needs family/source confirmation.",
+    "[… ?]": "Unrecovered syllables intentionally left as a gap."
+  },
+  "lines": [
+    {
+      "number": 1,
+      "reading": "श्रीकर शिव शिव शिव साम्ब शिव । [?]",
+      "supplied_phonetics": "श्रीकर शिव, शिव शिव सांब शिव।",
+      "status": "tentative"
+    },
+    {
+      "number": 2,
+      "reading": "श्रितभक्तावनदीक्ष शिव ।",
+      "supplied_phonetics": "स्थितभक्ता वन दीक्षा शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 3,
+      "reading": "अजमुखसुरनतपाद शिव । [?]",
+      "supplied_phonetics": "अजमकसुरनतपाद शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 4,
+      "reading": "आखण्डलमदहर शिव । [?]",
+      "supplied_phonetics": "अकंडलमदाकार शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 5,
+      "reading": "इभचर्माम्बर सोम शिव । [?]",
+      "supplied_phonetics": "शिव चर्मांबर सोम शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 6,
+      "reading": "ईश बिलेशयभूष शिव । [?]",
+      "supplied_phonetics": "ईश विलेश यभूष शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 7,
+      "reading": "उमयादृतवामाङ्ग शिव ।",
+      "supplied_phonetics": "उमयादृत वामांग शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 8,
+      "reading": "ऊरीकृतविषपान शिव ।",
+      "supplied_phonetics": "ऊरीकृत विषपान शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 9,
+      "reading": "ऋषिजनमानसहंस शिव ।",
+      "supplied_phonetics": "ऋषिजनमानस हंस शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 10,
+      "reading": "ऋक्षाधीशकिरीट शिव । [?]",
+      "supplied_phonetics": "रोक्षाधीश किरीट शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 11,
+      "reading": "[… ?] शिव ।",
+      "supplied_phonetics": "लुतपतयानरविद्ध शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 12,
+      "reading": "[… ?] परब्रह्म शिव ।",
+      "supplied_phonetics": "एकादय परब्रह्म शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 13,
+      "reading": "[… ?] परब्रह्म शिव ।",
+      "supplied_phonetics": "वैक्य ज्ञान एकादय परब्रह्म शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 14,
+      "reading": "ऐक्यप्रद [… ?] शिव ।",
+      "supplied_phonetics": "ऐक्य प्रति निगमेट शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 15,
+      "reading": "ओंकारात्मकदेव शिव ।",
+      "supplied_phonetics": "ओंकारात्मक देव शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 16,
+      "reading": "[… ?] सुवेष शिव ।",
+      "supplied_phonetics": "बोधास्यात्त सुवेश शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 17,
+      "reading": "अम्बुजनाभकृतार्च शिव । [?]",
+      "supplied_phonetics": "अंबुजना पकृता च शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 18,
+      "reading": "[… ?] शिव ।",
+      "supplied_phonetics": "अस्ताद्रुत सन्नाट शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 19,
+      "reading": "करुणाकर कमनीय शिव ।",
+      "supplied_phonetics": "करुणाकर कमनीय शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 20,
+      "reading": "खलगर्वापहशूर शिव । [?]",
+      "supplied_phonetics": "कलगर्वाप शूर शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 21,
+      "reading": "गङ्गाधर शृङ्गार शिव ।",
+      "supplied_phonetics": "गंगाधर श्रृंगार शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 22,
+      "reading": "घनसारोज्ज्वलकाय शिव । [?]",
+      "supplied_phonetics": "घनसारोज्जल काय शिवा।",
+      "status": "tentative"
+    },
+    {
+      "number": 23,
+      "reading": "[… ?] सर्वज्ञ शिव ।",
+      "supplied_phonetics": "तप्ति रूप सर्वज्ञ शिवा।",
+      "status": "unresolved"
+    },
+    {
+      "number": 24,
+      "reading": "चरणोत्ताडितकाल शिव ।",
+      "supplied_phonetics": "चरणोत्ताडित काल शिवा।",
+      "status": "provisional"
+    },
+    {
+      "number": 25,
+      "reading": "छिन्नमहाभवपाश शिव ।",
+      "supplied_phonetics": "Chinnamaha Bhavapasha Shiva",
+      "status": "provisional"
+    },
+    {
+      "number": 26,
+      "reading": "जगदाधार गिरीश शिव ।",
+      "supplied_phonetics": "Jagadadhar Girish Shiva",
+      "status": "provisional"
+    },
+    {
+      "number": 27,
+      "reading": "[… ?] शिव ।",
+      "supplied_phonetics": "Runatakash Dayanaty Shiva",
+      "status": "unresolved"
+    },
+    {
+      "number": 28,
+      "reading": "टङ्काराञ्चितचाप शिव । [?]",
+      "supplied_phonetics": "Tankara Chita Chapa Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 29,
+      "reading": "[… ?] शिव ।",
+      "supplied_phonetics": "Takriti Maya Yukti Shiva",
+      "status": "unresolved"
+    },
+    {
+      "number": 30,
+      "reading": "डिम्भगजास्यानन्द शिव । [?]",
+      "supplied_phonetics": "Dimbagajasyananda Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 31,
+      "reading": "ढक्कामृगशूल शिव । [?]",
+      "supplied_phonetics": "Dakkaadamurgha Shoola Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 32,
+      "reading": "तुङ्गमहोक्षारूढ शिव । [?]",
+      "supplied_phonetics": "Tungamahaksharuda Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 33,
+      "reading": "स्थावरजङ्गमरूप शिव ।",
+      "supplied_phonetics": "Sthavara Jangama Roopa Shiva",
+      "status": "provisional"
+    },
+    {
+      "number": 34,
+      "reading": "दक्षाध्वरहर सोम शिव । [?]",
+      "supplied_phonetics": "Dakshadvarahara Soma Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 35,
+      "reading": "नमितजनेष्ट [… ?] शिव ।",
+      "supplied_phonetics": "Namita Janeshtha Dhanao Vishnu",
+      "status": "unresolved"
+    },
+    {
+      "number": 36,
+      "reading": "पशुपति पावनमूर्ति शिव ।",
+      "supplied_phonetics": "Pashupati Pavana Murti Shiva",
+      "status": "provisional"
+    },
+    {
+      "number": 37,
+      "reading": "फालाम्बक कालवैरी शिव । [?]",
+      "supplied_phonetics": "Palambaka Kalabhairi Shiva",
+      "status": "tentative"
+    },
+    {
+      "number": 38,
+      "reading": "बालकभक्तिप्रीत शिव । [?]",
+      "supplied_phonetics": "Balaka Bakta ती प्रीत शिवा",
+      "status": "tentative"
+    },
+    {
+      "number": 39,
+      "reading": "भक्तजनावनदक्ष शिव ।",
+      "supplied_phonetics": "भक्तजना मन दक्ष शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 40,
+      "reading": "[… ?] मदनारि शिव ।",
+      "supplied_phonetics": "महिमा कर मद नारी शिवा",
+      "status": "unresolved"
+    },
+    {
+      "number": 41,
+      "reading": "यमपरिभीतत्रात शिव । [?]",
+      "supplied_phonetics": "यम परिपी तत् प्रात शिवा",
+      "status": "tentative"
+    },
+    {
+      "number": 42,
+      "reading": "रजतगिरीन्द्रनिवास शिव ।",
+      "supplied_phonetics": "रजत गिरेंद्र निवास शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 43,
+      "reading": "लीलातोषितलोक शिव ।",
+      "supplied_phonetics": "लीला तोषित लोक शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 44,
+      "reading": "वैश्रवणप्रियवीर शिव । [?]",
+      "supplied_phonetics": "वैष्णव प्रिय वीर शिवा",
+      "status": "tentative"
+    },
+    {
+      "number": 45,
+      "reading": "शशिधर शङ्कर शान्त शिव ।",
+      "supplied_phonetics": "शशिधर शंकर शांत शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 46,
+      "reading": "षण्मुखहृदयानन्द शिव । [?]",
+      "supplied_phonetics": "क्षेण मुख हृदय आनंद शिवा",
+      "status": "tentative"
+    },
+    {
+      "number": 47,
+      "reading": "[… ?] सुमङ्गलमस्तु शिव ।",
+      "supplied_phonetics": "लांत सुमंगल मस्तु शिवा",
+      "status": "unresolved"
+    },
+    {
+      "number": 48,
+      "reading": "क्षेमङ्करवरनाम शिव ।",
+      "supplied_phonetics": "क्षेमंकर वरनाम शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 49,
+      "reading": "जय जय जय जय साम्ब शिव ।",
+      "supplied_phonetics": "जय जय जय जय सांब शिवा",
+      "status": "provisional"
+    },
+    {
+      "number": 50,
+      "reading": "भयहर भवहर साम्ब शिव । [?]",
+      "supplied_phonetics": "नयहर भवहर सांब शिवा",
+      "status": "tentative"
+    },
+    {
+      "number": 51,
+      "reading": "जय जय जय जय साम्ब शिव ।",
+      "supplied_phonetics": "जय जय जय जय सांब शिवा।",
+      "status": "provisional"
+    }
+  ]
+}

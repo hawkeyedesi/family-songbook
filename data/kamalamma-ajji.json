@@ -29,8 +29,7 @@
           "id": "amma-01-3",
           "start": 74,
           "end": 184,
-          "title_en": "Shiva bhajan — opening/title awaiting family confirmation",
-          "title": "Shiva bhajan — opening/title awaiting family confirmation"
+          "text": "shiva-aksharamala-family"
         },
         {
           "id": "amma-01-4",
@@ -380,6 +379,16 @@
       "path": "kamalamma-ajji/texts/pujyaya-raghavendraya/",
       "versions_file": "kamalamma-texts/pujyaya-raghavendraya.json",
       "note_en": "Family reading of the short Raghavendra invocation in recording 1, not a Sringeri-verified edition."
+    },
+    {
+      "id": "shiva-aksharamala-family",
+      "title": "ಶಿವ ಅಕ್ಷರಮಾಲೆ — ಅಜ್ಜಿಯ ಪಾಠ",
+      "title_en": "Shiva Aksharamala — Ajji’s version",
+      "path": "kamalamma-ajji/texts/shiva-aksharamala-family/",
+      "versions_file": "kamalamma-texts/shiva-aksharamala-family.json",
+      "note_en": "PROVISIONAL FAMILY TRANSCRIPTION — working title, not an identified canonical edition or Sringeri-verified text. [?] marks tentative words; [… ?] marks unrecovered syllables. Unmarked lines are still provisional, not independently certified. Based on the family-supplied phonetic transcript and recording 1 (01:14–03:04). No invented words fill the gaps. Section-level following, not word-by-word alignment.",
+      "note": "ತಾತ್ಕಾಲಿಕ ಕುಟುಂಬ ಪಾಠ — ಇದು ಖಚಿತ ಶೀರ್ಷಿಕೆ ಅಥವಾ ಶೃಂಗೇರಿ-ಪರಿಶೀಲಿತ ಪಾಠವಲ್ಲ. [?] ಇರುವ ಪದಗಳು ಇನ್ನೂ ಖಚಿತವಾಗಿಲ್ಲ; [… ?] ಇರುವಲ್ಲಿ ಪದಗಳನ್ನು ತುಂಬಿಲ್ಲ. ಗುರುತಿಲ್ಲದ ಸಾಲುಗಳೂ ತಾತ್ಕಾಲಿಕವೇ. ಅಜ್ಜಿಯ ಮೊದಲ ಧ್ವನಿಮುದ್ರಿಕೆ (01:14–03:04) ಮತ್ತು ಕುಟುಂಬ ನೀಡಿದ ಪಾಠ ಆಧಾರ.",
+      "status": "provisional-family-transcription"
     },
     {
       "id": "mahalakshmi",

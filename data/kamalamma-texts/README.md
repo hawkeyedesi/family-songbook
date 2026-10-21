@@ -5,15 +5,17 @@ The public manifest records SHA-256, byte length, duration and the 34-section in
 Five forwarded WhatsApp files were bit-identical to Drive originals 1–5.
 Recording/upload dates have not been inferred.
 
-There are currently twelve reading sets, not twelve fully verified verbatim
+There are currently thirteen reading sets, not thirteen fully verified verbatim
 transcriptions. Each reading distinguishes its source and oral variants. Kannada
 compositions in Devanagari remain Kannada, not Sanskrit translations. Ganesha
 Pancharatnam uses Sringeri's own three script-specific witnesses. The main
 33-work collection and its Sringeri checks remain unchanged.
 
 Unknown/variant passages remain explicitly audio-only pending family/source
-confirmation. In particular, the Shiva alphabetic bhajan's garbled transcript is
-not published as lyrics. Ajji's Kannada translation of Hanuman Chalisa is not
+confirmation. The user authorized a provisional family reading of the alphabetic Shiva bhajan.
+Its 51 lines preserve the supplied sequence: [?] marks tentative completions and
+[… ?] marks unrecovered syllables (12 lines retain gaps). It is NOT a verified
+canonical/Sringeri text, and its title is a working label. Ajji's Kannada translation of Hanuman Chalisa is not
 silently replaced by the songbook's Awadhi original.
 
 Synchronization is approximate section-level, not per-word/per-name alignment.
