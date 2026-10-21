@@ -1,0 +1,136 @@
+{
+  "versions": [
+    {
+      "id": "kannada",
+      "label": "ಕನ್ನಡ",
+      "lang": "kn",
+      "title": "ವಿಸರ್ಜನ ಮಂತ್ರ — ಉದ್ವಾಸನೆ",
+      "chapters": [
+        {
+          "id": "vedic",
+          "title": "ವೈದಿಕ ಮಂತ್ರಗಳು",
+          "paragraphs": [
+            "ಓಂ ಉತ್ತಿ॑ಷ್ಠ ಬ್ರಹ್ಮಣಸ್ಪತೇ ದೇವ॒ಯನ್ತ॑ಸ್ತ್ವೇಮಹೇ ।\nಉಪ॒ ಪ್ರ ಯ॑ನ್ತು ಮ॒ರುತಃ॑ ಸು॒ದಾನ॑ವ॒ ಇನ್ದ್ರ॑ ಪ್ರಾ॒ಶೂರ್ಭ॑ವಾ॒ ಸಚಾ॑ ॥",
+            "ಅ॒ಭ್ಯಾರ॒ಮಿದದ್ರ॑ಯೋ॒ ನಿಷಿ॑ಕ್ತಂ॒ ಪುಷ್ಕ॑ರೇ॒ ಮಧು॑ ।\nಅ॒ವ॒ತಸ್ಯ॑ ವಿ॒ಸರ್ಜ॑ನೇ ॥"
+          ],
+          "layout": "verses"
+        },
+        {
+          "id": "closing",
+          "title": "ಸಮಾಪ್ತಿ — ಕುಟುಂಬದ ಪುಸ್ತಕ",
+          "paragraphs": [
+            "ಪೂಜಾವಸಾನೇ ಗಚ್ಛತ್ವಂ ಪುನರಾಗಮನಾಯ ಚ ॥"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        }
+      ],
+      "references": [
+        {
+          "label": "Rigveda 1.40.1 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0301.txt"
+        },
+        {
+          "label": "Rigveda 8.72.11 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0308.txt"
+        }
+      ],
+      "source_sha256": "c74fe08579ad9ac7715ece2737478a2da373ce427905c59f241a68535df3765b",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 14,
+          "U+0952": 15
+        },
+        "sequence_sha256": "615219240b31adb1a6f72abb7eab30c5c3a3fd635d7aa21cf1a1bd6b7e7fde5c"
+      }
+    },
+    {
+      "id": "devanagari",
+      "label": "संस्कृतम्",
+      "lang": "sa",
+      "title": "विसर्जनमन्त्रः — उद्वासनम्",
+      "chapters": [
+        {
+          "id": "vedic",
+          "title": "वैदिकमन्त्रौ",
+          "paragraphs": [
+            "ॐ उत्ति॑ष्ठ ब्रह्मणस्पते देव॒यन्त॑स्त्वेमहे ।\nउप॒ प्र य॑न्तु म॒रुतः॑ सु॒दान॑व॒ इन्द्र॑ प्रा॒शूर्भ॑वा॒ सचा॑ ॥",
+            "अ॒भ्यार॒मिदद्र॑यो॒ निषि॑क्तं॒ पुष्क॑रे॒ मधु॑ ।\nअ॒व॒तस्य॑ वि॒सर्ज॑ने ॥"
+          ],
+          "layout": "verses"
+        },
+        {
+          "id": "closing",
+          "title": "समापनम् — पारिवारिकपुस्तकात्",
+          "paragraphs": [
+            "पूजावसाने गच्छत्वं पुनरागमनाय च ॥"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        }
+      ],
+      "references": [
+        {
+          "label": "Rigveda 1.40.1 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0301.txt"
+        },
+        {
+          "label": "Rigveda 8.72.11 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0308.txt"
+        }
+      ],
+      "source_sha256": "8d91916e6e1d38bb6e3597342babf9c07ce04cbe5b2d90613961aa54d2068cc6",
+      "svara_profile": {
+        "counts": {
+          "U+0951": 14,
+          "U+0952": 15
+        },
+        "sequence_sha256": "615219240b31adb1a6f72abb7eab30c5c3a3fd635d7aa21cf1a1bd6b7e7fde5c"
+      }
+    },
+    {
+      "id": "roman",
+      "label": "English (Roman)",
+      "lang": "en",
+      "title": "Visarjana Mantra — Udvasana",
+      "chapters": [
+        {
+          "id": "vedic",
+          "title": "Vedic mantras",
+          "paragraphs": [
+            "oṃ utti̍ṣṭha brahmaṇaspate deva̱yanta̍stvemahe ।\nupa̱ pra ya̍ntu ma̱rutaḥ̍ su̱dāna̍va̱ indra̍ prā̱śūrbha̍vā̱ sacā̍ ॥",
+            "a̱bhyāra̱midadra̍yo̱ niṣi̍ktaṃ̱ puṣka̍re̱ madhu̍ ।\na̱va̱tasya̍ vi̱sarja̍ne ॥"
+          ],
+          "layout": "verses"
+        },
+        {
+          "id": "closing",
+          "title": "Closing — family book",
+          "paragraphs": [
+            "pūjāvasāne gacchatvaṃ punarāgamanāya ca ॥"
+          ],
+          "layout": "verses",
+          "number_start": 3
+        }
+      ],
+      "references": [
+        {
+          "label": "Rigveda 1.40.1 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0301.txt"
+        },
+        {
+          "label": "Rigveda 8.72.11 — accent-marked source",
+          "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0308.txt"
+        }
+      ],
+      "source_sha256": "7eb35c56f2282b9df12664b0dbced9ce9561184baea34ccc80df1e2143362e89",
+      "svara_profile": {
+        "counts": {
+          "U+030D": 14,
+          "U+0331": 15
+        },
+        "sequence_sha256": "2e498c17f6b58ebc06267397294d3fe6251f54a7629a6e12e50d2f1ff7ec072a"
+      }
+    }
+  ]
+}

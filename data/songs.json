@@ -1729,5 +1729,54 @@
     "collection_order": {
       "paduka-puja-bhajans": 10
     }
+  },
+  {
+    "slug": "visarjana-mantra",
+    "title": "ವಿಸರ್ಜನ ಮಂತ್ರ — ಉದ್ವಾಸನೆ",
+    "title_en": "Visarjana Mantra — Udvasana",
+    "category": "ಪೂಜಾ ಮಂತ್ರ",
+    "category_en": "Puja mantra",
+    "language": "ಕನ್ನಡ · संस्कृतम् · Roman",
+    "language_en": "Kannada · Sanskrit · Roman",
+    "description": "ಪೂಜೆಯ ಸಮಾಪ್ತಿಯಲ್ಲಿ ಹೇಳುವ ವಿಸರ್ಜನ ಮಂತ್ರಗಳು — ಕುಟುಂಬದ ಪುಸ್ತಕದ ಪುಟದೊಂದಿಗೆ.",
+    "description_en": "Closing prayers for visarjana / udvasana, with the family-book page.",
+    "script": "kannada",
+    "versions_file": "texts/visarjana-mantra.json",
+    "verses": [
+      [
+        "ಓಂ ಉತ್ತಿಷ್ಠ ಬ್ರಹ್ಮಣಸ್ಪತೇ ದೇವಯಂತಸ್ತ್ವೇಮಹೇ ।",
+        "ಉಪಪ್ರಯಂತು ಮರುತಃ ಸುದಾನವ ಇಂದ್ರಪ್ರಾಶೂರ್ಭವಾಸಚಾ ।"
+      ],
+      [
+        "ಅಭ್ಯಾರಮಿದ ದ್ಯೋ ನಿಷಿಕ್ತಂ ಪುಷ್ಕರೇ ಮಧು । ಅವತಸ್ಯ ವಿಸರ್ಜನೇ ।"
+      ],
+      [
+        "ಪೂಜಾವಸಾನೇ ಗಚ್ಛತ್ವಂ ಪುನರಾಗಮನಾಯಚ ॥"
+      ]
+    ],
+    "scans": [
+      "visarjana-family-p18.jpg"
+    ],
+    "note": "ಕುಟುಂಬದ ಪುಸ್ತಕದ (xviii) ಪುಟದಿಂದ ಸೇರಿಸಲಾಗಿದೆ. ಮೊದಲ ಎರಡು ವೈದಿಕ ಮಂತ್ರಗಳ ಪಾಠ ಮತ್ತು ಸ್ವರಗುರುತುಗಳನ್ನು ಋಗ್ವೇದ ೧.೪೦.೧ ಹಾಗೂ ೮.೭೨.೧೧ರ ಉಲ್ಲೇಖಿತ ಪ್ರಕಟಿತ ಮೂಲದಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ; ಚಿತ್ರದಿಂದ ಊಹಿಸಿ ಸೇರಿಸಿಲ್ಲ. ಚಿತ್ರದಲ್ಲಿ “ಅಭ್ಯಾರಮಿದ ದ್ಯೋ” ಎಂದು ಕಾಣುತ್ತದೆ; ಮುಖ್ಯ ಪಾಠದಲ್ಲಿ ಪ್ರಕಟಿತ “ಅಭ್ಯಾರಮಿದದ್ರಯೋ” ರೂಪವನ್ನು ಬಳಸಲಾಗಿದೆ. ಪಠಣದ ಆವೃತ್ತಿಯಲ್ಲಿ ಪದಗಳ ಅಂತರವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ. “ಪೂಜಾವಸಾನೇ…” ಎಂಬ ಕೊನೆಯ ಸಾಲು ಕುಟುಂಬದ ಪುಸ್ತಕದಿಂದ ಬಂದಿದೆ. ಮೂಲ ಕನ್ನಡ ಪಾಠ ಮತ್ತು ಪುಟವನ್ನು ಕೆಳಗೆ ಉಳಿಸಲಾಗಿದೆ. ಈ ಮಂತ್ರವನ್ನು ಹೇಳಿ ಕಲಶ-ಪ್ರತಿಮೆಯನ್ನು ಬಲಭಾಗಕ್ಕೆ ಸ್ವಲ್ಪ ಕದಲಿಸಿ, ಹೂಗಳನ್ನು ಪಕ್ಕಕ್ಕೆ ತೆಗೆದಿರಿಸಬೇಕು. ಇದೇ ಉದ್ವಾಸನಾಕ್ರಮ. ಶೃಂಗೇರಿ ಆವೃತ್ತಿಯೊಡನೆ ಇನ್ನೂ ಪರಿಶೀಲಿಸಿಲ್ಲ. ಇದು ಪ್ರತ್ಯೇಕ ಸಮಾಪ್ತಿಯ ಪಠ್ಯ; ೧೯೮೩ರ ಧ್ವನಿಮುದ್ರಣಕ್ಕೆ ಹೊಸ ಕಾಲಸೂಚಿ ಸೇರಿಸಿಲ್ಲ.",
+    "note_en": "Added from the family-book page (xviii). The two Vedic passages are Rigveda 1.40.1 and 8.72.11; their text and pitch marks come from the cited Sanskrit Documents edition, not from guesses about the unaccented photo. The photo appears to print “ಅಭ್ಯಾರಮಿದ ದ್ಯೋ”; the reading above follows the published “अभ्यारमिदद्रयो”. Printed spacing is normalized in the reading edition. The closing “Pūjāvasāne gacchatvaṃ punarāgamanāya ca” is retained from the family book without invented accents. The original Kannada transcription and cropped page remain below. The book instructs: after this mantra, gently move the kalasha/image slightly to the right and set the flowers aside; it calls this the udvāsana procedure. This is not yet checked against a Sringeri edition. It is a separate closing reading, not a newly timed cue in the 1983 recording.",
+    "preserve_original_transcription": true,
+    "collections": [],
+    "tags": [
+      "navaratri"
+    ],
+    "collection_order": {
+      "navaratri": 9999
+    },
+    "search_aliases": [
+      "Visarjan",
+      "Visarjana",
+      "Udvasana",
+      "Uttishtha Brahmanaspate",
+      "ವಿಸರ್ಜನೆ",
+      "ಉದ್ವಾಸನೆ"
+    ],
+    "vedic": true,
+    "svara_status": "marked",
+    "published_edition": "rigveda-excerpts-family-closing"
   }
 ]

@@ -36,6 +36,11 @@ rows=[]
 for s in json.loads((ROOT/'data/songs.json').read_text()):
  slug=s['slug'];vs=json.loads((ROOT/'data'/s['versions_file']).read_text())['versions'];v=next(x for x in vs if x['id']=='devanagari')
  row=dict(slug=slug,title=s['title_en'],checked='2026-10-19',script_scope='Sanskrit/Devanagari text compared; Kannada and Roman are script renderings, not separate independent editions.',current_text_hashes={x['id']:x['source_sha256'] for x in vs})
+ if slug=='visarjana-mantra':
+  row.pop('checked')
+  row.update(status='not-checked',added='2026-10-21',note='Added after the 2026-10-19 catalog audit. Family ritual sequence with Rigveda-sourced accents for the two Vedic passages; no Sringeri comparison claimed.',source_url='https://www.sringeri.net/stotras')
+  rows.append(row)
+  continue
  if slug not in MAPPING:
   row.update(status='not-located',note='No corresponding full text located in Sringeri’s 17-category Stotras catalog in this check. Existing family/published source retained; NOT Sringeri-verified. This is not a claim that no Sringeri publication exists elsewhere.',source_url='https://www.sringeri.net/stotras')
   if s.get('vedic'):row['note']+=' Existing Vedic accent checks remain against the cited marked sources, not against Sringeri.'

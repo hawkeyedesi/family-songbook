@@ -3,7 +3,7 @@ from pathlib import Path
 import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 a=json.loads((ROOT/'data/songs.json').read_text());by_slug={s['slug']:s for s in a}
-assert len(a)==33 and len(by_slug)==33
+assert len(a)==34 and len(by_slug)==34
 groups={g:[s['slug'] for s in a if g in s.get('collections',[s.get('collection','daily')])] for g in ['daily','weekly','friday','paduka-puja-bhajans']}
 assert {g:len(ls) for g,ls in groups.items()}=={'daily':8,'weekly':7,'friday':12,'paduka-puja-bhajans':10}
 assert all((s.get('collections') or s.get('tags')) and set(s['collections']) <= set(groups) for s in a)
@@ -16,9 +16,9 @@ assert sorted(groups['friday'],key=lambda slug:by_slug[slug]['collection_order']
 assert all('versions_file' in s for s in a if s['slug']!='amma-baaramma'),'Incomplete script coverage'
 old=json.loads(subprocess.check_output(['git','show','e4e65c9:data/songs.json'],cwd=ROOT))
 vedic_totals={'sri-suktam':[279]*3,'durga-suktam':[156]*3,'ganesha-atharvashirsham':[391]*3,'rudra-namakam-chamakam':[2317,2318,2318],'mantra-pushpam':[403]*3}
-assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras','navaratri-puja-passages'}
+assert {s['slug'] for s in a if s.get('vedic')}=={*vedic_totals,'daily-puja-mantras','navaratri-puja-passages','visarjana-mantra'}
 assert by_slug['daily-puja-mantras']['svara_status']=='scan-only'
-assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali','lalitha-ashtottara-shatanamavali','lalitha-ashtottara-bhurupa','navaratri-puja-passages','durga-saptashloki']
+assert [s['slug'] for s in a if 'navaratri' in s.get('tags',[])]==['lalitha-sahasra-namavali','lalitha-ashtottara-shatanamavali','lalitha-ashtottara-bhurupa','navaratri-puja-passages','durga-saptashloki','visarjana-mantra']
 assert 'weekly' in by_slug['lalitha-sahasra-namavali']['collections'],'Tagging must not replace schedule'
 for s in old:
  assert by_slug[s['slug']]['verses']==s['verses'],f'Changed existing prayer: {s["slug"]}'
@@ -46,7 +46,7 @@ for s in a:
   chapter={c['id']:'\n\n'.join(c['paragraphs']) for c in v['chapters']}
   if s.get('vedic') and s['svara_status']=='marked':
    marks=''.join(c for c in text if c in '\u0951\u0952\u1cda\u030d\u030e\u0320\u0331')
-   assert len(marks)>=(227 if s['slug']=='navaratri-puja-passages' else 150)
+   assert len(marks)>=({'navaratri-puja-passages':227,'visarjana-mantra':20}.get(s['slug'],150))
    assert v['svara_profile']['sequence_sha256']==hashlib.sha256(marks.encode()).hexdigest(),'Lost/reordered Vedic marks'
    assert v['svara_profile']['counts']=={f'U+{ord(c):04X}':marks.count(c) for c in set(marks)}
    suffix='' if v['id']=='kannada' else v['id']
@@ -107,7 +107,7 @@ for s in a:
   for suffix in ['', 'devanagari','roman']:
    html=(ROOT/'songs'/s['slug']/suffix/'index.html').read_text();assert 'svara-notice scan-only' in html and 'marked-scan-link' in html and 'daily-mantras-p65.jpg' in html
  print('PASS',s['slug'],'complete source text + matching verse sequence in three scripts')
-print('PASS: all nine original transcriptions preserved; 33 entries; Friday order and overlapping schedules verified.')
+print('PASS: all nine original transcriptions preserved; 34 entries; Friday order and overlapping schedules verified.')
 for ui in ['', 'en']:
  for group in [None,*groups,'navaratri']:
   path=ROOT/ui/(group or '')/'index.html';html=path.read_text()
@@ -168,4 +168,18 @@ assert by_slug['shankara-guru']['scans']==[],'Contact-bearing scan must stay pri
 assert len(list((ROOT/'assets').glob('paduka-family-*.jpg')))==10
 assert all('daily' not in by_slug[slug]['collections'] for slug in expected_paduka if slug!='durga-saptashloki')
 assert 'daily' in by_slug['durga-saptashloki']['collections'] and 'navaratri' in by_slug['durga-saptashloki']['tags']
-print('PASS Paduka10works,33total,all3scripts,split-pagecompleteness,unchangedAmmaRoman,private-scanexclusion')
+print('PASS Paduka10works,34total,all3scripts,split-pagecompleteness,unchangedAmmaRoman,private-scanexclusion')
+
+# The photographed closing stays separate from the source-accented Vedic pair.
+visarjana=json.loads((ROOT/'data/texts/visarjana-mantra.json').read_text())['versions']
+excerpts=json.loads((ROOT/'data/visarjana-sources/vedic-excerpts.json').read_text())
+source_pitch=''.join('A' if c=='_' else 'S' for x in excerpts for c in re.findall(r"\\([_'])",x['itx']))
+for v in visarjana:
+ assert [len(c['paragraphs']) for c in v['chapters']]==[2,1]
+ assert ''.join(code[c] for p in v['chapters'][0]['paragraphs'] for c in p if c in code)==source_pitch
+ assert not any(c in code for p in v['chapters'][1]['paragraphs'] for c in p),'No invented accents in family closing'
+ assert '।।' not in '\n'.join(p for c in v['chapters'] for p in c['paragraphs'])
+assert by_slug['visarjana-mantra']['collections']==[]
+assert by_slug['visarjana-mantra']['preserve_original_transcription']
+assert by_slug['visarjana-mantra']['scans']==['visarjana-family-p18.jpg']
+print('PASS visarjana: sourced pitch sequence across three scripts, separate unaccented family closing, festival-only membership')

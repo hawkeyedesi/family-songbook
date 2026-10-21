@@ -1,0 +1,14 @@
+[
+  {
+    "reference": "Rigveda 1.40.1",
+    "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0301.txt",
+    "itx": "utti\\'ShTha brahmaNaspate deva\\_yanta\\'stvemahe |\nupa\\_ pra ya\\'ntu ma\\_ruta\\'H su\\_dAna\\'va\\_ indra\\' prA\\_shUrbha\\'vA\\_ sachA\\' || 1\\.040\\.01",
+    "sha256": "81950b6b6d5484dcb6efaa8ceccf8a42610ea36ee13a8658e859d4173f7fc0c8"
+  },
+  {
+    "reference": "Rigveda 8.72.11",
+    "url": "https://sanskritdocuments.org/mirrors/rigveda/itx03/RV0308.txt",
+    "itx": "a\\_bhyAra\\_midadra\\'yo\\_ niShi\\'kta\\_M puShka\\'re\\_ madhu\\' |\na\\_va\\_tasya\\' vi\\_sarja\\'ne || 8\\.072\\.11",
+    "sha256": "d0cc3c8a19ad080e8a39948563281830157d258c7de77fc4e947e36b35278e07"
+  }
+]

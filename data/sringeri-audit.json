@@ -878,6 +878,19 @@
       "status": "not-located",
       "note": "No corresponding full text located in Sringeri’s 17-category Stotras catalog in this check. Existing family/published source retained; NOT Sringeri-verified. This is not a claim that no Sringeri publication exists elsewhere.",
       "source_url": "https://www.sringeri.net/stotras"
+    },
+    {
+      "slug": "visarjana-mantra",
+      "title": "Visarjana Mantra — Udvasana",
+      "status": "not-checked",
+      "added": "2026-10-21",
+      "note": "Added after the 2026-10-19 catalog audit. Family ritual sequence with Rigveda-sourced accents for the two Vedic passages; no Sringeri comparison claimed.",
+      "source_url": "https://www.sringeri.net/stotras",
+      "current_text_hashes": {
+        "kannada": "c74fe08579ad9ac7715ece2737478a2da373ce427905c59f241a68535df3765b",
+        "devanagari": "8d91916e6e1d38bb6e3597342babf9c07ce04cbe5b2d90613961aa54d2068cc6",
+        "roman": "7eb35c56f2282b9df12664b0dbced9ce9561184baea34ccc80df1e2143362e89"
+      }
     }
   ]
 }
